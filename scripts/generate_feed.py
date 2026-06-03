@@ -38,7 +38,10 @@ def fetch_json(url: str) -> dict:
     """Fetch JSON from a URL with a polite delay and User-Agent."""
     req = urllib.request.Request(
         url,
-        headers={"User-Agent": "mtg-spoiler-rss/1.0 (github-actions)"}
+        headers={
+            "User-Agent": "mtg-spoiler-rss/1.0 (github-actions; https://github.com)",
+            "Accept": "application/json",
+        }
     )
     with urllib.request.urlopen(req, timeout=30) as resp:
         return json.loads(resp.read().decode("utf-8"))
@@ -64,7 +67,6 @@ def card_image_url(card: dict) -> str | None:
     images = card.get("image_uris", {})
     if images:
         return images.get("normal") or images.get("large") or images.get("small")
-    # Double-faced cards
     faces = card.get("card_faces", [])
     if faces:
         face_images = faces[0].get("image_uris", {})
@@ -84,6 +86,15 @@ def card_oracle_text(card: dict) -> str:
     return ""
 
 
+def card_sort_date(card: dict) -> str:
+    """Return the best date string for sorting."""
+    return (
+        card.get("preview", {}).get("previewed_at")
+        or card.get("released_at")
+        or "1970-01-01"
+    )
+
+
 def build_rss_item(card: dict) -> Element:
     """Build a single <item> element for a card."""
     item = Element("item")
@@ -95,33 +106,26 @@ def build_rss_item(card: dict) -> Element:
     type_line = card.get("type_line", "")
     oracle_text = card_oracle_text(card)
     rarity = card.get("rarity", "").capitalize()
-    released_at = card.get("released_at", "")
-    preview_date = card.get("preview", {}).get("previewed_at", released_at)
     image_url = card_image_url(card)
 
-    # Title
-    title_text = name
-    if set_name:
-        title_text += f" [{set_name}]"
-    SubElement(item, "title").text = title_text
-
-    # Link
-    SubElement(item, "link").text = scryfall_uri
-
-    # GUID – stable, unique per card face combination
-    oracle_id = card.get("oracle_id", card.get("id", name))
-    guid = SubElement(item, "guid", isPermaLink="false")
-    guid.text = oracle_id
-
-    # PubDate – use preview date if available, else released_at
-    pub_date_str = preview_date or released_at
+    pub_date_str = card_sort_date(card)
     try:
         pub_dt = datetime.fromisoformat(pub_date_str).replace(tzinfo=timezone.utc)
     except (ValueError, TypeError):
         pub_dt = datetime.now(timezone.utc)
+
+    title_text = name
+    if set_name:
+        title_text += f" [{set_name}]"
+    SubElement(item, "title").text = title_text
+    SubElement(item, "link").text = scryfall_uri
+
+    oracle_id = card.get("oracle_id") or card.get("id", name)
+    guid = SubElement(item, "guid", isPermaLink="false")
+    guid.text = oracle_id
+
     SubElement(item, "pubDate").text = pub_dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
 
-    # Description – HTML content for feed readers
     desc_parts = []
     if image_url:
         desc_parts.append(f'<img src="{image_url}" alt="{name}" style="max-width:300px"/>')
@@ -141,7 +145,6 @@ def build_rss_item(card: dict) -> Element:
 
     SubElement(item, "description").text = "\n".join(desc_parts)
 
-    # Enclosure for image (for feed readers that support media)
     if image_url:
         SubElement(item, "enclosure", url=image_url, type="image/jpeg", length="0")
 
@@ -163,12 +166,10 @@ def build_rss_feed(items: list[Element], build_time: datetime) -> str:
     )
     SubElement(channel, "ttl").text = "120"
 
-    # Atom self-link (good practice)
     atom_link = SubElement(channel, "atom:link")
     atom_link.set("rel", "self")
     atom_link.set("type", "application/rss+xml")
-    # Will be replaced by actual URL after deploy – placeholder is fine
-    atom_link.set("href", "https://example.github.io/mtg-spoiler-rss/feed.xml")
+    atom_link.set("href", "https://wombart.github.io/mtg-spoiler-rss/feed.xml")
 
     for item in items:
         channel.append(item)
@@ -177,132 +178,140 @@ def build_rss_feed(items: list[Element], build_time: datetime) -> str:
     return minidom.parseString(raw).toprettyxml(indent="  ", encoding=None)
 
 
-def fetch_new_cards(since_date: datetime) -> list[dict]:
+def fetch_all_pages(query: str) -> list[dict]:
+    """Fetch all pages for a single Scryfall search query."""
+    params = urllib.parse.urlencode({
+        "q": query,
+        "order": "released",
+        "dir": "desc",
+        "unique": "cards",
+    })
+    url = f"{SCRYFALL_SEARCH_URL}?{params}"
+
+    cards = []
+    page = 1
+    while url:
+        print(f"  Page {page}: {url[:80]}...")
+        try:
+            data = fetch_json(url)
+        except urllib.error.HTTPError as e:
+            if e.code == 404:
+                print(f"  No results (404), skipping.")
+            else:
+                print(f"  HTTP {e.code}: {e.reason}", file=sys.stderr)
+            break
+        except Exception as e:
+            print(f"  Error on page {page}: {e}", file=sys.stderr)
+            break
+
+        cards.extend(data.get("data", []))
+        url = data.get("next_page")
+        page += 1
+        if url:
+            time.sleep(0.12)  # stay well under 10 req/s
+
+    return cards
+
+
+def fetch_recent_cards(since_date: datetime) -> list[dict]:
     """
-    Fetch all cards from Scryfall that were previewed or released
-    within the lookback window.
+    Fetch cards released or previewed within the lookback window.
+    Uses two reliable Scryfall date filters and merges results.
     """
     date_str = since_date.strftime("%Y-%m-%d")
-    # Query: cards with a preview date >= since_date OR released >= since_date
-    # We use two queries and merge results.
+
+    # date: filter = official release date
+    # new: filter = cards added to Scryfall database recently (catches spoilers)
     queries = [
-        f"previewed>={date_str}",
         f"date>={date_str}",
+        f"new:art date>={date_str}",
+        f"is:new",
     ]
 
     seen_ids: set[str] = set()
     all_cards: list[dict] = []
 
     for query in queries:
-        params = urllib.parse.urlencode({
-            "q": query,
-            "order": "previewed",
-            "dir": "desc",
-            "unique": "cards",
-        })
-        url = f"{SCRYFALL_SEARCH_URL}?{params}"
-
-        page = 1
-        while url:
-            print(f"  Fetching page {page} for query: {query[:60]}...")
-            try:
-                data = fetch_json(url)
-            except urllib.error.HTTPError as e:
-                if e.code == 404:
-                    # No results for this query – perfectly normal
-                    print(f"  No results for query (404), skipping.")
-                    break
-                print(f"  HTTP error {e.code} on page {page}: {e.reason}", file=sys.stderr)
-                break
-            except Exception as e:
-                print(f"  Warning: failed to fetch page {page}: {e}", file=sys.stderr)
-                break
-
-            for card in data.get("data", []):
-                card_id = card.get("oracle_id") or card.get("id")
-                if card_id and card_id not in seen_ids:
-                    seen_ids.add(card_id)
-                    all_cards.append(card)
-
-            url = data.get("next_page")
-            page += 1
-            if url:
-                time.sleep(0.1)  # Respect Scryfall rate limit (10 req/s)
+        print(f"  Query: {query}")
+        fetched = fetch_all_pages(query)
+        print(f"  -> {len(fetched)} cards fetched")
+        for card in fetched:
+            card_id = card.get("oracle_id") or card.get("id")
+            if card_id and card_id not in seen_ids:
+                seen_ids.add(card_id)
+                all_cards.append(card)
 
     return all_cards
+
+
+def set_github_output(key: str, value: str) -> None:
+    """Write a key=value pair to GITHUB_OUTPUT if available."""
+    gh_output = os.environ.get("GITHUB_OUTPUT")
+    if gh_output:
+        with open(gh_output, "a") as f:
+            f.write(f"{key}={value}\n")
 
 
 def main() -> int:
     print("=== MTG Spoiler RSS Feed Generator ===")
 
     since_date = datetime.now(timezone.utc) - timedelta(days=LOOKBACK_DAYS)
-    print(f"Looking back to: {since_date.strftime('%Y-%m-%d')}")
+    print(f"Lookback window: {since_date.strftime('%Y-%m-%d')} until today")
 
-    # Load existing tracking data
     known_cards: dict = load_known_cards()
     print(f"Known cards in database: {len(known_cards)}")
 
-    # Fetch cards from Scryfall
-    print("Fetching cards from Scryfall API...")
-    fetched_cards = fetch_new_cards(since_date)
-    print(f"Cards fetched from API: {len(fetched_cards)}")
+    print("Fetching cards from Scryfall...")
+    fetched_cards = fetch_recent_cards(since_date)
+    print(f"Total unique cards fetched: {len(fetched_cards)}")
 
-    # Filter to only truly new cards (not in known_cards)
+    # Determine which cards are genuinely new (not yet in known_cards)
     new_cards = []
+    now_iso = datetime.now(timezone.utc).isoformat()
     for card in fetched_cards:
         oracle_id = card.get("oracle_id") or card.get("id")
         if oracle_id and oracle_id not in known_cards:
             new_cards.append(card)
-            known_cards[oracle_id] = datetime.now(timezone.utc).isoformat()
+            known_cards[oracle_id] = now_iso
 
-    print(f"New cards not yet in feed: {len(new_cards)}")
+    print(f"New cards (not yet tracked): {len(new_cards)}")
 
-    if not new_cards:
-        print("No new cards found. Exiting without changes.")
-        # Signal to GitHub Actions: no commit needed
-        if os.environ.get("GITHUB_OUTPUT"):
-            with open(os.environ["GITHUB_OUTPUT"], "a") as f:
-                f.write("new_cards=false\n")
+    # Always write the feed if we have any cards at all (important for first run)
+    # and always update known_cards when there are new entries
+    feed_cards = fetched_cards if fetched_cards else []
+
+    if not feed_cards:
+        print("No cards found at all – skipping feed generation.")
+        set_github_output("new_cards", "false")
         return 0
 
-    # Build RSS items for ALL known cards within lookback window
-    # (re-render existing feed entries + new ones, trimmed to MAX_FEED_ENTRIES)
-    print("Building RSS feed items...")
-    all_feed_cards = fetched_cards  # Already deduplicated by oracle_id above
+    # Sort descending by preview/release date
+    feed_cards.sort(key=card_sort_date, reverse=True)
+    feed_cards = feed_cards[:MAX_FEED_ENTRIES]
 
-    # Sort by preview/release date descending
-    def sort_key(card):
-        preview = card.get("preview", {}).get("previewed_at") or card.get("released_at", "")
-        return preview
+    print(f"Building RSS feed with {len(feed_cards)} entries...")
+    rss_items = [build_rss_item(card) for card in feed_cards]
 
-    all_feed_cards.sort(key=sort_key, reverse=True)
-
-    # Trim to max entries
-    trimmed = all_feed_cards[:MAX_FEED_ENTRIES]
-    print(f"Feed entries after trimming to {MAX_FEED_ENTRIES}: {len(trimmed)}")
-
-    rss_items = [build_rss_item(card) for card in trimmed]
-
-    # Generate XML
     build_time = datetime.now(timezone.utc)
     rss_xml = build_rss_feed(rss_items, build_time)
 
-    # Write output
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(rss_xml)
-    print(f"Feed written to: {OUTPUT_FILE}")
+    print(f"Feed written: {OUTPUT_FILE} ({len(rss_items)} items)")
 
-    # Save updated known_cards
+    # Persist tracking data
     save_known_cards(known_cards)
-    print(f"Known cards database updated: {len(known_cards)} entries")
+    print(f"Known cards saved: {len(known_cards)} entries")
 
-    # Signal to GitHub Actions: commit needed
-    if os.environ.get("GITHUB_OUTPUT"):
-        with open(os.environ["GITHUB_OUTPUT"], "a") as f:
-            f.write("new_cards=true\n")
+    # Signal result to GitHub Actions
+    if new_cards or not Path(OUTPUT_FILE).exists():
+        set_github_output("new_cards", "true")
+        print(f"Result: {len(new_cards)} new card(s) – will commit.")
+    else:
+        set_github_output("new_cards", "false")
+        print("Result: no new cards – skipping commit.")
 
-    print(f"Done! {len(new_cards)} new card(s) added to feed.")
     return 0
 
 
