@@ -5,7 +5,7 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 03 Jun 2026 10:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 10:14:21 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
     <item>
@@ -452,6 +452,36 @@
 &lt;p&gt;Converge — Exile target nonland permanent if its mana value is less than or equal to the number of colors of mana spent to cast this spell.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pf26/3/prismatic-ending?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/8/d/8d047ce8-1efd-462a-88c3-db761fef7e16.jpg?1774073080" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>&quot;Totally Generic Shield&quot; [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/244/totally-generic-shield?utm_source=api</link>
+      <guid isPermaLink="false">8255a797-ddd3-4db0-a3f5-dd8f38c3b908</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/b/4b5433ac-0d36-4472-bf8b-d22f0ffd367b.jpg?1780465984&quot; alt=&quot;&quot;Totally Generic Shield&quot;&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;&quot;Totally Generic Shield&quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Artifact — Equipment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;Indestructible.&lt;br/&gt;Equipped creature gets +0/+8 and has vigilance.&lt;br/&gt;Whenever equipped creature attacks, tap target creature defending player controls.&lt;br/&gt;Equip {2}&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/244/totally-generic-shield?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/b/4b5433ac-0d36-4472-bf8b-d22f0ffd367b.jpg?1780465984" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ultron, Artificial Malevolence [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/252/ultron-artificial-malevolence?utm_source=api</link>
+      <guid isPermaLink="false">a8f25e67-2112-4355-9298-363ed04a5cb8</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/2/32ddd5ac-57ed-4e78-8932-a65980191f6e.jpg?1780465424&quot; alt=&quot;Ultron, Artificial Malevolence&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Ultron, Artificial Malevolence&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Artifact Creature — Robot Villain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;Whenever another nontoken artifact you control enters, you may pay {2}. If you do, create a token that's a copy of it. If the token isn't a creature, it becomes a 2/2 Robot Villain creature in addition to its other types.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/252/ultron-artificial-malevolence?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/2/32ddd5ac-57ed-4e78-8932-a65980191f6e.jpg?1780465424" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Daredevil, Man Without Fear [Marvel Super Heroes]</title>
