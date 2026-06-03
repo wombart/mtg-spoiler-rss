@@ -32,14 +32,11 @@ FEED_LINK = "https://scryfall.com"
 FEED_LANGUAGE = "de-de"
 
 
-# --- Helpers ---
-
 def fetch_json(url: str) -> dict:
-    """Fetch JSON from a URL with a polite delay and User-Agent."""
     req = urllib.request.Request(
         url,
         headers={
-            "User-Agent": "mtg-spoiler-rss/1.0 (github-actions; https://github.com)",
+            "User-Agent": "mtg-spoiler-rss/1.0 (github-actions)",
             "Accept": "application/json",
         }
     )
@@ -48,7 +45,6 @@ def fetch_json(url: str) -> dict:
 
 
 def load_known_cards() -> dict:
-    """Load oracle_id -> first_seen mapping from disk."""
     if DATA_FILE.exists():
         with open(DATA_FILE, "r", encoding="utf-8") as f:
             return json.load(f)
@@ -56,14 +52,12 @@ def load_known_cards() -> dict:
 
 
 def save_known_cards(known: dict) -> None:
-    """Persist oracle_id tracking data to disk."""
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(known, f, indent=2, ensure_ascii=False)
 
 
 def card_image_url(card: dict) -> str | None:
-    """Extract the best available image URL from a card object."""
     images = card.get("image_uris", {})
     if images:
         return images.get("normal") or images.get("large") or images.get("small")
@@ -75,7 +69,6 @@ def card_image_url(card: dict) -> str | None:
 
 
 def card_oracle_text(card: dict) -> str:
-    """Get oracle text, handling double-faced cards."""
     text = card.get("oracle_text")
     if text:
         return text
@@ -87,26 +80,20 @@ def card_oracle_text(card: dict) -> str:
 
 
 def card_sort_date(card: dict) -> str:
-    """Return the best date string for sorting."""
-    return (
-        card.get("preview", {}).get("previewed_at")
-        or card.get("released_at")
-        or "1970-01-01"
-    )
+    return card.get("released_at") or "1970-01-01"
 
 
 def build_rss_item(card: dict) -> Element:
-    """Build a single <item> element for a card."""
     item = Element("item")
 
-    name = card.get("name", "Unknown Card")
+    name        = card.get("name", "Unknown Card")
     scryfall_uri = card.get("scryfall_uri", "https://scryfall.com")
-    set_name = card.get("set_name", "")
-    mana_cost = card.get("mana_cost", "")
-    type_line = card.get("type_line", "")
+    set_name    = card.get("set_name", "")
+    mana_cost   = card.get("mana_cost", "")
+    type_line   = card.get("type_line", "")
     oracle_text = card_oracle_text(card)
-    rarity = card.get("rarity", "").capitalize()
-    image_url = card_image_url(card)
+    rarity      = card.get("rarity", "").capitalize()
+    image_url   = card_image_url(card)
 
     pub_date_str = card_sort_date(card)
     try:
@@ -121,9 +108,7 @@ def build_rss_item(card: dict) -> Element:
     SubElement(item, "link").text = scryfall_uri
 
     oracle_id = card.get("oracle_id") or card.get("id", name)
-    guid = SubElement(item, "guid", isPermaLink="false")
-    guid.text = oracle_id
-
+    SubElement(item, "guid", isPermaLink="false").text = oracle_id
     SubElement(item, "pubDate").text = pub_dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
 
     desc_parts = []
@@ -139,12 +124,10 @@ def build_rss_item(card: dict) -> Element:
     if set_name:
         desc_parts.append(f"<p>Set: {set_name}</p>")
     if oracle_text:
-        formatted = oracle_text.replace("\n", "<br/>")
-        desc_parts.append(f"<p>{formatted}</p>")
+        desc_parts.append(f"<p>{oracle_text.replace(chr(10), '<br/>')}</p>")
     desc_parts.append(f'<p><a href="{scryfall_uri}">Auf Scryfall ansehen</a></p>')
 
     SubElement(item, "description").text = "\n".join(desc_parts)
-
     if image_url:
         SubElement(item, "enclosure", url=image_url, type="image/jpeg", length="0")
 
@@ -152,7 +135,6 @@ def build_rss_item(card: dict) -> Element:
 
 
 def build_rss_feed(items: list[Element], build_time: datetime) -> str:
-    """Assemble the full RSS 2.0 document."""
     rss = Element("rss", version="2.0")
     rss.set("xmlns:atom", "http://www.w3.org/2005/Atom")
 
@@ -178,74 +160,55 @@ def build_rss_feed(items: list[Element], build_time: datetime) -> str:
     return minidom.parseString(raw).toprettyxml(indent="  ", encoding=None)
 
 
-def fetch_all_pages(query: str) -> list[dict]:
-    """Fetch all pages for a single Scryfall search query."""
+def fetch_recent_cards(since_date: datetime) -> list[dict]:
+    """
+    Fetch cards using documented Scryfall search syntax:
+    - date>=yyyy-mm-dd  filters by official release date
+    - order:spoiled     sorts by spoiler/preview date (newest first)
+    - unique:cards      one result per unique oracle card
+    - include:extras    include tokens, variants etc.
+    """
+    date_str = since_date.strftime("%Y-%m-%d")
+    query = f"date>={date_str}"
+
     params = urllib.parse.urlencode({
         "q": query,
-        "order": "released",
+        "order": "spoiled",
         "dir": "desc",
         "unique": "cards",
     })
     url = f"{SCRYFALL_SEARCH_URL}?{params}"
 
-    cards = []
+    all_cards: list[dict] = []
     page = 1
+
     while url:
-        print(f"  Page {page}: {url[:80]}...")
+        print(f"  Fetching page {page}...")
         try:
             data = fetch_json(url)
         except urllib.error.HTTPError as e:
             if e.code == 404:
-                print(f"  No results (404), skipping.")
+                print("  No results found (404).")
             else:
-                print(f"  HTTP {e.code}: {e.reason}", file=sys.stderr)
+                print(f"  HTTP error {e.code}: {e.reason}", file=sys.stderr)
             break
         except Exception as e:
             print(f"  Error on page {page}: {e}", file=sys.stderr)
             break
 
-        cards.extend(data.get("data", []))
+        batch = data.get("data", [])
+        all_cards.extend(batch)
+        print(f"  Page {page}: {len(batch)} cards (total so far: {len(all_cards)})")
+
         url = data.get("next_page")
         page += 1
         if url:
-            time.sleep(0.12)  # stay well under 10 req/s
-
-    return cards
-
-
-def fetch_recent_cards(since_date: datetime) -> list[dict]:
-    """
-    Fetch cards released or previewed within the lookback window.
-    Uses two reliable Scryfall date filters and merges results.
-    """
-    date_str = since_date.strftime("%Y-%m-%d")
-
-    # date: filter = official release date
-    # new: filter = cards added to Scryfall database recently (catches spoilers)
-    queries = [
-        f"date>={date_str}",
-        f"new:art date>={date_str}",
-        f"is:new",
-    ]
-
-    seen_ids: set[str] = set()
-    all_cards: list[dict] = []
-
-    for query in queries:
-        print(f"  Query: {query}")
-        fetched = fetch_all_pages(query)
-        print(f"  -> {len(fetched)} cards fetched")
-        for card in fetched:
-            card_id = card.get("oracle_id") or card.get("id")
-            if card_id and card_id not in seen_ids:
-                seen_ids.add(card_id)
-                all_cards.append(card)
+            time.sleep(0.12)
 
     return all_cards
 
 
 def set_github_output(key: str, value: str) -> None:
-    """Write a key=value pair to GITHUB_OUTPUT if available."""
     gh_output = os.environ.get("GITHUB_OUTPUT")
     if gh_output:
         with open(gh_output, "a") as f:
@@ -256,18 +219,23 @@ def main() -> int:
     print("=== MTG Spoiler RSS Feed Generator ===")
 
     since_date = datetime.now(timezone.utc) - timedelta(days=LOOKBACK_DAYS)
-    print(f"Lookback window: {since_date.strftime('%Y-%m-%d')} until today")
+    print(f"Lookback window: {since_date.strftime('%Y-%m-%d')} – today")
 
-    known_cards: dict = load_known_cards()
+    known_cards = load_known_cards()
     print(f"Known cards in database: {len(known_cards)}")
 
     print("Fetching cards from Scryfall...")
     fetched_cards = fetch_recent_cards(since_date)
-    print(f"Total unique cards fetched: {len(fetched_cards)}")
+    print(f"Total cards fetched: {len(fetched_cards)}")
 
-    # Determine which cards are genuinely new (not yet in known_cards)
-    new_cards = []
+    if not fetched_cards:
+        print("No cards fetched – aborting without changes.")
+        set_github_output("new_cards", "false")
+        return 0
+
+    # Determine which are new (not yet tracked)
     now_iso = datetime.now(timezone.utc).isoformat()
+    new_cards = []
     for card in fetched_cards:
         oracle_id = card.get("oracle_id") or card.get("id")
         if oracle_id and oracle_id not in known_cards:
@@ -276,42 +244,30 @@ def main() -> int:
 
     print(f"New cards (not yet tracked): {len(new_cards)}")
 
-    # Always write the feed if we have any cards at all (important for first run)
-    # and always update known_cards when there are new entries
-    feed_cards = fetched_cards if fetched_cards else []
-
-    if not feed_cards:
-        print("No cards found at all – skipping feed generation.")
+    # Always generate feed on first run (known_cards was empty at start)
+    is_first_run = not OUTPUT_FILE.exists()
+    if not new_cards and not is_first_run:
+        print("No new cards and feed already exists – skipping.")
         set_github_output("new_cards", "false")
         return 0
 
-    # Sort descending by preview/release date
-    feed_cards.sort(key=card_sort_date, reverse=True)
-    feed_cards = feed_cards[:MAX_FEED_ENTRIES]
-
+    # Build and write feed
+    feed_cards = sorted(fetched_cards, key=card_sort_date, reverse=True)[:MAX_FEED_ENTRIES]
     print(f"Building RSS feed with {len(feed_cards)} entries...")
-    rss_items = [build_rss_item(card) for card in feed_cards]
 
-    build_time = datetime.now(timezone.utc)
-    rss_xml = build_rss_feed(rss_items, build_time)
+    rss_items = [build_rss_item(card) for card in feed_cards]
+    rss_xml = build_rss_feed(rss_items, datetime.now(timezone.utc))
 
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(rss_xml)
-    print(f"Feed written: {OUTPUT_FILE} ({len(rss_items)} items)")
+    print(f"Feed written: {OUTPUT_FILE}")
 
-    # Persist tracking data
     save_known_cards(known_cards)
     print(f"Known cards saved: {len(known_cards)} entries")
 
-    # Signal result to GitHub Actions
-    if new_cards or not Path(OUTPUT_FILE).exists():
-        set_github_output("new_cards", "true")
-        print(f"Result: {len(new_cards)} new card(s) – will commit.")
-    else:
-        set_github_output("new_cards", "false")
-        print("Result: no new cards – skipping commit.")
-
+    set_github_output("new_cards", "true")
+    print(f"Done – {len(new_cards)} new card(s) added.")
     return 0
 
 
