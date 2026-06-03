@@ -1,0 +1,75 @@
+name: Update MTG Spoiler RSS Feed
+
+on:
+  schedule:
+    # Every 2 hours
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+    inputs:
+      force_commit:
+        description: "Force commit even if no new cards found"
+        required: false
+        default: "false"
+        type: boolean
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Run feed generator
+        id: generate
+        run: python scripts/generate_feed.py
+
+      - name: Commit and push changes
+        if: steps.generate.outputs.new_cards == 'true' || inputs.force_commit == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add docs/feed.xml data/known_cards.json
+          git commit -m "chore: update MTG spoiler feed [skip ci]"
+          git push
+
+  deploy-pages:
+    needs: update-feed
+    runs-on: ubuntu-latest
+    if: needs.update-feed.result == 'success'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
