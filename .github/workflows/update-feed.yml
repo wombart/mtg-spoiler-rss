@@ -22,13 +22,15 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  update-feed:
+  update-and-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -48,27 +50,17 @@ jobs:
           git commit -m "chore: update MTG spoiler feed [skip ci]"
           git push
 
-  deploy-pages:
-    needs: update-feed
-    runs-on: ubuntu-latest
-    if: needs.update-feed.result == 'success'
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          ref: main
-
       - name: Setup Pages
+        if: steps.generate.outputs.new_cards == 'true' || inputs.force_commit == 'true'
         uses: actions/configure-pages@v5
 
-      - name: Upload artifact
+      - name: Upload Pages artifact
+        if: steps.generate.outputs.new_cards == 'true' || inputs.force_commit == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs/
 
       - name: Deploy to GitHub Pages
+        if: steps.generate.outputs.new_cards == 'true' || inputs.force_commit == 'true'
         id: deployment
         uses: actions/deploy-pages@v4
