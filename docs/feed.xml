@@ -5,7 +5,7 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 04 Jun 2026 08:14:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 12:41:08 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
     <item>
@@ -22,36 +22,6 @@
 &lt;p&gt;Vigilance&lt;br/&gt;Spacecraft creatures you control get +3/+3.&lt;br/&gt;Whenever Captain Kirk enters or attacks, search your library and/or graveyard for a basic land card or a card named Starship Enterprise, reveal it, and put it into your hand. If you search your library this way, shuffle.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/85/captain-kirk-boldly-going?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/6/b/6b5d9bd2-cc78-4c30-b6ee-65b76c60a588.jpg?1779411522" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Treasure Cruise [Eternal Weekend]</title>
-      <link>https://scryfall.com/card/pewk/2026a/treasure-cruise?utm_source=api</link>
-      <guid isPermaLink="false">5b6bdf5a-2742-4851-92cd-a857a3852836</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/9/b9d0b72e-4ac4-4457-9e04-919bed223377.jpg?1777980514&quot; alt=&quot;Treasure Cruise&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Treasure Cruise&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {7}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Eternal Weekend&lt;/p&gt;
-&lt;p&gt;Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)&lt;br/&gt;Draw three cards.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pewk/2026a/treasure-cruise?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/9/b9d0b72e-4ac4-4457-9e04-919bed223377.jpg?1777980514" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Life from the Loam [Eternal Weekend]</title>
-      <link>https://scryfall.com/card/pewk/2026b/life-from-the-loam?utm_source=api</link>
-      <guid isPermaLink="false">ac8fba34-512c-4f24-999a-ab72f1ce4acb</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/e/beea15ef-1b1f-4c6b-82d7-9c3b7f422f21.jpg?1777980520&quot; alt=&quot;Life from the Loam&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Life from the Loam&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Eternal Weekend&lt;/p&gt;
-&lt;p&gt;Return up to three target land cards from your graveyard to your hand.&lt;br/&gt;Dredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pewk/2026b/life-from-the-loam?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/e/beea15ef-1b1f-4c6b-82d7-9c3b7f422f21.jpg?1777980520" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Chandra, Chill of Compliance [Reality Fracture]</title>
@@ -159,196 +129,6 @@
       <enclosure url="https://cards.scryfall.io/normal/front/d/7/d7cdca44-d7f7-4eab-839f-6d7f43bcb9dc.jpg?1780290453" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>Arcane Signet [The Hobbit Commander]</title>
-      <link>https://scryfall.com/card/hoc/95/arcane-signet?utm_source=api</link>
-      <guid isPermaLink="false">0bc7f093-bef0-4f1a-852c-4b75ebf54838</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/2/e209610d-bd1f-4f81-9a88-a6d8a43fe1c7.jpg?1777659567&quot; alt=&quot;Arcane Signet&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Arcane Signet&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: The Hobbit Commander&lt;/p&gt;
-&lt;p&gt;{T}: Add one mana of any color in your commander's color identity.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hoc/95/arcane-signet?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/e/2/e209610d-bd1f-4f81-9a88-a6d8a43fe1c7.jpg?1777659567" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Sauron, the Dark Lord [The Hobbit Commander]</title>
-      <link>https://scryfall.com/card/hoc/36/sauron-the-dark-lord?utm_source=api</link>
-      <guid isPermaLink="false">9f8f29ba-7e64-455d-be05-ec7973f2bd0a</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/d/dd6dd9dc-ef2a-4806-a3e4-0597288a8162.jpg?1777659525&quot; alt=&quot;Sauron, the Dark Lord&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Sauron, the Dark Lord&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{U}{B}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Avatar Horror&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: The Hobbit Commander&lt;/p&gt;
-&lt;p&gt;Ward—Sacrifice a legendary artifact or legendary creature.&lt;br/&gt;Whenever an opponent casts a spell, amass Orcs 1.&lt;br/&gt;Whenever an Army you control deals combat damage to a player, the Ring tempts you.&lt;br/&gt;Whenever the Ring tempts you, you may discard your hand. If you do, draw four cards.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hoc/36/sauron-the-dark-lord?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/d/dd6dd9dc-ef2a-4806-a3e4-0597288a8162.jpg?1777659525" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>The One Ring [The Hobbit Commander]</title>
-      <link>https://scryfall.com/card/hoc/44/the-one-ring?utm_source=api</link>
-      <guid isPermaLink="false">3aa83ed2-f48b-4ce6-a614-2c54ddf50538</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/d/bdd2c783-1483-490a-ae93-c4664a0a9564.jpg?1777843330&quot; alt=&quot;The One Ring&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;The One Ring&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: The Hobbit Commander&lt;/p&gt;
-&lt;p&gt;Indestructible&lt;br/&gt;When The One Ring enters, if you cast it, you gain protection from everything until your next turn.&lt;br/&gt;At the beginning of your upkeep, you lose 1 life for each burden counter on The One Ring.&lt;br/&gt;{T}: Put a burden counter on The One Ring, then draw a card for each burden counter on The One Ring.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hoc/44/the-one-ring?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/d/bdd2c783-1483-490a-ae93-c4664a0a9564.jpg?1777843330" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Tom Bombadil [The Hobbit Commander]</title>
-      <link>https://scryfall.com/card/hoc/38/tom-bombadil?utm_source=api</link>
-      <guid isPermaLink="false">89a2d5bc-df06-47e8-8b4a-6d1f0a63c78d</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/0/8040d3ba-7601-4b99-a98a-2411ec1b717d.jpg?1777659532&quot; alt=&quot;Tom Bombadil&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Tom Bombadil&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {W}{U}{B}{R}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — God Bard&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: The Hobbit Commander&lt;/p&gt;
-&lt;p&gt;As long as there are four or more lore counters among Sagas you control, Tom Bombadil has hexproof and indestructible.&lt;br/&gt;Whenever the final chapter ability of a Saga you control resolves, reveal cards from the top of your library until you reveal a Saga card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. This ability triggers only once each turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hoc/38/tom-bombadil?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/0/8040d3ba-7601-4b99-a98a-2411ec1b717d.jpg?1777659532" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Forest [The Hobbit]</title>
-      <link>https://scryfall.com/card/hob/198/forest?utm_source=api</link>
-      <guid isPermaLink="false">b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/f/5f533364-0f91-4e49-aaeb-83c4c1f6d316.jpg?1777658419&quot; alt=&quot;Forest&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Forest&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Basic Land — Forest&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: The Hobbit&lt;/p&gt;
-&lt;p&gt;({T}: Add {G}.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/198/forest?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/5/f/5f533364-0f91-4e49-aaeb-83c4c1f6d316.jpg?1777658419" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Bilbo, Thief in the Night [The Hobbit]</title>
-      <link>https://scryfall.com/card/hob/33/bilbo-thief-in-the-night?utm_source=api</link>
-      <guid isPermaLink="false">72a9a85d-7cfc-4b3c-82db-9d35be6c0982</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/8/484c7f83-8339-4ae1-8350-68ce1f7d05a3.jpg?1777658295&quot; alt=&quot;Bilbo, Thief in the Night&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Bilbo, Thief in the Night&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Halfling Rogue&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: The Hobbit&lt;/p&gt;
-&lt;p&gt;Spells you cast from anywhere other than your hand cost {1} less to cast.&lt;br/&gt;Whenever Bilbo attacks, you may cast an artifact, instant, or sorcery spell from your graveyard. If an instant or sorcery spell cast this way would be put into your graveyard, exile it instead.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/33/bilbo-thief-in-the-night?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/8/484c7f83-8339-4ae1-8350-68ce1f7d05a3.jpg?1777658295" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Island [The Hobbit]</title>
-      <link>https://scryfall.com/card/hob/195/island?utm_source=api</link>
-      <guid isPermaLink="false">b2c6aa39-2d2a-459c-a555-fb48ba993373</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/3/739aaaac-c424-4ea7-a084-62a6fc0438b0.jpg?1777658399&quot; alt=&quot;Island&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Island&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Basic Land — Island&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: The Hobbit&lt;/p&gt;
-&lt;p&gt;({T}: Add {U}.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/195/island?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/7/3/739aaaac-c424-4ea7-a084-62a6fc0438b0.jpg?1777658399" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Mountain [The Hobbit]</title>
-      <link>https://scryfall.com/card/hob/197/mountain?utm_source=api</link>
-      <guid isPermaLink="false">a3fb7228-e76b-4e96-a40e-20b5fed75685</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/1/51acfb01-4b0b-48fc-9704-a9b4a1e43a23.jpg?1777658413&quot; alt=&quot;Mountain&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Mountain&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Basic Land — Mountain&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: The Hobbit&lt;/p&gt;
-&lt;p&gt;({T}: Add {R}.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/197/mountain?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/5/1/51acfb01-4b0b-48fc-9704-a9b4a1e43a23.jpg?1777658413" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>My Precious // Allure of Power [The Hobbit]</title>
-      <link>https://scryfall.com/card/hob/176/my-precious-allure-of-power?utm_source=api</link>
-      <guid isPermaLink="false">2e728381-6db0-4c66-883d-82d718fef833</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/5/15ae4d50-be2f-412c-bb6b-b0a06b60474a.jpg?1777658370&quot; alt=&quot;My Precious // Allure of Power&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;My Precious // Allure of Power&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3} // {1}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Artifact — Equipment // Instant — Adventure&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: The Hobbit&lt;/p&gt;
-&lt;p&gt;Equipped creature has hexproof and can't be blocked.&lt;br/&gt;Equip—{2}, Pay 2 life.&lt;br/&gt;//&lt;br/&gt;As an additional cost to cast this spell, sacrifice a creature.&lt;br/&gt;Draw two cards.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/176/my-precious-allure-of-power?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/1/5/15ae4d50-be2f-412c-bb6b-b0a06b60474a.jpg?1777658370" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Plains [The Hobbit]</title>
-      <link>https://scryfall.com/card/hob/194/plains?utm_source=api</link>
-      <guid isPermaLink="false">bc71ebf6-2056-41f7-be35-b2e5c34afa99</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/4/24dc369c-020a-4115-a4bb-d60a44de64e3.jpg?1777658393&quot; alt=&quot;Plains&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Plains&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Basic Land — Plains&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: The Hobbit&lt;/p&gt;
-&lt;p&gt;({T}: Add {W}.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/194/plains?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/4/24dc369c-020a-4115-a4bb-d60a44de64e3.jpg?1777658393" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Riddles in the Dark [The Hobbit]</title>
-      <link>https://scryfall.com/card/hob/53/riddles-in-the-dark?utm_source=api</link>
-      <guid isPermaLink="false">78bed291-0ec7-466f-bc7a-9dae7d0b56ae</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/6/a6129286-7437-4ba4-be55-586a22cd67ca.jpg?1777658302&quot; alt=&quot;Riddles in the Dark&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Riddles in the Dark&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: The Hobbit&lt;/p&gt;
-&lt;p&gt;Look at the top four cards of your library and separate them into a face-down pile and a face-up pile. An opponent chooses one of the piles. Put that pile into your hand and the other into your graveyard.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/53/riddles-in-the-dark?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/6/a6129286-7437-4ba4-be55-586a22cd67ca.jpg?1777658302" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Smaug the Magnificent [The Hobbit]</title>
-      <link>https://scryfall.com/card/hob/110/smaug-the-magnificent?utm_source=api</link>
-      <guid isPermaLink="false">c53b7602-5e36-4900-896c-844bf6eac22e</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/a/6a5d8fad-2ffd-4645-8c49-907999b6cecf.jpg?1777658308&quot; alt=&quot;Smaug the Magnificent&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Smaug the Magnificent&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{R}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Dragon&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: The Hobbit&lt;/p&gt;
-&lt;p&gt;Flying, haste&lt;br/&gt;Whenever Smaug attacks, he deals damage equal to the number of Treasures you control to any target.&lt;br/&gt;At the beginning of your upkeep, create a Treasure token.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/110/smaug-the-magnificent?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/6/a/6a5d8fad-2ffd-4645-8c49-907999b6cecf.jpg?1777658308" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Swamp [The Hobbit]</title>
-      <link>https://scryfall.com/card/hob/196/swamp?utm_source=api</link>
-      <guid isPermaLink="false">56719f6a-1a6c-4c0a-8d21-18f7d7350b68</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/5/c5f590a3-9993-4ac4-a93c-1beb44eda17b.jpg?1777658405&quot; alt=&quot;Swamp&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Swamp&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Basic Land — Swamp&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: The Hobbit&lt;/p&gt;
-&lt;p&gt;({T}: Add {B}.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/196/swamp?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/5/c5f590a3-9993-4ac4-a93c-1beb44eda17b.jpg?1777658405" type="image/jpeg" length="0"/>
-    </item>
-    <item>
       <title>The Arkenstone // Seek the Heart [The Hobbit]</title>
       <link>https://scryfall.com/card/hob/170/the-arkenstone-seek-the-heart?utm_source=api</link>
       <guid isPermaLink="false">09f09d0a-6054-4545-b81e-0295773cc5f0</guid>
@@ -452,6 +232,21 @@
 &lt;p&gt;Converge — Exile target nonland permanent if its mana value is less than or equal to the number of colors of mana spent to cast this spell.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pf26/3/prismatic-ending?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/8/d/8d047ce8-1efd-462a-88c3-db761fef7e16.jpg?1774073080" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ares, God of War [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/202/ares-god-of-war?utm_source=api</link>
+      <guid isPermaLink="false">8a09d4a2-4796-4a15-ab75-a3a0b717f62d</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/e/3e121d65-d341-40b9-bebc-1e7d1b83905c.jpg?1780554428&quot; alt=&quot;Ares, God of War&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Ares, God of War&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{B}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — God Warrior Villain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;Ares attacks each combat if able.&lt;br/&gt;Whenever an attacking creature you control dies, return that card to its owner's hand.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/202/ares-god-of-war?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/e/3e121d65-d341-40b9-bebc-1e7d1b83905c.jpg?1780554428" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Absorbing Man [Marvel Super Heroes]</title>
@@ -2679,21 +2474,6 @@
       <enclosure url="https://cards.scryfall.io/normal/front/e/6/e669c0b2-0011-4feb-9263-f1ecc0a98f18.jpg?1780412364" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>Lucky the Pizza Dog [Marvel Super Heroes Commander]</title>
-      <link>https://scryfall.com/card/msc/726/lucky-the-pizza-dog?utm_source=api</link>
-      <guid isPermaLink="false">3a429a1e-62c0-4f01-b09e-2bbf63e56a98</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/f/5fc454a5-39af-421d-a494-727ac7b6115e.jpg?1778591162&quot; alt=&quot;Lucky the Pizza Dog&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Lucky the Pizza Dog&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Dog&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
-&lt;p&gt;Whenever you cast a Cat, Dog, or Hero spell, create a Food token. (It's an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)&lt;br/&gt;At the beginning of each end step, if you gained life this turn, put a +1/+1 counter on Lucky.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/726/lucky-the-pizza-dog?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/5/f/5fc454a5-39af-421d-a494-727ac7b6115e.jpg?1778591162" type="image/jpeg" length="0"/>
-    </item>
-    <item>
       <title>The Vision [Marvel Super Heroes]</title>
       <link>https://scryfall.com/card/msh/255/the-vision?utm_source=api</link>
       <guid isPermaLink="false">32aee76a-e738-4898-985a-801d1cce15ea</guid>
@@ -3411,111 +3191,6 @@
       <enclosure url="https://cards.scryfall.io/normal/front/5/e/5e032240-a2f3-4455-81c2-b235c4c1e07e.jpg?1779796419" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>Earthquake [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2666/earthquake?utm_source=api</link>
-      <guid isPermaLink="false">9a40614b-50a3-422c-849e-53c8b7d3d204</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/c/ac5d49b5-cf4d-48a4-b21d-0a3b7e6320a4.jpg?1779796284&quot; alt=&quot;Earthquake&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Earthquake&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {X}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Earthquake deals X damage to each creature without flying and each player.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2666/earthquake?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/c/ac5d49b5-cf4d-48a4-b21d-0a3b7e6320a4.jpg?1779796284" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Fog [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2667/fog?utm_source=api</link>
-      <guid isPermaLink="false">27e9db49-7af7-4bef-ad4c-bf5dfb92030d</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/2/92bfd2c6-2226-4f92-bb77-e614ad096996.jpg?1779796290&quot; alt=&quot;Fog&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Fog&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {G}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Prevent all combat damage that would be dealt this turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2667/fog?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/2/92bfd2c6-2226-4f92-bb77-e614ad096996.jpg?1779796290" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Swords to Plowshares [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2663/swords-to-plowshares?utm_source=api</link>
-      <guid isPermaLink="false">b1544f21-7e98-461b-aed5-e748b0168c52</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/a/5a8b56db-47cb-4c62-9b54-2a48576947d1.jpg?1779796258&quot; alt=&quot;Swords to Plowshares&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Swords to Plowshares&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {W}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Exile target creature. Its controller gains life equal to its power.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2663/swords-to-plowshares?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/5/a/5a8b56db-47cb-4c62-9b54-2a48576947d1.jpg?1779796258" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Sol Ring [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2672/sol-ring?utm_source=api</link>
-      <guid isPermaLink="false">6ad8011d-3471-4369-9d68-b264cc027487</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/6/b68a8c69-0e59-4491-9e4d-4c50600a035e.jpg?1779796393&quot; alt=&quot;Sol Ring&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Sol Ring&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;{T}: Add {C}{C}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2672/sol-ring?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/6/b68a8c69-0e59-4491-9e4d-4c50600a035e.jpg?1779796393" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Ponder [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2670/ponder?utm_source=api</link>
-      <guid isPermaLink="false">02090581-61aa-4348-ad57-451be8ee91c2</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/0/20edb8fa-6e26-46f7-a5a8-b4c4c3e75dfa.jpg?1779796358&quot; alt=&quot;Ponder&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Ponder&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {U}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Look at the top three cards of your library, then put them back in any order. You may shuffle.&lt;br/&gt;Draw a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2670/ponder?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/0/20edb8fa-6e26-46f7-a5a8-b4c4c3e75dfa.jpg?1779796358" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Orim's Chant [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2669/orims-chant?utm_source=api</link>
-      <guid isPermaLink="false">26d3a818-7faf-443a-a6bd-9773edaedf17</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/0/a04a0516-a9bc-48bf-9c1b-edbaa7072dc6.jpg?1779796352&quot; alt=&quot;Orim's Chant&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Orim's Chant&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {W}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Kicker {W} (You may pay an additional {W} as you cast this spell.)&lt;br/&gt;Target player can't cast spells this turn. If this spell was kicked, creatures can't attack this turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2669/orims-chant?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/0/a04a0516-a9bc-48bf-9c1b-edbaa7072dc6.jpg?1779796352" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Rin and Seri, Inseparable [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2668/rin-and-seri-inseparable?utm_source=api</link>
-      <guid isPermaLink="false">28c46eb7-bdfc-44b9-b7e9-b073260851f0</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/9/496583cb-e77b-4bed-83c0-146ecd82e82b.jpg?1779796346&quot; alt=&quot;Rin and Seri, Inseparable&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Rin and Seri, Inseparable&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{R}{G}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Dog Cat&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Whenever you cast a Dog spell, create a 1/1 green Cat creature token.&lt;br/&gt;Whenever you cast a Cat spell, create a 1/1 white Dog creature token.&lt;br/&gt;{R}{G}{W}, {T}: Rin and Seri deals damage to any target equal to the number of Dogs you control. You gain life equal to the number of Cats you control.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2668/rin-and-seri-inseparable?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/9/496583cb-e77b-4bed-83c0-146ecd82e82b.jpg?1779796346" type="image/jpeg" length="0"/>
-    </item>
-    <item>
       <title>Warstorm Surge [Media and Collaboration Promos]</title>
       <link>https://scryfall.com/card/pmei/2026-6/warstorm-surge?utm_source=api</link>
       <guid isPermaLink="false">42fb1a1c-ab3d-4cdc-a6ff-a591f7481583</guid>
@@ -3535,7 +3210,7 @@
       <link>https://scryfall.com/card/pw26/3/gilded-lotus?utm_source=api</link>
       <guid isPermaLink="false">9a02a9a7-39d9-4763-85d3-747a0540b60b</guid>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/7/8737ee71-d1c1-4977-a509-c2c121f7ac4c.jpg?1780536141&quot; alt=&quot;Gilded Lotus&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/7/8737ee71-d1c1-4977-a509-c2c121f7ac4c.jpg?1774783397&quot; alt=&quot;Gilded Lotus&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Gilded Lotus&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {5}&lt;/p&gt;
 &lt;p&gt;Typ: Artifact&lt;/p&gt;
@@ -3543,7 +3218,7 @@
 &lt;p&gt;Set: Wizards Play Network 2026&lt;/p&gt;
 &lt;p&gt;{T}: Add three mana of any one color.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pw26/3/gilded-lotus?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/7/8737ee71-d1c1-4977-a509-c2c121f7ac4c.jpg?1780536141" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/7/8737ee71-d1c1-4977-a509-c2c121f7ac4c.jpg?1774783397" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Zack Fair [Media and Collaboration Promos]</title>
