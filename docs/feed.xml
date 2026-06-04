@@ -5,7 +5,7 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 04 Jun 2026 02:59:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 08:14:45 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
     <item>
@@ -454,18 +454,347 @@
       <enclosure url="https://cards.scryfall.io/normal/front/8/d/8d047ce8-1efd-462a-88c3-db761fef7e16.jpg?1774073080" type="image/jpeg" length="0"/>
     </item>
     <item>
+      <title>Absorbing Man [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/199/absorbing-man?utm_source=api</link>
+      <guid isPermaLink="false">ec8e310f-e871-498f-8d80-c3617c5e1433</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/1/7114ef87-53ff-43e9-864c-9faa455d86ef.jpg?1780542596&quot; alt=&quot;Absorbing Man&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Absorbing Man&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{G}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Villain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;Vigilance&lt;br/&gt;At the beginning of your first main phase, until your next turn, Absorbing Man becomes a copy of up to one target artifact, non-Aura enchantment, or land, except his name is Absorbing Man, he's a legendary 4/4 Human Villain creature in addition to his other types, and he has vigilance.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/199/absorbing-man?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/1/7114ef87-53ff-43e9-864c-9faa455d86ef.jpg?1780542596" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Rewrite History [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/71/rewrite-history?utm_source=api</link>
+      <guid isPermaLink="false">f91c860e-3feb-4a5a-b7ef-4e7d38d61c75</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/1/91fdf444-3f41-4b8b-b9f5-f3ae3d903649.jpg?1780542516&quot; alt=&quot;Rewrite History&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Rewrite History&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Plan&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;Whenever one or more creatures you control become tapped, draw a card, then discard a card and put a plan counter on this enchantment.&lt;br/&gt;When the fourth plan counter is put on this enchantment, sacrifice it. When you do, return up to two target instant and/or sorcery cards from your graveyard to your hand.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/71/rewrite-history?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/1/91fdf444-3f41-4b8b-b9f5-f3ae3d903649.jpg?1780542516" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Evil's Thrall [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/128/evils-thrall?utm_source=api</link>
+      <guid isPermaLink="false">d7562f89-4808-44ab-8dc9-fc4078e8a47b</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/1/310e30cd-b8c3-40ea-9d61-57c5c5fc2a0b.jpg?1780542438&quot; alt=&quot;Evil's Thrall&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Evil's Thrall&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;Gain control of target creature until end of turn. If you control a Villain with greater mana value than that creature, gain control of that creature until the end of your next turn instead. Untap that creature. It gains haste until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/128/evils-thrall?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/1/310e30cd-b8c3-40ea-9d61-57c5c5fc2a0b.jpg?1780542438" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ronin, Shadow Stalker [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/112/ronin-shadow-stalker?utm_source=api</link>
+      <guid isPermaLink="false">8ceb1acf-5ff3-4f1a-af04-9f07ad454526</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/7/f74b9794-946e-4ddc-93b2-5a321fc51fd0.jpg?1780542346&quot; alt=&quot;Ronin, Shadow Stalker&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Ronin, Shadow Stalker&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Rogue Hero&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;Pay 2 life: Add two mana of any one color. Spend this mana only to cast Equipment spells or activate equip abilities. Activate only once each turn.&lt;br/&gt;{T}, Sacrifice an Equipment attached to Ronin: Target creature gets -4/-4 until end of turn. Activate only as a sorcery.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/112/ronin-shadow-stalker?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/7/f74b9794-946e-4ddc-93b2-5a321fc51fd0.jpg?1780542346" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Falcon, Winged Wonder [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/52/falcon-winged-wonder?utm_source=api</link>
+      <guid isPermaLink="false">92e222c2-28e6-4d43-8b48-480ebcd88495</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/d/8dc209ed-0d4c-4d0c-90e8-04cadc3d4c3d.jpg?1780542186&quot; alt=&quot;Falcon, Winged Wonder&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Falcon, Winged Wonder&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Hero&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;Avian Telepathy — When Falcon enters, create Redwing, a legendary 1/1 blue Bird Scout creature token with flying and &quot;Whenever Redwing attacks, surveil 1.&quot; (Look at the top card of your library. You may put it into your graveyard.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/52/falcon-winged-wonder?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/d/8dc209ed-0d4c-4d0c-90e8-04cadc3d4c3d.jpg?1780542186" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Super-Soldier Serum [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/38/super-soldier-serum?utm_source=api</link>
+      <guid isPermaLink="false">6f2ba142-5e7c-4709-ae03-e028cb2a9872</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/4/845b0be1-4f85-4a8c-8205-dc85c8cf9a61.jpg?1780542083&quot; alt=&quot;Super-Soldier Serum&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Super-Soldier Serum&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Aura&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;Enchant creature&lt;br/&gt;Enchanted creature gets +2/+2, has first strike and vigilance, and is a legendary Soldier in addition to its other types.&lt;br/&gt;Whenever enchanted creature attacks or blocks, attach any number of target Equipment you control to it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/38/super-soldier-serum?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/4/845b0be1-4f85-4a8c-8205-dc85c8cf9a61.jpg?1780542083" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>U.S.Agent, John Walker [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/236/usagent-john-walker?utm_source=api</link>
+      <guid isPermaLink="false">2b6fa8b6-4865-4eb6-974b-00f6b16b6f0f</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/5/35e11911-799c-4d82-9109-3ca27964bef0.jpg?1780542045&quot; alt=&quot;U.S.Agent, John Walker&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;U.S.Agent, John Walker&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{W/B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Soldier Hero&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;When U.S.Agent enters, create a colorless Equipment artifact token named Sturdy Shield with &quot;Equipped creature gets +1/+2&quot; and equip {2}. Attach it to U.S.Agent.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/236/usagent-john-walker?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/5/35e11911-799c-4d82-9109-3ca27964bef0.jpg?1780542045" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Patriot, Shield Wielder [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/30/patriot-shield-wielder?utm_source=api</link>
+      <guid isPermaLink="false">1df7a09f-fbc8-4c2a-a903-bab9e680eda7</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/4/1467d7c9-00d8-43f1-b4e7-a279d2b10503.jpg?1780544695&quot; alt=&quot;Patriot, Shield Wielder&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Patriot, Shield Wielder&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Hero&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;{2}, {T}: Another target creature you control gets +2/+0 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/30/patriot-shield-wielder?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/4/1467d7c9-00d8-43f1-b4e7-a279d2b10503.jpg?1780544695" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Super Intelligence [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/77/super-intelligence?utm_source=api</link>
+      <guid isPermaLink="false">d82929f2-57ad-45be-a834-984437046026</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/2/f26613a1-b4ad-4c7f-8dd9-8f82de995f0c.jpg?1780541844&quot; alt=&quot;Super Intelligence&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Super Intelligence&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {U}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Aura&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;Enchant creature&lt;br/&gt;At the beginning of the upkeep of enchanted creature's controller, that player draws a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/77/super-intelligence?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/2/f26613a1-b4ad-4c7f-8dd9-8f82de995f0c.jpg?1780541844" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Avengers Disassembled [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/124/avengers-disassembled?utm_source=api</link>
+      <guid isPermaLink="false">34493cf5-7586-48ef-806d-57273b2ab034</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/2/72d3e750-870b-497d-80d7-e3df097db554.jpg?1780541780&quot; alt=&quot;Avengers Disassembled&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Avengers Disassembled&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{R}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;Choose one or both —&lt;br/&gt;• Avengers Disassembled deals 3 damage to each creature.&lt;br/&gt;• Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/124/avengers-disassembled?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/2/72d3e750-870b-497d-80d7-e3df097db554.jpg?1780541780" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ms. Marvel, Kamala Khan [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/67/ms-marvel-kamala-khan?utm_source=api</link>
+      <guid isPermaLink="false">ebedff30-ae43-4861-aab2-afe1fc88337e</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/d/9dd2d627-10fc-4045-8545-03bcf75e60ca.jpg?1780541646&quot; alt=&quot;Ms. Marvel, Kamala Khan&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Ms. Marvel, Kamala Khan&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Mutant Inhuman Hero&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;Vigilance, reach&lt;br/&gt;You have no maximum hand size.&lt;br/&gt;Embiggen Fist — Whenever you cast a spell that targets a creature you control, draw a card. Until end of turn, Ms. Marvel gains &quot;Ms. Marvel's base power is equal to the number of cards in your hand.&quot;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/67/ms-marvel-kamala-khan?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/d/9dd2d627-10fc-4045-8545-03bcf75e60ca.jpg?1780541646" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fin Fang Foom [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/129/fin-fang-foom?utm_source=api</link>
+      <guid isPermaLink="false">52ec472e-a745-4e25-b9a7-8e1eb8873594</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/7/7777fac1-7bf5-4454-960d-26ec3183e392.jpg?1780541283&quot; alt=&quot;Fin Fang Foom&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Fin Fang Foom&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{R}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Alien Dragon Villain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;Whenever you cast an instant or sorcery spell that targets an artifact or land, copy that spell. You may choose new targets for the copy. Put two +1/+1 counters on Fin Fang Foom.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/129/fin-fang-foom?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/7/7777fac1-7bf5-4454-960d-26ec3183e392.jpg?1780541283" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Winter Soldier, Icy Assassin [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/239/winter-soldier-icy-assassin?utm_source=api</link>
+      <guid isPermaLink="false">6f4c94b6-f829-4646-a574-083997b78dfb</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/b/ebf71ffc-6e3e-4ca0-a84a-3c1ebd2b64b1.jpg?1780541185&quot; alt=&quot;Winter Soldier, Icy Assassin&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Winter Soldier, Icy Assassin&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Assassin Villain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;Vigilance, menace&lt;br/&gt;Winter Soldier gets +2/+0 for each Equipment attached to him.&lt;br/&gt;{3}{W}{B}: Return this card from your graveyard to the battlefield with a finality counter on him. Then you may attach an Equipment you control to him. (If a creature with a finality counter on it would die, exile it instead.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/239/winter-soldier-icy-assassin?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/b/ebf71ffc-6e3e-4ca0-a84a-3c1ebd2b64b1.jpg?1780541185" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Baron Strucker, HYDRA Overlord [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/88/baron-strucker-hydra-overlord?utm_source=api</link>
+      <guid isPermaLink="false">c91e64d4-e687-4ccd-a56e-796cff6e052c</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/a/eaf2251a-ffaf-4055-9474-7e3d08d89609.jpg?1780540996&quot; alt=&quot;Baron Strucker, HYDRA Overlord&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Baron Strucker, HYDRA Overlord&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Villain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;Villain spells you cast cost {1} less to cast.&lt;br/&gt;Whenever another Villain you control enters, you may have it connive. Do this only once each turn. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/88/baron-strucker-hydra-overlord?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/a/eaf2251a-ffaf-4055-9474-7e3d08d89609.jpg?1780540996" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Agent 13, Sharon Carter [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/1/agent-13-sharon-carter?utm_source=api</link>
+      <guid isPermaLink="false">ddf7201a-6672-416d-be6b-202dafbeccab</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/0/107cb521-9806-47dc-92d8-b43112b63caa.jpg?1780540861&quot; alt=&quot;Agent 13, Sharon Carter&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Agent 13, Sharon Carter&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Spy Hero&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;Whenever a creature you control attacks alone, investigate. (Create a Clue token. It's an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/1/agent-13-sharon-carter?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/0/107cb521-9806-47dc-92d8-b43112b63caa.jpg?1780540861" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Storm, Windrider [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/230/storm-windrider?utm_source=api</link>
+      <guid isPermaLink="false">06e9287b-56d4-443e-97ba-b5dcdc4fa989</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/9/e90196a9-5a76-42f8-9b40-097d02b47f33.jpg?1780540889&quot; alt=&quot;Storm, Windrider&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Storm, Windrider&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{G}{W}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Mutant Hero&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;Creatures with flying can't attack you or block creatures you control.&lt;br/&gt;Whenever you cast a spell that targets one or more creatures, those creatures gain flying until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/230/storm-windrider?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/9/e90196a9-5a76-42f8-9b40-097d02b47f33.jpg?1780540889" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hawkeye, Master Marksman [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/130/hawkeye-master-marksman?utm_source=api</link>
+      <guid isPermaLink="false">6b59bb1f-f2d4-4d47-bd57-23927d588381</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/9/9991b684-0ae0-4aa4-8f22-a9c473f5d69c.jpg?1780540671&quot; alt=&quot;Hawkeye, Master Marksman&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Hawkeye, Master Marksman&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Archer Hero&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;First strike, reach&lt;br/&gt;Trick Arrows — Whenever Hawkeye becomes tapped, you may pay {1} up to three times. When you do, choose up to that many.&lt;br/&gt;• Net — Target creature can't block this turn.&lt;br/&gt;• Explosive — Hawkeye deals 2 damage to target player.&lt;br/&gt;• Boomerang — Discard a card, then draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/130/hawkeye-master-marksman?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/9/9991b684-0ae0-4aa4-8f22-a9c473f5d69c.jpg?1780540671" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Abomination, Terrifying Titan [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/198/abomination-terrifying-titan?utm_source=api</link>
+      <guid isPermaLink="false">72101185-4336-480a-b4d7-f8ceb0007a51</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/c/2c6ab9bb-dba2-4b5b-a4d9-54735f65ac21.jpg?1780540484&quot; alt=&quot;Abomination, Terrifying Titan&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Abomination, Terrifying Titan&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{R/G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Gamma Villain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;Trample&lt;br/&gt;Power-up — {5}{R/G}{R/G}: Put a +1/+1 counter on Abomination. He fights up to one target creature an opponent controls. (Activate each power-up ability only once. Reduce the cost by his mana cost if he entered this turn.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/198/abomination-terrifying-titan?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/c/2c6ab9bb-dba2-4b5b-a4d9-54735f65ac21.jpg?1780540484" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>White Widow, Free Agent [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/42/white-widow-free-agent?utm_source=api</link>
+      <guid isPermaLink="false">4f0c055f-f614-44b0-9374-c53541f89185</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/7/57da765f-7d87-42ac-9eb0-a49c296fbbf8.jpg?1780540418&quot; alt=&quot;White Widow, Free Agent&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;White Widow, Free Agent&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Hero Villain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;When White Widow enters, choose one —&lt;br/&gt;• Put a +1/+1 counter on each of up to two target creatures.&lt;br/&gt;• Return target artifact or enchantment card from your graveyard to your hand.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/42/white-widow-free-agent?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/7/57da765f-7d87-42ac-9eb0-a49c296fbbf8.jpg?1780540418" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Avengers Tower [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/260/avengers-tower?utm_source=api</link>
+      <guid isPermaLink="false">c5fc8e7c-a87e-4586-a13c-d30e0a3aafbf</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/8/88f0d9c9-8a1f-4b5a-b6f9-821ddd658d27.jpg?1780540917&quot; alt=&quot;Avengers Tower&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Avengers Tower&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}: Add one mana of any color. Spend this mana only to cast a Hero spell or to activate an ability of a Hero source.&lt;br/&gt;{4}, {T}: Look at the top three cards of your library. You may reveal a Hero card from among them and put it into your hand. Put the rest on the bottom of your library in any order.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/260/avengers-tower?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/8/88f0d9c9-8a1f-4b5a-b6f9-821ddd658d27.jpg?1780540917" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Nick Fury, Agent of S.H.I.E.L.D. [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/25/nick-fury-agent-of-shield?utm_source=api</link>
+      <guid isPermaLink="false">62916107-14c0-4516-9fed-a032b1a80e5d</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/a/3aa6fc02-ef76-426b-accd-6c0ef88b2a5e.jpg?1780544653&quot; alt=&quot;Nick Fury, Agent of S.H.I.E.L.D.&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Nick Fury, Agent of S.H.I.E.L.D.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Spy Hero&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;Power-up — {W}{U}{B}{R}{G}: Put two +1/+1 counters on Nick Fury, then look at the top seven cards of your library. You may put a Hero, Equipment, or Vehicle card from among them onto the battlefield. If it's a double- faced card, you may transform it. Put the rest on the bottom of your library in a random order. (Activate each power-up ability only once. Reduce the cost by his mana cost if he entered this turn.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/25/nick-fury-agent-of-shield?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/a/3aa6fc02-ef76-426b-accd-6c0ef88b2a5e.jpg?1780544653" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Mole Man, Moloid Master [Marvel Super Heroes]</title>
+      <link>https://scryfall.com/card/msh/177/mole-man-moloid-master?utm_source=api</link>
+      <guid isPermaLink="false">34994475-b914-44f6-8ca1-c2747b6d5956</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/b/1b406cc5-75c9-430a-83a2-de0f2a8aeae6.jpg?1780539959&quot; alt=&quot;Mole Man, Moloid Master&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Mole Man, Moloid Master&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Villain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
+&lt;p&gt;You may play lands from your graveyard.&lt;br/&gt;Landfall — Whenever a land you control enters, create a 1/1 green Minion creature token named Moloid with &quot;Whenever this token attacks, you may mill a card.&quot;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/177/mole-man-moloid-master?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/b/1b406cc5-75c9-430a-83a2-de0f2a8aeae6.jpg?1780539959" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>Baxter Building [Marvel Super Heroes]</title>
       <link>https://scryfall.com/card/msh/261/baxter-building?utm_source=api</link>
       <guid isPermaLink="false">71bc69a5-7cec-4abd-b97d-13f8e1f9afac</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/a/1abc652f-8e9d-4df7-bc4e-d8b515a40fec.jpg?1780516532&quot; alt=&quot;Baxter Building&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/a/1abc652f-8e9d-4df7-bc4e-d8b515a40fec.jpg?1780544612&quot; alt=&quot;Baxter Building&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Baxter Building&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Typ: Land&lt;/p&gt;
 &lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
 &lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
 &lt;p&gt;{T}: Add {C}.&lt;br/&gt;{4}, {T}: Add four mana in any combination of colors.&lt;br/&gt;{4}, {T}: Draw a card. Activate only if you control a creature with toughness 4 or greater.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/261/baxter-building?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/1/a/1abc652f-8e9d-4df7-bc4e-d8b515a40fec.jpg?1780516532" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/a/1abc652f-8e9d-4df7-bc4e-d8b515a40fec.jpg?1780544612" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Captain Mar-Vell, Space-Born [Marvel Super Heroes]</title>
@@ -502,7 +831,7 @@
       <link>https://scryfall.com/card/msh/171/hercules-prince-of-power?utm_source=api</link>
       <guid isPermaLink="false">c3a8cc79-3771-484d-84dd-1a97f8bd12c2</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/6/d610d9fe-f8ae-473f-9325-e2f28f7e8a69.jpg?1780516526&quot; alt=&quot;Hercules, Prince of Power&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/6/d610d9fe-f8ae-473f-9325-e2f28f7e8a69.jpg?1780544630&quot; alt=&quot;Hercules, Prince of Power&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Hercules, Prince of Power&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
 &lt;p&gt;Typ: Legendary Creature — Demigod Warrior Hero&lt;/p&gt;
@@ -510,7 +839,7 @@
 &lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
 &lt;p&gt;Power-up — {4}{G}: Put a +1/+1 counter on Hercules. He gains vigilance, indestructible, and haste until end of turn. (Activate each power-up ability only once. Reduce the cost by his mana cost if he entered this turn.)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/171/hercules-prince-of-power?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/6/d610d9fe-f8ae-473f-9325-e2f28f7e8a69.jpg?1780516526" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/6/d610d9fe-f8ae-473f-9325-e2f28f7e8a69.jpg?1780544630" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Luke Cage, Power Man [Marvel Super Heroes]</title>
@@ -592,7 +921,7 @@
       <link>https://scryfall.com/card/msh/213/daredevil-man-without-fear?utm_source=api</link>
       <guid isPermaLink="false">88aadf60-91f9-4932-a2bc-63365a139d36</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/4/14e821bb-55cc-474e-9b63-0ceecc2666c1.jpg?1780457818&quot; alt=&quot;Daredevil, Man Without Fear&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/4/14e821bb-55cc-474e-9b63-0ceecc2666c1.jpg?1780539551&quot; alt=&quot;Daredevil, Man Without Fear&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Daredevil, Man Without Fear&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {2}{R}{W}&lt;/p&gt;
 &lt;p&gt;Typ: Legendary Creature — Human Hero&lt;/p&gt;
@@ -600,14 +929,14 @@
 &lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
 &lt;p&gt;Vigilance, haste&lt;br/&gt;Radar Sense — You may look at the top card of your library any time.&lt;br/&gt;Whenever you attack, you may exile the top card of your library. If that card is a Hero card, Daredevil gets +2/+1 until end of turn. You may play that card this turn.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/213/daredevil-man-without-fear?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/1/4/14e821bb-55cc-474e-9b63-0ceecc2666c1.jpg?1780457818" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/4/14e821bb-55cc-474e-9b63-0ceecc2666c1.jpg?1780539551" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>The Super Hero Civil War [Marvel Super Heroes]</title>
       <link>https://scryfall.com/card/msh/231/the-super-hero-civil-war?utm_source=api</link>
       <guid isPermaLink="false">11d74dc2-8c11-4d4b-b727-8216d2eb6b4e</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/b/fbd1f333-5640-41f8-b9dd-1c322ac7724a.jpg?1780457031&quot; alt=&quot;The Super Hero Civil War&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/b/fbd1f333-5640-41f8-b9dd-1c322ac7724a.jpg?1780539596&quot; alt=&quot;The Super Hero Civil War&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;The Super Hero Civil War&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {3}{R}{W}&lt;/p&gt;
 &lt;p&gt;Typ: Enchantment — Saga&lt;/p&gt;
@@ -615,14 +944,14 @@
 &lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
 &lt;p&gt;(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)&lt;br/&gt;I — Gain control of up to two target creatures with total mana value 6 or less for as long as this Saga remains on the battlefield.&lt;br/&gt;II — Creatures you control get +1/+1 and gain vigilance until end of turn.&lt;br/&gt;III — Target creature you control fights up to one other target creature.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/231/the-super-hero-civil-war?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/f/b/fbd1f333-5640-41f8-b9dd-1c322ac7724a.jpg?1780457031" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/b/fbd1f333-5640-41f8-b9dd-1c322ac7724a.jpg?1780539596" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Reptil, Dinomorpher [Marvel Super Heroes]</title>
       <link>https://scryfall.com/card/msh/182/reptil-dinomorpher?utm_source=api</link>
       <guid isPermaLink="false">c6284597-1983-4a21-a461-724135220e0d</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/7/472db3f2-23df-46c1-86c6-f35fbe5ab4e3.jpg?1780456768&quot; alt=&quot;Reptil, Dinomorpher&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/7/472db3f2-23df-46c1-86c6-f35fbe5ab4e3.jpg?1780539505&quot; alt=&quot;Reptil, Dinomorpher&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Reptil, Dinomorpher&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {G}&lt;/p&gt;
 &lt;p&gt;Typ: Legendary Creature — Human Hero&lt;/p&gt;
@@ -630,14 +959,14 @@
 &lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
 &lt;p&gt;Brontosaurus — {3}: Until end of turn, Reptil becomes a Dinosaur Hero with base power and toughness 3/5 and gains vigilance and reach.&lt;br/&gt;Tyrannosaurus Rex — {6}: Until end of turn, Reptil becomes a Dinosaur Hero with base power and toughness 6/6 and gains trample.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/182/reptil-dinomorpher?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/7/472db3f2-23df-46c1-86c6-f35fbe5ab4e3.jpg?1780456768" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/7/472db3f2-23df-46c1-86c6-f35fbe5ab4e3.jpg?1780539505" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Doc Samson, Super Psychiatrist [Marvel Super Heroes]</title>
       <link>https://scryfall.com/card/msh/164/doc-samson-super-psychiatrist?utm_source=api</link>
       <guid isPermaLink="false">699610c9-c991-4faf-b712-d015ef0799ad</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/9/19dc5fcc-d05d-41a0-84c5-2dec996f3e4f.jpg?1780452165&quot; alt=&quot;Doc Samson, Super Psychiatrist&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/9/19dc5fcc-d05d-41a0-84c5-2dec996f3e4f.jpg?1780539531&quot; alt=&quot;Doc Samson, Super Psychiatrist&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Doc Samson, Super Psychiatrist&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {4}{G}&lt;/p&gt;
 &lt;p&gt;Typ: Legendary Creature — Gamma Doctor Hero&lt;/p&gt;
@@ -645,14 +974,14 @@
 &lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
 &lt;p&gt;If you would put one or more counters on a permanent you control, put that many plus one of each of those kinds of counters on that permanent instead.&lt;br/&gt;{T}: Add X mana of any one color, where X is Doc Samson's power.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/164/doc-samson-super-psychiatrist?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/1/9/19dc5fcc-d05d-41a0-84c5-2dec996f3e4f.jpg?1780452165" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/9/19dc5fcc-d05d-41a0-84c5-2dec996f3e4f.jpg?1780539531" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>S.H.I.E.L.D. Flying Car [Marvel Super Heroes]</title>
       <link>https://scryfall.com/card/msh/74/shield-flying-car?utm_source=api</link>
       <guid isPermaLink="false">12d51534-a98d-487b-9ba9-c10861dff992</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/e/8e651410-b829-4468-b866-a9dd15f909ad.jpg?1780436181&quot; alt=&quot;S.H.I.E.L.D. Flying Car&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/e/8e651410-b829-4468-b866-a9dd15f909ad.jpg?1780539471&quot; alt=&quot;S.H.I.E.L.D. Flying Car&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;S.H.I.E.L.D. Flying Car&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
 &lt;p&gt;Typ: Artifact — Vehicle&lt;/p&gt;
@@ -660,7 +989,7 @@
 &lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
 &lt;p&gt;Flash&lt;br/&gt;Flying&lt;br/&gt;When this Vehicle enters, exile up to one target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.&lt;br/&gt;Crew 1&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/74/shield-flying-car?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/e/8e651410-b829-4468-b866-a9dd15f909ad.jpg?1780436181" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/e/8e651410-b829-4468-b866-a9dd15f909ad.jpg?1780539471" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Gleaming Bastion [Marvel Super Heroes]</title>
@@ -737,7 +1066,7 @@
       <link>https://scryfall.com/card/msh/224/the-ruinous-wrecking-crew?utm_source=api</link>
       <guid isPermaLink="false">0ff9c0cc-4fb3-4117-9a8e-5b51f62306c4</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/d/4d8c8ceb-84cd-46d2-9230-ab6ca4569334.jpg?1780430728&quot; alt=&quot;The Ruinous Wrecking Crew&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/d/4d8c8ceb-84cd-46d2-9230-ab6ca4569334.jpg?1780539580&quot; alt=&quot;The Ruinous Wrecking Crew&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;The Ruinous Wrecking Crew&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {X}{B}{R}&lt;/p&gt;
 &lt;p&gt;Typ: Legendary Creature — Human Villain&lt;/p&gt;
@@ -745,7 +1074,7 @@
 &lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
 &lt;p&gt;The Ruinous Wrecking Crew enters with X +1/+1 counters on it.&lt;br/&gt;When The Ruinous Wrecking Crew enters, choose up to X —&lt;br/&gt;• Discard a card, then draw a card.&lt;br/&gt;• Target opponent loses 2 life.&lt;br/&gt;• Destroy target token.&lt;br/&gt;• Each player sacrifices a creature of their choice.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/224/the-ruinous-wrecking-crew?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/d/4d8c8ceb-84cd-46d2-9230-ab6ca4569334.jpg?1780430728" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/d/4d8c8ceb-84cd-46d2-9230-ab6ca4569334.jpg?1780539580" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Arc Reactor [Marvel Super Heroes]</title>
@@ -3206,7 +3535,7 @@
       <link>https://scryfall.com/card/pw26/3/gilded-lotus?utm_source=api</link>
       <guid isPermaLink="false">9a02a9a7-39d9-4763-85d3-747a0540b60b</guid>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/7/8737ee71-d1c1-4977-a509-c2c121f7ac4c.jpg?1774783397&quot; alt=&quot;Gilded Lotus&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/7/8737ee71-d1c1-4977-a509-c2c121f7ac4c.jpg?1780536141&quot; alt=&quot;Gilded Lotus&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Gilded Lotus&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {5}&lt;/p&gt;
 &lt;p&gt;Typ: Artifact&lt;/p&gt;
@@ -3214,7 +3543,7 @@
 &lt;p&gt;Set: Wizards Play Network 2026&lt;/p&gt;
 &lt;p&gt;{T}: Add three mana of any one color.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pw26/3/gilded-lotus?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/7/8737ee71-d1c1-4977-a509-c2c121f7ac4c.jpg?1774783397" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/7/8737ee71-d1c1-4977-a509-c2c121f7ac4c.jpg?1780536141" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Zack Fair [Media and Collaboration Promos]</title>
