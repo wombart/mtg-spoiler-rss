@@ -5,7 +5,7 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 06 Jun 2026 06:48:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 19:10:58 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
     <item>
@@ -514,6 +514,21 @@
       <enclosure url="https://cards.scryfall.io/normal/front/8/d/8d047ce8-1efd-462a-88c3-db761fef7e16.jpg?1774073080" type="image/jpeg" length="0"/>
     </item>
     <item>
+      <title>Narset's Reversal [Marvel Universe]</title>
+      <link>https://scryfall.com/card/mar/58/narsets-reversal?utm_source=api</link>
+      <guid isPermaLink="false">d55f6c70-321f-4fb4-bd33-0850ae1a7c36</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/3/0355887d-eec7-4b1c-ada1-014ac7fce5c6.jpg?1780714797&quot; alt=&quot;Narset's Reversal&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Narset's Reversal&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {U}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Marvel Universe&lt;/p&gt;
+&lt;p&gt;Copy target instant or sorcery spell, then return it to its owner's hand. You may choose new targets for the copy.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mar/58/narsets-reversal?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/3/0355887d-eec7-4b1c-ada1-014ac7fce5c6.jpg?1780714797" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>Epic Fight [Marvel Super Heroes]</title>
       <link>https://scryfall.com/card/msh/166/epic-fight?utm_source=api</link>
       <guid isPermaLink="false">4bdfc580-de51-445b-b170-8c6832e44704</guid>
@@ -638,15 +653,15 @@
       <link>https://scryfall.com/card/msh/157/truck-toss?utm_source=api</link>
       <guid isPermaLink="false">7d765055-da62-43f7-9580-98e9d164753b</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/0/60f02fbf-1416-48a3-bf94-f27509f6983a.jpg?1780711592&quot; alt=&quot;Truck Toss&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/0/60f02fbf-1416-48a3-bf94-f27509f6983a.jpg?1780737227&quot; alt=&quot;Truck Toss&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Truck Toss&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {2}{R}{R}&lt;/p&gt;
 &lt;p&gt;Typ: Instant&lt;/p&gt;
 &lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
 &lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
-&lt;p&gt;This spell costs {2} less to cast if you control a Vehicle. Truck Toss deals 4 damage to any target.&lt;/p&gt;
+&lt;p&gt;This spell costs {2} less to cast if you control a Vehicle.&lt;br/&gt;Truck Toss deals 4 damage to any target.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/157/truck-toss?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/6/0/60f02fbf-1416-48a3-bf94-f27509f6983a.jpg?1780711592" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/0/60f02fbf-1416-48a3-bf94-f27509f6983a.jpg?1780737227" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Moonstone, Harsh Mistress [Marvel Super Heroes]</title>
@@ -2975,21 +2990,6 @@
 &lt;p&gt;Flying, vigilance&lt;br/&gt;Ceaseless Tempest — Whenever Storm deals combat damage to a player, the next instant or sorcery spell you cast this turn has storm. (When you cast it, copy it for each spell cast before it this turn. You may choose new targets for the copies.)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mar/94/storm-force-of-nature?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/0/8/08cd4665-9fc3-48f1-a136-41d4585b1bb4.jpg?1780482186" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Sundering Growth [Marvel Universe]</title>
-      <link>https://scryfall.com/card/mar/95/sundering-growth?utm_source=api</link>
-      <guid isPermaLink="false">a2a380d8-4df7-4357-862c-ed3fb795db6c</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/a/2aa6ff08-efd2-4f51-b899-19ba6815767a.jpg?1780481269&quot; alt=&quot;Sundering Growth&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Sundering Growth&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {G/W}{G/W}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Marvel Universe&lt;/p&gt;
-&lt;p&gt;Destroy target artifact or enchantment, then populate. (Create a token that's a copy of a creature token you control.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mar/95/sundering-growth?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/a/2aa6ff08-efd2-4f51-b899-19ba6815767a.jpg?1780481269" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Warleader's Call [Marvel Universe]</title>
