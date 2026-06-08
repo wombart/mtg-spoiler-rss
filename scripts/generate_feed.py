@@ -181,7 +181,7 @@ def fetch_recent_cards(since_date: datetime) -> list[dict]:
 
     all_cards: list[dict] = []
     page = 1
-    print(f"  Fetching url {url}...")
+    print(f"  Fetching url {url}")
     while url:
         print(f"  Fetching page {page}...")
         try:
@@ -201,7 +201,7 @@ def fetch_recent_cards(since_date: datetime) -> list[dict]:
         print(f"  Page {page}: {len(batch)} cards (total so far: {len(all_cards)})")
 
         url = data.get("next_page")
-        print(f"  next url {url}...")
+        print(f"  next url {url}")
         page += 1
         if url:
             time.sleep(0.2)
