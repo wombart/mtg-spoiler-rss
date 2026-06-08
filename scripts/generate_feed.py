@@ -181,7 +181,7 @@ def fetch_recent_cards(since_date: datetime) -> list[dict]:
 
     all_cards: list[dict] = []
     page = 1
-
+    print(f"  Fetching url {url}...")
     while url:
         print(f"  Fetching page {page}...")
         try:
