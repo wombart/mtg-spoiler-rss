@@ -164,7 +164,7 @@ def fetch_recent_cards(since_date: datetime) -> list[dict]:
     """
     Fetch cards using documented Scryfall search syntax:
     - date>=yyyy-mm-dd  filters by official release date
-    - order:spoiled     sorts by spoiler/preview date (newest first)
+    - order:released     sorts by spoiler/preview date (newest first)
     - unique:cards      one result per unique oracle card
     - include:extras    include tokens, variants etc.
     """
@@ -173,7 +173,7 @@ def fetch_recent_cards(since_date: datetime) -> list[dict]:
 
     params = urllib.parse.urlencode({
         "q": query,
-        "order": "spoiled",
+        "order": "released",
         "dir": "desc",
         "unique": "cards",
     })
