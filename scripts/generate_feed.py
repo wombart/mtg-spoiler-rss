@@ -186,6 +186,9 @@ def fetch_recent_cards(since_date: datetime) -> list[dict]:
         print(f"  Fetching page {page}...")
         try:
             data = fetch_json(url)
+            print(f"  has_more {data}")
+            has_more = data.get("has_more")
+            print(f"  has_more {has_more}")
         except urllib.error.HTTPError as e:
             if e.code == 404:
                 print("  No results found (404).")
