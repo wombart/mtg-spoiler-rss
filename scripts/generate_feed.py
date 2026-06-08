@@ -205,7 +205,7 @@ def fetch_recent_cards(since_date: datetime) -> list[dict]:
         page += 1
         if url:
             time.sleep(0.12)
-
+    print(f"total so far: {len(all_cards)}")
     return all_cards
 
 
