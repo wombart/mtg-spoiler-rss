@@ -20,7 +20,7 @@ import urllib.error
 # --- Configuration ---
 SCRYFALL_SEARCH_URL = "https://api.scryfall.com/cards/search"
 LOOKBACK_DAYS = 3
-MAX_FEED_ENTRIES = 500
+MAX_FEED_ENTRIES = 700
 DATA_FILE = Path(__file__).parent.parent / "data" / "known_cards.json"
 OUTPUT_FILE = Path(__file__).parent.parent / "docs" / "feed.xml"
 FEED_TITLE = "Magic: The Gathering – Neue Karten & Spoiler"
