@@ -5,7 +5,7 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 10 Jun 2026 02:48:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 16:55:53 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
     <item>
@@ -28,7 +28,7 @@
       <link>https://scryfall.com/card/pf26/7/preordain?utm_source=api</link>
       <guid isPermaLink="false">ac641490-ca14-48d7-8cc4-b69ce984befa</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/6/86318db6-0d57-4cab-8a53-14ce519c1b1d.jpg?1781004373&quot; alt=&quot;Preordain&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/6/86318db6-0d57-4cab-8a53-14ce519c1b1d.jpg?1781062303&quot; alt=&quot;Preordain&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Preordain&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {U}&lt;/p&gt;
 &lt;p&gt;Typ: Sorcery&lt;/p&gt;
@@ -36,7 +36,7 @@
 &lt;p&gt;Set: MagicFest 2026&lt;/p&gt;
 &lt;p&gt;Scry 2, then draw a card. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pf26/7/preordain?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/6/86318db6-0d57-4cab-8a53-14ce519c1b1d.jpg?1781004373" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/6/86318db6-0d57-4cab-8a53-14ce519c1b1d.jpg?1781062303" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Life from the Loam [Eternal Weekend]</title>
@@ -443,7 +443,7 @@
       <link>https://scryfall.com/card/pf26/3/prismatic-ending?utm_source=api</link>
       <guid isPermaLink="false">2cb98ca9-d7bb-416b-a17e-ee5f8e4d78f2</guid>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/d/8d047ce8-1efd-462a-88c3-db761fef7e16.jpg?1774073080&quot; alt=&quot;Prismatic Ending&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/d/8d047ce8-1efd-462a-88c3-db761fef7e16.jpg?1781062342&quot; alt=&quot;Prismatic Ending&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Prismatic Ending&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {X}{W}&lt;/p&gt;
 &lt;p&gt;Typ: Sorcery&lt;/p&gt;
@@ -451,7 +451,7 @@
 &lt;p&gt;Set: MagicFest 2026&lt;/p&gt;
 &lt;p&gt;Converge — Exile target nonland permanent if its mana value is less than or equal to the number of colors of mana spent to cast this spell.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pf26/3/prismatic-ending?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/d/8d047ce8-1efd-462a-88c3-db761fef7e16.jpg?1774073080" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/d/8d047ce8-1efd-462a-88c3-db761fef7e16.jpg?1781062342" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Villainous Hideout [Marvel Super Heroes]</title>
@@ -9514,7 +9514,7 @@
       <link>https://scryfall.com/card/msc/281/annie-joins-up?utm_source=api</link>
       <guid isPermaLink="false">4c3ad545-b375-44a7-a24e-58baacc4e4b6</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/8/e86ccaf7-9686-415f-b1e1-3d574fbdf34b.jpg?1781014339&quot; alt=&quot;Annie Joins Up&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/8/e86ccaf7-9686-415f-b1e1-3d574fbdf34b.jpg?1781089868&quot; alt=&quot;Annie Joins Up&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Annie Joins Up&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {1}{R}{G}{W}&lt;/p&gt;
 &lt;p&gt;Typ: Legendary Enchantment&lt;/p&gt;
@@ -9522,7 +9522,7 @@
 &lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
 &lt;p&gt;When Annie Joins Up enters, it deals 5 damage to target creature or planeswalker an opponent controls.&lt;br/&gt;If a triggered ability of a legendary creature you control triggers, that ability triggers an additional time.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/281/annie-joins-up?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/e/8/e86ccaf7-9686-415f-b1e1-3d574fbdf34b.jpg?1781014339" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/8/e86ccaf7-9686-415f-b1e1-3d574fbdf34b.jpg?1781089868" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Raise the Palisade [Marvel Super Heroes Commander]</title>
