@@ -5,7 +5,7 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 12 Jun 2026 16:40:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 20:01:46 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
     <item>
@@ -4528,7 +4528,7 @@
       <link>https://scryfall.com/card/msh/1/agent-13-sharon-carter?utm_source=api</link>
       <guid isPermaLink="false">ddf7201a-6672-416d-be6b-202dafbeccab</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/0/107cb521-9806-47dc-92d8-b43112b63caa.jpg?1780572591&quot; alt=&quot;Agent 13, Sharon Carter&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/0/107cb521-9806-47dc-92d8-b43112b63caa.jpg?1781269374&quot; alt=&quot;Agent 13, Sharon Carter&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Agent 13, Sharon Carter&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
 &lt;p&gt;Typ: Legendary Creature — Human Spy Hero&lt;/p&gt;
@@ -4536,7 +4536,7 @@
 &lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
 &lt;p&gt;Whenever a creature you control attacks alone, investigate. (Create a Clue token. It's an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/1/agent-13-sharon-carter?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/1/0/107cb521-9806-47dc-92d8-b43112b63caa.jpg?1780572591" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/0/107cb521-9806-47dc-92d8-b43112b63caa.jpg?1781269374" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>T'Challa, the Black Panther [Marvel Super Heroes Commander]</title>
@@ -9450,6 +9450,186 @@
       <enclosure url="https://cards.scryfall.io/normal/front/8/c/8c8e39b0-c5c7-447e-a483-ceb72a980fc7.jpg?1780917106" type="image/jpeg" length="0"/>
     </item>
     <item>
+      <title>Loki, God of Lies [Marvel Super Heroes Commander]</title>
+      <link>https://scryfall.com/card/msc/512/loki-god-of-lies?utm_source=api</link>
+      <guid isPermaLink="false">6f72ce67-3c17-4338-904b-26e2bf4aecdc</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/5/b519a04b-64a6-456f-b02a-a54be50342be.jpg?1781264066&quot; alt=&quot;Loki, God of Lies&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Loki, God of Lies&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{R}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — God Sorcerer Villain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
+&lt;p&gt;Whenever you cast a spell that targets only a single creature, gain control of that creature until end of turn. If it's your turn, untap that creature and it gains haste until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/512/loki-god-of-lies?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/5/b519a04b-64a6-456f-b02a-a54be50342be.jpg?1781264066" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Abomination, Irradiated Brute [Marvel Super Heroes Commander]</title>
+      <link>https://scryfall.com/card/msc/511/abomination-irradiated-brute?utm_source=api</link>
+      <guid isPermaLink="false">e7436d37-c331-4524-b5d4-861e9d25bfc5</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/b/0b82c865-ae3e-43f0-9ac8-fabdd5539b36.jpg?1781264058&quot; alt=&quot;Abomination, Irradiated Brute&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Abomination, Irradiated Brute&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Gamma Villain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
+&lt;p&gt;Trample&lt;br/&gt;Whenever a Gamma or Villain you control deals combat damage to a player, put that many +1/+1 counters on Abomination.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/511/abomination-irradiated-brute?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/b/0b82c865-ae3e-43f0-9ac8-fabdd5539b36.jpg?1781264058" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Absorbing Man and Titania [Marvel Super Heroes Commander]</title>
+      <link>https://scryfall.com/card/msc/510/absorbing-man-and-titania?utm_source=api</link>
+      <guid isPermaLink="false">a1afb796-1b0b-4f41-9c8f-5320c9af5989</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/f/5f363991-91f2-4675-b0ca-cc7fe230c4ff.jpg?1781264049&quot; alt=&quot;Absorbing Man and Titania&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Absorbing Man and Titania&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{R}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Villain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
+&lt;p&gt;Double all damage that creature sources you control would deal.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/510/absorbing-man-and-titania?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/f/5f363991-91f2-4675-b0ca-cc7fe230c4ff.jpg?1781264049" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>M.O.D.O.K., Evil Intellect [Marvel Super Heroes Commander]</title>
+      <link>https://scryfall.com/card/msc/509/modok-evil-intellect?utm_source=api</link>
+      <guid isPermaLink="false">59f75a19-95cd-4ac8-94f1-27c1f915c34a</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/e/de490be1-4b62-4dc8-ad00-55de74d501dd.jpg?1781264033&quot; alt=&quot;M.O.D.O.K., Evil Intellect&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;M.O.D.O.K., Evil Intellect&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Artifact Creature — Villain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;Whenever you draw your second card each turn, target opponent sacrifices a nontoken creature of their choice.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/509/modok-evil-intellect?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/e/de490be1-4b62-4dc8-ad00-55de74d501dd.jpg?1781264033" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Thanos, Death's Consort [Marvel Super Heroes Commander]</title>
+      <link>https://scryfall.com/card/msc/508/thanos-deaths-consort?utm_source=api</link>
+      <guid isPermaLink="false">3c067370-1e3d-4262-b7d6-f2bb2656b1d8</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/8/4842d520-8bce-4b95-bcb6-bd9eb9374f90.jpg?1781264025&quot; alt=&quot;Thanos, Death's Consort&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Thanos, Death's Consort&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Eternal Villain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
+&lt;p&gt;Lifelink&lt;br/&gt;Whenever another creature dies, put a +1/+1 counter on Thanos.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/508/thanos-deaths-consort?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/8/4842d520-8bce-4b95-bcb6-bd9eb9374f90.jpg?1781264025" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ultron, Machine Overlord [Marvel Super Heroes Commander]</title>
+      <link>https://scryfall.com/card/msc/507/ultron-machine-overlord?utm_source=api</link>
+      <guid isPermaLink="false">19fd953c-b6d4-457f-b85f-b681c5b0e341</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/3/b38f8149-0ab8-42cb-9af6-8c647550ab68.jpg?1781264017&quot; alt=&quot;Ultron, Machine Overlord&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Ultron, Machine Overlord&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {5}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Artifact Creature — Robot Villain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;Other Robots and Constructs you control get +2/+2.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/507/ultron-machine-overlord?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/3/b38f8149-0ab8-42cb-9af6-8c647550ab68.jpg?1781264017" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hawkeye, Trick Shot [Marvel Super Heroes Commander]</title>
+      <link>https://scryfall.com/card/msc/506/hawkeye-trick-shot?utm_source=api</link>
+      <guid isPermaLink="false">ead2aee3-4f95-4ff1-8be9-ea9619e2386e</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/f/0f05832a-395e-44ba-8e1b-1488c3960343.jpg?1781264009&quot; alt=&quot;Hawkeye, Trick Shot&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Hawkeye, Trick Shot&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Archer Hero&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
+&lt;p&gt;First strike, reach&lt;br/&gt;Whenever Hawkeye or another Hero you control enters, it deals damage equal to the number of Heroes you control to any target.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/506/hawkeye-trick-shot?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/f/0f05832a-395e-44ba-8e1b-1488c3960343.jpg?1781264009" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Captain America, Unbowed [Marvel Super Heroes Commander]</title>
+      <link>https://scryfall.com/card/msc/505/captain-america-unbowed?utm_source=api</link>
+      <guid isPermaLink="false">4fa2c9cb-106c-482c-9ba7-5bba2ea9e4a3</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/f/1f482932-a157-4884-934c-20fca1da7a66.jpg?1781264000&quot; alt=&quot;Captain America, Unbowed&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Captain America, Unbowed&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Soldier Hero&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
+&lt;p&gt;Flash&lt;br/&gt;When Captain America enters, Soldiers and Heroes you control gain indestructible until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/505/captain-america-unbowed?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/f/1f482932-a157-4884-934c-20fca1da7a66.jpg?1781264000" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Black Widow, Intel Expert [Marvel Super Heroes Commander]</title>
+      <link>https://scryfall.com/card/msc/504/black-widow-intel-expert?utm_source=api</link>
+      <guid isPermaLink="false">99c3a315-db53-4292-9d31-1efd791d3a13</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/9/49671454-db5d-4b0f-a609-7f717dd96d24.jpg?1781263992&quot; alt=&quot;Black Widow, Intel Expert&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Black Widow, Intel Expert&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Spy Hero&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
+&lt;p&gt;First strike&lt;br/&gt;Whenever Black Widow deals combat damage to an opponent, you and that player each draw two cards.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/504/black-widow-intel-expert?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/9/49671454-db5d-4b0f-a609-7f717dd96d24.jpg?1781263992" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Thor, Guardian of Midgard [Marvel Super Heroes Commander]</title>
+      <link>https://scryfall.com/card/msc/503/thor-guardian-of-midgard?utm_source=api</link>
+      <guid isPermaLink="false">74acdcbc-5185-422a-a236-0a126edd2eee</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/6/36a1069a-5282-42cf-809f-9cf273a1148c.jpg?1781263982&quot; alt=&quot;Thor, Guardian of Midgard&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Thor, Guardian of Midgard&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{R}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — God Warrior Hero&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;Whenever a source you control deals noncombat damage to an opponent, you may exile that many cards from the top of your library. You may play those cards this turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/503/thor-guardian-of-midgard?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/6/36a1069a-5282-42cf-809f-9cf273a1148c.jpg?1781263982" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hulk, Always Angry [Marvel Super Heroes Commander]</title>
+      <link>https://scryfall.com/card/msc/502/hulk-always-angry?utm_source=api</link>
+      <guid isPermaLink="false">495054c8-d21d-4b89-9853-bb299d30ef63</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/a/eab5ca32-fe4c-41d2-9b80-9992ee482c01.jpg?1781263975&quot; alt=&quot;Hulk, Always Angry&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Hulk, Always Angry&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {5}{R}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Gamma Berserker Hero&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
+&lt;p&gt;Trample&lt;br/&gt;When Hulk enters, destroy all artifacts.&lt;br/&gt;Hulk attacks each combat if able.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/502/hulk-always-angry?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/a/eab5ca32-fe4c-41d2-9b80-9992ee482c01.jpg?1781263975" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Iron Man, Futurist Paragon [Marvel Super Heroes Commander]</title>
+      <link>https://scryfall.com/card/msc/501/iron-man-futurist-paragon?utm_source=api</link>
+      <guid isPermaLink="false">eabe9a02-ea47-4548-8933-e5d1269fab25</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/6/266a56d7-c310-4a91-9d1f-a6d55aa17f43.jpg?1781263967&quot; alt=&quot;Iron Man, Futurist Paragon&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Iron Man, Futurist Paragon&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{U}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Artifact Creature — Human Hero&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;At the beginning of combat on your turn, target artifact or creature becomes an artifact creature with base power and toughness 5/5 and gains flying.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/501/iron-man-futurist-paragon?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/6/266a56d7-c310-4a91-9d1f-a6d55aa17f43.jpg?1781263967" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>Thran Dynamo [Marvel Super Heroes Commander]</title>
       <link>https://scryfall.com/card/msc/290/thran-dynamo?utm_source=api</link>
       <guid isPermaLink="false">a699c663-8131-4045-9265-a83e86609374</guid>
@@ -9529,7 +9709,7 @@
       <link>https://scryfall.com/card/msc/285/fellwar-stone?utm_source=api</link>
       <guid isPermaLink="false">95560508-7ac9-4be9-8a3f-3c7d5b52807b</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/e/1e24e2bc-b239-4f9a-85c0-5f272f58ed43.jpg?1780930435&quot; alt=&quot;Fellwar Stone&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/e/1e24e2bc-b239-4f9a-85c0-5f272f58ed43.jpg?1781241479&quot; alt=&quot;Fellwar Stone&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Fellwar Stone&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {2}&lt;/p&gt;
 &lt;p&gt;Typ: Artifact&lt;/p&gt;
@@ -9537,7 +9717,7 @@
 &lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
 &lt;p&gt;{T}: Add one mana of any color that a land an opponent controls could produce.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/285/fellwar-stone?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/1/e/1e24e2bc-b239-4f9a-85c0-5f272f58ed43.jpg?1780930435" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/e/1e24e2bc-b239-4f9a-85c0-5f272f58ed43.jpg?1781241479" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Containment Construct [Marvel Super Heroes Commander]</title>
@@ -9634,7 +9814,7 @@
       <link>https://scryfall.com/card/msc/278/raise-the-palisade?utm_source=api</link>
       <guid isPermaLink="false">f55a3781-fe33-4301-9bb5-6a54b9c13c4f</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/e/ce9347e8-962f-4fc1-808f-b59ac751de13.jpg?1780930414&quot; alt=&quot;Raise the Palisade&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/e/ce9347e8-962f-4fc1-808f-b59ac751de13.jpg?1781241438&quot; alt=&quot;Raise the Palisade&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Raise the Palisade&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {4}{U}&lt;/p&gt;
 &lt;p&gt;Typ: Sorcery&lt;/p&gt;
@@ -9642,7 +9822,7 @@
 &lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
 &lt;p&gt;Choose a creature type. Return all creatures that aren't of the chosen type to their owners' hands.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/278/raise-the-palisade?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/e/ce9347e8-962f-4fc1-808f-b59ac751de13.jpg?1780930414" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/e/ce9347e8-962f-4fc1-808f-b59ac751de13.jpg?1781241438" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Mind's Dilation [Marvel Super Heroes Commander]</title>
@@ -10247,180 +10427,6 @@
 &lt;p&gt;({T}: Add {U} or {R}.)&lt;br/&gt;This land enters tapped.&lt;br/&gt;Cycling {2} ({2}, Discard this card: Draw a card.)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/232/coastal-peak?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/d/2/d2a70a9d-2d9f-4afd-9393-8d6518936ee2.jpg?1780930209" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Clifftop Retreat [Marvel Super Heroes Commander]</title>
-      <link>https://scryfall.com/card/msc/231/clifftop-retreat?utm_source=api</link>
-      <guid isPermaLink="false">d7faa3c8-46cf-46b2-bfa4-89000307cf18</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/a/4a7f7767-1959-4812-8654-0a22634096b1.jpg?1780930216&quot; alt=&quot;Clifftop Retreat&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Clifftop Retreat&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
-&lt;p&gt;This land enters tapped unless you control a Mountain or a Plains.&lt;br/&gt;{T}: Add {R} or {W}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/231/clifftop-retreat?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/a/4a7f7767-1959-4812-8654-0a22634096b1.jpg?1780930216" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Cinder Glade [Marvel Super Heroes Commander]</title>
-      <link>https://scryfall.com/card/msc/230/cinder-glade?utm_source=api</link>
-      <guid isPermaLink="false">dfac0258-e148-4d7d-8ded-fc2466d9caa6</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/c/ec93087a-5728-40e8-8625-a1d175d5252c.jpg?1781014249&quot; alt=&quot;Cinder Glade&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Cinder Glade&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land — Mountain Forest&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
-&lt;p&gt;({T}: Add {R} or {G}.)&lt;br/&gt;This land enters tapped unless you control two or more basic lands.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/230/cinder-glade?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/e/c/ec93087a-5728-40e8-8625-a1d175d5252c.jpg?1781014249" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Choked Estuary [Marvel Super Heroes Commander]</title>
-      <link>https://scryfall.com/card/msc/229/choked-estuary?utm_source=api</link>
-      <guid isPermaLink="false">d473b507-8c33-4118-bc10-b0a268776074</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/c/0c37e84e-e7e0-4dfe-bf17-daeb2e434861.jpg?1781100487&quot; alt=&quot;Choked Estuary&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Choked Estuary&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
-&lt;p&gt;As this land enters, you may reveal an Island or Swamp card from your hand. If you don't, this land enters tapped.&lt;br/&gt;{T}: Add {U} or {B}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/229/choked-estuary?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/0/c/0c37e84e-e7e0-4dfe-bf17-daeb2e434861.jpg?1781100487" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Canyon Slough [Marvel Super Heroes Commander]</title>
-      <link>https://scryfall.com/card/msc/228/canyon-slough?utm_source=api</link>
-      <guid isPermaLink="false">2031b17c-0536-446f-a9aa-b46fe79b7ea7</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/8/587cc3ba-75c2-46a0-bd44-6f953fe1eb01.jpg?1781100481&quot; alt=&quot;Canyon Slough&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Canyon Slough&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land — Swamp Mountain&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
-&lt;p&gt;({T}: Add {B} or {R}.)&lt;br/&gt;This land enters tapped.&lt;br/&gt;Cycling {2} ({2}, Discard this card: Draw a card.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/228/canyon-slough?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/5/8/587cc3ba-75c2-46a0-bd44-6f953fe1eb01.jpg?1781100481" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Canopy Vista [Marvel Super Heroes Commander]</title>
-      <link>https://scryfall.com/card/msc/227/canopy-vista?utm_source=api</link>
-      <guid isPermaLink="false">dcb7e046-f01b-497c-88e5-57794eb30ce5</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/6/369e6485-fbc7-45f9-ac9d-2e26dd94f2d5.jpg?1781014239&quot; alt=&quot;Canopy Vista&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Canopy Vista&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land — Forest Plains&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
-&lt;p&gt;({T}: Add {G} or {W}.)&lt;br/&gt;This land enters tapped unless you control two or more basic lands.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/227/canopy-vista?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/3/6/369e6485-fbc7-45f9-ac9d-2e26dd94f2d5.jpg?1781014239" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Bountiful Promenade [Marvel Super Heroes Commander]</title>
-      <link>https://scryfall.com/card/msc/226/bountiful-promenade?utm_source=api</link>
-      <guid isPermaLink="false">761cb262-f83b-4a99-9345-b773182a7671</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/0/f0b11ba3-68ba-4067-af40-2a55e31b395e.jpg?1781183931&quot; alt=&quot;Bountiful Promenade&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Bountiful Promenade&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
-&lt;p&gt;This land enters tapped unless you have two or more opponents.&lt;br/&gt;{T}: Add {G} or {W}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/226/bountiful-promenade?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/f/0/f0b11ba3-68ba-4067-af40-2a55e31b395e.jpg?1781183931" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Whispersilk Cloak [Marvel Super Heroes Commander]</title>
-      <link>https://scryfall.com/card/msc/225/whispersilk-cloak?utm_source=api</link>
-      <guid isPermaLink="false">9ad4f730-a18e-4a7c-a468-a926c718c741</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/3/a3f31ac4-09ca-4712-a311-50d28824bfad.jpg?1781183924&quot; alt=&quot;Whispersilk Cloak&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Whispersilk Cloak&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact — Equipment&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
-&lt;p&gt;Equipped creature can't be blocked and has shroud. (It can't be the target of spells or abilities.)&lt;br/&gt;Equip {2}&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/225/whispersilk-cloak?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/3/a3f31ac4-09ca-4712-a311-50d28824bfad.jpg?1781183924" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Trading Post [Marvel Super Heroes Commander]</title>
-      <link>https://scryfall.com/card/msc/224/trading-post?utm_source=api</link>
-      <guid isPermaLink="false">63788566-e25a-44bb-bb55-197e1b93b3e8</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/3/03499a72-e865-46ff-bcb2-75e53e4b600e.jpg?1781185157&quot; alt=&quot;Trading Post&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Trading Post&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
-&lt;p&gt;{1}, {T}, Discard a card: You gain 4 life.&lt;br/&gt;{1}, {T}, Pay 1 life: Create a 0/1 white Goat creature token.&lt;br/&gt;{1}, {T}, Sacrifice a creature: Return target artifact card from your graveyard to your hand.&lt;br/&gt;{1}, {T}, Sacrifice an artifact: Draw a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/224/trading-post?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/0/3/03499a72-e865-46ff-bcb2-75e53e4b600e.jpg?1781185157" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Tome of Legends [Marvel Super Heroes Commander]</title>
-      <link>https://scryfall.com/card/msc/223/tome-of-legends?utm_source=api</link>
-      <guid isPermaLink="false">cada2a1c-5db2-4702-9a57-cbe7da1bf208</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/4/84546bb2-6c82-4e3e-8f64-cb7aa865ee60.jpg?1780930202&quot; alt=&quot;Tome of Legends&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Tome of Legends&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact — Book&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
-&lt;p&gt;This artifact enters with a page counter on it.&lt;br/&gt;Whenever your commander enters or attacks, put a page counter on this artifact.&lt;br/&gt;{1}, {T}, Remove a page counter from this artifact: Draw a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/223/tome-of-legends?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/4/84546bb2-6c82-4e3e-8f64-cb7aa865ee60.jpg?1780930202" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Thought Vessel [Marvel Super Heroes Commander]</title>
-      <link>https://scryfall.com/card/msc/222/thought-vessel?utm_source=api</link>
-      <guid isPermaLink="false">9965d9c5-2ebf-4a6c-930e-55c5890979be</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/e/6ec6a910-f6d0-4225-8b55-d329dc788c64.jpg?1780930195&quot; alt=&quot;Thought Vessel&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Thought Vessel&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
-&lt;p&gt;You have no maximum hand size.&lt;br/&gt;{T}: Add {C}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/222/thought-vessel?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/6/e/6ec6a910-f6d0-4225-8b55-d329dc788c64.jpg?1780930195" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Talisman of Progress [Marvel Super Heroes Commander]</title>
-      <link>https://scryfall.com/card/msc/221/talisman-of-progress?utm_source=api</link>
-      <guid isPermaLink="false">00e35322-1a9a-41e3-9ce1-359c8eaa3bc7</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/3/b356ee36-1c62-4097-87d7-fef6a6dad067.jpg?1780930189&quot; alt=&quot;Talisman of Progress&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Talisman of Progress&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
-&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}: Add {W} or {U}. This artifact deals 1 damage to you.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/221/talisman-of-progress?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/3/b356ee36-1c62-4097-87d7-fef6a6dad067.jpg?1780930189" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Talisman of Indulgence [Marvel Super Heroes Commander]</title>
-      <link>https://scryfall.com/card/msc/220/talisman-of-indulgence?utm_source=api</link>
-      <guid isPermaLink="false">1d9aeaaa-66f6-41cb-9bac-162d6fd8662c</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/c/ccacf88d-407d-465d-958a-1389b7d700e6.jpg?1781100475&quot; alt=&quot;Talisman of Indulgence&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Talisman of Indulgence&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
-&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}: Add {B} or {R}. This artifact deals 1 damage to you.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/220/talisman-of-indulgence?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/c/ccacf88d-407d-465d-958a-1389b7d700e6.jpg?1781100475" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
