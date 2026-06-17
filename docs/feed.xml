@@ -5,7 +5,7 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 12 Jun 2026 20:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 03:26:00 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
     <item>
@@ -437,6 +437,21 @@
 &lt;p&gt;As this enchantment enters, choose a creature type.&lt;br/&gt;Creatures you control of the chosen type get +2/+2.&lt;br/&gt;//&lt;br/&gt;Create X 2/2 red Dwarf creature tokens. (Then exile this card. You may cast the enchantment later from exile.)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/29/an-unexpected-party-at-the-door?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/3/a/3aa29fe8-1687-486f-b4df-c04977869ab1.jpg?1777683842" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fabricate [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/7124/fabricate?utm_source=api</link>
+      <guid isPermaLink="false">422e1869-134f-463d-9fa1-86b66a998b3e</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/a/2a9229b8-088e-4c8d-953a-9d8143a0200d.jpg?1781624399&quot; alt=&quot;Fabricate&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Fabricate&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Search your library for an artifact card, reveal it, put it into your hand, then shuffle.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/7124/fabricate?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/a/2a9229b8-088e-4c8d-953a-9d8143a0200d.jpg?1781624399" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Prismatic Ending [MagicFest 2026]</title>
@@ -3391,7 +3406,7 @@
       <link>https://scryfall.com/card/msh/78/super-suit?utm_source=api</link>
       <guid isPermaLink="false">606092eb-8fe3-4ef7-aaf1-2d3b2687d27a</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/8/e87f3a26-c2e5-47c7-b19d-bc01cb794805.jpg?1780919670&quot; alt=&quot;Super Suit&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/8/e87f3a26-c2e5-47c7-b19d-bc01cb794805.jpg?1781622046&quot; alt=&quot;Super Suit&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Super Suit&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {1}{U}&lt;/p&gt;
 &lt;p&gt;Typ: Artifact — Equipment&lt;/p&gt;
@@ -3399,7 +3414,7 @@
 &lt;p&gt;Set: Marvel Super Heroes&lt;/p&gt;
 &lt;p&gt;Flash&lt;br/&gt;When this Equipment enters, attach it to target creature you control. Untap that creature.&lt;br/&gt;Equipped creature gets +1/+2.&lt;br/&gt;Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msh/78/super-suit?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/e/8/e87f3a26-c2e5-47c7-b19d-bc01cb794805.jpg?1780919670" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/8/e87f3a26-c2e5-47c7-b19d-bc01cb794805.jpg?1781622046" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Super Intelligence [Marvel Super Heroes]</title>
@@ -7855,15 +7870,15 @@
       <link>https://scryfall.com/card/msc/637/shiar-soldier?utm_source=api</link>
       <guid isPermaLink="false">f20ec8e2-d6e4-4707-9b86-107dbc09ac63</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/f/7fb26734-efbf-4d0b-9fcc-63a2db68adba.jpg?1780917858&quot; alt=&quot;Shi'ar Soldier&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/f/7fb26734-efbf-4d0b-9fcc-63a2db68adba.jpg?1781287677&quot; alt=&quot;Shi'ar Soldier&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Shi'ar Soldier&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {1}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Shi-Ar Soldier&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Shi'ar Soldier&lt;/p&gt;
 &lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
 &lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
 &lt;p&gt;Flying&lt;br/&gt;{U}, {T}: Return another target permanent you control to its owner's hand. Activate only during your turn.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/637/shiar-soldier?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/7/f/7fb26734-efbf-4d0b-9fcc-63a2db68adba.jpg?1780917858" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/f/7fb26734-efbf-4d0b-9fcc-63a2db68adba.jpg?1781287677" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Reed Richards, Smartest Man [Marvel Super Heroes Commander]</title>
@@ -10413,20 +10428,6 @@
 &lt;p&gt;{T}: Add one mana of any color in your commander's color identity.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/233/command-tower?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/0/5/0548fb60-c843-4f8f-a029-6f10efc63a41.jpg?1780930249" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Coastal Peak [Marvel Super Heroes Commander]</title>
-      <link>https://scryfall.com/card/msc/232/coastal-peak?utm_source=api</link>
-      <guid isPermaLink="false">0e25faa2-efb0-4ca5-b280-18c38faa860c</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/2/d2a70a9d-2d9f-4afd-9393-8d6518936ee2.jpg?1780930209&quot; alt=&quot;Coastal Peak&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Coastal Peak&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land — Island Mountain&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Marvel Super Heroes Commander&lt;/p&gt;
-&lt;p&gt;({T}: Add {U} or {R}.)&lt;br/&gt;This land enters tapped.&lt;br/&gt;Cycling {2} ({2}, Discard this card: Draw a card.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/msc/232/coastal-peak?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/2/d2a70a9d-2d9f-4afd-9393-8d6518936ee2.jpg?1780930209" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
