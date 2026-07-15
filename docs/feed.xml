@@ -5,569 +5,9 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 14 Jul 2026 20:53:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 09:56:48 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
-    <item>
-      <title>Watery Grave [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/306/watery-grave?utm_source=api</link>
-      <guid isPermaLink="false">fc9ec820-4245-4a96-b009-5308a818ca58</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/5/5525d6a6-e532-4047-9da4-bfae7927fecc.jpg?1784036860&quot; alt=&quot;Watery Grave&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Watery Grave&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land — Island Swamp&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;({T}: Add {U} or {B}.)&lt;br/&gt;As this land enters, you may pay 2 life. If you don't, it enters tapped.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/306/watery-grave?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/5/5/5525d6a6-e532-4047-9da4-bfae7927fecc.jpg?1784036860" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Temple Garden [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/301/temple-garden?utm_source=api</link>
-      <guid isPermaLink="false">f413a83d-a40d-434c-b20a-4c707c0527fa</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/9/b9b0589d-f327-46a7-8bac-06b7654c547a.jpg?1784036854&quot; alt=&quot;Temple Garden&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Temple Garden&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land — Forest Plains&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;({T}: Add {G} or {W}.)&lt;br/&gt;As this land enters, you may pay 2 life. If you don't, it enters tapped.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/301/temple-garden?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/9/b9b0589d-f327-46a7-8bac-06b7654c547a.jpg?1784036854" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Stomping Ground [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/299/stomping-ground?utm_source=api</link>
-      <guid isPermaLink="false">16052b52-ade1-406f-a06b-ce7ea607fb63</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/e/1ee8255a-44f6-4faa-9843-15432bf751ea.jpg?1784036851&quot; alt=&quot;Stomping Ground&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Stomping Ground&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land — Mountain Forest&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;({T}: Add {R} or {G}.)&lt;br/&gt;As this land enters, you may pay 2 life. If you don't, it enters tapped.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/299/stomping-ground?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/1/e/1ee8255a-44f6-4faa-9843-15432bf751ea.jpg?1784036851" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Steam Vents [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/298/steam-vents?utm_source=api</link>
-      <guid isPermaLink="false">17039058-822d-409f-938c-b727a366ba63</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/8/a83903c7-fd51-4526-aed2-359e946fea36.jpg?1784036844&quot; alt=&quot;Steam Vents&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Steam Vents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land — Island Mountain&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;({T}: Add {U} or {R}.)&lt;br/&gt;As this land enters, you may pay 2 life. If you don't, it enters tapped.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/298/steam-vents?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/8/a83903c7-fd51-4526-aed2-359e946fea36.jpg?1784036844" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Sacred Foundry [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/295/sacred-foundry?utm_source=api</link>
-      <guid isPermaLink="false">45181cb8-2090-4471-ba90-e5a8f04d525f</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/7/a7758cc6-4e18-48a5-8720-5f42b5cd9d31.jpg?1784036842&quot; alt=&quot;Sacred Foundry&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Sacred Foundry&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land — Mountain Plains&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;({T}: Add {R} or {W}.)&lt;br/&gt;As this land enters, you may pay 2 life. If you don't, it enters tapped.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/295/sacred-foundry?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/7/a7758cc6-4e18-48a5-8720-5f42b5cd9d31.jpg?1784036842" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Overgrown Tomb [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/289/overgrown-tomb?utm_source=api</link>
-      <guid isPermaLink="false">975ec9a3-6f20-4177-8211-82526e092538</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/d/ad7e18e2-c033-4b6c-86e8-d0e5cc824cfd.jpg?1784036836&quot; alt=&quot;Overgrown Tomb&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Overgrown Tomb&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land — Swamp Forest&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;({T}: Add {B} or {G}.)&lt;br/&gt;As this land enters, you may pay 2 life. If you don't, it enters tapped.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/289/overgrown-tomb?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/d/ad7e18e2-c033-4b6c-86e8-d0e5cc824cfd.jpg?1784036836" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Hallowed Fountain [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/286/hallowed-fountain?utm_source=api</link>
-      <guid isPermaLink="false">f1750962-a87c-49f6-b731-02ae971ac6ea</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/7/b7285986-7e08-4969-86ef-452dc5bfdd9f.jpg?1784036830&quot; alt=&quot;Hallowed Fountain&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Hallowed Fountain&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land — Plains Island&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;({T}: Add {W} or {U}.)&lt;br/&gt;As this land enters, you may pay 2 life. If you don't, it enters tapped.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/286/hallowed-fountain?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/7/b7285986-7e08-4969-86ef-452dc5bfdd9f.jpg?1784036830" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Godless Shrine [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/285/godless-shrine?utm_source=api</link>
-      <guid isPermaLink="false">73864fcc-1bde-4bc0-831e-2b93e546e417</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/f/8fbd1ae0-3d4c-492a-a1ea-85a95fa3d7b6.jpg?1784036826&quot; alt=&quot;Godless Shrine&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Godless Shrine&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land — Plains Swamp&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;({T}: Add {W} or {B}.)&lt;br/&gt;As this land enters, you may pay 2 life. If you don't, it enters tapped.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/285/godless-shrine?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/f/8fbd1ae0-3d4c-492a-a1ea-85a95fa3d7b6.jpg?1784036826" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Breeding Pool [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/279/breeding-pool?utm_source=api</link>
-      <guid isPermaLink="false">20283c4a-f1f0-42f0-bc08-6da87474426b</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/3/63e4dc07-c742-41bd-8301-861637908fd1.jpg?1784036820&quot; alt=&quot;Breeding Pool&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Breeding Pool&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land — Forest Island&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;({T}: Add {G} or {U}.)&lt;br/&gt;As this land enters, you may pay 2 life. If you don't, it enters tapped.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/279/breeding-pool?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/6/3/63e4dc07-c742-41bd-8301-861637908fd1.jpg?1784036820" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Blood Crypt [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/278/blood-crypt?utm_source=api</link>
-      <guid isPermaLink="false">43985bbc-a0f6-4812-984e-392bc8562633</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/b/1b7eb998-3ec0-4cbc-a416-5a1e3e5a7316.jpg?1784036817&quot; alt=&quot;Blood Crypt&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Blood Crypt&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land — Swamp Mountain&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;({T}: Add {B} or {R}.)&lt;br/&gt;As this land enters, you may pay 2 life. If you don't, it enters tapped.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/278/blood-crypt?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/1/b/1b7eb998-3ec0-4cbc-a416-5a1e3e5a7316.jpg?1784036817" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>U.S.S. Enterprise-D, Galaxy-Class [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/273/uss-enterprise-d-galaxy-class?utm_source=api</link>
-      <guid isPermaLink="false">d95af032-3efd-40c7-8229-ade9d974934f</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/5/057a4413-6a17-491e-bfd7-6cd427b1a442.jpg?1784036810&quot; alt=&quot;U.S.S. Enterprise-D, Galaxy-Class&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;U.S.S. Enterprise-D, Galaxy-Class&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Artifact — Spacecraft&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;Whenever one or more charge counters are put on U.S.S. Enterprise-D for the first time each turn, exile the top card of your library. You may play that card this turn.&lt;br/&gt;Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)&lt;br/&gt;7+ | Flying, vigilance&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/273/uss-enterprise-d-galaxy-class?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/0/5/057a4413-6a17-491e-bfd7-6cd427b1a442.jpg?1784036810" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Crystalline Entity [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/261/crystalline-entity?utm_source=api</link>
-      <guid isPermaLink="false">ca6f43d8-1498-4a13-b1cc-2d135b24a8b6</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/b/cbc4ac70-0a4c-4973-a366-dd67d8901e21.jpg?1784036804&quot; alt=&quot;Crystalline Entity&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Crystalline Entity&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {8}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact Creature — Elemental&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;Flying&lt;br/&gt;When this creature enters, if you cast it, destroy all nonartifact creatures.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/261/crystalline-entity?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/b/cbc4ac70-0a4c-4973-a366-dd67d8901e21.jpg?1784036804" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Seven of Nine [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/252/seven-of-nine?utm_source=api</link>
-      <guid isPermaLink="false">3c037865-d38c-48da-aee9-308975e12638</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/2/6204cfdb-6fb4-4030-96b6-9306c8266bcf.jpg?1784036800&quot; alt=&quot;Seven of Nine&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Seven of Nine&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{U}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Artifact Creature — Human Scientist&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;Whenever you face a dilemma, draw a card. (You face a dilemma as you choose one or more modes for a spell or ability.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/252/seven-of-nine?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/6/2/6204cfdb-6fb4-4030-96b6-9306c8266bcf.jpg?1784036800" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>The City on the Edge of Forever [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/228/the-city-on-the-edge-of-forever?utm_source=api</link>
-      <guid isPermaLink="false">47c9ef8c-7ba7-4702-bd8c-5fedc59c8166</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/a/aac6f64d-d39a-4994-bc70-6b477b2640f8.jpg?1784036790&quot; alt=&quot;The City on the Edge of Forever&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;The City on the Edge of Forever&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{W}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Enchantment — Saga&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)&lt;br/&gt;I — All artifacts and creatures phase out. Create a 0/1 white Human creature token with &quot;Permanents can't phase in.&quot; (Treat phased-out permanents and anything attached to them as though they don't exist.)&lt;br/&gt;II — You draw two cards and each player loses 2 life.&lt;br/&gt;III — Sacrifice a creature token. If you do, you gain 5 life.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/228/the-city-on-the-edge-of-forever?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/a/aac6f64d-d39a-4994-bc70-6b477b2640f8.jpg?1784036790" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Captain Kathryn Janeway [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/187/captain-kathryn-janeway?utm_source=api</link>
-      <guid isPermaLink="false">d77d1895-ce02-4302-87c9-649e852fd0ea</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/1/d17ea45c-7f9c-411f-b7d3-ca7100ffe53b.jpg?1784036788&quot; alt=&quot;Captain Kathryn Janeway&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Captain Kathryn Janeway&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Officer&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;You may play an additional land on each of your turns.&lt;br/&gt;Whenever Captain Janeway or another creature you control enters, that creature explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/187/captain-kathryn-janeway?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/1/d17ea45c-7f9c-411f-b7d3-ca7100ffe53b.jpg?1784036788" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Amok Time [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/183/amok-time?utm_source=api</link>
-      <guid isPermaLink="false">98a752ff-f041-4032-9f3f-c6c4007f10f1</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/3/d31447b6-484f-4dda-b6af-ab068a84f896.jpg?1784036780&quot; alt=&quot;Amok Time&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Amok Time&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Enchantment — Saga&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)&lt;br/&gt;I — Target creature you control fights up to one target creature an opponent controls.&lt;br/&gt;II — You gain 3 life.&lt;br/&gt;III — Return target creature card from your graveyard to your hand.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/183/amok-time?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/3/d31447b6-484f-4dda-b6af-ab068a84f896.jpg?1784036780" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Captain James T. Kirk [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/142/captain-james-t-kirk?utm_source=api</link>
-      <guid isPermaLink="false">19edde54-153f-46b8-8a8d-a20fdef0667f</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/0/40a0466d-20bb-4ed5-858d-947fb9144580.jpg?1784036779&quot; alt=&quot;Captain James T. Kirk&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Captain James T. Kirk&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Officer&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;Whenever Captain Kirk enters or attacks, choose one. If you have no cards in hand, choose one or more instead.&lt;br/&gt;• Discard a card, then draw a card.&lt;br/&gt;• Create a 1/1 red Officer creature token.&lt;br/&gt;• Creatures you control get +1/+0 until end of turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/142/captain-james-t-kirk?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/0/40a0466d-20bb-4ed5-858d-947fb9144580.jpg?1784036779" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Beckett Mariner, Impetuous Ensign [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/138/beckett-mariner-impetuous-ensign?utm_source=api</link>
-      <guid isPermaLink="false">1033a0cb-1a00-46c4-83d5-68a6eac85feb</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/2/f2001bbd-63ee-4a6e-8e01-3a91aaf1e3b9.jpg?1784036771&quot; alt=&quot;Beckett Mariner, Impetuous Ensign&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Beckett Mariner, Impetuous Ensign&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Officer&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;First strike&lt;br/&gt;Reckless Behavior — Whenever Beckett Mariner becomes tapped, put a promotion counter on her. Then if there are three or more promotion counters on her, remove those counters and she deals 2 damage to each opponent.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/138/beckett-mariner-impetuous-ensign?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/f/2/f2001bbd-63ee-4a6e-8e01-3a91aaf1e3b9.jpg?1784036771" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Salt Vampire [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/127/salt-vampire?utm_source=api</link>
-      <guid isPermaLink="false">31c7453e-33b8-4eb6-abac-28cdb35fb993</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/8/78faba81-01a3-489f-927e-1adaa8fe4436.jpg?1784036770&quot; alt=&quot;Salt Vampire&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Salt Vampire&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Vampire Shapeshifter&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;Lifelink&lt;br/&gt;When this creature enters, look at target opponent's hand. You may choose a nonland card from it. If you do, that player exiles that card, then draws a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/127/salt-vampire?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/7/8/78faba81-01a3-489f-927e-1adaa8fe4436.jpg?1784036770" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>In the Pale Moonlight [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/117/in-the-pale-moonlight?utm_source=api</link>
-      <guid isPermaLink="false">90c78f79-982f-4acd-a8ba-0c6ce115a248</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/7/47c8262c-e0c6-4c1a-b1c1-3b5fe5252a9c.jpg?1784036796&quot; alt=&quot;In the Pale Moonlight&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;In the Pale Moonlight&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{B}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Enchantment — Saga&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)&lt;br/&gt;I — Each opponent sacrifices a nontoken creature of their choice.&lt;br/&gt;II — Investigate. (Create a Clue token. It's an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)&lt;br/&gt;III — You may sacrifice an artifact or creature. If you do, create two 2/2 black Romulan creature tokens.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/117/in-the-pale-moonlight?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/7/47c8262c-e0c6-4c1a-b1c1-3b5fe5252a9c.jpg?1784036796" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Hoshi Sato, Exolinguist [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/64/hoshi-sato-exolinguist?utm_source=api</link>
-      <guid isPermaLink="false">39426cd1-8c0d-4ec6-8747-f0693080f8f2</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/4/24589f4d-c530-4f6a-b2d0-450ef70fca71.jpg?1784036762&quot; alt=&quot;Hoshi Sato, Exolinguist&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Hoshi Sato, Exolinguist&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Scientist&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;Federation — When Hoshi Sato enters, look at the top X cards of your library, where X is the number of creature types among non-Borg creatures you control. Put one of them into your hand and the rest on the bottom of your library in a random order.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/64/hoshi-sato-exolinguist?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/4/24589f4d-c530-4f6a-b2d0-450ef70fca71.jpg?1784036762" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Highly Illogical [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/62/highly-illogical?utm_source=api</link>
-      <guid isPermaLink="false">38c43f30-0e01-4dcd-88fc-f1de318a5e29</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/1/11c94c5f-abf4-429e-8703-c5db9abd79bf.jpg?1784036759&quot; alt=&quot;Highly Illogical&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Highly Illogical&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)&lt;br/&gt;Counter target spell with mana value 2 or less. If this spell was kicked, instead counter target spell.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/62/highly-illogical?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/1/1/11c94c5f-abf4-429e-8703-c5db9abd79bf.jpg?1784036759" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Consider the Prime Directive [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/51/consider-the-prime-directive?utm_source=api</link>
-      <guid isPermaLink="false">9f1d416c-60de-4796-a513-097d1d9a2305</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/e/4e8f75b8-cca7-4ed3-90db-bcac02e74611.jpg?1784036751&quot; alt=&quot;Consider the Prime Directive&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Consider the Prime Directive&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;Choose one —&lt;br/&gt;• Interfere — Counter target spell unless its controller pays {3}.&lt;br/&gt;• Observe — Tap up to one target creature and put a stun counter on it. Draw a card. (If a permanent with a stun counter would become untapped, remove one from it instead.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/51/consider-the-prime-directive?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/e/4e8f75b8-cca7-4ed3-90db-bcac02e74611.jpg?1784036751" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Set Phasers to . . . [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/34/set-phasers-to-?utm_source=api</link>
-      <guid isPermaLink="false">4da9b548-898d-431b-8aa5-9cb7bf579219</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/4/54dbf416-973d-46c8-b9be-e863283d328b.jpg?1784036750&quot; alt=&quot;Set Phasers to . . .&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Set Phasers to . . .&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {W}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;Choose one —&lt;br/&gt;• Stun — Tap target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)&lt;br/&gt;• Kill — This spell deals 3 damage to target attacking creature.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/34/set-phasers-to-?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/5/4/54dbf416-973d-46c8-b9be-e863283d328b.jpg?1784036750" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Dr. Beverly Crusher [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/13/dr-beverly-crusher?utm_source=api</link>
-      <guid isPermaLink="false">5fe6f4ae-3fb1-4df6-8760-88c8666068df</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/f/ef9c5790-d909-4271-90bd-5fa4816ddd6b.jpg?1784036742&quot; alt=&quot;Dr. Beverly Crusher&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Dr. Beverly Crusher&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Doctor&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;If you gaining life causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.&lt;br/&gt;Whenever you gain life, put a +1/+1 counter on Dr. Crusher.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/13/dr-beverly-crusher?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/e/f/ef9c5790-d909-4271-90bd-5fa4816ddd6b.jpg?1784036742" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Brad Boimler, Eager Ensign [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/5/brad-boimler-eager-ensign?utm_source=api</link>
-      <guid isPermaLink="false">10af9cd9-1700-48f9-97e1-61e239536fef</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/6/a6bf1525-2212-46d0-ad4d-1dbaa2e3b3cd.jpg?1784036739&quot; alt=&quot;Brad Boimler, Eager Ensign&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Brad Boimler, Eager Ensign&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Officer&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;Lifelink&lt;br/&gt;Whenever Brad Boimler becomes tapped, until end of turn, if one or more counters would be put on a permanent you control, that many plus one of each of those kinds of counters are put on that permanent instead.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/5/brad-boimler-eager-ensign?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/6/a6bf1525-2212-46d0-ad4d-1dbaa2e3b3cd.jpg?1784036739" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Tenacious Tosk [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/201/tenacious-tosk?utm_source=api</link>
-      <guid isPermaLink="false">48c2dc82-7bed-4730-8b8b-1970b743414f</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/a/4adec7ae-b6aa-4018-bbc8-7ad378cbb1f8.jpg?1784036732&quot; alt=&quot;Tenacious Tosk&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Tenacious Tosk&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Tosk Rogue&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;This creature can't be blocked by more than one creature.&lt;br/&gt;Whenever this creature deals combat damage to a player, put a +1/+1 counter on it.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/201/tenacious-tosk?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/a/4adec7ae-b6aa-4018-bbc8-7ad378cbb1f8.jpg?1784036732" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Benjamin Sisko, Besieged [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/200/benjamin-sisko-besieged?utm_source=api</link>
-      <guid isPermaLink="false">f1416577-97d0-4d6c-afd2-455798556d4c</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/c/6cf853b8-4479-424d-998a-4fc53456c38b.jpg?1784036727&quot; alt=&quot;Benjamin Sisko, Besieged&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Benjamin Sisko, Besieged&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Officer&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;Play with the top card of your library revealed.&lt;br/&gt;You may play lands and cast creature spells from the top of your library.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/200/benjamin-sisko-besieged?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/6/c/6cf853b8-4479-424d-998a-4fc53456c38b.jpg?1784036727" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Klingon Strike Force [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/199/klingon-strike-force?utm_source=api</link>
-      <guid isPermaLink="false">847efb61-5933-43c1-93ff-e8375f9469a9</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/c/bc121e37-b01c-4cf3-bd41-19a1cb21caa5.jpg?1784036722&quot; alt=&quot;Klingon Strike Force&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Klingon Strike Force&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{R}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Klingon Warrior&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;Trample (This creature can deal excess combat damage to the player it's attacking.)&lt;br/&gt;Haste (This creature can attack and {T} as soon as it comes under your control.)&lt;br/&gt;When this creature dies, it deals 2 damage to each opponent.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/199/klingon-strike-force?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/c/bc121e37-b01c-4cf3-bd41-19a1cb21caa5.jpg?1784036722" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Kirk, Enterprising Captain [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/198/kirk-enterprising-captain?utm_source=api</link>
-      <guid isPermaLink="false">6a70e571-6932-45d8-9f14-ede4a561cc49</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/1/e1d339e1-3433-4630-965e-1841e46b40a4.jpg?1784036716&quot; alt=&quot;Kirk, Enterprising Captain&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Kirk, Enterprising Captain&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Officer&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;Menace (This creature can't be blocked except by two or more creatures.)&lt;br/&gt;Whenever Kirk attacks while creatures you control have total power 8 or greater, exile the top card of your library. You may play that card this turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/198/kirk-enterprising-captain?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/e/1/e1d339e1-3433-4630-965e-1841e46b40a4.jpg?1784036716" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Borg Queen, Perfection Manifest [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/197/borg-queen-perfection-manifest?utm_source=api</link>
-      <guid isPermaLink="false">f9b46a1a-474f-4fac-8d71-131c1720e4c0</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/b/cb07e5e4-154e-4ba5-85a4-ecc78f1555d2.jpg?1784036713&quot; alt=&quot;Borg Queen, Perfection Manifest&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Borg Queen, Perfection Manifest&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}{B}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Artifact Creature — Borg Noble&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;Artifact creatures you control get +2/+0.&lt;br/&gt;When Borg Queen enters, assimilate target creature card from an opponent's graveyard. (Put it onto the battlefield under your control with a +1/+1 counter. It's a Borg artifact creature and loses all other creature types.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/197/borg-queen-perfection-manifest?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/b/cb07e5e4-154e-4ba5-85a4-ecc78f1555d2.jpg?1784036713" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Bio-Asset Allocator [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/196/bio-asset-allocator?utm_source=api</link>
-      <guid isPermaLink="false">1ca22ca0-eca3-4578-9746-47d443d5fb73</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/b/fb9805a5-eea3-48a8-92b6-7387bb23bc88.jpg?1784036706&quot; alt=&quot;Bio-Asset Allocator&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Bio-Asset Allocator&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{B}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact Creature — Borg&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;Artifact creatures you control have &quot;Whenever this creature attacks, each opponent loses 1 life and you gain 1 life.&quot;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/196/bio-asset-allocator?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/f/b/fb9805a5-eea3-48a8-92b6-7387bb23bc88.jpg?1784036706" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Trelane, Squire of Gothos [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/195/trelane-squire-of-gothos?utm_source=api</link>
-      <guid isPermaLink="false">3c516327-00a3-4d03-87a3-73b4a90719d3</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/f/3ff8a24f-2771-454b-abb3-619b1c56f7e9.jpg?1784036704&quot; alt=&quot;Trelane, Squire of Gothos&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Trelane, Squire of Gothos&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {5}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Q&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;Vigilance (Attacking doesn't cause this creature to tap.)&lt;br/&gt;Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)&lt;br/&gt;Trelane can't be blocked.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/195/trelane-squire-of-gothos?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/3/f/3ff8a24f-2771-454b-abb3-619b1c56f7e9.jpg?1784036704" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Spock, Logical Choice [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/194/spock-logical-choice?utm_source=api</link>
-      <guid isPermaLink="false">a877820f-8999-4dfe-a50d-09f63c885ce3</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/a/5a741052-e92d-4e9c-8cfa-3b5ed1f432f5.jpg?1784036697&quot; alt=&quot;Spock, Logical Choice&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Spock, Logical Choice&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{U}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Vulcan Human Scientist&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;Vigilance (Attacking doesn't cause this creature to tap.)&lt;br/&gt;{T}: Draw a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/194/spock-logical-choice?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/5/a/5a741052-e92d-4e9c-8cfa-3b5ed1f432f5.jpg?1784036697" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Picard, Steadfast Captain [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/193/picard-steadfast-captain?utm_source=api</link>
-      <guid isPermaLink="false">cda786aa-1259-45e8-a834-21c7ad0259a6</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/d/ddfbfc4f-eeea-4b49-92c2-3060e2cef830.jpg?1784036694&quot; alt=&quot;Picard, Steadfast Captain&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Picard, Steadfast Captain&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}{W}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Officer&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;Whenever Picard enters or attacks, put two +1/+1 counters on another target creature you control.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/193/picard-steadfast-captain?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/d/ddfbfc4f-eeea-4b49-92c2-3060e2cef830.jpg?1784036694" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Operations Officer [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/192/operations-officer?utm_source=api</link>
-      <guid isPermaLink="false">c8ed45e6-ae4f-4c44-9f73-45793f30acd6</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/0/40a37274-af28-4019-86fc-197e764e9e3e.jpg?1784036684&quot; alt=&quot;Operations Officer&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Operations Officer&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Human Officer&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;Lifelink (Damage dealt by this creature also causes you to gain that much life.)&lt;br/&gt;When this creature enters, draw a card.&lt;br/&gt;Whenever this creature attacks, put a +1/+1 counter on it.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/192/operations-officer?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/0/40a37274-af28-4019-86fc-197e764e9e3e.jpg?1784036684" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Captain Kirk, Boldly Going [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/85/captain-kirk-boldly-going?utm_source=api</link>
-      <guid isPermaLink="false">5228fffe-6347-4177-bccb-b15621c7159c</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/b/6b5d9bd2-cc78-4c30-b6ee-65b76c60a588.jpg?1783902729&quot; alt=&quot;Captain Kirk, Boldly Going&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Captain Kirk, Boldly Going&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{G}{W}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Officer&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;Vigilance&lt;br/&gt;Spacecraft creatures you control get +3/+3.&lt;br/&gt;Whenever Captain Kirk enters or attacks, search your library and/or graveyard for a basic land card or a card named Starship Enterprise, reveal it, and put it into your hand. If you search your library this way, shuffle.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/85/captain-kirk-boldly-going?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/6/b/6b5d9bd2-cc78-4c30-b6ee-65b76c60a588.jpg?1783902729" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Sheoldred, the Apocalypse [Stardates]</title>
-      <link>https://scryfall.com/card/sds/11/sheoldred-the-apocalypse?utm_source=api</link>
-      <guid isPermaLink="false">34f34409-326d-4994-a0ea-1a69aa278f03</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/6/c68629ff-72b3-40a2-b578-cddb6ddb4ccf.jpg?1784038066&quot; alt=&quot;Sheoldred, the Apocalypse&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Sheoldred, the Apocalypse&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{B}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Phyrexian Praetor&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Stardates&lt;/p&gt;
-&lt;p&gt;Deathtouch&lt;br/&gt;Whenever you draw a card, you gain 2 life.&lt;br/&gt;Whenever an opponent draws a card, they lose 2 life.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sds/11/sheoldred-the-apocalypse?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/6/c68629ff-72b3-40a2-b578-cddb6ddb4ccf.jpg?1784038066" type="image/jpeg" length="0"/>
-    </item>
     <item>
       <title>Burst Lightning [Wizards Play Network 2026]</title>
       <link>https://scryfall.com/card/pw26/20/burst-lightning?utm_source=api</link>
@@ -612,6 +52,596 @@
 &lt;p&gt;Trample&lt;br/&gt;When this creature dies, it deals 1 damage to any target.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pw26/18/munitions-enthusiast?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/1/7/1750e98f-344d-4fdd-bc9f-2ef239781a24.jpg?1784037472" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Watery Grave [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/306/watery-grave?utm_source=api</link>
+      <guid isPermaLink="false">fc9ec820-4245-4a96-b009-5308a818ca58</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/5/5525d6a6-e532-4047-9da4-bfae7927fecc.jpg?1784036860&quot; alt=&quot;Watery Grave&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Watery Grave&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land — Island Swamp&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;({T}: Add {U} or {B}.)&lt;br/&gt;As this land enters, you may pay 2 life. If you don't, it enters tapped.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/306/watery-grave?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/5/5525d6a6-e532-4047-9da4-bfae7927fecc.jpg?1784036860" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Temple Garden [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/301/temple-garden?utm_source=api</link>
+      <guid isPermaLink="false">f413a83d-a40d-434c-b20a-4c707c0527fa</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/9/b9b0589d-f327-46a7-8bac-06b7654c547a.jpg?1784036854&quot; alt=&quot;Temple Garden&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Temple Garden&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land — Forest Plains&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;({T}: Add {G} or {W}.)&lt;br/&gt;As this land enters, you may pay 2 life. If you don't, it enters tapped.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/301/temple-garden?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/9/b9b0589d-f327-46a7-8bac-06b7654c547a.jpg?1784036854" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Stomping Ground [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/299/stomping-ground?utm_source=api</link>
+      <guid isPermaLink="false">16052b52-ade1-406f-a06b-ce7ea607fb63</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/e/1ee8255a-44f6-4faa-9843-15432bf751ea.jpg?1784065855&quot; alt=&quot;Stomping Ground&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Stomping Ground&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land — Mountain Forest&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;({T}: Add {R} or {G}.)&lt;br/&gt;As this land enters, you may pay 2 life. If you don't, it enters tapped.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/299/stomping-ground?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/e/1ee8255a-44f6-4faa-9843-15432bf751ea.jpg?1784065855" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Steam Vents [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/298/steam-vents?utm_source=api</link>
+      <guid isPermaLink="false">17039058-822d-409f-938c-b727a366ba63</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/8/a83903c7-fd51-4526-aed2-359e946fea36.jpg?1784036844&quot; alt=&quot;Steam Vents&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Steam Vents&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land — Island Mountain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;({T}: Add {U} or {R}.)&lt;br/&gt;As this land enters, you may pay 2 life. If you don't, it enters tapped.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/298/steam-vents?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/8/a83903c7-fd51-4526-aed2-359e946fea36.jpg?1784036844" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sacred Foundry [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/295/sacred-foundry?utm_source=api</link>
+      <guid isPermaLink="false">45181cb8-2090-4471-ba90-e5a8f04d525f</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/7/a7758cc6-4e18-48a5-8720-5f42b5cd9d31.jpg?1784036842&quot; alt=&quot;Sacred Foundry&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Sacred Foundry&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land — Mountain Plains&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;({T}: Add {R} or {W}.)&lt;br/&gt;As this land enters, you may pay 2 life. If you don't, it enters tapped.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/295/sacred-foundry?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/7/a7758cc6-4e18-48a5-8720-5f42b5cd9d31.jpg?1784036842" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Overgrown Tomb [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/289/overgrown-tomb?utm_source=api</link>
+      <guid isPermaLink="false">975ec9a3-6f20-4177-8211-82526e092538</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/d/ad7e18e2-c033-4b6c-86e8-d0e5cc824cfd.jpg?1784036836&quot; alt=&quot;Overgrown Tomb&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Overgrown Tomb&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land — Swamp Forest&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;({T}: Add {B} or {G}.)&lt;br/&gt;As this land enters, you may pay 2 life. If you don't, it enters tapped.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/289/overgrown-tomb?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/d/ad7e18e2-c033-4b6c-86e8-d0e5cc824cfd.jpg?1784036836" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hallowed Fountain [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/286/hallowed-fountain?utm_source=api</link>
+      <guid isPermaLink="false">f1750962-a87c-49f6-b731-02ae971ac6ea</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/7/b7285986-7e08-4969-86ef-452dc5bfdd9f.jpg?1784036830&quot; alt=&quot;Hallowed Fountain&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Hallowed Fountain&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land — Plains Island&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;({T}: Add {W} or {U}.)&lt;br/&gt;As this land enters, you may pay 2 life. If you don't, it enters tapped.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/286/hallowed-fountain?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/7/b7285986-7e08-4969-86ef-452dc5bfdd9f.jpg?1784036830" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Godless Shrine [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/285/godless-shrine?utm_source=api</link>
+      <guid isPermaLink="false">73864fcc-1bde-4bc0-831e-2b93e546e417</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/f/8fbd1ae0-3d4c-492a-a1ea-85a95fa3d7b6.jpg?1784036826&quot; alt=&quot;Godless Shrine&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Godless Shrine&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land — Plains Swamp&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;({T}: Add {W} or {B}.)&lt;br/&gt;As this land enters, you may pay 2 life. If you don't, it enters tapped.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/285/godless-shrine?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/f/8fbd1ae0-3d4c-492a-a1ea-85a95fa3d7b6.jpg?1784036826" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Breeding Pool [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/279/breeding-pool?utm_source=api</link>
+      <guid isPermaLink="false">20283c4a-f1f0-42f0-bc08-6da87474426b</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/3/63e4dc07-c742-41bd-8301-861637908fd1.jpg?1784036820&quot; alt=&quot;Breeding Pool&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Breeding Pool&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land — Forest Island&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;({T}: Add {G} or {U}.)&lt;br/&gt;As this land enters, you may pay 2 life. If you don't, it enters tapped.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/279/breeding-pool?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/3/63e4dc07-c742-41bd-8301-861637908fd1.jpg?1784036820" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Blood Crypt [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/278/blood-crypt?utm_source=api</link>
+      <guid isPermaLink="false">43985bbc-a0f6-4812-984e-392bc8562633</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/b/1b7eb998-3ec0-4cbc-a416-5a1e3e5a7316.jpg?1784036817&quot; alt=&quot;Blood Crypt&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Blood Crypt&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land — Swamp Mountain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;({T}: Add {B} or {R}.)&lt;br/&gt;As this land enters, you may pay 2 life. If you don't, it enters tapped.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/278/blood-crypt?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/b/1b7eb998-3ec0-4cbc-a416-5a1e3e5a7316.jpg?1784036817" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>U.S.S. Enterprise-D, Galaxy-Class [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/273/uss-enterprise-d-galaxy-class?utm_source=api</link>
+      <guid isPermaLink="false">d95af032-3efd-40c7-8229-ade9d974934f</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/5/057a4413-6a17-491e-bfd7-6cd427b1a442.jpg?1784078038&quot; alt=&quot;U.S.S. Enterprise-D, Galaxy-Class&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;U.S.S. Enterprise-D, Galaxy-Class&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Artifact — Spacecraft&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Whenever one or more charge counters are put on U.S.S. Enterprise-D for the first time each turn, exile the top card of your library. You may play that card this turn.&lt;br/&gt;Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)&lt;br/&gt;7+ | Flying, vigilance&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/273/uss-enterprise-d-galaxy-class?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/5/057a4413-6a17-491e-bfd7-6cd427b1a442.jpg?1784078038" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Crystalline Entity [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/261/crystalline-entity?utm_source=api</link>
+      <guid isPermaLink="false">ca6f43d8-1498-4a13-b1cc-2d135b24a8b6</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/b/cbc4ac70-0a4c-4973-a366-dd67d8901e21.jpg?1784036804&quot; alt=&quot;Crystalline Entity&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Crystalline Entity&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {8}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact Creature — Elemental&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;When this creature enters, if you cast it, destroy all nonartifact creatures.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/261/crystalline-entity?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/b/cbc4ac70-0a4c-4973-a366-dd67d8901e21.jpg?1784036804" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Seven of Nine [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/252/seven-of-nine?utm_source=api</link>
+      <guid isPermaLink="false">3c037865-d38c-48da-aee9-308975e12638</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/2/6204cfdb-6fb4-4030-96b6-9306c8266bcf.jpg?1784036800&quot; alt=&quot;Seven of Nine&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Seven of Nine&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Artifact Creature — Human Scientist&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Whenever you face a dilemma, draw a card. (You face a dilemma as you choose one or more modes for a spell or ability.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/252/seven-of-nine?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/2/6204cfdb-6fb4-4030-96b6-9306c8266bcf.jpg?1784036800" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The City on the Edge of Forever [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/228/the-city-on-the-edge-of-forever?utm_source=api</link>
+      <guid isPermaLink="false">47c9ef8c-7ba7-4702-bd8c-5fedc59c8166</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/a/aac6f64d-d39a-4994-bc70-6b477b2640f8.jpg?1784036790&quot; alt=&quot;The City on the Edge of Forever&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;The City on the Edge of Forever&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{W}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Saga&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)&lt;br/&gt;I — All artifacts and creatures phase out. Create a 0/1 white Human creature token with &quot;Permanents can't phase in.&quot; (Treat phased-out permanents and anything attached to them as though they don't exist.)&lt;br/&gt;II — You draw two cards and each player loses 2 life.&lt;br/&gt;III — Sacrifice a creature token. If you do, you gain 5 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/228/the-city-on-the-edge-of-forever?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/a/aac6f64d-d39a-4994-bc70-6b477b2640f8.jpg?1784036790" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Captain Kathryn Janeway [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/187/captain-kathryn-janeway?utm_source=api</link>
+      <guid isPermaLink="false">d77d1895-ce02-4302-87c9-649e852fd0ea</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/1/d17ea45c-7f9c-411f-b7d3-ca7100ffe53b.jpg?1784036788&quot; alt=&quot;Captain Kathryn Janeway&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Captain Kathryn Janeway&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Officer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;You may play an additional land on each of your turns.&lt;br/&gt;Whenever Captain Janeway or another creature you control enters, that creature explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/187/captain-kathryn-janeway?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/1/d17ea45c-7f9c-411f-b7d3-ca7100ffe53b.jpg?1784036788" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Amok Time [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/183/amok-time?utm_source=api</link>
+      <guid isPermaLink="false">98a752ff-f041-4032-9f3f-c6c4007f10f1</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/3/d31447b6-484f-4dda-b6af-ab068a84f896.jpg?1784065822&quot; alt=&quot;Amok Time&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Amok Time&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Saga&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)&lt;br/&gt;I — Target creature you control fights up to one target creature an opponent controls.&lt;br/&gt;II — You gain 3 life.&lt;br/&gt;III — Return target creature card from your graveyard to your hand.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/183/amok-time?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/3/d31447b6-484f-4dda-b6af-ab068a84f896.jpg?1784065822" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Captain James T. Kirk [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/142/captain-james-t-kirk?utm_source=api</link>
+      <guid isPermaLink="false">19edde54-153f-46b8-8a8d-a20fdef0667f</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/0/40a0466d-20bb-4ed5-858d-947fb9144580.jpg?1784036779&quot; alt=&quot;Captain James T. Kirk&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Captain James T. Kirk&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Officer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Whenever Captain Kirk enters or attacks, choose one. If you have no cards in hand, choose one or more instead.&lt;br/&gt;• Discard a card, then draw a card.&lt;br/&gt;• Create a 1/1 red Officer creature token.&lt;br/&gt;• Creatures you control get +1/+0 until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/142/captain-james-t-kirk?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/0/40a0466d-20bb-4ed5-858d-947fb9144580.jpg?1784036779" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Beckett Mariner, Impetuous Ensign [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/138/beckett-mariner-impetuous-ensign?utm_source=api</link>
+      <guid isPermaLink="false">1033a0cb-1a00-46c4-83d5-68a6eac85feb</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/2/f2001bbd-63ee-4a6e-8e01-3a91aaf1e3b9.jpg?1784065783&quot; alt=&quot;Beckett Mariner, Impetuous Ensign&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Beckett Mariner, Impetuous Ensign&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Officer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;First strike&lt;br/&gt;Reckless Behavior — Whenever Beckett Mariner becomes tapped, put a promotion counter on her. Then if there are three or more promotion counters on her, remove those counters and she deals 2 damage to each opponent.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/138/beckett-mariner-impetuous-ensign?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/2/f2001bbd-63ee-4a6e-8e01-3a91aaf1e3b9.jpg?1784065783" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Salt Vampire [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/127/salt-vampire?utm_source=api</link>
+      <guid isPermaLink="false">31c7453e-33b8-4eb6-abac-28cdb35fb993</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/8/78faba81-01a3-489f-927e-1adaa8fe4436.jpg?1784036770&quot; alt=&quot;Salt Vampire&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Salt Vampire&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Vampire Shapeshifter&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Lifelink&lt;br/&gt;When this creature enters, look at target opponent's hand. You may choose a nonland card from it. If you do, that player exiles that card, then draws a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/127/salt-vampire?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/8/78faba81-01a3-489f-927e-1adaa8fe4436.jpg?1784036770" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>In the Pale Moonlight [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/117/in-the-pale-moonlight?utm_source=api</link>
+      <guid isPermaLink="false">90c78f79-982f-4acd-a8ba-0c6ce115a248</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/7/47c8262c-e0c6-4c1a-b1c1-3b5fe5252a9c.jpg?1784065713&quot; alt=&quot;In the Pale Moonlight&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;In the Pale Moonlight&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Saga&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)&lt;br/&gt;I — Each opponent sacrifices a nontoken creature of their choice.&lt;br/&gt;II — Investigate. (Create a Clue token. It's an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)&lt;br/&gt;III — You may sacrifice an artifact or creature. If you do, create two 2/2 black Romulan creature tokens.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/117/in-the-pale-moonlight?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/7/47c8262c-e0c6-4c1a-b1c1-3b5fe5252a9c.jpg?1784065713" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hoshi Sato, Exolinguist [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/64/hoshi-sato-exolinguist?utm_source=api</link>
+      <guid isPermaLink="false">39426cd1-8c0d-4ec6-8747-f0693080f8f2</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/4/24589f4d-c530-4f6a-b2d0-450ef70fca71.jpg?1784065562&quot; alt=&quot;Hoshi Sato, Exolinguist&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Hoshi Sato, Exolinguist&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Scientist&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Federation — When Hoshi Sato enters, look at the top X cards of your library, where X is the number of creature types among non-Borg creatures you control. Put one of them into your hand and the rest on the bottom of your library in a random order.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/64/hoshi-sato-exolinguist?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/4/24589f4d-c530-4f6a-b2d0-450ef70fca71.jpg?1784065562" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Highly Illogical [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/62/highly-illogical?utm_source=api</link>
+      <guid isPermaLink="false">38c43f30-0e01-4dcd-88fc-f1de318a5e29</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/1/11c94c5f-abf4-429e-8703-c5db9abd79bf.jpg?1784065440&quot; alt=&quot;Highly Illogical&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Highly Illogical&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)&lt;br/&gt;Counter target spell with mana value 2 or less. If this spell was kicked, instead counter target spell.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/62/highly-illogical?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/1/11c94c5f-abf4-429e-8703-c5db9abd79bf.jpg?1784065440" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Consider the Prime Directive [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/51/consider-the-prime-directive?utm_source=api</link>
+      <guid isPermaLink="false">9f1d416c-60de-4796-a513-097d1d9a2305</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/e/4e8f75b8-cca7-4ed3-90db-bcac02e74611.jpg?1784036751&quot; alt=&quot;Consider the Prime Directive&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Consider the Prime Directive&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Choose one —&lt;br/&gt;• Interfere — Counter target spell unless its controller pays {3}.&lt;br/&gt;• Observe — Tap up to one target creature and put a stun counter on it. Draw a card. (If a permanent with a stun counter would become untapped, remove one from it instead.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/51/consider-the-prime-directive?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/e/4e8f75b8-cca7-4ed3-90db-bcac02e74611.jpg?1784036751" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Set Phasers to . . . [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/34/set-phasers-to-?utm_source=api</link>
+      <guid isPermaLink="false">4da9b548-898d-431b-8aa5-9cb7bf579219</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/4/54dbf416-973d-46c8-b9be-e863283d328b.jpg?1784036750&quot; alt=&quot;Set Phasers to . . .&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Set Phasers to . . .&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Choose one —&lt;br/&gt;• Stun — Tap target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)&lt;br/&gt;• Kill — This spell deals 3 damage to target attacking creature.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/34/set-phasers-to-?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/4/54dbf416-973d-46c8-b9be-e863283d328b.jpg?1784036750" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Dr. Beverly Crusher [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/13/dr-beverly-crusher?utm_source=api</link>
+      <guid isPermaLink="false">5fe6f4ae-3fb1-4df6-8760-88c8666068df</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/f/ef9c5790-d909-4271-90bd-5fa4816ddd6b.jpg?1784065540&quot; alt=&quot;Dr. Beverly Crusher&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Dr. Beverly Crusher&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Doctor&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;If you gaining life causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.&lt;br/&gt;Whenever you gain life, put a +1/+1 counter on Dr. Crusher.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/13/dr-beverly-crusher?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/f/ef9c5790-d909-4271-90bd-5fa4816ddd6b.jpg?1784065540" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Brad Boimler, Eager Ensign [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/5/brad-boimler-eager-ensign?utm_source=api</link>
+      <guid isPermaLink="false">10af9cd9-1700-48f9-97e1-61e239536fef</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/6/a6bf1525-2212-46d0-ad4d-1dbaa2e3b3cd.jpg?1784036739&quot; alt=&quot;Brad Boimler, Eager Ensign&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Brad Boimler, Eager Ensign&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Officer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Lifelink&lt;br/&gt;Whenever Brad Boimler becomes tapped, until end of turn, if one or more counters would be put on a permanent you control, that many plus one of each of those kinds of counters are put on that permanent instead.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/5/brad-boimler-eager-ensign?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/6/a6bf1525-2212-46d0-ad4d-1dbaa2e3b3cd.jpg?1784036739" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Tenacious Tosk [Star Trek Commander]</title>
+      <link>https://scryfall.com/card/trc/201/tenacious-tosk?utm_source=api</link>
+      <guid isPermaLink="false">48c2dc82-7bed-4730-8b8b-1970b743414f</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/a/4adec7ae-b6aa-4018-bbc8-7ad378cbb1f8.jpg?1784036732&quot; alt=&quot;Tenacious Tosk&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Tenacious Tosk&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Tosk Rogue&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
+&lt;p&gt;This creature can't be blocked by more than one creature.&lt;br/&gt;Whenever this creature deals combat damage to a player, put a +1/+1 counter on it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/201/tenacious-tosk?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/a/4adec7ae-b6aa-4018-bbc8-7ad378cbb1f8.jpg?1784036732" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Benjamin Sisko, Besieged [Star Trek Commander]</title>
+      <link>https://scryfall.com/card/trc/200/benjamin-sisko-besieged?utm_source=api</link>
+      <guid isPermaLink="false">f1416577-97d0-4d6c-afd2-455798556d4c</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/c/6cf853b8-4479-424d-998a-4fc53456c38b.jpg?1784036727&quot; alt=&quot;Benjamin Sisko, Besieged&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Benjamin Sisko, Besieged&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Officer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
+&lt;p&gt;Play with the top card of your library revealed.&lt;br/&gt;You may play lands and cast creature spells from the top of your library.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/200/benjamin-sisko-besieged?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/c/6cf853b8-4479-424d-998a-4fc53456c38b.jpg?1784036727" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Klingon Strike Force [Star Trek Commander]</title>
+      <link>https://scryfall.com/card/trc/199/klingon-strike-force?utm_source=api</link>
+      <guid isPermaLink="false">847efb61-5933-43c1-93ff-e8375f9469a9</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/c/bc121e37-b01c-4cf3-bd41-19a1cb21caa5.jpg?1784036722&quot; alt=&quot;Klingon Strike Force&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Klingon Strike Force&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{R}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Klingon Warrior&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
+&lt;p&gt;Trample (This creature can deal excess combat damage to the player it's attacking.)&lt;br/&gt;Haste (This creature can attack and {T} as soon as it comes under your control.)&lt;br/&gt;When this creature dies, it deals 2 damage to each opponent.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/199/klingon-strike-force?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/c/bc121e37-b01c-4cf3-bd41-19a1cb21caa5.jpg?1784036722" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Kirk, Enterprising Captain [Star Trek Commander]</title>
+      <link>https://scryfall.com/card/trc/198/kirk-enterprising-captain?utm_source=api</link>
+      <guid isPermaLink="false">6a70e571-6932-45d8-9f14-ede4a561cc49</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/1/e1d339e1-3433-4630-965e-1841e46b40a4.jpg?1784036716&quot; alt=&quot;Kirk, Enterprising Captain&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Kirk, Enterprising Captain&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Officer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
+&lt;p&gt;Menace (This creature can't be blocked except by two or more creatures.)&lt;br/&gt;Whenever Kirk attacks while creatures you control have total power 8 or greater, exile the top card of your library. You may play that card this turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/198/kirk-enterprising-captain?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/1/e1d339e1-3433-4630-965e-1841e46b40a4.jpg?1784036716" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Borg Queen, Perfection Manifest [Star Trek Commander]</title>
+      <link>https://scryfall.com/card/trc/197/borg-queen-perfection-manifest?utm_source=api</link>
+      <guid isPermaLink="false">f9b46a1a-474f-4fac-8d71-131c1720e4c0</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/b/cb07e5e4-154e-4ba5-85a4-ecc78f1555d2.jpg?1784036713&quot; alt=&quot;Borg Queen, Perfection Manifest&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Borg Queen, Perfection Manifest&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Artifact Creature — Borg Noble&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
+&lt;p&gt;Artifact creatures you control get +2/+0.&lt;br/&gt;When Borg Queen enters, assimilate target creature card from an opponent's graveyard. (Put it onto the battlefield under your control with a +1/+1 counter. It's a Borg artifact creature and loses all other creature types.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/197/borg-queen-perfection-manifest?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/b/cb07e5e4-154e-4ba5-85a4-ecc78f1555d2.jpg?1784036713" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Bio-Asset Allocator [Star Trek Commander]</title>
+      <link>https://scryfall.com/card/trc/196/bio-asset-allocator?utm_source=api</link>
+      <guid isPermaLink="false">1ca22ca0-eca3-4578-9746-47d443d5fb73</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/b/fb9805a5-eea3-48a8-92b6-7387bb23bc88.jpg?1784036706&quot; alt=&quot;Bio-Asset Allocator&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Bio-Asset Allocator&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact Creature — Borg&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
+&lt;p&gt;Artifact creatures you control have &quot;Whenever this creature attacks, each opponent loses 1 life and you gain 1 life.&quot;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/196/bio-asset-allocator?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/b/fb9805a5-eea3-48a8-92b6-7387bb23bc88.jpg?1784036706" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Trelane, Squire of Gothos [Star Trek Commander]</title>
+      <link>https://scryfall.com/card/trc/195/trelane-squire-of-gothos?utm_source=api</link>
+      <guid isPermaLink="false">3c516327-00a3-4d03-87a3-73b4a90719d3</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/f/3ff8a24f-2771-454b-abb3-619b1c56f7e9.jpg?1784065404&quot; alt=&quot;Trelane, Squire of Gothos&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Trelane, Squire of Gothos&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {5}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Q&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
+&lt;p&gt;Vigilance (Attacking doesn't cause this creature to tap.)&lt;br/&gt;Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)&lt;br/&gt;Trelane can't be blocked.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/195/trelane-squire-of-gothos?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/f/3ff8a24f-2771-454b-abb3-619b1c56f7e9.jpg?1784065404" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Spock, Logical Choice [Star Trek Commander]</title>
+      <link>https://scryfall.com/card/trc/194/spock-logical-choice?utm_source=api</link>
+      <guid isPermaLink="false">a877820f-8999-4dfe-a50d-09f63c885ce3</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/a/5a741052-e92d-4e9c-8cfa-3b5ed1f432f5.jpg?1784065332&quot; alt=&quot;Spock, Logical Choice&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Spock, Logical Choice&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{U}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Vulcan Human Scientist&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
+&lt;p&gt;Vigilance (Attacking doesn't cause this creature to tap.)&lt;br/&gt;{T}: Draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/194/spock-logical-choice?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/a/5a741052-e92d-4e9c-8cfa-3b5ed1f432f5.jpg?1784065332" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Picard, Steadfast Captain [Star Trek Commander]</title>
+      <link>https://scryfall.com/card/trc/193/picard-steadfast-captain?utm_source=api</link>
+      <guid isPermaLink="false">cda786aa-1259-45e8-a834-21c7ad0259a6</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/d/ddfbfc4f-eeea-4b49-92c2-3060e2cef830.jpg?1784036694&quot; alt=&quot;Picard, Steadfast Captain&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Picard, Steadfast Captain&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{W}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Officer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
+&lt;p&gt;Whenever Picard enters or attacks, put two +1/+1 counters on another target creature you control.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/193/picard-steadfast-captain?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/d/ddfbfc4f-eeea-4b49-92c2-3060e2cef830.jpg?1784036694" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Operations Officer [Star Trek Commander]</title>
+      <link>https://scryfall.com/card/trc/192/operations-officer?utm_source=api</link>
+      <guid isPermaLink="false">c8ed45e6-ae4f-4c44-9f73-45793f30acd6</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/0/40a37274-af28-4019-86fc-197e764e9e3e.jpg?1784036684&quot; alt=&quot;Operations Officer&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Operations Officer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Human Officer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
+&lt;p&gt;Lifelink (Damage dealt by this creature also causes you to gain that much life.)&lt;br/&gt;When this creature enters, draw a card.&lt;br/&gt;Whenever this creature attacks, put a +1/+1 counter on it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/192/operations-officer?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/0/40a37274-af28-4019-86fc-197e764e9e3e.jpg?1784036684" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Captain Kirk, Boldly Going [Star Trek Commander]</title>
+      <link>https://scryfall.com/card/trc/85/captain-kirk-boldly-going?utm_source=api</link>
+      <guid isPermaLink="false">5228fffe-6347-4177-bccb-b15621c7159c</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/b/6b5d9bd2-cc78-4c30-b6ee-65b76c60a588.jpg?1783902729&quot; alt=&quot;Captain Kirk, Boldly Going&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Captain Kirk, Boldly Going&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{G}{W}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Officer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
+&lt;p&gt;Vigilance&lt;br/&gt;Spacecraft creatures you control get +3/+3.&lt;br/&gt;Whenever Captain Kirk enters or attacks, search your library and/or graveyard for a basic land card or a card named Starship Enterprise, reveal it, and put it into your hand. If you search your library this way, shuffle.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/85/captain-kirk-boldly-going?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/b/6b5d9bd2-cc78-4c30-b6ee-65b76c60a588.jpg?1783902729" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sheoldred, the Apocalypse [Stardates]</title>
+      <link>https://scryfall.com/card/sds/11/sheoldred-the-apocalypse?utm_source=api</link>
+      <guid isPermaLink="false">34f34409-326d-4994-a0ea-1a69aa278f03</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/6/c68629ff-72b3-40a2-b578-cddb6ddb4ccf.jpg?1784038066&quot; alt=&quot;Sheoldred, the Apocalypse&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Sheoldred, the Apocalypse&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Phyrexian Praetor&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Stardates&lt;/p&gt;
+&lt;p&gt;Deathtouch&lt;br/&gt;Whenever you draw a card, you gain 2 life.&lt;br/&gt;Whenever an opponent draws a card, they lose 2 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sds/11/sheoldred-the-apocalypse?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/6/c68629ff-72b3-40a2-b578-cddb6ddb4ccf.jpg?1784038066" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Explore [MagicFest 2026]</title>
+      <link>https://scryfall.com/card/pf26/13/explore?utm_source=api</link>
+      <guid isPermaLink="false">b8f566ea-8283-4afa-9ac8-737e26419283</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/f/2f13f65f-7322-4716-8394-c2ab65713557.jpg?1784077664&quot; alt=&quot;Explore&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Explore&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: MagicFest 2026&lt;/p&gt;
+&lt;p&gt;You may play an additional land this turn.&lt;br/&gt;Draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pf26/13/explore?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/f/2f13f65f-7322-4716-8394-c2ab65713557.jpg?1784077664" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fact or Fiction [MagicFest 2026]</title>
+      <link>https://scryfall.com/card/pf26/12/fact-or-fiction?utm_source=api</link>
+      <guid isPermaLink="false">437b2dab-15e0-4b9a-a204-58622d37a3b3</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/c/3cd456d7-a4a1-46e4-bb3f-731debba260c.jpg?1784077587&quot; alt=&quot;Fact or Fiction&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Fact or Fiction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: MagicFest 2026&lt;/p&gt;
+&lt;p&gt;Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pf26/12/fact-or-fiction?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/c/3cd456d7-a4a1-46e4-bb3f-731debba260c.jpg?1784077587" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Preordain [MagicFest 2026]</title>
