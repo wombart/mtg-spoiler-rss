@@ -5,7 +5,7 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 18 Jul 2026 01:52:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 10:56:51 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
     <item>
@@ -659,6 +659,21 @@
       <enclosure url="https://cards.scryfall.io/normal/front/8/6/86318db6-0d57-4cab-8a53-14ce519c1b1d.jpg?1783902739" type="image/jpeg" length="0"/>
     </item>
     <item>
+      <title>Leyline of Anticipation [Wizards Play Network 2026]</title>
+      <link>https://scryfall.com/card/pw26/23/leyline-of-anticipation?utm_source=api</link>
+      <guid isPermaLink="false">9dc65ffe-17fc-4280-b4bd-78073ac7e12b</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/e/ee146904-a45b-4ecc-b2f6-3f72430e09e8.jpg?1784338955&quot; alt=&quot;Leyline of Anticipation&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Leyline of Anticipation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Wizards Play Network 2026&lt;/p&gt;
+&lt;p&gt;If this card is in your opening hand, you may begin the game with it on the battlefield.&lt;br/&gt;You may cast spells as though they had flash.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pw26/23/leyline-of-anticipation?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/e/ee146904-a45b-4ecc-b2f6-3f72430e09e8.jpg?1784338955" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>Life from the Loam [Eternal Weekend]</title>
       <link>https://scryfall.com/card/pewk/2026b/life-from-the-loam?utm_source=api</link>
       <guid isPermaLink="false">ac8fba34-512c-4f24-999a-ab72f1ce4acb</guid>
@@ -689,6 +704,66 @@
       <enclosure url="https://cards.scryfall.io/normal/front/b/9/b9d0b72e-4ac4-4457-9e04-919bed223377.jpg?1783902749" type="image/jpeg" length="0"/>
     </item>
     <item>
+      <title>Jace Beleren [Spotlight Series]</title>
+      <link>https://scryfall.com/card/pspl/13/jace-beleren?utm_source=api</link>
+      <guid isPermaLink="false">cc2b6e58-2d6f-495e-95f3-9496105c4cba</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/2/9204c96e-2dfc-4b9b-91fb-4a053b349a1d.jpg?1784339162&quot; alt=&quot;Jace Beleren&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Jace Beleren&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{U}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Planeswalker — Jace&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Spotlight Series&lt;/p&gt;
+&lt;p&gt;+2: Each player draws a card.&lt;br/&gt;−1: Target player draws a card.&lt;br/&gt;−10: Target player mills twenty cards.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pspl/13/jace-beleren?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/2/9204c96e-2dfc-4b9b-91fb-4a053b349a1d.jpg?1784339162" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Crystal Ball [Wizards Play Network 2026]</title>
+      <link>https://scryfall.com/card/pw26/21/crystal-ball?utm_source=api</link>
+      <guid isPermaLink="false">bd85fe4d-1d62-416f-ac2d-e287911c84e3</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/4/64bf92e9-406d-4c73-a082-17b4c12bf666.jpg?1784338810&quot; alt=&quot;Crystal Ball&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Crystal Ball&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Wizards Play Network 2026&lt;/p&gt;
+&lt;p&gt;{1}, {T}: Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pw26/21/crystal-ball?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/4/64bf92e9-406d-4c73-a082-17b4c12bf666.jpg?1784338810" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Tragic Trajectory [Wizards Play Network 2026]</title>
+      <link>https://scryfall.com/card/pw26/22/tragic-trajectory?utm_source=api</link>
+      <guid isPermaLink="false">e5e19326-3e90-439c-a3b2-749d43a1af0c</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/2/a2625812-a7b5-4956-9a2b-9a783ead783e.jpg?1784338898&quot; alt=&quot;Tragic Trajectory&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Tragic Trajectory&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {B}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Wizards Play Network 2026&lt;/p&gt;
+&lt;p&gt;Target creature gets -2/-2 until end of turn.&lt;br/&gt;Void — That creature gets -10/-10 until end of turn instead if a nonland permanent left the battlefield this turn or a spell was warped this turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pw26/22/tragic-trajectory?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/2/a2625812-a7b5-4956-9a2b-9a783ead783e.jpg?1784338898" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Darksteel Angel [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/13/darksteel-angel?utm_source=api</link>
+      <guid isPermaLink="false">d0259f7d-9bd7-4722-8fb9-439768308516</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/c/0c33024e-9473-4d5b-8433-9898380282c4.jpg?1784325693&quot; alt=&quot;Darksteel Angel&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Darksteel Angel&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {9}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact Creature — Angel&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Flying, indestructible&lt;br/&gt;You can't lose the game and your opponents can't win the game.&lt;br/&gt;Creatures you control can't have -1/-1 counters put on them.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/13/darksteel-angel?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/c/0c33024e-9473-4d5b-8433-9898380282c4.jpg?1784325693" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>Titanbones, Towering Heart [Reality Fracture]</title>
       <link>https://scryfall.com/card/fra/266/titanbones-towering-heart?utm_source=api</link>
       <guid isPermaLink="false">510bccb1-61cd-49f1-a54a-80352653d1e3</guid>
@@ -708,7 +783,7 @@
       <link>https://scryfall.com/card/fra/259/garruk-curse-breaker?utm_source=api</link>
       <guid isPermaLink="false">184d4672-05a9-4182-8b3f-3561fb33ed62</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/0/90ca5812-ceb5-46bd-b049-aed7ff10e6af.jpg?1784325085&quot; alt=&quot;Garruk, Curse Breaker&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/0/90ca5812-ceb5-46bd-b049-aed7ff10e6af.jpg?1784338249&quot; alt=&quot;Garruk, Curse Breaker&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Garruk, Curse Breaker&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {3}{G}{G}&lt;/p&gt;
 &lt;p&gt;Typ: Legendary Planeswalker — Garruk&lt;/p&gt;
@@ -716,7 +791,7 @@
 &lt;p&gt;Set: Reality Fracture&lt;/p&gt;
 &lt;p&gt;Whenever a creature you control with power 4 or greater enters, draw a card.&lt;br/&gt;+2: Untap up to two target lands.&lt;br/&gt;−3: Create a 4/4 green Beast creature token with trample.&lt;br/&gt;−4: Until your next turn, whenever one or more creatures attack one of your opponents, those creatures get +2/+2 and gain trample until end of turn.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/259/garruk-curse-breaker?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/0/90ca5812-ceb5-46bd-b049-aed7ff10e6af.jpg?1784325085" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/0/90ca5812-ceb5-46bd-b049-aed7ff10e6af.jpg?1784338249" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Chandra, Torch of Defiance [Reality Fracture]</title>
@@ -738,7 +813,7 @@
       <link>https://scryfall.com/card/fra/242/ajani-unrelenting?utm_source=api</link>
       <guid isPermaLink="false">71620e92-45a4-49cb-94d5-348013ecf886</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/c/bc3c096f-7f6c-474c-a2c8-75d3e6ddd6f5.jpg?1784325081&quot; alt=&quot;Ajani Unrelenting&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/c/bc3c096f-7f6c-474c-a2c8-75d3e6ddd6f5.jpg?1784338245&quot; alt=&quot;Ajani Unrelenting&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Ajani Unrelenting&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {4}{R}{R}&lt;/p&gt;
 &lt;p&gt;Typ: Legendary Planeswalker — Ajani&lt;/p&gt;
@@ -746,7 +821,7 @@
 &lt;p&gt;Set: Reality Fracture&lt;/p&gt;
 &lt;p&gt;Whenever you activate a loyalty ability, create a 2/2 colorless Wizard Soldier creature token named Cadet.&lt;br/&gt;+1: Creatures you control get +1/+0 and gain haste until end of turn.&lt;br/&gt;−2: Discard your hand, then draw a card for each creature you control.&lt;br/&gt;−3: Ajani deals 4 damage to each creature except for tokens you control.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/242/ajani-unrelenting?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/c/bc3c096f-7f6c-474c-a2c8-75d3e6ddd6f5.jpg?1784325081" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/c/bc3c096f-7f6c-474c-a2c8-75d3e6ddd6f5.jpg?1784338245" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Tinybones, Pocket Nuisance [Reality Fracture]</title>
@@ -783,7 +858,7 @@
       <link>https://scryfall.com/card/fra/229/garruk-veiled-butcher?utm_source=api</link>
       <guid isPermaLink="false">4a6972fe-348a-4a19-a1d0-bdf8f1f9c792</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/4/d48bfb8a-d135-45f3-be99-4694b4b9ab93.jpg?1784325044&quot; alt=&quot;Garruk, Veiled Butcher&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/4/d48bfb8a-d135-45f3-be99-4694b4b9ab93.jpg?1784338234&quot; alt=&quot;Garruk, Veiled Butcher&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Garruk, Veiled Butcher&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {3}{B}{B}&lt;/p&gt;
 &lt;p&gt;Typ: Legendary Planeswalker — Garruk&lt;/p&gt;
@@ -791,7 +866,7 @@
 &lt;p&gt;Set: Reality Fracture&lt;/p&gt;
 &lt;p&gt;If a creature an opponent controls would die, exile it instead.&lt;br/&gt;+2: Up to one target creature gets -4/-1 until your next turn.&lt;br/&gt;−2: Each player sacrifices a creature of their choice. If you sacrificed a creature this way, create a 4/4 green Beast creature token with trample.&lt;br/&gt;−3: Each opponent discards two cards. For each opponent who didn't discard two nonland cards this way, you draw a card.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/229/garruk-veiled-butcher?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/4/d48bfb8a-d135-45f3-be99-4694b4b9ab93.jpg?1784325044" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/4/d48bfb8a-d135-45f3-be99-4694b4b9ab93.jpg?1784338234" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Chandra, Chill of Compliance [Reality Fracture]</title>
@@ -828,7 +903,7 @@
       <link>https://scryfall.com/card/fra/195/ajani-resolute?utm_source=api</link>
       <guid isPermaLink="false">0d60c095-4c6c-4618-8ef3-508f3d454efa</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/5/a5e1a7dd-8c49-4435-935c-bcc78704082b.jpg?1784325010&quot; alt=&quot;Ajani Resolute&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/5/a5e1a7dd-8c49-4435-935c-bcc78704082b.jpg?1784338228&quot; alt=&quot;Ajani Resolute&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Ajani Resolute&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
 &lt;p&gt;Typ: Legendary Planeswalker — Ajani&lt;/p&gt;
@@ -836,7 +911,7 @@
 &lt;p&gt;Set: Reality Fracture&lt;/p&gt;
 &lt;p&gt;Whenever you gain life, put a loyalty counter on Ajani.&lt;br/&gt;0: You gain 1 life.&lt;br/&gt;−4: Create a 2/2 white Cat Soldier creature token named Ajani's Pridemate with &quot;Whenever you gain life, put a +1/+1 counter on this token.&quot;&lt;br/&gt;−10: You get an emblem with &quot;Creatures you control get +2/+2.&quot;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/195/ajani-resolute?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/5/a5e1a7dd-8c49-4435-935c-bcc78704082b.jpg?1784325010" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/5/a5e1a7dd-8c49-4435-935c-bcc78704082b.jpg?1784338228" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Woodwork Prodigy // Soul Tether [Reality Fracture]</title>
@@ -963,7 +1038,7 @@
       <link>https://scryfall.com/card/fra/43/the-theorist-jace-beleren?utm_source=api</link>
       <guid isPermaLink="false">89a6e876-0b00-4671-9652-766fd7ef9bf2</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/0/20bb8c55-4b0b-425f-8201-b54fa2fdde86.jpg?1784324661&quot; alt=&quot;The Theorist, Jace Beleren&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/0/20bb8c55-4b0b-425f-8201-b54fa2fdde86.jpg?1784338223&quot; alt=&quot;The Theorist, Jace Beleren&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;The Theorist, Jace Beleren&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {2}{U}{U}&lt;/p&gt;
 &lt;p&gt;Typ: Legendary Planeswalker — Jace&lt;/p&gt;
@@ -971,7 +1046,7 @@
 &lt;p&gt;Set: Reality Fracture&lt;/p&gt;
 &lt;p&gt;At the beginning of each opponent's draw step, you draw a card.&lt;br/&gt;+1: Create a 1/1 blue Illusion creature token.&lt;br/&gt;−2: For each opponent, return up to one target artifact or creature that player controls to its owner's hand.&lt;br/&gt;−6: Draw three cards. Then put X +1/+1 counters on each creature you control, where X is the number of cards in your hand.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/43/the-theorist-jace-beleren?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/0/20bb8c55-4b0b-425f-8201-b54fa2fdde86.jpg?1784324661" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/0/20bb8c55-4b0b-425f-8201-b54fa2fdde86.jpg?1784338223" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Enlightened Confidant [Reality Fracture]</title>
@@ -1820,7 +1895,7 @@
       <link>https://scryfall.com/card/pf26/3/prismatic-ending?utm_source=api</link>
       <guid isPermaLink="false">2cb98ca9-d7bb-416b-a17e-ee5f8e4d78f2</guid>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/d/8d047ce8-1efd-462a-88c3-db761fef7e16.jpg?1783902791&quot; alt=&quot;Prismatic Ending&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/d/8d047ce8-1efd-462a-88c3-db761fef7e16.jpg?1784356051&quot; alt=&quot;Prismatic Ending&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Prismatic Ending&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {X}{W}&lt;/p&gt;
 &lt;p&gt;Typ: Sorcery&lt;/p&gt;
@@ -1828,7 +1903,7 @@
 &lt;p&gt;Set: MagicFest 2026&lt;/p&gt;
 &lt;p&gt;Converge — Exile target nonland permanent if its mana value is less than or equal to the number of colors of mana spent to cast this spell.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pf26/3/prismatic-ending?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/d/8d047ce8-1efd-462a-88c3-db761fef7e16.jpg?1783902791" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/d/8d047ce8-1efd-462a-88c3-db761fef7e16.jpg?1784356051" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
