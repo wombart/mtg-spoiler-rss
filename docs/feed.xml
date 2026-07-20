@@ -5,7 +5,7 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 20 Jul 2026 15:46:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 22:52:39 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
     <item>
@@ -1894,6 +1894,21 @@
       <enclosure url="https://cards.scryfall.io/normal/front/2/4/2476e42b-b209-4207-8ed9-cb668f89b218.jpg?1783902784" type="image/jpeg" length="0"/>
     </item>
     <item>
+      <title>Part in Friendship [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/134/part-in-friendship?utm_source=api</link>
+      <guid isPermaLink="false">e1a9c467-2d64-4e11-adf3-7333c923b187</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/4/b4ff1eac-6d97-40ab-9b7c-c2fdca0917d9.jpg?1784549460&quot; alt=&quot;Part in Friendship&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Part in Friendship&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Whenever a nontoken creature you control dies, reveal cards from the top of your library until you reveal a creature card. If its mana value is less than or equal to the number of lands you control, put it onto the battlefield. Otherwise, put it into your hand. Put the rest on the bottom of your library in a random order. This ability triggers only once each turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/134/part-in-friendship?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/4/b4ff1eac-6d97-40ab-9b7c-c2fdca0917d9.jpg?1784549460" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>Thorin, Mountain-king [The Hobbit]</title>
       <link>https://scryfall.com/card/hob/114/thorin-mountain-king?utm_source=api</link>
       <guid isPermaLink="false">94917b80-ac32-45ab-b4ee-157ade024bcd</guid>
@@ -1999,6 +2014,21 @@
       <enclosure url="https://cards.scryfall.io/normal/front/5/b/5b25e454-06bb-43ca-9a9f-57164f7a70c4.jpg?1784376962" type="image/jpeg" length="0"/>
     </item>
     <item>
+      <title>The Master of Lake-town [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/77/the-master-of-lake-town?utm_source=api</link>
+      <guid isPermaLink="false">89c3c81b-8960-4f79-b2ec-f13560058071</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/7/3788ada6-34a9-41af-a31c-2d090550e503.jpg?1784560456&quot; alt=&quot;The Master of Lake-town&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;The Master of Lake-town&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Advisor&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Deathtouch&lt;br/&gt;Whenever a player loses life, that player mills that many cards. (Damage causes loss of life.)&lt;br/&gt;When The Master of Lake-town dies, draw a card for each graveyard with seven or more cards in it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/77/the-master-of-lake-town?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/7/3788ada6-34a9-41af-a31c-2d090550e503.jpg?1784560456" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>Gollum, Riddle Master [The Hobbit]</title>
       <link>https://scryfall.com/card/hob/70/gollum-riddle-master?utm_source=api</link>
       <guid isPermaLink="false">514b451b-814d-45fb-a2ba-8fe6f0bdad60</guid>
@@ -2102,6 +2132,21 @@
 &lt;p&gt;As this enchantment enters, choose a creature type.&lt;br/&gt;Creatures you control of the chosen type get +2/+2.&lt;br/&gt;//&lt;br/&gt;Create X 2/2 red Dwarf creature tokens. (Then exile this card. You may cast the enchantment later from exile.)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/29/an-unexpected-party-at-the-door?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/3/a/3aa29fe8-1687-486f-b4df-c04977869ab1.jpg?1783902787" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Roads Go Ever, Ever On [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/25/roads-go-ever-ever-on?utm_source=api</link>
+      <guid isPermaLink="false">3cd3cdc9-2ed2-4cdf-b58a-12c3a2ef218b</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/3/b3c1ebd6-967f-4b8c-8f1f-442ce8c1da24.jpg?1784550574&quot; alt=&quot;Roads Go Ever, Ever On&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Roads Go Ever, Ever On&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Saga&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;I — Search your library for up to two basic Plains cards, exile them, then shuffle. You gain 2 life.&lt;br/&gt;II, III — Put a card exiled with this Saga into its owner's hand.&lt;br/&gt;IV — Whenever you attack this turn, target creature you control gets +1/+1 until end of turn for each Plains you control.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/25/roads-go-ever-ever-on?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/3/b3c1ebd6-967f-4b8c-8f1f-442ce8c1da24.jpg?1784550574" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>The Queen of Dale [The Hobbit]</title>
