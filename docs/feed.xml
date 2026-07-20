@@ -5,7 +5,7 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Sun, 19 Jul 2026 02:03:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 15:46:18 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
     <item>
@@ -1113,7 +1113,7 @@
       <link>https://scryfall.com/card/mbc/12/tolabow-loch-rascal?utm_source=api</link>
       <guid isPermaLink="false">56d71eda-4037-45fb-9e98-1725147af6fc</guid>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/4/f42c02c2-e3d8-4690-8a93-7c7a4c96bdd6.jpg?1784388137&quot; alt=&quot;Tolabow, Loch Rascal&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/4/f42c02c2-e3d8-4690-8a93-7c7a4c96bdd6.jpg?1784454309&quot; alt=&quot;Tolabow, Loch Rascal&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Tolabow, Loch Rascal&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {2}{U}{U}&lt;/p&gt;
 &lt;p&gt;Typ: Legendary Creature — Otter&lt;/p&gt;
@@ -1121,7 +1121,7 @@
 &lt;p&gt;Set: Mystery Booster: Commander Edition&lt;/p&gt;
 &lt;p&gt;Rulebreaker — A deck with this commander can have instant and sorcery cards of one additional color not in this commander's color identity and any basic land cards.&lt;br/&gt;Whenever you cast an instant or sorcery spell, create a 1/1 blue and red Otter creature token with prowess. (Whenever you cast a noncreature spell, it gets +1/+1 until end of turn.)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mbc/12/tolabow-loch-rascal?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/f/4/f42c02c2-e3d8-4690-8a93-7c7a4c96bdd6.jpg?1784388137" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/4/f42c02c2-e3d8-4690-8a93-7c7a4c96bdd6.jpg?1784454309" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Kozilek's Command [Secret Lair Promo]</title>
@@ -1344,6 +1344,36 @@
 &lt;p&gt;Choose one. If you control a Wizard as you cast this spell, you may choose two instead.&lt;br/&gt;• Target player draws two cards.&lt;br/&gt;• Destroy target artifact.&lt;br/&gt;• Flame of Anor deals 5 damage to target creature.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hoc/31/flame-of-anor?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/a/c/ac0930fa-cba7-406e-ba56-5d3e8a16f603.jpg?1784377289" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Aragorn and Arwen, Wed [The Hobbit Commander]</title>
+      <link>https://scryfall.com/card/hoc/28/aragorn-and-arwen-wed?utm_source=api</link>
+      <guid isPermaLink="false">b8a3440a-03c5-444c-a1de-252524c3db82</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/1/e1e75e94-7664-499e-9da1-97b56d44dd9e.jpg?1784547382&quot; alt=&quot;Aragorn and Arwen, Wed&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Aragorn and Arwen, Wed&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{G}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Elf Noble&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit Commander&lt;/p&gt;
+&lt;p&gt;Vigilance&lt;br/&gt;Whenever Aragorn and Arwen enters or attacks, put a +1/+1 counter on each other creature you control. You gain 1 life for each other creature you control.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hoc/28/aragorn-and-arwen-wed?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/1/e1e75e94-7664-499e-9da1-97b56d44dd9e.jpg?1784547382" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Delighted Halfling [The Hobbit Commander]</title>
+      <link>https://scryfall.com/card/hoc/25/delighted-halfling?utm_source=api</link>
+      <guid isPermaLink="false">f9d3b046-0b95-4103-a630-4b3fb88bb60b</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/a/aad18e0d-ccf9-4d86-945b-36991558fd3e.jpg?1784544983&quot; alt=&quot;Delighted Halfling&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Delighted Halfling&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Halfling Citizen&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit Commander&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}: Add one mana of any color. Spend this mana only to cast a legendary spell, and that spell can't be countered.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hoc/25/delighted-halfling?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/a/aad18e0d-ccf9-4d86-945b-36991558fd3e.jpg?1784544983" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Call Forth the Tempest [The Hobbit Commander]</title>
@@ -1659,14 +1689,14 @@
       <link>https://scryfall.com/card/hob/187/the-lonely-mountain?utm_source=api</link>
       <guid isPermaLink="false">3678c06f-8a33-4a6d-bf20-5b92d5c05a95</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/3/b39ebc4d-a01a-4401-ab3a-bf6142c93b47.jpg?1784377055&quot; alt=&quot;The Lonely Mountain&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/3/b39ebc4d-a01a-4401-ab3a-bf6142c93b47.jpg?1784543511&quot; alt=&quot;The Lonely Mountain&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;The Lonely Mountain&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Typ: Land — Mountain&lt;/p&gt;
 &lt;p&gt;Seltenheit: Rare&lt;/p&gt;
 &lt;p&gt;Set: The Hobbit&lt;/p&gt;
 &lt;p&gt;({T}: Add {R}.)&lt;br/&gt;This land enters tapped unless you control an Equipment.&lt;br/&gt;{4}{R}, {T}: Create a 2/2 red Dwarf creature token. This ability costs {1} less to activate for each Equipment you control. Activate only as a sorcery.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/187/the-lonely-mountain?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/3/b39ebc4d-a01a-4401-ab3a-bf6142c93b47.jpg?1784377055" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/3/b39ebc4d-a01a-4401-ab3a-bf6142c93b47.jpg?1784543511" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Sting, Bilbo's Sword [The Hobbit]</title>
@@ -1894,6 +1924,21 @@
       <enclosure url="https://cards.scryfall.io/normal/front/6/a/6a5d8fad-2ffd-4645-8c49-907999b6cecf.jpg?1783902784" type="image/jpeg" length="0"/>
     </item>
     <item>
+      <title>The Misty Mountains Cold [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/104/the-misty-mountains-cold?utm_source=api</link>
+      <guid isPermaLink="false">c50282bd-4b57-4c7b-9598-ea67ba49248b</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/d/3d5f35ff-4146-4844-9da5-031461cc8c05.jpg?1784545574&quot; alt=&quot;The Misty Mountains Cold&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;The Misty Mountains Cold&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Saga&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;I, II, III, IV — Create a Treasure token. Then if you control four or more Treasures, sacrifice this Saga. If you do, create a 6/6 red Dragon creature token with flying. (A Treasure token is an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/104/the-misty-mountains-cold?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/d/3d5f35ff-4146-4844-9da5-031461cc8c05.jpg?1784545574" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>Gandalf, Goblins' Bane // Flameshape [The Hobbit]</title>
       <link>https://scryfall.com/card/hob/96/gandalf-goblins-bane-flameshape?utm_source=api</link>
       <guid isPermaLink="false">f48f2a9b-4ba5-4984-8180-3950889bba65</guid>
@@ -1982,6 +2027,21 @@
 &lt;p&gt;Look at the top four cards of your library and separate them into a face-down pile and a face-up pile. An opponent chooses one of the piles. Put that pile into your hand and the other into your graveyard.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/53/riddles-in-the-dark?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/a/6/a6129286-7437-4ba4-be55-586a22cd67ca.jpg?1783902787" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>&quot;Venetian LARPer&quot; [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/37/venetian-larper?utm_source=api</link>
+      <guid isPermaLink="false">d0f62148-1015-49b8-b61f-a4332325a6b0</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/1/c141695c-c108-41d5-85cb-1f7485d9d533.jpg?1784547436&quot; alt=&quot;&quot;Venetian LARPer&quot;&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;&quot;Venetian LARPer&quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Elf Pilot&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Landfall — Whenever a land you control enters, choose one —&lt;br/&gt;• Tap target creature an opponent controls.&lt;br/&gt;• Untap target creature you control.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/37/venetian-larper?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/1/c141695c-c108-41d5-85cb-1f7485d9d533.jpg?1784547436" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Elrond, Moon-Reader [The Hobbit]</title>
@@ -2491,7 +2551,7 @@
       <link>https://scryfall.com/card/pw26/13/hellcat-undying-vigilante?utm_source=api</link>
       <guid isPermaLink="false">4c27ba61-6812-4dd7-8efc-65435a8df7b5</guid>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/2/72ef7900-4c25-48f8-9651-1d251cb2e6cb.jpg?1783902790&quot; alt=&quot;Hellcat, Undying Vigilante&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/2/72ef7900-4c25-48f8-9651-1d251cb2e6cb.jpg?1784468827&quot; alt=&quot;Hellcat, Undying Vigilante&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Hellcat, Undying Vigilante&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {G}{G}&lt;/p&gt;
 &lt;p&gt;Typ: Legendary Creature — Human Hero&lt;/p&gt;
@@ -2499,7 +2559,7 @@
 &lt;p&gt;Set: Wizards Play Network 2026&lt;/p&gt;
 &lt;p&gt;Haste&lt;br/&gt;When Hellcat dies, return her to the battlefield under her owner's control with a +1/+1 counter on her. She loses all abilities and gains haste.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pw26/13/hellcat-undying-vigilante?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/7/2/72ef7900-4c25-48f8-9651-1d251cb2e6cb.jpg?1783902790" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/2/72ef7900-4c25-48f8-9651-1d251cb2e6cb.jpg?1784468827" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Quicksilver, Brash Blur [Pro Tour Promos]</title>
