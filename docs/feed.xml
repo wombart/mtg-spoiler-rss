@@ -5,7 +5,7 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 20 Jul 2026 22:52:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 10:19:37 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
     <item>
@@ -2044,6 +2044,21 @@
       <enclosure url="https://cards.scryfall.io/normal/front/b/b/bbdc7e37-c65a-497a-92b7-a30a6e369c71.jpg?1784376959" type="image/jpeg" length="0"/>
     </item>
     <item>
+      <title>Azog, Moria's Ruin [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/61/azog-morias-ruin?utm_source=api</link>
+      <guid isPermaLink="false">a8b018a7-0350-4ee0-9582-8d391018bdee</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://errors.scryfall.com/soon.jpg&quot; alt=&quot;Azog, Moria's Ruin&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Azog, Moria's Ruin&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Goblin Soldier&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;When Azog enters, destroy up to one other target creature. Its controller amasses Goblins X, where X is that creature's power. If you controlled that creature, draw a card. (To amass Goblins X, that player puts X +1/+1 counters on an Army they control. It's also a Goblin. If they don't control an Army, they create a 0/0 black Goblin Army creature token first.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/61/azog-morias-ruin?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://errors.scryfall.com/soon.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>Riddles in the Dark [The Hobbit]</title>
       <link>https://scryfall.com/card/hob/53/riddles-in-the-dark?utm_source=api</link>
       <guid isPermaLink="false">78bed291-0ec7-466f-bc7a-9dae7d0b56ae</guid>
@@ -2138,7 +2153,7 @@
       <link>https://scryfall.com/card/hob/25/roads-go-ever-ever-on?utm_source=api</link>
       <guid isPermaLink="false">3cd3cdc9-2ed2-4cdf-b58a-12c3a2ef218b</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/3/b3c1ebd6-967f-4b8c-8f1f-442ce8c1da24.jpg?1784550574&quot; alt=&quot;Roads Go Ever, Ever On&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/3/b3c1ebd6-967f-4b8c-8f1f-442ce8c1da24.jpg?1784597565&quot; alt=&quot;Roads Go Ever, Ever On&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Roads Go Ever, Ever On&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
 &lt;p&gt;Typ: Enchantment — Saga&lt;/p&gt;
@@ -2146,7 +2161,7 @@
 &lt;p&gt;Set: The Hobbit&lt;/p&gt;
 &lt;p&gt;I — Search your library for up to two basic Plains cards, exile them, then shuffle. You gain 2 life.&lt;br/&gt;II, III — Put a card exiled with this Saga into its owner's hand.&lt;br/&gt;IV — Whenever you attack this turn, target creature you control gets +1/+1 until end of turn for each Plains you control.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/25/roads-go-ever-ever-on?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/3/b3c1ebd6-967f-4b8c-8f1f-442ce8c1da24.jpg?1784550574" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/3/b3c1ebd6-967f-4b8c-8f1f-442ce8c1da24.jpg?1784597565" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>The Queen of Dale [The Hobbit]</title>
@@ -2501,140 +2516,6 @@
 &lt;p&gt;Add {B}{B}{B}.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2678/dark-ritual?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/2/2/227f249f-a1da-4db0-a1a5-34378375fa8e.jpg?1783902789" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Fabricate [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/7124/fabricate?utm_source=api</link>
-      <guid isPermaLink="false">422e1869-134f-463d-9fa1-86b66a998b3e</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/a/2a9229b8-088e-4c8d-953a-9d8143a0200d.jpg?1783902792&quot; alt=&quot;Fabricate&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Fabricate&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Search your library for an artifact card, reveal it, put it into your hand, then shuffle.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/7124/fabricate?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/a/2a9229b8-088e-4c8d-953a-9d8143a0200d.jpg?1783902792" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Baxter Building [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2626/baxter-building?utm_source=api</link>
-      <guid isPermaLink="false">71bc69a5-7cec-4abd-b97d-13f8e1f9afac</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/2/82b4ccb5-7d0e-46c0-b538-837927ada9f8.jpg?1783902789&quot; alt=&quot;Baxter Building&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Baxter Building&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{4}, {T}: Add four mana in any combination of colors.&lt;br/&gt;{4}, {T}: Draw a card. Activate only if you control a creature with toughness 4 or greater.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2626/baxter-building?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/2/82b4ccb5-7d0e-46c0-b538-837927ada9f8.jpg?1783902789" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Tippy-Toe, Terrific Partner [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2625/tippy-toe-terrific-partner?utm_source=api</link>
-      <guid isPermaLink="false">6a1bce89-0c11-4d8d-aacb-c0a5a5effffc</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/3/d3154e82-3497-47ad-99e5-369cb40ac869.jpg?1783902788&quot; alt=&quot;Tippy-Toe, Terrific Partner&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Tippy-Toe, Terrific Partner&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Squirrel Hero&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;If you would create one or more tokens, instead create those tokens plus an additional Food token.&lt;br/&gt;At the beginning of your end step, if you gained life this turn, draw a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2625/tippy-toe-terrific-partner?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/3/d3154e82-3497-47ad-99e5-369cb40ac869.jpg?1783902788" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Hex Magic [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2624/hex-magic?utm_source=api</link>
-      <guid isPermaLink="false">2283729c-11db-471c-9f63-46092c97bd00</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/1/71273925-a296-4459-af5d-48acc7972761.jpg?1783902789&quot; alt=&quot;Hex Magic&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Hex Magic&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery — Arcane&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Exile all the cards from your hand, then draw that many cards. Until the end of your next turn, you may play cards exiled this way.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2624/hex-magic?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/7/1/71273925-a296-4459-af5d-48acc7972761.jpg?1783902789" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Undead Hand Ninja [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2623/undead-hand-ninja?utm_source=api</link>
-      <guid isPermaLink="false">3c02d725-a05e-4086-9caa-ddb005d7ae18</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/b/9bd33e84-6027-403d-9806-739a5cfe8603.jpg?1783902790&quot; alt=&quot;Undead Hand Ninja&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Undead Hand Ninja&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Zombie Ninja Villain&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Deathtouch&lt;br/&gt;Whenever one or more creature cards leave your graveyard, each opponent loses 1 life and you gain 1 life.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2623/undead-hand-ninja?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/b/9bd33e84-6027-403d-9806-739a5cfe8603.jpg?1783902790" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Hammerhead, Maggia Boss [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2622/hammerhead-maggia-boss?utm_source=api</link>
-      <guid isPermaLink="false">2ff5a5ed-d6db-4dfa-b1fd-38ad872ad30a</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/a/ca8de7fc-a1f3-44ae-ae12-28e7fd38ac1d.jpg?1783902790&quot; alt=&quot;Hammerhead, Maggia Boss&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Hammerhead, Maggia Boss&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Rogue Villain&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Sacrifice another creature or artifact: Put a +1/+1 counter on Hammerhead.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2622/hammerhead-maggia-boss?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/a/ca8de7fc-a1f3-44ae-ae12-28e7fd38ac1d.jpg?1783902790" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Hellcat, Undying Vigilante [Wizards Play Network 2026]</title>
-      <link>https://scryfall.com/card/pw26/13/hellcat-undying-vigilante?utm_source=api</link>
-      <guid isPermaLink="false">4c27ba61-6812-4dd7-8efc-65435a8df7b5</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/2/72ef7900-4c25-48f8-9651-1d251cb2e6cb.jpg?1784468827&quot; alt=&quot;Hellcat, Undying Vigilante&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Hellcat, Undying Vigilante&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Hero&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Wizards Play Network 2026&lt;/p&gt;
-&lt;p&gt;Haste&lt;br/&gt;When Hellcat dies, return her to the battlefield under her owner's control with a +1/+1 counter on her. She loses all abilities and gains haste.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pw26/13/hellcat-undying-vigilante?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/7/2/72ef7900-4c25-48f8-9651-1d251cb2e6cb.jpg?1784468827" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Quicksilver, Brash Blur [Pro Tour Promos]</title>
-      <link>https://scryfall.com/card/ppro/2026-1/quicksilver-brash-blur?utm_source=api</link>
-      <guid isPermaLink="false">b76ce131-e51a-445e-8216-00df5904ab93</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/4/a43bc73a-3566-4be5-a210-9a6a5eac1913.jpg?1783902792&quot; alt=&quot;Quicksilver, Brash Blur&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Quicksilver, Brash Blur&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {R}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Mutant Hero&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Pro Tour Promos&lt;/p&gt;
-&lt;p&gt;If Quicksilver, Brash Blur is in your opening hand, you may begin the game with him on the battlefield.&lt;br/&gt;Haste&lt;br/&gt;Power-up — {4}{R}: Put a +1/+1 counter and a double strike counter on Quicksilver. (Activate each power-up ability only once. Reduce the cost by his mana cost if he entered this turn.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/ppro/2026-1/quicksilver-brash-blur?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/4/a43bc73a-3566-4be5-a210-9a6a5eac1913.jpg?1783902792" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Prismatic Ending [MagicFest 2026]</title>
-      <link>https://scryfall.com/card/pf26/3/prismatic-ending?utm_source=api</link>
-      <guid isPermaLink="false">2cb98ca9-d7bb-416b-a17e-ee5f8e4d78f2</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/d/8d047ce8-1efd-462a-88c3-db761fef7e16.jpg?1784356051&quot; alt=&quot;Prismatic Ending&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Prismatic Ending&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {X}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: MagicFest 2026&lt;/p&gt;
-&lt;p&gt;Converge — Exile target nonland permanent if its mana value is less than or equal to the number of colors of mana spent to cast this spell.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pf26/3/prismatic-ending?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/d/8d047ce8-1efd-462a-88c3-db761fef7e16.jpg?1784356051" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
