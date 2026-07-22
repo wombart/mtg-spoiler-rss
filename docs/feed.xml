@@ -5,7 +5,7 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 22 Jul 2026 19:03:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 20:58:25 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
     <item>
@@ -1344,6 +1344,21 @@
       <enclosure url="https://cards.scryfall.io/normal/front/2/7/27b2d8b7-3160-4a51-a898-a3c05180ff75.jpg?1784634923" type="image/jpeg" length="0"/>
     </item>
     <item>
+      <title>Palantír of Orthanc [The Hobbit Commander]</title>
+      <link>https://scryfall.com/card/hoc/45/palant%C3%ADr-of-orthanc?utm_source=api</link>
+      <guid isPermaLink="false">7798a4d9-1c1d-48e6-b9a2-ecd6aec1efa7</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/6/a6a887e4-7cee-4107-8a9a-afbfa2e91bdc.jpg?1784733961&quot; alt=&quot;Palantír of Orthanc&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Palantír of Orthanc&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit Commander&lt;/p&gt;
+&lt;p&gt;At the beginning of your end step, put an influence counter on Palantír of Orthanc and scry 2. Then target opponent may have you draw a card. If that player doesn't, you mill X cards, where X is the number of influence counters on Palantír of Orthanc, and that player loses life equal to the total mana value of those cards.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hoc/45/palant%C3%ADr-of-orthanc?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/6/a6a887e4-7cee-4107-8a9a-afbfa2e91bdc.jpg?1784733961" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>The One Ring [The Hobbit Commander]</title>
       <link>https://scryfall.com/card/hoc/44/the-one-ring?utm_source=api</link>
       <guid isPermaLink="false">3aa83ed2-f48b-4ce6-a614-2c54ddf50538</guid>
@@ -1378,7 +1393,7 @@
       <link>https://scryfall.com/card/hoc/39/and%C3%BAril-flame-of-the-west?utm_source=api</link>
       <guid isPermaLink="false">e6521404-8474-4727-b2d0-537d15d8a63f</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/f/0f2a60c5-09ca-49e4-90bd-9dadc56dddf2.jpg?1784715227&quot; alt=&quot;Andúril, Flame of the West&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/f/0f2a60c5-09ca-49e4-90bd-9dadc56dddf2.jpg?1784734551&quot; alt=&quot;Andúril, Flame of the West&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Andúril, Flame of the West&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {3}&lt;/p&gt;
 &lt;p&gt;Typ: Legendary Artifact — Equipment&lt;/p&gt;
@@ -1386,7 +1401,7 @@
 &lt;p&gt;Set: The Hobbit Commander&lt;/p&gt;
 &lt;p&gt;Equipped creature gets +3/+1.&lt;br/&gt;Whenever equipped creature attacks, create two tapped 1/1 white Spirit creature tokens with flying. If that creature is legendary, instead create two of those tokens that are tapped and attacking.&lt;br/&gt;Equip {2}&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hoc/39/and%C3%BAril-flame-of-the-west?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/0/f/0f2a60c5-09ca-49e4-90bd-9dadc56dddf2.jpg?1784715227" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/f/0f2a60c5-09ca-49e4-90bd-9dadc56dddf2.jpg?1784734551" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Tom Bombadil [The Hobbit Commander]</title>
@@ -1419,6 +1434,21 @@
       <enclosure url="https://cards.scryfall.io/normal/front/d/d/dd6dd9dc-ef2a-4806-a3e4-0597288a8162.jpg?1783902773" type="image/jpeg" length="0"/>
     </item>
     <item>
+      <title>Saruman of Many Colors [The Hobbit Commander]</title>
+      <link>https://scryfall.com/card/hoc/35/saruman-of-many-colors?utm_source=api</link>
+      <guid isPermaLink="false">c2d04138-cc17-4dd0-9a4c-9c87df72ed01</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/2/62c8fa9c-d8ba-4ce0-946c-42fdc26b49d1.jpg?1784733951&quot; alt=&quot;Saruman of Many Colors&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Saruman of Many Colors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{W}{U}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Avatar Wizard&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit Commander&lt;/p&gt;
+&lt;p&gt;Ward—Discard an enchantment, instant, or sorcery card.&lt;br/&gt;Whenever you cast your second spell each turn, each opponent mills two cards. When one or more cards are milled this way, exile target enchantment, instant, or sorcery card with equal or lesser mana value than that spell from an opponent's graveyard. Copy the exiled card. You may cast the copy without paying its mana cost.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hoc/35/saruman-of-many-colors?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/2/62c8fa9c-d8ba-4ce0-946c-42fdc26b49d1.jpg?1784733951" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>Flame of Anor [The Hobbit Commander]</title>
       <link>https://scryfall.com/card/hoc/31/flame-of-anor?utm_source=api</link>
       <guid isPermaLink="false">ecd49d85-9c8c-4cc9-9a83-072ecd433677</guid>
@@ -1438,7 +1468,7 @@
       <link>https://scryfall.com/card/hoc/29/aragorn-the-uniter?utm_source=api</link>
       <guid isPermaLink="false">3f31c423-d45c-4c3e-b7d4-ca125be0f92c</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/d/9d8d618a-9786-4e71-9808-96a336325367.jpg?1784715197&quot; alt=&quot;Aragorn, the Uniter&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/d/9d8d618a-9786-4e71-9808-96a336325367.jpg?1784734534&quot; alt=&quot;Aragorn, the Uniter&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Aragorn, the Uniter&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {R}{G}{W}{U}&lt;/p&gt;
 &lt;p&gt;Typ: Legendary Creature — Human Noble&lt;/p&gt;
@@ -1446,14 +1476,14 @@
 &lt;p&gt;Set: The Hobbit Commander&lt;/p&gt;
 &lt;p&gt;Whenever you cast a white spell, create a 1/1 white Human Soldier creature token.&lt;br/&gt;Whenever you cast a blue spell, scry 2.&lt;br/&gt;Whenever you cast a red spell, Aragorn deals 3 damage to target opponent.&lt;br/&gt;Whenever you cast a green spell, target creature gets +4/+4 until end of turn.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hoc/29/aragorn-the-uniter?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/d/9d8d618a-9786-4e71-9808-96a336325367.jpg?1784715197" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/d/9d8d618a-9786-4e71-9808-96a336325367.jpg?1784734534" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Cavern-Hoard Dragon [The Hobbit Commander]</title>
       <link>https://scryfall.com/card/hoc/23/cavern-hoard-dragon?utm_source=api</link>
       <guid isPermaLink="false">939e8448-013a-4aef-9a92-7c883a77a1a0</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/7/e70e4fba-4217-472a-9adb-f7d63424ef2f.jpg?1784715096&quot; alt=&quot;Cavern-Hoard Dragon&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/7/e70e4fba-4217-472a-9adb-f7d63424ef2f.jpg?1784734512&quot; alt=&quot;Cavern-Hoard Dragon&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Cavern-Hoard Dragon&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {7}{R}{R}&lt;/p&gt;
 &lt;p&gt;Typ: Creature — Dragon&lt;/p&gt;
@@ -1461,7 +1491,7 @@
 &lt;p&gt;Set: The Hobbit Commander&lt;/p&gt;
 &lt;p&gt;This spell costs {X} less to cast, where X is the greatest number of artifacts an opponent controls.&lt;br/&gt;Flying, trample, haste&lt;br/&gt;Whenever this creature deals combat damage to a player, you create a Treasure token for each artifact that player controls.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hoc/23/cavern-hoard-dragon?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/e/7/e70e4fba-4217-472a-9adb-f7d63424ef2f.jpg?1784715096" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/7/e70e4fba-4217-472a-9adb-f7d63424ef2f.jpg?1784734512" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Call Forth the Tempest [The Hobbit Commander]</title>
@@ -1937,6 +1967,21 @@
       <enclosure url="https://cards.scryfall.io/normal/front/7/8/78d8f53e-537d-4eaa-99e3-cac57fa53d22.jpg?1784640093" type="image/jpeg" length="0"/>
     </item>
     <item>
+      <title>Chief Warg's Company [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/151/chief-wargs-company?utm_source=api</link>
+      <guid isPermaLink="false">372d7086-b7dc-4b6d-bdf6-e9ed9c995456</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/b/bbc634af-63d2-444a-8123-85f16fe3e364.jpg?1784733927&quot; alt=&quot;Chief Warg's Company&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Chief Warg's Company&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{B}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Wolf&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Trample&lt;br/&gt;This creature can't attack unless you control two or more other Wolves.&lt;br/&gt;At the beginning of your upkeep, create a 2/2 green Wolf creature token.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/151/chief-wargs-company?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/b/bbc634af-63d2-444a-8123-85f16fe3e364.jpg?1784733927" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>The Chief Warg [The Hobbit]</title>
       <link>https://scryfall.com/card/hob/150/the-chief-warg?utm_source=api</link>
       <guid isPermaLink="false">5ebe8de1-aa3d-410d-b43d-1685259c7a97</guid>
@@ -2147,6 +2192,21 @@
       <enclosure url="https://cards.scryfall.io/normal/front/2/4/2462358b-52c8-49b2-8d97-d65a9188f8f7.jpg?1784376974" type="image/jpeg" length="0"/>
     </item>
     <item>
+      <title>Desert Were-Worm [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/92/desert-were-worm?utm_source=api</link>
+      <guid isPermaLink="false">81c2913f-42b7-4cfa-adc0-b3416fbe2ec6</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/c/fc12c22a-11ff-4fb0-bc42-dd8490b8efb7.jpg?1784733924&quot; alt=&quot;Desert Were-Worm&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Desert Were-Worm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{R}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Dragon Wurm&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;This creature gets +2/+0 for each Mountain you control.&lt;br/&gt;Whenever you attack with creatures with total power 12 or greater for the first time each turn, untap all attacking creatures. After this phase, there is an additional combat phase.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/92/desert-were-worm?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/c/fc12c22a-11ff-4fb0-bc42-dd8490b8efb7.jpg?1784733924" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>Burn, Burn, Tree and Fern [The Hobbit]</title>
       <link>https://scryfall.com/card/hob/90/burn-burn-tree-and-fern?utm_source=api</link>
       <guid isPermaLink="false">a97d6c5c-1cff-442d-b535-fc8389160b0b</guid>
@@ -2192,6 +2252,21 @@
       <enclosure url="https://cards.scryfall.io/normal/front/3/7/3788ada6-34a9-41af-a31c-2d090550e503.jpg?1784632114" type="image/jpeg" length="0"/>
     </item>
     <item>
+      <title>Gollum the Abandoned [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/72/gollum-the-abandoned?utm_source=api</link>
+      <guid isPermaLink="false">8d88facd-cf7e-498e-ab6b-6bd021316162</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/0/50d91ef3-6f5d-4255-8d47-be731b5dad30.jpg?1784733916&quot; alt=&quot;Gollum the Abandoned&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Gollum the Abandoned&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Halfling Horror&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Gollum can't block.&lt;br/&gt;When Gollum enters, exile up to one target card from an opponent's graveyard. Each opponent loses 2 life.&lt;br/&gt;{2}, Sacrifice an artifact or creature: Return this card from your graveyard to your hand. Activate only as a sorcery.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/72/gollum-the-abandoned?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/0/50d91ef3-6f5d-4255-8d47-be731b5dad30.jpg?1784733916" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>Gollum, Riddle Master [The Hobbit]</title>
       <link>https://scryfall.com/card/hob/70/gollum-riddle-master?utm_source=api</link>
       <guid isPermaLink="false">514b451b-814d-45fb-a2ba-8fe6f0bdad60</guid>
@@ -2211,7 +2286,7 @@
       <link>https://scryfall.com/card/hob/69/gnashing-of-teeth?utm_source=api</link>
       <guid isPermaLink="false">188a3f61-3f7c-450d-8ee7-e12ad13b86c6</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/d/5d485d70-c7b9-40a4-9089-5e7f1c2b9213.jpg?1784714877&quot; alt=&quot;Gnashing of Teeth&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/d/5d485d70-c7b9-40a4-9089-5e7f1c2b9213.jpg?1784734464&quot; alt=&quot;Gnashing of Teeth&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Gnashing of Teeth&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {1}{B}{B}&lt;/p&gt;
 &lt;p&gt;Typ: Sorcery&lt;/p&gt;
@@ -2219,7 +2294,37 @@
 &lt;p&gt;Set: The Hobbit&lt;/p&gt;
 &lt;p&gt;Choose one —&lt;br/&gt;• Target creature gets -5/-5 until end of turn. If that creature would die this turn, exile it instead.&lt;br/&gt;• Creatures target player controls get -1/-1 until end of turn.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/69/gnashing-of-teeth?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/5/d/5d485d70-c7b9-40a4-9089-5e7f1c2b9213.jpg?1784714877" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/d/5d485d70-c7b9-40a4-9089-5e7f1c2b9213.jpg?1784734464" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Gathering of Darkness [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/68/gathering-of-darkness?utm_source=api</link>
+      <guid isPermaLink="false">85e1556d-c4da-4979-a5db-4ce3842c7797</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/c/2ce066be-e5ad-4b93-8245-1b5018990d03.jpg?1784733910&quot; alt=&quot;Gathering of Darkness&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Gathering of Darkness&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Return up to one target creature card from your graveyard to your hand.&lt;br/&gt;Amass Goblins 3. (Put three +1/+1 counters on an Army you control. It's also a Goblin. If you don't control an Army, create a 0/0 black Goblin Army creature token first.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/68/gathering-of-darkness?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/c/2ce066be-e5ad-4b93-8245-1b5018990d03.jpg?1784733910" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Down, Down to Goblin-town [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/65/down-down-to-goblin-town?utm_source=api</link>
+      <guid isPermaLink="false">e01860cd-0aa1-435a-9ef9-ee412bc458cd</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/7/b72e193c-e030-4936-9b79-c636eff750e1.jpg?1784733900&quot; alt=&quot;Down, Down to Goblin-town&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Down, Down to Goblin-town&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Saga&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)&lt;br/&gt;I — Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.&lt;br/&gt;II — Amass Goblins 1. (Put a +1/+1 counter on an Army you control. It's also a Goblin. If you don't control an Army, create a 0/0 black Goblin Army creature token first.)&lt;br/&gt;III, IV — Target opponent loses 1 life and you gain 1 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/65/down-down-to-goblin-town?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/7/b72e193c-e030-4936-9b79-c636eff750e1.jpg?1784733900" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Azog, Moria's Ruin [The Hobbit]</title>
@@ -2505,107 +2610,6 @@
 &lt;p&gt;Equipped creature gets +2/+2 and has protection from red and from green.&lt;br/&gt;Whenever equipped creature deals combat damage to a player, exile the top two cards of your library. You may play those cards this turn. You may play an additional land this turn.&lt;br/&gt;Equip {2}&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2817/sword-of-forge-and-frontier?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/b/6/b65ac389-e4d1-4b02-8da7-790bf3be6943.jpg?1784278873" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Mitotic Slime [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2815/mitotic-slime?utm_source=api</link>
-      <guid isPermaLink="false">1162c7ff-c0cb-469a-ad3c-322b0981ae1d</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/8/883840b7-32db-4bda-8e02-0f6ba844fd34.jpg?1784278747&quot; alt=&quot;Mitotic Slime&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Mitotic Slime&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Ooze&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;When this creature dies, create two 2/2 green Ooze creature tokens. They have &quot;When this token dies, create two 1/1 green Ooze creature tokens.&quot;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2815/mitotic-slime?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/8/883840b7-32db-4bda-8e02-0f6ba844fd34.jpg?1784278747" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Atsushi, the Blazing Sky [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2814/atsushi-the-blazing-sky?utm_source=api</link>
-      <guid isPermaLink="false">535f405d-94df-4f45-aedc-b331103720b7</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/4/045d1a10-dfc4-4b1a-a9f4-424d7ea0d216.jpg?1784278705&quot; alt=&quot;Atsushi, the Blazing Sky&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Atsushi, the Blazing Sky&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{R}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Dragon Spirit&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Flying, trample&lt;br/&gt;When Atsushi dies, choose one —&lt;br/&gt;• Exile the top two cards of your library. Until the end of your next turn, you may play those cards.&lt;br/&gt;• Create three Treasure tokens.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2814/atsushi-the-blazing-sky?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/0/4/045d1a10-dfc4-4b1a-a9f4-424d7ea0d216.jpg?1784278705" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Yavimaya, Cradle of Growth [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2813/yavimaya-cradle-of-growth?utm_source=api</link>
-      <guid isPermaLink="false">8dd5f5af-d2d8-4356-8617-8381081b930c</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/3/13c4a320-aaed-4577-87c2-8dd206ddd99f.jpg?1784278620&quot; alt=&quot;Yavimaya, Cradle of Growth&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Yavimaya, Cradle of Growth&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Each land is a Forest in addition to its other land types.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2813/yavimaya-cradle-of-growth?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/1/3/13c4a320-aaed-4577-87c2-8dd206ddd99f.jpg?1784278620" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Command Tower [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2812/command-tower?utm_source=api</link>
-      <guid isPermaLink="false">0895c9b7-ae7d-4bb3-af17-3b75deb50a25</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/9/f9c515bb-3d45-4c24-92bb-69c5c6520959.jpg?1784278492&quot; alt=&quot;Command Tower&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Command Tower&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;{T}: Add one mana of any color in your commander's color identity.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2812/command-tower?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/f/9/f9c515bb-3d45-4c24-92bb-69c5c6520959.jpg?1784278492" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Homeward Path [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2811/homeward-path?utm_source=api</link>
-      <guid isPermaLink="false">cb8ec2e4-8223-4172-8f2c-37c918a573fa</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/5/a5191ab2-b246-411c-a73b-829accfed59c.jpg?1784278520&quot; alt=&quot;Homeward Path&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Homeward Path&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}: Each player gains control of all creatures they own.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2811/homeward-path?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/5/a5191ab2-b246-411c-a73b-829accfed59c.jpg?1784278520" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Fountainport [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2810/fountainport?utm_source=api</link>
-      <guid isPermaLink="false">94e8b0a9-44a1-4dce-8d44-78681ae638a1</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/8/c823cedc-8532-4e82-bb92-2c98aa266808.jpg?1784278381&quot; alt=&quot;Fountainport&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Fountainport&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{2}, {T}, Sacrifice a token: Draw a card.&lt;br/&gt;{3}, {T}, Pay 1 life: Create a 1/1 blue Fish creature token.&lt;br/&gt;{4}, {T}: Create a Treasure token.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2810/fountainport?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/8/c823cedc-8532-4e82-bb92-2c98aa266808.jpg?1784278381" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Crop Rotation [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2809/crop-rotation?utm_source=api</link>
-      <guid isPermaLink="false">28b46183-c62f-47b1-9fee-3ba148202cab</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/f/df194a29-a591-4d1d-9def-c67fe2af0458.jpg?1784278343&quot; alt=&quot;Crop Rotation&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Crop Rotation&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {G}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;As an additional cost to cast this spell, sacrifice a land.&lt;br/&gt;Search your library for a land card, put that card onto the battlefield, then shuffle.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2809/crop-rotation?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/f/df194a29-a591-4d1d-9def-c67fe2af0458.jpg?1784278343" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Sol Ring [Secret Lair Drop]</title>
