@@ -5,7 +5,7 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 28 Jul 2026 22:53:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 14:02:35 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
     <item>
@@ -2000,6 +2000,21 @@
 &lt;p&gt;Whenever an opponent draws their second card each turn, you create a Treasure token.&lt;br/&gt;{2}{W}: Two target players each draw a card.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/275/gleaming-splendor?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/4/2/42a1986c-9585-4544-b5a7-bee4be5c4506.jpg?1785235251" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Smaug, Wicked Worm [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/245/smaug-wicked-worm?utm_source=api</link>
+      <guid isPermaLink="false">20535126-f811-4386-bdce-d73f30691724</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/8/189a7d55-c3ec-4402-a3b3-72817f533e87.jpg?1785299553&quot; alt=&quot;Smaug, Wicked Worm&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Smaug, Wicked Worm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{B}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Dragon&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;When Smaug enters, create X tapped Treasure tokens, where X is the number of artifacts your opponents control.&lt;br/&gt;Whenever you cast a spell, if mana from a Treasure was spent to cast it, you draw a card and lose 1 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/245/smaug-wicked-worm?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/8/189a7d55-c3ec-4402-a3b3-72817f533e87.jpg?1785299553" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Forest [The Hobbit]</title>
