@@ -5,7 +5,7 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 29 Jul 2026 19:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 01:50:24 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
     <item>
@@ -2604,6 +2604,485 @@
       <enclosure url="https://cards.scryfall.io/normal/front/7/8/78d8f53e-537d-4eaa-99e3-cac57fa53d22.jpg?1784798171" type="image/jpeg" length="0"/>
     </item>
     <item>
+      <title>Goblin Plate Mail [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/157/goblin-plate-mail?utm_source=api</link>
+      <guid isPermaLink="false">eda99a16-6a7c-4f39-8a6b-a284e6afd3fc</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/b/cb982607-da37-4894-91a5-cf6307d4d703.jpg?1785323293&quot; alt=&quot;Goblin Plate Mail&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Goblin Plate Mail&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{B/R}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact — Equipment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;When this Equipment enters, amass Goblins 1, then attach this Equipment to the amassed Army. (To amass Goblins 1, put a +1/+1 counter on an Army you control. It's also a Goblin. If you don't control an Army, create a 0/0 black Goblin Army creature token first.)&lt;br/&gt;Equipped creature gets +1/+0 and has menace.&lt;br/&gt;Equip {4}&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/157/goblin-plate-mail?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/b/cb982607-da37-4894-91a5-cf6307d4d703.jpg?1785323293" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fearsome Goblin Pair [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/156/fearsome-goblin-pair?utm_source=api</link>
+      <guid isPermaLink="false">edbd3d4e-78a2-4c03-936d-dcb24cf7c87c</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/e/2efe2dc7-3eaa-47f6-b1ae-f974c4a8ae79.jpg?1785324572&quot; alt=&quot;Fearsome Goblin Pair&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Fearsome Goblin Pair&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B/R}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Goblin Soldier&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;When this creature dies, amass Goblins 4. (Put four +1/+1 counters on an Army you control. It's also a Goblin. If you don't control an Army, create a 0/0 black Goblin Army creature token first.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/156/fearsome-goblin-pair?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/e/2efe2dc7-3eaa-47f6-b1ae-f974c4a8ae79.jpg?1785324572" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Eagle's Rescue [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/155/eagles-rescue?utm_source=api</link>
+      <guid isPermaLink="false">95e1c368-b58a-4e69-9583-587560ad558d</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/2/12c8f2cc-ac9d-4cf6-9025-efe366b4e07f.jpg?1785236726&quot; alt=&quot;Eagle's Rescue&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Eagle's Rescue&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W/U}{W/U}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Aura&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Enchant creature&lt;br/&gt;Enchanted creature gets +2/+2 and has flying.&lt;br/&gt;{2}{W/U}{W/U}: Return this card from your graveyard to the battlefield attached to target creature you control with power 1 or less. Activate only as a sorcery.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/155/eagles-rescue?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/2/12c8f2cc-ac9d-4cf6-9025-efe366b4e07f.jpg?1785236726" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Dwalin, Weaponmaster [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/154/dwalin-weaponmaster?utm_source=api</link>
+      <guid isPermaLink="false">cee583b7-7cc3-40ea-a227-b760839ec291</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/9/196d9287-a37d-4b27-a83b-a5489a54f081.jpg?1785335623&quot; alt=&quot;Dwalin, Weaponmaster&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Dwalin, Weaponmaster&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{R/W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Dwarf Warrior&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;First strike&lt;br/&gt;Whenever Dwalin enters or attacks, put a hone counter on each Equipment you control. (Each hone counter on an Equipment grants +1/+0 to equipped creature.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/154/dwalin-weaponmaster?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/9/196d9287-a37d-4b27-a83b-a5489a54f081.jpg?1785335623" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Duskwatch Hunter [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/153/duskwatch-hunter?utm_source=api</link>
+      <guid isPermaLink="false">6283e5ca-9924-478b-89a5-36924accb9aa</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/6/3685c783-d837-4466-a960-ab3098db64c3.jpg?1785323286&quot; alt=&quot;Duskwatch Hunter&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Duskwatch Hunter&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B/G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Wolf&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;This creature can't be blocked by tokens.&lt;br/&gt;When this creature enters, put a +1/+1 counter on target creature.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/153/duskwatch-hunter?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/6/3685c783-d837-4466-a960-ab3098db64c3.jpg?1785323286" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Dáin's Company [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/152/d%C3%A1ins-company?utm_source=api</link>
+      <guid isPermaLink="false">ae03782f-8f05-4ce2-a049-005b1b688faf</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/6/36db4405-8589-481f-b627-f26087488337.jpg?1785236717&quot; alt=&quot;Dáin's Company&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Dáin's Company&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {R}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Dwarf Warrior&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;This creature has lifelink as long as you control another Dwarf.&lt;br/&gt;When this creature enters, look at the top four cards of your library. You may reveal a Dwarf or Equipment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/152/d%C3%A1ins-company?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/6/36db4405-8589-481f-b627-f26087488337.jpg?1785236717" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Chief Warg's Company [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/151/chief-wargs-company?utm_source=api</link>
+      <guid isPermaLink="false">372d7086-b7dc-4b6d-bdf6-e9ed9c995456</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/b/bbc634af-63d2-444a-8123-85f16fe3e364.jpg?1784733927&quot; alt=&quot;Chief Warg's Company&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Chief Warg's Company&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{B}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Wolf&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Trample&lt;br/&gt;This creature can't attack unless you control two or more other Wolves.&lt;br/&gt;At the beginning of your upkeep, create a 2/2 green Wolf creature token.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/151/chief-wargs-company?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/b/bbc634af-63d2-444a-8123-85f16fe3e364.jpg?1784733927" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Chief Warg [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/150/the-chief-warg?utm_source=api</link>
+      <guid isPermaLink="false">5ebe8de1-aa3d-410d-b43d-1685259c7a97</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/3/c397a298-bf7f-49d7-a26a-206ccf9e8120.jpg?1784377030&quot; alt=&quot;The Chief Warg&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;The Chief Warg&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Wolf&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Menace (This creature can't be blocked except by two or more creatures.)&lt;br/&gt;Ferocious — Whenever you attack while you control a creature with power 4 or greater, you draw a card and lose 1 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/150/the-chief-warg?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/3/c397a298-bf7f-49d7-a26a-206ccf9e8120.jpg?1784377030" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Bolg of the North [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/148/bolg-of-the-north?utm_source=api</link>
+      <guid isPermaLink="false">88522a0f-5377-4522-97f4-4148bef954af</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/b/7b2d2a7f-88e0-45a9-8579-a6736bcd66eb.jpg?1784377021&quot; alt=&quot;Bolg of the North&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Bolg of the North&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{B}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Goblin Soldier&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;When Bolg enters, you may sacrifice another creature. When you do, Bolg deals damage equal to that creature's power to another target creature. If excess damage was dealt this way, amass Goblins X, where X is that excess damage. (Put X +1/+1 counters on an Army you control. It's also a Goblin. If you don't control an Army, create a 0/0 black Goblin Army creature token first.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/148/bolg-of-the-north?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/b/7b2d2a7f-88e0-45a9-8579-a6736bcd66eb.jpg?1784377021" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Bifur, Melodic Rider [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/147/bifur-melodic-rider?utm_source=api</link>
+      <guid isPermaLink="false">b8d563e4-e2bc-4e8b-8841-6655beff9138</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/e/ee88cc80-8fbf-451c-b2b8-09158426c26a.jpg?1784377019&quot; alt=&quot;Bifur, Melodic Rider&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Bifur, Melodic Rider&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{R/W}{R/W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Dwarf Bard&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)&lt;br/&gt;Whenever Bifur enters or attacks, put a +1/+1 counter on target creature.&lt;br/&gt;As long as you have an enduring story, if an ability of a Dwarf you control triggers, that ability triggers an additional time.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/147/bifur-melodic-rider?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/e/ee88cc80-8fbf-451c-b2b8-09158426c26a.jpg?1784377019" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Bard's Company [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/146/bards-company?utm_source=api</link>
+      <guid isPermaLink="false">5c5bfbb2-0e63-4e43-b441-c4878983288f</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/1/d14aa2ff-7bbd-47a6-8e36-481e56302a62.jpg?1785152250&quot; alt=&quot;Bard's Company&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Bard's Company&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Human Citizen&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;You may cast this spell as though it had flash if you control a Human.&lt;br/&gt;Other creatures you control get +1/+1.&lt;br/&gt;Whenever this creature enters or attacks, recruit. (Draw a card, then discard a card. If you discarded a nonland card, create a 1/1 white Human Soldier creature token.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/146/bards-company?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/1/d14aa2ff-7bbd-47a6-8e36-481e56302a62.jpg?1785152250" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Bard the Bowman [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/145/bard-the-bowman?utm_source=api</link>
+      <guid isPermaLink="false">ec076f5b-b0e3-4b6f-9293-a8fc42f20bd8</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/b/0b84e232-428c-424a-848c-ef95debc6e50.jpg?1784377009&quot; alt=&quot;Bard the Bowman&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Bard the Bowman&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Archer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Reach&lt;br/&gt;Whenever you draw your second card each turn, put a +1/+1 counter on target creature. It gains lifelink until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/145/bard-the-bowman?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/b/0b84e232-428c-424a-848c-ef95debc6e50.jpg?1784377009" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Bard, King of Dale [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/144/bard-king-of-dale?utm_source=api</link>
+      <guid isPermaLink="false">d05db2c1-a19a-4803-8e8a-fa2f9b798181</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/0/c05c2aa6-29c7-40f8-872e-91099b9225c4.jpg?1784377008&quot; alt=&quot;Bard, King of Dale&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Bard, King of Dale&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{W}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Noble Archer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Reach, vigilance&lt;br/&gt;If you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.&lt;br/&gt;If one or more tokens would be created under your control, twice that many of those tokens are created instead.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/144/bard-king-of-dale?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/0/c05c2aa6-29c7-40f8-872e-91099b9225c4.jpg?1784377008" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Woodland Weavemaster [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/143/woodland-weavemaster?utm_source=api</link>
+      <guid isPermaLink="false">28ffddca-a3c4-467d-a2dc-2c5e62393e11</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/e/fe2b4bcf-56de-44d3-83af-aeb27f82c25e.jpg?1785237990&quot; alt=&quot;Woodland Weavemaster&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Woodland Weavemaster&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Elf Druid&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Vigilance&lt;br/&gt;Whenever another Elf you control enters, this creature gets +1/+1 until end of turn.&lt;br/&gt;{T}: Add X mana of any one color, where X is this creature's power. Spend this mana only to cast Elf spells and activate abilities of Elf sources.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/143/woodland-weavemaster?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/e/fe2b4bcf-56de-44d3-83af-aeb27f82c25e.jpg?1785237990" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Wood Elves [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/142/wood-elves?utm_source=api</link>
+      <guid isPermaLink="false">8973bd99-20f8-4867-90ef-50392147ee1b</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/4/2476e42b-b209-4207-8ed9-cb668f89b218.jpg?1783902784&quot; alt=&quot;Wood Elves&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Wood Elves&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Elf Scout&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;When this creature enters, search your library for a Forest card, put that card onto the battlefield, then shuffle.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/142/wood-elves?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/4/2476e42b-b209-4207-8ed9-cb668f89b218.jpg?1783902784" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Wilderland Scrounger [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/141/wilderland-scrounger?utm_source=api</link>
+      <guid isPermaLink="false">8a2946ad-7a7b-4cda-8591-da8c7da5e072</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/3/63078f42-f404-4c61-86be-45d934393b0a.jpg?1785236564&quot; alt=&quot;Wilderland Scrounger&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Wilderland Scrounger&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Wolf&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Ferocious — Whenever this creature attacks while you control a creature with power 4 or greater, put a +1/+1 counter on each creature you control.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/141/wilderland-scrounger?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/3/63078f42-f404-4c61-86be-45d934393b0a.jpg?1785236564" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Through the Forest Gate [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/137/through-the-forest-gate?utm_source=api</link>
+      <guid isPermaLink="false">acfe54b3-10e3-4fdb-b874-d39fde96c40a</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/8/880adfc8-69cf-4062-a804-e65b6cb6056d.jpg?1784895046&quot; alt=&quot;Through the Forest Gate&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Through the Forest Gate&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {6}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Look at the top twenty cards of your library, put any number of land cards from among them onto the battlefield tapped, then shuffle. You gain 8 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/137/through-the-forest-gate?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/8/880adfc8-69cf-4062-a804-e65b6cb6056d.jpg?1784895046" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Part in Friendship [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/134/part-in-friendship?utm_source=api</link>
+      <guid isPermaLink="false">e1a9c467-2d64-4e11-adf3-7333c923b187</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/4/b4ff1eac-6d97-40ab-9b7c-c2fdca0917d9.jpg?1784632164&quot; alt=&quot;Part in Friendship&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Part in Friendship&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Whenever a nontoken creature you control dies, reveal cards from the top of your library until you reveal a creature card. If its mana value is less than or equal to the number of lands you control, put it onto the battlefield. Otherwise, put it into your hand. Put the rest on the bottom of your library in a random order. This ability triggers only once each turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/134/part-in-friendship?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/4/b4ff1eac-6d97-40ab-9b7c-c2fdca0917d9.jpg?1784632164" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ordinary Bear [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/133/ordinary-bear?utm_source=api</link>
+      <guid isPermaLink="false">89a2fab8-b074-42aa-a871-d9c5de2d0895</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/f/0feb9817-56e1-465a-851c-b2fe202aa8ae.jpg?1785323277&quot; alt=&quot;Ordinary Bear&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Ordinary Bear&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Bear&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/133/ordinary-bear?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/f/0feb9817-56e1-465a-851c-b2fe202aa8ae.jpg?1785323277" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Old Fat Spider [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/132/old-fat-spider?utm_source=api</link>
+      <guid isPermaLink="false">8790f842-e842-4bed-adf4-5b3cc5fd68a9</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/0/e0c0f842-40fe-4776-a988-a35216bcfd47.jpg?1785236709&quot; alt=&quot;Old Fat Spider&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Old Fat Spider&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Spider&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Reach&lt;br/&gt;This creature can't be blocked by creatures with power 2 or less.&lt;br/&gt;Whenever this creature becomes the target of a spell or ability an opponent controls, draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/132/old-fat-spider?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/0/e0c0f842-40fe-4776-a988-a35216bcfd47.jpg?1785236709" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Nasty Little Rabbit [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/130/nasty-little-rabbit?utm_source=api</link>
+      <guid isPermaLink="false">ee86cce6-c7c1-40a6-896b-cde9b86bb532</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/6/96bc7d25-2828-478a-8fe5-a1f4ede8c9c0.jpg?1785324620&quot; alt=&quot;Nasty Little Rabbit&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Nasty Little Rabbit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Rabbit&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Ferocious — At the beginning of combat on your turn, if you control a creature with power 4 or greater, put a +1/+1 counter on this creature.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/130/nasty-little-rabbit?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/6/96bc7d25-2828-478a-8fe5-a1f4ede8c9c0.jpg?1785324620" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Mirkwood Pathmaker [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/129/mirkwood-pathmaker?utm_source=api</link>
+      <guid isPermaLink="false">f1b36dde-9cde-46c8-8d5a-9ad93feba41f</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/0/50fbedc0-bc66-4ffb-87f6-a2df69995091.jpg?1785152431&quot; alt=&quot;Mirkwood Pathmaker&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Mirkwood Pathmaker&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Elf Ranger&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Mirkwood Pathmaker's power and toughness are each equal to the number of lands you control.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/129/mirkwood-pathmaker?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/0/50fbedc0-bc66-4ffb-87f6-a2df69995091.jpg?1785152431" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Little Bear [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/128/little-bear?utm_source=api</link>
+      <guid isPermaLink="false">53c6c6bf-0256-424d-b937-1cc7d9e2d574</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/a/8a50858a-33b5-4c45-9c31-5956ae5a33a6.jpg?1785323276&quot; alt=&quot;Little Bear&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Little Bear&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Bear&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Flash&lt;br/&gt;When this creature enters, untap another target creature you control. If that creature is a Bear, put a +1/+1 counter on it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/128/little-bear?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/a/8a50858a-33b5-4c45-9c31-5956ae5a33a6.jpg?1785323276" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Gigantic Big Bear [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/126/gigantic-big-bear?utm_source=api</link>
+      <guid isPermaLink="false">88d7bd11-7b1d-426c-8552-01448531c6ad</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/d/7d6ece3d-8e7a-41ad-974f-3c9748de4825.jpg?1785323269&quot; alt=&quot;Gigantic Big Bear&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Gigantic Big Bear&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {5}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Bear&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;This spell can't be countered.&lt;br/&gt;Hexproof, haste&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/126/gigantic-big-bear?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/d/7d6ece3d-8e7a-41ad-974f-3c9748de4825.jpg?1785323269" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Galion, Elvenking's Butler [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/125/galion-elvenkings-butler?utm_source=api</link>
+      <guid isPermaLink="false">9efb3aa4-0023-4e0e-8bd4-f4dff1b3be66</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/8/985bd676-58c4-42c7-a570-1b413e9aa94c.jpg?1785152142&quot; alt=&quot;Galion, Elvenking's Butler&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Galion, Elvenking's Butler&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Elf Advisor&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Whenever Galion attacks, choose up to one other target creature you control. Its base power and toughness become equal to Galion's power and toughness until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/125/galion-elvenkings-butler?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/8/985bd676-58c4-42c7-a570-1b413e9aa94c.jpg?1785152142" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Down in the Valley [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/124/down-in-the-valley?utm_source=api</link>
+      <guid isPermaLink="false">e3491542-569e-48a8-b625-fa7c4aa2792a</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/8/c8aa5179-475b-4cc8-b21e-205b475eb4cf.jpg?1784895042&quot; alt=&quot;Down in the Valley&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Down in the Valley&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Saga&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)&lt;br/&gt;I — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.&lt;br/&gt;II — This Saga gains &quot;Landfall — Whenever a land you control enters, create a 1/1 green Elf creature token.&quot;&lt;br/&gt;III, IV — Elves you control get +1/+0 and gain vigilance until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/124/down-in-the-valley?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/8/c8aa5179-475b-4cc8-b21e-205b475eb4cf.jpg?1784895042" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Dancing from Dark to Dawn [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/123/dancing-from-dark-to-dawn?utm_source=api</link>
+      <guid isPermaLink="false">5ba482e9-fbb0-4d9f-a3a9-414892bcdfed</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/5/550cd0b6-ca61-4db7-9d20-0b68c48066f9.jpg?1785236704&quot; alt=&quot;Dancing from Dark to Dawn&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Dancing from Dark to Dawn&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Whenever you cast a creature spell, put X +1/+1 counters on target creature you control, where X is that spell's mana value.&lt;br/&gt;Landfall — Whenever a land you control enters, create a 2/2 green Bear creature token.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/123/dancing-from-dark-to-dawn?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/5/550cd0b6-ca61-4db7-9d20-0b68c48066f9.jpg?1785236704" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Cantankerous Keepers [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/122/cantankerous-keepers?utm_source=api</link>
+      <guid isPermaLink="false">77c97dad-17cc-4a28-a48b-907c044d9034</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/a/fae46a70-a6d3-4584-859d-6c7425fb1508.jpg?1785152413&quot; alt=&quot;Cantankerous Keepers&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Cantankerous Keepers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {5}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Elf Soldier&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Affinity for Elves (This spell costs {1} less to cast for each Elf you control.)&lt;br/&gt;When this creature enters, mill four cards, then put all Elf cards from among them into your hand.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/122/cantankerous-keepers?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/a/fae46a70-a6d3-4584-859d-6c7425fb1508.jpg?1785152413" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Beorn's Hospitality [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/120/beorns-hospitality?utm_source=api</link>
+      <guid isPermaLink="false">d9ed7252-11d1-432b-9101-ac08cd28826d</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/5/153ca57e-30f0-4ad7-ae9d-c55cbf0fd4c9.jpg?1785152153&quot; alt=&quot;Beorn's Hospitality&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Beorn's Hospitality&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature you control.&lt;br/&gt;{5}{G}{G}: This enchantment becomes a Bear creature in addition to its other types and gains &quot;This creature's power and toughness are each equal to the number of lands you control.&quot; (This effect doesn't end.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/120/beorns-hospitality?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/5/153ca57e-30f0-4ad7-ae9d-c55cbf0fd4c9.jpg?1785152153" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Beorn the Fierce [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/119/beorn-the-fierce?utm_source=api</link>
+      <guid isPermaLink="false">30ca8e92-5955-46a1-86c1-094a873f518f</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/6/367d5f8b-77ee-47f7-bc71-972d62c280a9.jpg?1784632151&quot; alt=&quot;Beorn the Fierce&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Beorn the Fierce&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Bear Shapeshifter Warrior&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Trample&lt;br/&gt;Other Bears you control get +2/+2.&lt;br/&gt;At the beginning of combat on your turn, put a trample counter on up to one target creature you control. It becomes a Bear in addition to its other types. Then if you control three or more Bears, draw two cards.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/119/beorn-the-fierce?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/6/367d5f8b-77ee-47f7-bc71-972d62c280a9.jpg?1784632151" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Beorn, Reluctant Host // Till and Tend [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/118/beorn-reluctant-host-till-and-tend?utm_source=api</link>
+      <guid isPermaLink="false">288da486-393c-4995-ad02-c5093a71970d</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/0/804589b7-3ef9-473d-97cc-c61a2d41f70d.jpg?1785323267&quot; alt=&quot;Beorn, Reluctant Host // Till and Tend&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Beorn, Reluctant Host // Till and Tend&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{G} // {1}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Bear Shapeshifter // Sorcery — Adventure&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Trample&lt;br/&gt;//&lt;br/&gt;You may play an additional land this turn. (Then exile this card. You may cast the creature later from exile.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/118/beorn-reluctant-host-till-and-tend?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/0/804589b7-3ef9-473d-97cc-c61a2d41f70d.jpg?1785323267" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Thorin, Mountain-king [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/114/thorin-mountain-king?utm_source=api</link>
+      <guid isPermaLink="false">94917b80-ac32-45ab-b4ee-157ade024bcd</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/1/117347af-0dd7-4350-901d-8c8a81387e22.jpg?1783902784&quot; alt=&quot;Thorin, Mountain-king&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Thorin, Mountain-king&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Dwarf Noble&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Trample&lt;br/&gt;When Thorin enters, attach any number of target Equipment you control to target creature you control. When one or more Equipment become attached to that creature this way, that creature deals damage equal to its power to up to one target creature.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/114/thorin-mountain-king?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/1/117347af-0dd7-4350-901d-8c8a81387e22.jpg?1783902784" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>Smaug the Magnificent [The Hobbit]</title>
       <link>https://scryfall.com/card/hob/110/smaug-the-magnificent?utm_source=api</link>
       <guid isPermaLink="false">c53b7602-5e36-4900-896c-844bf6eac22e</guid>
@@ -2668,7 +3147,7 @@
       <link>https://scryfall.com/card/hob/99/gl%C3%B3in-the-mighty-easy-pickings?utm_source=api</link>
       <guid isPermaLink="false">6505a53b-00db-44c4-8eaa-09a1a01451a4</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/7/5793b8eb-2fc5-454d-8fa2-20346fef167a.jpg?1785243239&quot; alt=&quot;Glóin the Mighty // Easy Pickings&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/7/5793b8eb-2fc5-454d-8fa2-20346fef167a.jpg?1785324545&quot; alt=&quot;Glóin the Mighty // Easy Pickings&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Glóin the Mighty // Easy Pickings&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {3}{R} // {2}{R}&lt;/p&gt;
 &lt;p&gt;Typ: Legendary Creature — Dwarf Warrior // Sorcery — Adventure&lt;/p&gt;
@@ -2676,7 +3155,22 @@
 &lt;p&gt;Set: The Hobbit&lt;/p&gt;
 &lt;p&gt;At the beginning of your first main phase, add {R}{R}.&lt;br/&gt;//&lt;br/&gt;Easy Pickings deals 1 damage to each creature your opponents control. (Then exile this card. You may cast the creature later from exile.)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/99/gl%C3%B3in-the-mighty-easy-pickings?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/5/7/5793b8eb-2fc5-454d-8fa2-20346fef167a.jpg?1785243239" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/7/5793b8eb-2fc5-454d-8fa2-20346fef167a.jpg?1785324545" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Getaway Barrel [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/98/getaway-barrel?utm_source=api</link>
+      <guid isPermaLink="false">7ddbf891-7f80-44e9-b94c-70c1da0b91ed</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/4/e4819aa6-5d28-4a37-942d-89523e30c4e1.jpg?1785323241&quot; alt=&quot;Getaway Barrel&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Getaway Barrel&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;When this artifact is put into a graveyard from the battlefield, reveal the top thirteen cards of your library. Put a random creature card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/98/getaway-barrel?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/4/e4819aa6-5d28-4a37-942d-89523e30c4e1.jpg?1785323241" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Gandalf, Spark Starter [The Hobbit]</title>
@@ -2722,6 +3216,21 @@
 &lt;p&gt;Equip abilities you activate that target this creature cost {2} less to activate.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/95/dwarven-mauler?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/b/d/bd0f0415-43af-4f5d-8999-853c5d42780d.jpg?1784895019" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Dori, Bearer of Friends [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/94/dori-bearer-of-friends?utm_source=api</link>
+      <guid isPermaLink="false">58acd6b2-730c-4472-a34a-f2784977aca8</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/2/d2f60ad0-c887-4585-85f8-afcf72fb80d0.jpg?1785323237&quot; alt=&quot;Dori, Bearer of Friends&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Dori, Bearer of Friends&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Dwarf Warrior&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Trample&lt;br/&gt;When Dori enters, create a Treasure token. (It's an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/94/dori-bearer-of-friends?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/2/d2f60ad0-c887-4585-85f8-afcf72fb80d0.jpg?1785323237" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Desolation of Smaug [The Hobbit]</title>
@@ -2797,6 +3306,21 @@
 &lt;p&gt;Whenever you cast a noncreature spell, amass Goblins 1. (Put a +1/+1 counter on an Army you control. It's also a Goblin. If you don't control an Army, create a 0/0 black Goblin Army creature token first.)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/89/bothersome-noisemaker?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/c/b/cb25b11a-6bf5-4a9a-b60f-d4dcac3816d6.jpg?1784894881" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Balin, Loremaster [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/87/balin-loremaster?utm_source=api</link>
+      <guid isPermaLink="false">0d420e41-43e9-41d6-832c-5a9f410c994e</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/2/42d7ca7b-c983-40fd-ad57-59f6972bb375.jpg?1785335653&quot; alt=&quot;Balin, Loremaster&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Balin, Loremaster&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{R}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Dwarf Bard&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)&lt;br/&gt;Whenever Balin or another Dwarf you control enters, you may discard your hand. Draw X cards, where X is the number of cards discarded this way. If you have an enduring story, Balin deals X damage to each opponent.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/87/balin-loremaster?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/2/42d7ca7b-c983-40fd-ad57-59f6972bb375.jpg?1785335653" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Supper for Spiders [The Hobbit]</title>
@@ -2917,6 +3441,21 @@
 &lt;p&gt;Gollum can't block.&lt;br/&gt;When Gollum enters, exile up to one target card from an opponent's graveyard. Each opponent loses 2 life.&lt;br/&gt;{2}, Sacrifice an artifact or creature: Return this card from your graveyard to your hand. Activate only as a sorcery.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/72/gollum-the-abandoned?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/5/0/50d91ef3-6f5d-4255-8d47-be731b5dad30.jpg?1784733916" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Gollum, Silent Slinker // Meager Meal [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/71/gollum-silent-slinker-meager-meal?utm_source=api</link>
+      <guid isPermaLink="false">0296d57e-e5b9-456f-bb21-eb584adefb4c</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/c/6cfaa182-3fec-4907-8814-b4d29c33cec3.jpg?1785323234&quot; alt=&quot;Gollum, Silent Slinker // Meager Meal&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Gollum, Silent Slinker // Meager Meal&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{B} // {B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Halfling Horror // Sorcery — Adventure&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Menace (This creature can't be blocked except by two or more creatures.)&lt;br/&gt;//&lt;br/&gt;Put a +1/+1 counter on up to one target creature. Target player gains 2 life. (Then exile this card. You may cast the creature later from exile.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/71/gollum-silent-slinker-meager-meal?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/c/6cfaa182-3fec-4907-8814-b4d29c33cec3.jpg?1785323234" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Gollum, Riddle Master [The Hobbit]</title>
@@ -3099,6 +3638,21 @@
       <enclosure url="https://cards.scryfall.io/normal/front/a/c/acbb4d32-2771-469e-a6de-0df15155cc62.jpg?1784714603" type="image/jpeg" length="0"/>
     </item>
     <item>
+      <title>Plunder the Trollshaws [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/51/plunder-the-trollshaws?utm_source=api</link>
+      <guid isPermaLink="false">526f520e-b4bb-4215-9c6b-afc298744f06</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/f/afb73190-b9bd-4744-a011-a37cd9c0148d.jpg?1785336151&quot; alt=&quot;Plunder the Trollshaws&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Plunder the Trollshaws&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Draw a card. If this spell was cast from a graveyard, draw two cards instead.&lt;br/&gt;Flashback {3}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/51/plunder-the-trollshaws?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/f/afb73190-b9bd-4744-a011-a37cd9c0148d.jpg?1785336151" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>Most Decrepit Old Bird // Speak Secrets [The Hobbit]</title>
       <link>https://scryfall.com/card/hob/49/most-decrepit-old-bird-speak-secrets?utm_source=api</link>
       <guid isPermaLink="false">34d34f2c-06ff-4acf-8f2f-ff867774b777</guid>
@@ -3174,6 +3728,36 @@
       <enclosure url="https://cards.scryfall.io/normal/front/b/2/b2fb3995-5b43-4776-88b2-346d353edee0.jpg?1784862975" type="image/jpeg" length="0"/>
     </item>
     <item>
+      <title>Gandalf, Wandering Wizard [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/41/gandalf-wandering-wizard?utm_source=api</link>
+      <guid isPermaLink="false">c996bc53-184d-4dc3-8244-e8d9528516a0</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/f/1f8403a2-849c-4a59-b0ed-c8803995028d.jpg?1785336228&quot; alt=&quot;Gandalf, Wandering Wizard&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Gandalf, Wandering Wizard&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Avatar Wizard&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)&lt;br/&gt;{6}: Gandalf's owner shuffles him into their library and draws three cards.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/41/gandalf-wandering-wizard?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/f/1f8403a2-849c-4a59-b0ed-c8803995028d.jpg?1785336228" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fateful Discovery [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/40/fateful-discovery?utm_source=api</link>
+      <guid isPermaLink="false">72c6174c-fa2c-4ff2-b76e-eb6e890e97c9</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/1/a1142fa1-b861-4876-aa48-402af35aaa63.jpg?1785323213&quot; alt=&quot;Fateful Discovery&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Fateful Discovery&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{U}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Whenever an artifact you control enters, draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/40/fateful-discovery?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/1/a1142fa1-b861-4876-aa48-402af35aaa63.jpg?1785323213" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>Elven Raft-Steerer [The Hobbit]</title>
       <link>https://scryfall.com/card/hob/37/elven-raft-steerer?utm_source=api</link>
       <guid isPermaLink="false">d0f62148-1015-49b8-b61f-a4332325a6b0</guid>
@@ -3202,6 +3786,36 @@
 &lt;p&gt;Whenever you activate an ability of a creature, draw a card. This ability triggers only once each turn.&lt;br/&gt;{5}{U}{U}: Exile up to two other target nonland permanents you control. Return those cards to the battlefield under their owner's control at the beginning of the next end step.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/36/elrond-moon-reader?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/f/b/fbcb310c-be73-46f8-8e65-8632454ccc6e.jpg?1784376948" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Confusticate and Bebother [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/35/confusticate-and-bebother?utm_source=api</link>
+      <guid isPermaLink="false">7a7d9887-3cc4-4fb9-9109-1315903ace45</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/d/9de48690-e5ae-495a-addf-305f1db7ec21.jpg?1785336192&quot; alt=&quot;Confusticate and Bebother&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Confusticate and Bebother&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Choose one —&lt;br/&gt;• Counter target spell unless its controller pays {4}.&lt;br/&gt;• Draw two cards, then discard a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/35/confusticate-and-bebother?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/d/9de48690-e5ae-495a-addf-305f1db7ec21.jpg?1785336192" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Bilbo Baggins, Burglar // Take a Glance [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/34/bilbo-baggins-burglar-take-a-glance?utm_source=api</link>
+      <guid isPermaLink="false">fa85f9e6-69ff-4669-b70a-440aa7b16c97</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/a/6a109b3e-9f5b-4625-abb7-6b992c10530b.jpg?1785323194&quot; alt=&quot;Bilbo Baggins, Burglar // Take a Glance&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Bilbo Baggins, Burglar // Take a Glance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U} // {U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Halfling Rogue // Sorcery — Adventure&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;When Bilbo Baggins enters, draw a card.&lt;br/&gt;//&lt;br/&gt;Scry 2. (Then exile this card. You may cast the creature later from exile.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/34/bilbo-baggins-burglar-take-a-glance?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/a/6a109b3e-9f5b-4625-abb7-6b992c10530b.jpg?1785323194" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Bilbo, Thief in the Night [The Hobbit]</title>
@@ -3294,6 +3908,21 @@
       <enclosure url="https://cards.scryfall.io/normal/front/c/9/c977fb5f-4436-41d0-af68-93b6d05897e5.jpg?1784376948" type="image/jpeg" length="0"/>
     </item>
     <item>
+      <title>Ori, Keeper of Songs [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/23/ori-keeper-of-songs?utm_source=api</link>
+      <guid isPermaLink="false">69cc089a-abd3-4edb-bc79-f02daac70837</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/5/c5727af5-a487-4b16-8278-81c3c928c417.jpg?1785323179&quot; alt=&quot;Ori, Keeper of Songs&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Ori, Keeper of Songs&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Dwarf Bard&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)&lt;br/&gt;As long as you have an enduring story, Ori gets +1/+0 and has vigilance.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/23/ori-keeper-of-songs?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/5/c5727af5-a487-4b16-8278-81c3c928c417.jpg?1785323179" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>The Mountain-king's Return [The Hobbit]</title>
       <link>https://scryfall.com/card/hob/22/the-mountain-kings-return?utm_source=api</link>
       <guid isPermaLink="false">32ad5b3e-92c0-45be-b2e4-6f1794552f36</guid>
@@ -3322,6 +3951,21 @@
 &lt;p&gt;Double strike&lt;br/&gt;When this creature enters, create a colorless Equipment artifact token named Axe with &quot;Equipped creature gets +1/+0&quot; and equip {2}.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/16/iron-hills-blacksmith?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/3/7/370e09c2-36c5-4662-8350-1db798afad3e.jpg?1784631771" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fili the Pathfinder [The Hobbit]</title>
+      <link>https://scryfall.com/card/hob/14/fili-the-pathfinder?utm_source=api</link>
+      <guid isPermaLink="false">c91c7d6b-a502-4b66-9509-3c1eda00e763</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/0/b02142f3-5e55-40dc-a02c-9113fb7d763c.jpg?1785335597&quot; alt=&quot;Fili the Pathfinder&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Fili the Pathfinder&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Dwarf Scout&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Hobbit&lt;/p&gt;
+&lt;p&gt;Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)&lt;br/&gt;As long as you have an enduring story, creatures you control get +1/+1.&lt;br/&gt;Whenever Fíli or another nontoken Dwarf you control enters, create a 2/2 red Dwarf creature token.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/14/fili-the-pathfinder?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/0/b02142f3-5e55-40dc-a02c-9113fb7d763c.jpg?1785335597" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>The Eagles Are Coming! [The Hobbit]</title>
@@ -3594,14 +4238,14 @@
       <link>https://scryfall.com/card/sld/2801/stardew-valley?utm_source=api</link>
       <guid isPermaLink="false">6a4ee425-b3b8-487d-866c-9e2d73682466</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/9/9979db80-83f6-41ed-aea2-0c222e923add.jpg?1784277922&quot; alt=&quot;Stardew Valley&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/9/9979db80-83f6-41ed-aea2-0c222e923add.jpg?1785322037&quot; alt=&quot;Stardew Valley&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Stardew Valley&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Typ: Land&lt;/p&gt;
 &lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
 &lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
 &lt;p&gt;{T}: Add {C}.&lt;br/&gt;{2}, {T}, Tap an untapped creature you control: Create a Food token.&lt;br/&gt;{3}, {T}: Choose target permanent you control. Draw a card, then another player of your choice may gain control of that permanent. Activate only as a sorcery.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2801/stardew-valley?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/9/9979db80-83f6-41ed-aea2-0c222e923add.jpg?1784277922" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/9/9979db80-83f6-41ed-aea2-0c222e923add.jpg?1785322037" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Puca's Mischief [Secret Lair Drop]</title>
