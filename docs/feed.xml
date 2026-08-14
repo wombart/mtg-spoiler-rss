@@ -5,7 +5,7 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 11 Aug 2026 01:11:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 18:43:46 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
     <item>
@@ -2348,7 +2348,7 @@
       <link>https://scryfall.com/card/mbc/60/valko-indorian?utm_source=api</link>
       <guid isPermaLink="false">8023d419-8fd2-4b92-b6ea-f25fd67e6410</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/0/a0b51fb8-6e5a-479d-aa3a-17cf603dd05c.jpg?1785759202&quot; alt=&quot;Valko Indorian&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/0/a0b51fb8-6e5a-479d-aa3a-17cf603dd05c.jpg?1786407094&quot; alt=&quot;Valko Indorian&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Valko Indorian&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {3}{B}&lt;/p&gt;
 &lt;p&gt;Typ: Legendary Creature — Human Wizard&lt;/p&gt;
@@ -2356,7 +2356,7 @@
 &lt;p&gt;Set: Mystery Booster Commander Edition&lt;/p&gt;
 &lt;p&gt;Rulebreaker — A deck with this commander can have Phyrexian cards of any color identity and any basic land cards.&lt;br/&gt;Phyrexian creatures you control have menace and lifelink.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mbc/60/valko-indorian?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/0/a0b51fb8-6e5a-479d-aa3a-17cf603dd05c.jpg?1785759202" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/0/a0b51fb8-6e5a-479d-aa3a-17cf603dd05c.jpg?1786407094" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>The Everforger [Mystery Booster Commander Edition]</title>
@@ -3694,6 +3694,81 @@
       <enclosure url="https://cards.scryfall.io/normal/front/9/e/9e4b508a-9204-4bed-8b80-9ac35c187efe.jpg?1783902768" type="image/jpeg" length="0"/>
     </item>
     <item>
+      <title>Windfall [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2571/windfall?utm_source=api</link>
+      <guid isPermaLink="false">08becc07-28bc-4a2f-a6b0-28a2998d2f50</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/3/b369b535-718b-4fa0-b35c-b4ac3e20ce99.jpg?1786709762&quot; alt=&quot;Windfall&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Windfall&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2571/windfall?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/3/b369b535-718b-4fa0-b35c-b4ac3e20ce99.jpg?1786709762" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Solve the Equation [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2570/solve-the-equation?utm_source=api</link>
+      <guid isPermaLink="false">f02682f0-26c0-4032-9df3-273b6a45d0a8</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/9/89c162b4-2284-4eb6-a8a3-ebc345d176dd.jpg?1786709703&quot; alt=&quot;Solve the Equation&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Solve the Equation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Search your library for an instant or sorcery card, reveal it, put it into your hand, then shuffle.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2570/solve-the-equation?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/9/89c162b4-2284-4eb6-a8a3-ebc345d176dd.jpg?1786709703" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Curiosity [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2569/curiosity?utm_source=api</link>
+      <guid isPermaLink="false">223fa044-d387-4884-bf4e-75f1b61c6a46</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/5/1558852b-c4e7-454b-8d9f-7b64aac38f40.jpg?1786709682&quot; alt=&quot;Curiosity&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Curiosity&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {U}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Aura&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Enchant creature&lt;br/&gt;Whenever enchanted creature deals damage to an opponent, you may draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2569/curiosity?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/5/1558852b-c4e7-454b-8d9f-7b64aac38f40.jpg?1786709682" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Contentious Plan [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2568/contentious-plan?utm_source=api</link>
+      <guid isPermaLink="false">2fc6de19-9d04-422b-90bc-eee2f9f8c84c</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/f/4f514443-0f72-48de-bfa3-682befdbbcb9.jpg?1786709626&quot; alt=&quot;Contentious Plan&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Contentious Plan&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)&lt;br/&gt;Draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2568/contentious-plan?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/f/4f514443-0f72-48de-bfa3-682befdbbcb9.jpg?1786709626" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Arcane Heist [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2567/arcane-heist?utm_source=api</link>
+      <guid isPermaLink="false">839748e7-ccb4-421e-9626-b6d8be9390ab</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/6/e6a16012-702d-4cf3-81cc-5390f45807c1.jpg?1786709561&quot; alt=&quot;Arcane Heist&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Arcane Heist&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;You may cast target instant or sorcery card from an opponent's graveyard without paying its mana cost. If that spell would be put into their graveyard, exile it instead.&lt;br/&gt;Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2567/arcane-heist?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/6/e6a16012-702d-4cf3-81cc-5390f45807c1.jpg?1786709561" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>Read the Bones [Secret Lair Drop]</title>
       <link>https://scryfall.com/card/sld/2566/read-the-bones?utm_source=api</link>
       <guid isPermaLink="false">5bf4d8d9-a2b2-4dba-ac05-9d4470a89db2</guid>
@@ -3728,7 +3803,7 @@
       <link>https://scryfall.com/card/sld/2564/dread-return?utm_source=api</link>
       <guid isPermaLink="false">352b64d2-2ae5-44ee-a64f-94932ef545d3</guid>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/e/0e2181c0-e0ff-4e5e-b59c-0e389642d45c.jpg?1786104477&quot; alt=&quot;Dread Return&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/e/0e2181c0-e0ff-4e5e-b59c-0e389642d45c.jpg?1786586696&quot; alt=&quot;Dread Return&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Dread Return&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {2}{B}{B}&lt;/p&gt;
 &lt;p&gt;Typ: Sorcery&lt;/p&gt;
@@ -3736,7 +3811,7 @@
 &lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
 &lt;p&gt;Return target creature card from your graveyard to the battlefield.&lt;br/&gt;Flashback—Sacrifice three creatures. (You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2564/dread-return?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/0/e/0e2181c0-e0ff-4e5e-b59c-0e389642d45c.jpg?1786104477" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/e/0e2181c0-e0ff-4e5e-b59c-0e389642d45c.jpg?1786586696" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Diabolic Intent [Secret Lair Drop]</title>
@@ -4738,7 +4813,7 @@
 &lt;p&gt;Typ: Legendary Creature — Goblin Noble&lt;/p&gt;
 &lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
 &lt;p&gt;Set: The Hobbit Eternal&lt;/p&gt;
-&lt;p&gt;Whenever Great Goblin enters or attacks, amass Goblins 3.&lt;br/&gt;Armies you control have trample.&lt;/p&gt;
+&lt;p&gt;Whenever Great Goblin enters or attacks, amass Goblins 3. (Put three +1/+1 counters on an Army you control. It's also a Goblin. If you don't control an Army, create a 0/0 black Goblin Army creature token first.)&lt;br/&gt;Armies you control have trample.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hoc/105/great-goblin-foul-hearted?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/b/3/b3075281-fb5e-458b-8956-0d4ce01f710a.jpg?1785323596" type="image/jpeg" length="0"/>
     </item>
@@ -4768,7 +4843,7 @@
 &lt;p&gt;Typ: Legendary Creature — Wolf&lt;/p&gt;
 &lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
 &lt;p&gt;Set: The Hobbit Eternal&lt;/p&gt;
-&lt;p&gt;Menace&lt;br/&gt;Whenever another Wolf you control enters, put two +1/+1 counters on Chief of the Wilds.&lt;br/&gt;If an ability of another Wolf or battle you control triggers, that ability triggers an additional time.&lt;/p&gt;
+&lt;p&gt;Menace&lt;br/&gt;Whenever another Wolf you control enters, put two +1/+1 counters on Chief of the Wilds.&lt;br/&gt;If a triggered ability of another Wolf or battle you control triggers, that ability triggers an additional time.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hoc/103/chief-of-the-wilds?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/6/7/67b99400-a53a-48c8-a4d0-21bf63274225.jpg?1785323587" type="image/jpeg" length="0"/>
     </item>
@@ -5256,7 +5331,7 @@
 &lt;p&gt;Typ: Legendary Creature — Elf Noble&lt;/p&gt;
 &lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
 &lt;p&gt;Set: The Hobbit Eternal&lt;/p&gt;
-&lt;p&gt;Arwen enters with an indestructible counter on it.&lt;br/&gt;{1}, Remove an indestructible counter from Arwen: Another target creature gains indestructible until end of turn. Put a +1/+1 counter and a lifelink counter on that creature and a +1/+1 counter and a lifelink counter on Arwen.&lt;/p&gt;
+&lt;p&gt;Arwen enters with an indestructible counter on her.&lt;br/&gt;{1}, Remove an indestructible counter from Arwen: Another target creature gains indestructible until end of turn. Put a +1/+1 counter and a lifelink counter on that creature and a +1/+1 counter and a lifelink counter on Arwen.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hoc/30/arwen-mortal-queen?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/a/2/a2055227-0a53-4b6b-b6d3-0eafc1884d4c.jpg?1785152323" type="image/jpeg" length="0"/>
     </item>
@@ -5406,7 +5481,7 @@
 &lt;p&gt;Typ: Legendary Creature — Wraith Noble&lt;/p&gt;
 &lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
 &lt;p&gt;Set: The Hobbit Eternal&lt;/p&gt;
-&lt;p&gt;Flying&lt;br/&gt;Whenever one or more creatures deal combat damage to you, each opponent sacrifices a creature of their choice that dealt combat damage to you this turn. The Ring tempts you.&lt;br/&gt;Discard a card: Witch-king of Angmar gains indestructible until end of turn. Tap it.&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;Whenever one or more creatures deal combat damage to you, each opponent sacrifices a creature of their choice that dealt combat damage to you this turn. The Ring tempts you.&lt;br/&gt;Discard a card: Witch-king of Angmar gains indestructible until end of turn. Tap him.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hoc/20/witch-king-of-angmar?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/7/1/7170f930-8f94-4671-9acf-bf40913cbfa0.jpg?1785497284" type="image/jpeg" length="0"/>
     </item>
@@ -6297,7 +6372,7 @@
 &lt;p&gt;Typ: Legendary Creature — Dwarf Bard&lt;/p&gt;
 &lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
 &lt;p&gt;Set: The Hobbit&lt;/p&gt;
-&lt;p&gt;Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)&lt;br/&gt;Whenever Bifur enters or attacks, put a +1/+1 counter on target creature.&lt;br/&gt;As long as you have an enduring story, if an ability of a Dwarf you control triggers, that ability triggers an additional time.&lt;/p&gt;
+&lt;p&gt;Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)&lt;br/&gt;Whenever Bifur enters or attacks, put a +1/+1 counter on target creature.&lt;br/&gt;As long as you have an enduring story, if a triggered ability of a Dwarf you control triggers, that ability triggers an additional time.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/147/bifur-melodic-rider?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/e/e/ee88cc80-8fbf-451c-b2b8-09158426c26a.jpg?1784377019" type="image/jpeg" length="0"/>
     </item>
@@ -7616,7 +7691,7 @@
 &lt;p&gt;Typ: Artifact — Equipment&lt;/p&gt;
 &lt;p&gt;Seltenheit: Rare&lt;/p&gt;
 &lt;p&gt;Set: The Hobbit&lt;/p&gt;
-&lt;p&gt;Equipped creature has prowess. (Whenever its controller casts a noncreature spell, that creature gets +1/+1 until end of turn.)&lt;br/&gt;If an ability of equipped creature triggers, that ability triggers an additional time.&lt;br/&gt;Equip Wizard {1}&lt;br/&gt;Equip {3}&lt;/p&gt;
+&lt;p&gt;Equipped creature has prowess. (Whenever its controller casts a noncreature spell, that creature gets +1/+1 until end of turn.)&lt;br/&gt;If a triggered ability of equipped creature triggers, that ability triggers an additional time.&lt;br/&gt;Equip Wizard {1}&lt;br/&gt;Equip {3}&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/59/wizards-staff?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/0/d/0de529a7-bdc5-4581-a169-1ad123bc099a.jpg?1785152406" type="image/jpeg" length="0"/>
     </item>
@@ -7769,81 +7844,6 @@
 &lt;p&gt;Flying&lt;br/&gt;Threshold — This creature gets +1/+1 as long as there are seven or more cards in your graveyard.&lt;br/&gt;//&lt;br/&gt;Mill four cards, then put an instant or sorcery card from among them into your hand.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/49/most-decrepit-old-bird-speak-secrets?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/2/d/2d838feb-89f2-4cdb-a5ab-ec880f28d873.jpg?1785236659" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Mirkwood Meditator [The Hobbit]</title>
-      <link>https://scryfall.com/card/hob/48/mirkwood-meditator?utm_source=api</link>
-      <guid isPermaLink="false">399cd159-7376-421c-b001-c26f1cbadced</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/d/ad7ed4e6-3fe2-40f1-909b-a03b2a3c941a.jpg?1785497064&quot; alt=&quot;Mirkwood Meditator&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Mirkwood Meditator&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Elf Druid&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: The Hobbit&lt;/p&gt;
-&lt;p&gt;Landfall — Whenever a land you control enters, you may have this creature's base power and toughness become 4/2 until end of turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/48/mirkwood-meditator?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/d/ad7ed4e6-3fe2-40f1-909b-a03b2a3c941a.jpg?1785497064" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Master's Councillors [The Hobbit]</title>
-      <link>https://scryfall.com/card/hob/47/masters-councillors?utm_source=api</link>
-      <guid isPermaLink="false">b9079564-5c86-4765-988a-f2334e016fa6</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/d/addcefdd-e012-4adf-9052-e60376a8d2d3.jpg?1784798124&quot; alt=&quot;Master's Councillors&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Master's Councillors&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Human Advisor&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: The Hobbit&lt;/p&gt;
-&lt;p&gt;Vigilance&lt;br/&gt;This creature gets +2/+0 for each graveyard with seven or more cards in it.&lt;br/&gt;Whenever you draw your second card each turn, target player mills three cards. (They put the top three cards of their library into their graveyard.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/47/masters-councillors?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/d/addcefdd-e012-4adf-9052-e60376a8d2d3.jpg?1784798124" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>The Lord of the Eagles [The Hobbit]</title>
-      <link>https://scryfall.com/card/hob/46/the-lord-of-the-eagles?utm_source=api</link>
-      <guid isPermaLink="false">3b38f314-d997-4c2a-b4c9-40dbe780993d</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/a/fa0554fc-9448-4ae2-8712-4f4f7af3c7b4.jpg?1784636060&quot; alt=&quot;The Lord of the Eagles&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;The Lord of the Eagles&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {7}{U}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Bird Noble&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: The Hobbit&lt;/p&gt;
-&lt;p&gt;Flash&lt;br/&gt;This spell costs {X} less to cast, where X is the total power of creatures you control with flying.&lt;br/&gt;Flying&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/46/the-lord-of-the-eagles?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/f/a/fa0554fc-9448-4ae2-8712-4f4f7af3c7b4.jpg?1784636060" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Long Lake Nuisance [The Hobbit]</title>
-      <link>https://scryfall.com/card/hob/45/long-lake-nuisance?utm_source=api</link>
-      <guid isPermaLink="false">a833fdf1-db0c-4846-8452-d3b2059c2355</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/d/cd5af94d-6321-4834-8e5f-e5d0261b3ef3.jpg?1785497055&quot; alt=&quot;Long Lake Nuisance&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Long Lake Nuisance&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Bird&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: The Hobbit&lt;/p&gt;
-&lt;p&gt;Flying&lt;br/&gt;When this creature enters, recruit. (Draw a card, then discard a card. If you discarded a nonland card, create a 1/1 white Human Soldier creature token.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/45/long-lake-nuisance?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/d/cd5af94d-6321-4834-8e5f-e5d0261b3ef3.jpg?1785497055" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Lake-town Mariners // Gone Fishing [The Hobbit]</title>
-      <link>https://scryfall.com/card/hob/44/lake-town-mariners-gone-fishing?utm_source=api</link>
-      <guid isPermaLink="false">dba1d231-6b03-44ad-ab8c-be0c8fe1b6db</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/2/4202a678-a5f4-47f9-9c18-e88ab9ad20a4.jpg?1785237929&quot; alt=&quot;Lake-town Mariners // Gone Fishing&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Lake-town Mariners // Gone Fishing&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}{U}{U} // {3}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Human Citizen // Instant — Adventure&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: The Hobbit&lt;/p&gt;
-&lt;p&gt;Vigilance&lt;br/&gt;Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)&lt;br/&gt;//&lt;br/&gt;Exile two target creatures and/or lands you control, then return them to the battlefield under their owner's control.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/44/lake-town-mariners-gone-fishing?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/2/4202a678-a5f4-47f9-9c18-e88ab9ad20a4.jpg?1785237929" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Lakeshore Apothecary [The Hobbit]</title>
@@ -8489,215 +8489,6 @@
 &lt;p&gt;Flash&lt;br/&gt;Reach&lt;br/&gt;When this creature enters, create a tapped Treasure token. (It's an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/hob/1/long-bodied-grey-dog?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/d/1/d1a1e520-1fe2-4529-8afb-c187bb80da3c.jpg?1785639260" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Phyrexian Processor [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2445/phyrexian-processor?utm_source=api</link>
-      <guid isPermaLink="false">36c800cb-b1ca-4432-ad3c-4d8b90337f4c</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/2/a2e35d8d-050f-4f7a-809a-c0aea30c0dbb.jpg?1785847398&quot; alt=&quot;Phyrexian Processor&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Phyrexian Processor&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;As this artifact enters, pay any amount of life.&lt;br/&gt;{4}, {T}: Create an X/X black Phyrexian Minion creature token, where X is the life paid as this artifact entered.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2445/phyrexian-processor?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/2/a2e35d8d-050f-4f7a-809a-c0aea30c0dbb.jpg?1785847398" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Growing Ranks [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2444/growing-ranks?utm_source=api</link>
-      <guid isPermaLink="false">bec6fb31-60a3-432f-ba36-aebf172f8b27</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/3/3396f676-d990-42ea-b40a-7da6548cca0a.jpg?1785847357&quot; alt=&quot;Growing Ranks&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Growing Ranks&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{G/W}{G/W}&lt;/p&gt;
-&lt;p&gt;Typ: Enchantment&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;At the beginning of your upkeep, populate. (Create a token that's a copy of a creature token you control.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2444/growing-ranks?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/3/3/3396f676-d990-42ea-b40a-7da6548cca0a.jpg?1785847357" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Bountiful Promenade [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2440/bountiful-promenade?utm_source=api</link>
-      <guid isPermaLink="false">761cb262-f83b-4a99-9345-b773182a7671</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/1/91ede26e-8784-4631-b9e7-f8f97b2904ac.jpg?1785846910&quot; alt=&quot;Bountiful Promenade&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Bountiful Promenade&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;This land enters tapped unless you have two or more opponents.&lt;br/&gt;{T}: Add {G} or {W}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2440/bountiful-promenade?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/1/91ede26e-8784-4631-b9e7-f8f97b2904ac.jpg?1785846910" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Vorinclex, Voice of Hunger [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2439/vorinclex-voice-of-hunger?utm_source=api</link>
-      <guid isPermaLink="false">dbf0ad03-ab31-49d2-89b1-05b45948a61f</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/a/6aebcc3b-504e-40fc-b232-a2aa21a0521b.jpg?1785846698&quot; alt=&quot;Vorinclex, Voice of Hunger&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Vorinclex, Voice of Hunger&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {6}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Phyrexian Praetor&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Trample&lt;br/&gt;Whenever you tap a land for mana, add one mana of any type that land produced.&lt;br/&gt;Whenever an opponent taps a land for mana, that land doesn't untap during its controller's next untap step.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2439/vorinclex-voice-of-hunger?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/6/a/6aebcc3b-504e-40fc-b232-a2aa21a0521b.jpg?1785846698" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Finale of Devastation [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2438/finale-of-devastation?utm_source=api</link>
-      <guid isPermaLink="false">69872a9a-fe54-4e58-940c-89395af71acd</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/2/721ea98f-4150-4fde-a0af-4f454695e927.jpg?1785846655&quot; alt=&quot;Finale of Devastation&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Finale of Devastation&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {X}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Search your library and/or graveyard for a creature card with mana value X or less and put it onto the battlefield. If you search your library this way, shuffle. If X is 10 or more, creatures you control get +X/+X and gain haste until end of turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2438/finale-of-devastation?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/7/2/721ea98f-4150-4fde-a0af-4f454695e927.jpg?1785846655" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Cultivate [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2437/cultivate?utm_source=api</link>
-      <guid isPermaLink="false">8b755881-a72d-4e21-a369-d2924eb4585a</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/f/ff0d8624-1f83-4150-8ef4-ce8345f8067f.jpg?1786324798&quot; alt=&quot;Cultivate&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Cultivate&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2437/cultivate?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/f/f/ff0d8624-1f83-4150-8ef4-ce8345f8067f.jpg?1786324798" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Break Down [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2436/break-down?utm_source=api</link>
-      <guid isPermaLink="false">73094bde-5466-41a4-88f9-a98e67f5ed2e</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/c/acfe026f-75a7-45b9-b7e8-e1a76855ea94.jpg?1785846550&quot; alt=&quot;Break Down&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Break Down&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Destroy target artifact or enchantment. Create a Junk token. (It's an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2436/break-down?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/c/acfe026f-75a7-45b9-b7e8-e1a76855ea94.jpg?1785846550" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Soul Warden [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2435/soul-warden?utm_source=api</link>
-      <guid isPermaLink="false">f3fad295-1af2-4ecc-8546-b121ad6be27b</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/3/53b54485-37e2-4ae0-be91-c77ec02c5fe0.jpg?1785846856&quot; alt=&quot;Soul Warden&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Soul Warden&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {W}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Human Cleric&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Whenever another creature enters, you gain 1 life.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2435/soul-warden?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/5/3/53b54485-37e2-4ae0-be91-c77ec02c5fe0.jpg?1785846856" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Song of the Worldsoul [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2434/song-of-the-worldsoul?utm_source=api</link>
-      <guid isPermaLink="false">fbb70f54-8c33-4de0-b05c-f0bff9ffa6ce</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/a/ea9d7b34-7c68-470e-88e1-6d3216fea368.jpg?1786368277&quot; alt=&quot;Song of the Worldsoul&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Song of the Worldsoul&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}{W}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Enchantment&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Whenever you cast a spell, populate. (Create a token that's a copy of a creature token you control.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2434/song-of-the-worldsoul?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/e/a/ea9d7b34-7c68-470e-88e1-6d3216fea368.jpg?1786368277" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Shalai, Voice of Plenty [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2433/shalai-voice-of-plenty?utm_source=api</link>
-      <guid isPermaLink="false">a0c47ab6-dfb4-46ee-a3f7-9e1521b4bb4b</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/4/b459b25c-647b-4353-932e-f590f26ab973.jpg?1786368251&quot; alt=&quot;Shalai, Voice of Plenty&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Shalai, Voice of Plenty&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Angel&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Flying&lt;br/&gt;You, planeswalkers you control, and other creatures you control have hexproof.&lt;br/&gt;{4}{G}{G}: Put a +1/+1 counter on each creature you control.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2433/shalai-voice-of-plenty?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/4/b459b25c-647b-4353-932e-f590f26ab973.jpg?1786368251" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Grand Crescendo [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2432/grand-crescendo?utm_source=api</link>
-      <guid isPermaLink="false">dc600c06-8239-409e-b53d-20f813a3f5e7</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/9/59e34237-1ef5-4376-b671-11692693fc61.jpg?1785846384&quot; alt=&quot;Grand Crescendo&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Grand Crescendo&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {X}{W}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Create X 1/1 green and white Citizen creature tokens. Creatures you control gain indestructible until end of turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2432/grand-crescendo?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/5/9/59e34237-1ef5-4376-b671-11692693fc61.jpg?1785846384" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Halo Fountain [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2431/halo-fountain?utm_source=api</link>
-      <guid isPermaLink="false">36a9de4c-8073-475d-8679-e50844eef09e</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/f/af542837-77a1-462e-8dd6-b4fa8b21bb33.jpg?1785846326&quot; alt=&quot;Halo Fountain&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Halo Fountain&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;{W}, {T}, Untap a tapped creature you control: Create a 1/1 green and white Citizen creature token.&lt;br/&gt;{W}{W}, {T}, Untap two tapped creatures you control: Draw a card.&lt;br/&gt;{W}{W}{W}{W}{W}, {T}, Untap fifteen tapped creatures you control: You win the game.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2431/halo-fountain?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/f/af542837-77a1-462e-8dd6-b4fa8b21bb33.jpg?1785846326" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Archangel of Thune [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2430/archangel-of-thune?utm_source=api</link>
-      <guid isPermaLink="false">4f2d4538-dc1d-4c09-964b-b0d7c240fb7d</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/c/4ce95099-9032-4c44-af25-ab02e60af168.jpg?1785846323&quot; alt=&quot;Archangel of Thune&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Archangel of Thune&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{W}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Angel&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Flying&lt;br/&gt;Lifelink (Damage dealt by this creature also causes you to gain that much life.)&lt;br/&gt;Whenever you gain life, put a +1/+1 counter on each creature you control.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2430/archangel-of-thune?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/c/4ce95099-9032-4c44-af25-ab02e60af168.jpg?1785846323" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Trostani, Selesnya's Voice [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2429/trostani-selesnyas-voice?utm_source=api</link>
-      <guid isPermaLink="false">e94ef397-f5c5-4b8d-ae27-528352fa1d1e</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/a/6ab6e6c9-fe20-40d3-997e-fe3480081f03.jpg?1785846834&quot; alt=&quot;Trostani, Selesnya's Voice&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Trostani, Selesnya's Voice&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {G}{G}{W}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Dryad&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Whenever another creature you control enters, you gain life equal to that creature's toughness.&lt;br/&gt;{1}{G}{W}, {T}: Populate. (Create a token that's a copy of a creature token you control.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2429/trostani-selesnyas-voice?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/6/a/6ab6e6c9-fe20-40d3-997e-fe3480081f03.jpg?1785846834" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
