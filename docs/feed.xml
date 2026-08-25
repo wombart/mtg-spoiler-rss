@@ -5,113 +5,9 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 24 Aug 2026 18:29:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 18:30:14 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
-    <item>
-      <title>Oboro, Palace in the Clouds [The Zeta Set]</title>
-      <link>https://scryfall.com/card/slz/119/oboro-palace-in-the-clouds?utm_source=api</link>
-      <guid isPermaLink="false">645fb11b-d684-4bec-8532-8fa97e8f7b28</guid>
-      <pubDate>Thu, 31 Dec 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/c/7cc24cab-157e-4487-9f6d-264e00ef5de4.jpg?1787573086&quot; alt=&quot;Oboro, Palace in the Clouds&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Oboro, Palace in the Clouds&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
-&lt;p&gt;{T}: Add {U}.&lt;br/&gt;{1}: Return Oboro to its owner's hand.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/119/oboro-palace-in-the-clouds?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/7/c/7cc24cab-157e-4487-9f6d-264e00ef5de4.jpg?1787573086" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Darksteel Monolith [The Zeta Set]</title>
-      <link>https://scryfall.com/card/slz/102/darksteel-monolith?utm_source=api</link>
-      <guid isPermaLink="false">fdd3482d-7bce-411b-80c4-956a12fc143d</guid>
-      <pubDate>Thu, 31 Dec 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/2/f201924f-c491-4935-a21c-fe1cc7a46c94.jpg?1787573100&quot; alt=&quot;Darksteel Monolith&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Darksteel Monolith&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {8}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
-&lt;p&gt;Indestructible&lt;br/&gt;Once each turn, you may pay {0} rather than pay the mana cost for a colorless spell you cast from your hand.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/102/darksteel-monolith?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/f/2/f201924f-c491-4935-a21c-fe1cc7a46c94.jpg?1787573100" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Baleful Strix [The Zeta Set]</title>
-      <link>https://scryfall.com/card/slz/88/baleful-strix?utm_source=api</link>
-      <guid isPermaLink="false">37688720-03de-4eca-a82d-a0afe8d58adc</guid>
-      <pubDate>Thu, 31 Dec 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/f/df0cc01f-356e-4645-96d6-e730e2d23482.jpg?1787573128&quot; alt=&quot;Baleful Strix&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Baleful Strix&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {U}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact Creature — Bird&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
-&lt;p&gt;Flying, deathtouch&lt;br/&gt;When this creature enters, draw a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/88/baleful-strix?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/f/df0cc01f-356e-4645-96d6-e730e2d23482.jpg?1787573128" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Glimpse the Impossible [The Zeta Set]</title>
-      <link>https://scryfall.com/card/slz/58/glimpse-the-impossible?utm_source=api</link>
-      <guid isPermaLink="false">7b70696e-b09e-4bc9-8438-d31075d78c0c</guid>
-      <pubDate>Thu, 31 Dec 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/9/b9252704-1b6c-4514-a128-27242d030701.jpg?1787574053&quot; alt=&quot;Glimpse the Impossible&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Glimpse the Impossible&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
-&lt;p&gt;Exile the top three cards of your library. You may play those cards this turn. At the beginning of the next end step, if any of those cards remain exiled, put them into your graveyard, then create a 0/1 colorless Eldrazi Spawn creature token for each card put into your graveyard this way. Those tokens have &quot;Sacrifice this token: Add {C}.&quot;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/58/glimpse-the-impossible?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/9/b9252704-1b6c-4514-a128-27242d030701.jpg?1787574053" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Unearth [The Zeta Set]</title>
-      <link>https://scryfall.com/card/slz/51/unearth?utm_source=api</link>
-      <guid isPermaLink="false">4e0b647a-6e1a-421b-bca9-8d5e346bda80</guid>
-      <pubDate>Thu, 31 Dec 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/a/2aeefb3c-0d2b-42de-a57e-6e41ecd689ec.jpg?1787573126&quot; alt=&quot;Unearth&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Unearth&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {B}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
-&lt;p&gt;Return target creature card with mana value 3 or less from your graveyard to the battlefield.&lt;br/&gt;Cycling {2} ({2}, Discard this card: Draw a card.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/51/unearth?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/a/2aeefb3c-0d2b-42de-a57e-6e41ecd689ec.jpg?1787573126" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Windfall [The Zeta Set]</title>
-      <link>https://scryfall.com/card/slz/33/windfall?utm_source=api</link>
-      <guid isPermaLink="false">08becc07-28bc-4a2f-a6b0-28a2998d2f50</guid>
-      <pubDate>Thu, 31 Dec 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/8/e826c0a5-6543-494a-a89f-4ae93acde183.jpg?1787573105&quot; alt=&quot;Windfall&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Windfall&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
-&lt;p&gt;Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/33/windfall?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/e/8/e826c0a5-6543-494a-a89f-4ae93acde183.jpg?1787573105" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Serra Angel [The Zeta Set]</title>
-      <link>https://scryfall.com/card/slz/10/serra-angel?utm_source=api</link>
-      <guid isPermaLink="false">4b7ac066-e5c7-43e6-9e7e-2739b24a905d</guid>
-      <pubDate>Thu, 31 Dec 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/6/26fc31c7-7dc0-4b98-b2e0-667c43906b2e.jpg?1787573137&quot; alt=&quot;Serra Angel&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Serra Angel&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{W}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Angel&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
-&lt;p&gt;Flying&lt;br/&gt;Vigilance (Attacking doesn't cause this creature to tap.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/10/serra-angel?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/6/26fc31c7-7dc0-4b98-b2e0-667c43906b2e.jpg?1787573137" type="image/jpeg" length="0"/>
-    </item>
     <item>
       <title>Burst Lightning [Wizards Play Network 2026]</title>
       <link>https://scryfall.com/card/pw26/20/burst-lightning?utm_source=api</link>
@@ -4177,7 +4073,7 @@
       <link>https://scryfall.com/card/sld/922/swan-song?utm_source=api</link>
       <guid isPermaLink="false">8ddfc283-c9b4-41a5-af88-cf0068e986cc</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/0/70d504b8-1e59-4cea-8e83-06bd4bc9ab68.jpg?1787574375&quot; alt=&quot;Swan Song&quot; style=&quot;max-width:300px&quot;/&gt;
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/0/70d504b8-1e59-4cea-8e83-06bd4bc9ab68.jpg?1787659576&quot; alt=&quot;Swan Song&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Swan Song&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {U}&lt;/p&gt;
 &lt;p&gt;Typ: Instant&lt;/p&gt;
@@ -4185,7 +4081,7 @@
 &lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
 &lt;p&gt;Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/922/swan-song?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/7/0/70d504b8-1e59-4cea-8e83-06bd4bc9ab68.jpg?1787574375" type="image/jpeg" length="0"/>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/0/70d504b8-1e59-4cea-8e83-06bd4bc9ab68.jpg?1787659576" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Kozilek's Command [Secret Lair Promo]</title>
@@ -4216,6 +4112,288 @@
 &lt;p&gt;As this enchantment enters, choose a creature type.&lt;br/&gt;Creatures you control of the chosen type get +2/+2.&lt;br/&gt;//&lt;br/&gt;Create X 2/2 red Dwarf creature tokens. (Then exile this card. You may cast the enchantment later from exile.)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pw26/14/an-unexpected-party-at-the-door?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/2/6/262d6907-f598-433a-8a11-cb8fd96a4adf.jpg?1787032029" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Urborg, Tomb of Yawgmoth [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/121/urborg-tomb-of-yawgmoth?utm_source=api</link>
+      <guid isPermaLink="false">db6174d7-211d-4817-b8e4-8384594c83f9</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/3/031c71f7-37a7-4b64-ac18-01f587525df1.jpg?1787661687&quot; alt=&quot;Urborg, Tomb of Yawgmoth&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Urborg, Tomb of Yawgmoth&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;Each land is a Swamp in addition to its other land types.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/121/urborg-tomb-of-yawgmoth?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/3/031c71f7-37a7-4b64-ac18-01f587525df1.jpg?1787661687" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Oboro, Palace in the Clouds [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/119/oboro-palace-in-the-clouds?utm_source=api</link>
+      <guid isPermaLink="false">645fb11b-d684-4bec-8532-8fa97e8f7b28</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/c/7cc24cab-157e-4487-9f6d-264e00ef5de4.jpg?1787573086&quot; alt=&quot;Oboro, Palace in the Clouds&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Oboro, Palace in the Clouds&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;{T}: Add {U}.&lt;br/&gt;{1}: Return Oboro to its owner's hand.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/119/oboro-palace-in-the-clouds?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/c/7cc24cab-157e-4487-9f6d-264e00ef5de4.jpg?1787573086" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Darksteel Monolith [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/102/darksteel-monolith?utm_source=api</link>
+      <guid isPermaLink="false">fdd3482d-7bce-411b-80c4-956a12fc143d</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/2/f201924f-c491-4935-a21c-fe1cc7a46c94.jpg?1787573100&quot; alt=&quot;Darksteel Monolith&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Darksteel Monolith&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {8}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;Indestructible&lt;br/&gt;Once each turn, you may pay {0} rather than pay the mana cost for a colorless spell you cast from your hand.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/102/darksteel-monolith?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/2/f201924f-c491-4935-a21c-fe1cc7a46c94.jpg?1787573100" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Clown Car [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/100/clown-car?utm_source=api</link>
+      <guid isPermaLink="false">e0a6947f-3d52-45e0-8fd7-0bc07cc8c784</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/9/496d2bd9-163c-4baa-bd86-d64a3691ecef.jpg?1787661626&quot; alt=&quot;Clown Car&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Clown Car&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {X}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact — Vehicle&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;When this Vehicle enters, roll X six-sided dice. For each odd result, create a 1/1 white Clown Robot artifact creature token. For each even result, put a +1/+1 counter on this Vehicle.&lt;br/&gt;Crew 2&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/100/clown-car?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/9/496d2bd9-163c-4baa-bd86-d64a3691ecef.jpg?1787661626" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Chrome Mox [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/98/chrome-mox?utm_source=api</link>
+      <guid isPermaLink="false">ec3d4466-547c-4e02-b1b5-a156ec4637e9</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/8/e805bbad-a54e-4c13-9ce2-d9852a632f8c.jpg?1787661677&quot; alt=&quot;Chrome Mox&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Chrome Mox&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {0}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;Imprint — When this artifact enters, you may exile a nonartifact, nonland card from your hand.&lt;br/&gt;{T}: Add one mana of any of the exiled card's colors.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/98/chrome-mox?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/8/e805bbad-a54e-4c13-9ce2-d9852a632f8c.jpg?1787661677" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Arcane Signet [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/94/arcane-signet?utm_source=api</link>
+      <guid isPermaLink="false">0bc7f093-bef0-4f1a-852c-4b75ebf54838</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/3/93ad8d8c-afaf-4525-907c-2521aebcd7da.jpg?1787661601&quot; alt=&quot;Arcane Signet&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Arcane Signet&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;{T}: Add one mana of any color in your commander's color identity.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/94/arcane-signet?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/3/93ad8d8c-afaf-4525-907c-2521aebcd7da.jpg?1787661601" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Garth One-Eye [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/90/garth-one-eye?utm_source=api</link>
+      <guid isPermaLink="false">d8c4312e-03ae-43f3-b92c-4adb6875534c</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/a/baab7523-9d31-48da-8ed0-cb2232945b19.jpg?1787661630&quot; alt=&quot;Garth One-Eye&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Garth One-Eye&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}{U}{B}{R}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Wizard&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;{T}: Choose a card name that hasn't been chosen from among Disenchant, Braingeyser, Terror, Shivan Dragon, Regrowth, and Black Lotus. Create a copy of the card with the chosen name. You may cast the copy. (You still pay its costs.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/90/garth-one-eye?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/a/baab7523-9d31-48da-8ed0-cb2232945b19.jpg?1787661630" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Baleful Strix [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/88/baleful-strix?utm_source=api</link>
+      <guid isPermaLink="false">37688720-03de-4eca-a82d-a0afe8d58adc</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/f/df0cc01f-356e-4645-96d6-e730e2d23482.jpg?1787603382&quot; alt=&quot;Baleful Strix&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Baleful Strix&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {U}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact Creature — Bird&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;Flying, deathtouch&lt;br/&gt;When this creature enters, draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/88/baleful-strix?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/f/df0cc01f-356e-4645-96d6-e730e2d23482.jpg?1787603382" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Llanowar Elves [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/81/llanowar-elves?utm_source=api</link>
+      <guid isPermaLink="false">68954295-54e3-4303-a6bc-fc4547a4e3a3</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/5/2526a07a-0b92-4e31-81fe-14fb067b5821.jpg?1787661604&quot; alt=&quot;Llanowar Elves&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Llanowar Elves&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Elf Druid&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;{T}: Add {G}.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/81/llanowar-elves?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/5/2526a07a-0b92-4e31-81fe-14fb067b5821.jpg?1787661604" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Birds of Paradise [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/71/birds-of-paradise?utm_source=api</link>
+      <guid isPermaLink="false">d3a0b660-358c-41bd-9cd2-41fbf3491b1a</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/3/d3827fdd-89a9-4ec3-92f7-69a5c1cbc622.jpg?1787661661&quot; alt=&quot;Birds of Paradise&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Birds of Paradise&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Bird&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;{T}: Add one mana of any color.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/71/birds-of-paradise?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/3/d3827fdd-89a9-4ec3-92f7-69a5c1cbc622.jpg?1787661661" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Pyroblast [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/66/pyroblast?utm_source=api</link>
+      <guid isPermaLink="false">ecc435e2-deb1-420a-a79f-01dd08747314</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/5/e5321f9c-273a-46e3-a0aa-c0982b96347f.jpg?1787661640&quot; alt=&quot;Pyroblast&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Pyroblast&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {R}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;Choose one —&lt;br/&gt;• Counter target spell if it's blue.&lt;br/&gt;• Destroy target permanent if it's blue.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/66/pyroblast?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/5/e5321f9c-273a-46e3-a0aa-c0982b96347f.jpg?1787661640" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Glimpse the Impossible [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/58/glimpse-the-impossible?utm_source=api</link>
+      <guid isPermaLink="false">7b70696e-b09e-4bc9-8438-d31075d78c0c</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/9/b9252704-1b6c-4514-a128-27242d030701.jpg?1787574053&quot; alt=&quot;Glimpse the Impossible&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Glimpse the Impossible&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;Exile the top three cards of your library. You may play those cards this turn. At the beginning of the next end step, if any of those cards remain exiled, put them into your graveyard, then create a 0/1 colorless Eldrazi Spawn creature token for each card put into your graveyard this way. Those tokens have &quot;Sacrifice this token: Add {C}.&quot;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/58/glimpse-the-impossible?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/9/b9252704-1b6c-4514-a128-27242d030701.jpg?1787574053" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Unearth [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/51/unearth?utm_source=api</link>
+      <guid isPermaLink="false">4e0b647a-6e1a-421b-bca9-8d5e346bda80</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/a/2aeefb3c-0d2b-42de-a57e-6e41ecd689ec.jpg?1787573126&quot; alt=&quot;Unearth&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Unearth&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {B}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;Return target creature card with mana value 3 or less from your graveyard to the battlefield.&lt;br/&gt;Cycling {2} ({2}, Discard this card: Draw a card.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/51/unearth?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/a/2aeefb3c-0d2b-42de-a57e-6e41ecd689ec.jpg?1787573126" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Windfall [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/33/windfall?utm_source=api</link>
+      <guid isPermaLink="false">08becc07-28bc-4a2f-a6b0-28a2998d2f50</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/8/e826c0a5-6543-494a-a89f-4ae93acde183.jpg?1787573105&quot; alt=&quot;Windfall&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Windfall&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/33/windfall?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/8/e826c0a5-6543-494a-a89f-4ae93acde183.jpg?1787573105" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Spell Pierce [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/30/spell-pierce?utm_source=api</link>
+      <guid isPermaLink="false">d64b0848-0193-4025-ba62-63ecd8fb9f50</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/9/e9b42fb1-b526-409c-9838-7432ccc5e537.jpg?1787661581&quot; alt=&quot;Spell Pierce&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Spell Pierce&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {U}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;Counter target noncreature spell unless its controller pays {2}.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/30/spell-pierce?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/9/e9b42fb1-b526-409c-9838-7432ccc5e537.jpg?1787661581" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Brainstorm [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/13/brainstorm?utm_source=api</link>
+      <guid isPermaLink="false">36cd2364-d113-47d1-b2c4-b088d9eb88dd</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/6/b677a099-ecec-4a55-8277-4c2f4788de4c.jpg?1787661587&quot; alt=&quot;Brainstorm&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Brainstorm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {U}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;Draw three cards, then put two cards from your hand on top of your library in any order.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/13/brainstorm?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/6/b677a099-ecec-4a55-8277-4c2f4788de4c.jpg?1787661587" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Serra Angel [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/10/serra-angel?utm_source=api</link>
+      <guid isPermaLink="false">4b7ac066-e5c7-43e6-9e7e-2739b24a905d</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/6/26fc31c7-7dc0-4b98-b2e0-667c43906b2e.jpg?1787573137&quot; alt=&quot;Serra Angel&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Serra Angel&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{W}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Angel&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;Vigilance (Attacking doesn't cause this creature to tap.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/10/serra-angel?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/6/26fc31c7-7dc0-4b98-b2e0-667c43906b2e.jpg?1787573137" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Savannah Lions [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/9/savannah-lions?utm_source=api</link>
+      <guid isPermaLink="false">60ba93eb-39e6-4af2-9c66-cd38f72daff2</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/c/8c19dd76-ca8c-4592-88a0-3df10faa81ca.jpg?1787661617&quot; alt=&quot;Savannah Lions&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Savannah Lions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Cat&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/9/savannah-lions?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/c/8c19dd76-ca8c-4592-88a0-3df10faa81ca.jpg?1787661617" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Land Tax [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/5/land-tax?utm_source=api</link>
+      <guid isPermaLink="false">d2d9ecea-7925-420e-98b9-2f87f41f387c</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/f/4fb0a1a8-d64a-4d22-a078-7673fd63b3cf.jpg?1787661673&quot; alt=&quot;Land Tax&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Land Tax&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/5/land-tax?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/f/4fb0a1a8-d64a-4d22-a078-7673fd63b3cf.jpg?1787661673" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Riddles in the Dark [Spotlight Series]</title>
