@@ -5,7 +5,7 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 28 Aug 2026 03:57:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:34:58 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
     <item>
@@ -2049,7 +2049,7 @@
       <title>Gwenna, Eyes of Gaea [Magic Online Promos]</title>
       <link>https://scryfall.com/card/prm/105756/gwenna-eyes-of-gaea?utm_source=api</link>
       <guid isPermaLink="false">7d95e72a-461e-4993-a190-847466a4b17c</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/2/32803860-d794-4766-8938-d937feaa6a51.jpg?1783917422&quot; alt=&quot;Gwenna, Eyes of Gaea&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Gwenna, Eyes of Gaea&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
@@ -2064,7 +2064,7 @@
       <title>Tivit, Seller of Secrets [Magic Online Promos]</title>
       <link>https://scryfall.com/card/prm/99801/tivit-seller-of-secrets?utm_source=api</link>
       <guid isPermaLink="false">f4e0b557-4f80-4b7c-bfcc-6d4c468faf2e</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/e/ae959bbb-38ab-48da-a151-b240631dd557.jpg?1783921039&quot; alt=&quot;Tivit, Seller of Secrets&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Tivit, Seller of Secrets&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {3}{W}{U}{B}&lt;/p&gt;
@@ -2079,7 +2079,7 @@
       <title>The Reality Chip [Magic Online Promos]</title>
       <link>https://scryfall.com/card/prm/97917/the-reality-chip?utm_source=api</link>
       <guid isPermaLink="false">751f22bc-bcea-4213-a37b-b5f72448a4c4</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/c/ec79f426-854a-4fb9-8567-f8066d2c2ff0.jpg?1783921636&quot; alt=&quot;The Reality Chip&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;The Reality Chip&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {1}{U}&lt;/p&gt;
@@ -2094,7 +2094,7 @@
       <title>Karazikar, the Eye Tyrant [Magic Online Promos]</title>
       <link>https://scryfall.com/card/prm/92792/karazikar-the-eye-tyrant?utm_source=api</link>
       <guid isPermaLink="false">47fde936-be71-4550-826b-b98d139cc57a</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/3/23fbb1c3-b4aa-4a78-865a-c46b27065a7b.jpg?1783925119&quot; alt=&quot;Karazikar, the Eye Tyrant&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Karazikar, the Eye Tyrant&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {3}{B}{R}&lt;/p&gt;
@@ -2109,7 +2109,7 @@
       <title>Share the Spoils [Magic Online Promos]</title>
       <link>https://scryfall.com/card/prm/92744/share-the-spoils?utm_source=api</link>
       <guid isPermaLink="false">d39af66c-4997-48b8-a704-f21d93247d7d</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/0/c0b2dda9-82a6-4b7b-89e8-a849174c3e35.jpg?1783924527&quot; alt=&quot;Share the Spoils&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Share the Spoils&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {1}{R}&lt;/p&gt;
@@ -2124,7 +2124,7 @@
       <title>Grazilaxx, Illithid Scholar [Magic Online Promos]</title>
       <link>https://scryfall.com/card/prm/92664/grazilaxx-illithid-scholar?utm_source=api</link>
       <guid isPermaLink="false">d22ff377-d282-4a28-9dce-96f25913dc96</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/a/5a74b068-c5f6-438f-9a33-a074674b6725.jpg?1783920240&quot; alt=&quot;Grazilaxx, Illithid Scholar&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Grazilaxx, Illithid Scholar&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {1}{U}{U}&lt;/p&gt;
@@ -2139,7 +2139,7 @@
       <title>Guardian of Faith [Magic Online Promos]</title>
       <link>https://scryfall.com/card/prm/92636/guardian-of-faith?utm_source=api</link>
       <guid isPermaLink="false">8e04a5e0-e22c-430b-a39a-c9f38e16ea86</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/b/8b97f3ee-ee9a-4fc5-87ff-befdc5182a95.jpg?1783903479&quot; alt=&quot;Guardian of Faith&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Guardian of Faith&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {1}{W}{W}&lt;/p&gt;
@@ -2154,7 +2154,7 @@
       <title>Changeling Outcast [Magic Online Promos]</title>
       <link>https://scryfall.com/card/prm/91267/changeling-outcast?utm_source=api</link>
       <guid isPermaLink="false">a61ef0cc-1da9-49f9-b0dc-01cf9f6205be</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/9/e956c8af-df32-4c5e-8c00-4090eb15ee61.jpg?1783909702&quot; alt=&quot;Changeling Outcast&quot; style=&quot;max-width:300px&quot;/&gt;
 &lt;p&gt;&lt;strong&gt;Changeling Outcast&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Manakosten: {B}&lt;/p&gt;
