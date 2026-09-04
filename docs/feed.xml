@@ -5,9 +5,24 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 03 Sep 2026 19:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:08:33 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Final Showdown [Media and Collaboration Promos]</title>
+      <link>https://scryfall.com/card/pmei/2027-1/final-showdown?utm_source=api</link>
+      <guid isPermaLink="false">7e7ec3d6-a84f-4cc3-93f4-4d181d41e126</guid>
+      <pubDate>Thu, 08 Apr 2027 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/a/daa7842a-5c04-4a35-8df2-f88a6f305df0.jpg?1788503058&quot; alt=&quot;Final Showdown&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Final Showdown&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Media and Collaboration Promos&lt;/p&gt;
+&lt;p&gt;Spree (Choose one or more additional costs.)&lt;br/&gt;+ {1} — All creatures lose all abilities until end of turn.&lt;br/&gt;+ {1} — Choose a creature you control. It gains indestructible until end of turn.&lt;br/&gt;+ {3}{W}{W} — Destroy all creatures.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pmei/2027-1/final-showdown?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/a/daa7842a-5c04-4a35-8df2-f88a6f305df0.jpg?1788503058" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Burst Lightning [Wizards Play Network 2026]</title>
       <link>https://scryfall.com/card/pw26/20/burst-lightning?utm_source=api</link>
@@ -10466,21 +10481,6 @@
 &lt;p&gt;At the beginning of your upkeep, if this creature isn't prepared, it becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)&lt;br/&gt;//&lt;br/&gt;Create a Heartwood token. (It's a red and green artifact with &quot;{T}: Add {R} or {G}.&quot;)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/165/woodwork-prodigy-soul-tether?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/7/d/7d17f7e3-7b63-4674-9024-4fd1827f40ec.jpg?1788329429" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Vigorbloom Vanguard // Seed Suture [Reality Fracture]</title>
-      <link>https://scryfall.com/card/fra/161/vigorbloom-vanguard-seed-suture?utm_source=api</link>
-      <guid isPermaLink="false">bd416426-d037-45e3-9647-816bf982cbea</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/c/acefc515-bf97-4dc0-b0f7-ae8ae5a61671.jpg?1788329423&quot; alt=&quot;Vigorbloom Vanguard // Seed Suture&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Vigorbloom Vanguard // Seed Suture&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{G/W} // {G/W}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Troll Druid // Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
-&lt;p&gt;This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)&lt;br/&gt;Each creature you control with a +1/+1 counter on it has vigilance.&lt;br/&gt;//&lt;br/&gt;Put a +1/+1 counter on target creature. You gain 1 life.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/161/vigorbloom-vanguard-seed-suture?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/c/acefc515-bf97-4dc0-b0f7-ae8ae5a61671.jpg?1788329423" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
