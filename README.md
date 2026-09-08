@@ -1,64 +1,65 @@
 # MTG Spoiler RSS Feed
 
-Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte
-Magic: The Gathering Karten. Daten kommen von der [Scryfall API](https://scryfall.com/docs/api),
-der Build läuft alle 2 Stunden via GitHub Actions, das Ergebnis wird auf
-GitHub Pages veröffentlicht.
+*[Deutsche Version](README.de.md)*
 
-## Wie neue Karten erkannt werden
+Automatically generated RSS feed for newly spoiled and released
+Magic: The Gathering cards. Data comes from the [Scryfall API](https://scryfall.com/docs/api),
+the build runs every 2 hours via GitHub Actions, and the result is published
+on GitHub Pages.
 
-Statt eines rollierenden Zeitfensters wird bei jedem Lauf der komplette
-Scryfall-Kartenkatalog über [`/cards/manifest`](https://scryfall.com/docs/api/cards/manifest)
-abgerufen (paginiert, ~8 Requests) und die Menge aller Print-IDs mit dem
-letzten bekannten Stand (`data/known_print_ids.json`) verglichen. Neue IDs
-werden per [`/cards/collection`](https://scryfall.com/docs/api/cards/collection)
-vollständig aufgelöst. Das ist robuster als eine Datums-Suche, weil dabei
-nichts durch ein abgelaufenes Zeitfenster oder Preview-Datums-Eigenheiten
-verloren gehen kann – ein Kartendruck gilt als neu, sobald seine ID zum
-ersten Mal im Katalog auftaucht.
+## How new cards are detected
 
-Karten werden pro `(oracle_id, set)`-Kombination getrackt (`data/known_cards.json`):
-ein Nachdruck in einem neuen Set erzeugt also einen neuen Feed-Eintrag,
-mehrere Varianten (Foil, Showcase, …) im selben Set aber nur einen.
+Instead of a rolling time window, each run fetches the complete Scryfall
+card catalog via [`/cards/manifest`](https://scryfall.com/docs/api/cards/manifest)
+(paginated, ~8 requests) and compares the set of all print IDs against the
+last known state (`data/known_print_ids.json`). New IDs are then fully
+resolved via [`/cards/collection`](https://scryfall.com/docs/api/cards/collection).
+This is more robust than a date-based search, since nothing can get lost
+due to an expired time window or preview-date quirks – a card print counts
+as new as soon as its ID first appears in the catalog.
 
-Beide Scryfall-Rate-Limits werden eingehalten: 10 Requests/Minute für
-`/cards/manifest`, 2 Requests/Sekunde für `/cards/collection`.
+Cards are tracked per `(oracle_id, set)` combination (`data/known_cards.json`):
+a reprint in a new set creates a new feed entry, but multiple variants
+(foil, showcase, …) within the same set only produce one.
 
-## Feed abonnieren
+Both Scryfall rate limits are respected: 10 requests/minute for
+`/cards/manifest`, 2 requests/second for `/cards/collection`.
 
-Nach dem ersten Deployment ist der Feed erreichbar unter:
+## Subscribing to the feed
+
+After the first deployment, the feed is available at:
 
 ```
-https://<dein-username>.github.io/<repo-name>/feed.xml
+https://<your-username>.github.io/<repo-name>/feed.xml
 ```
 
-Diese URL in jeden RSS Reader eintragen (z. B. Feedly, NewsBlur, NetNewsWire,
+Add this URL to any RSS reader (e.g. Feedly, NewsBlur, NetNewsWire,
 Thunderbird, …).
 
-## Repository einrichten
+## Setting up the repository
 
-### 1. Repository erstellen
+### 1. Create a repository
 
-Ein neues **öffentliches** GitHub Repository erstellen (oder dieses forken).
+Create a new **public** GitHub repository (or fork this one).
 
-### 2. GitHub Pages aktivieren
+### 2. Enable GitHub Pages
 
-In den Repository-Einstellungen:
+In the repository settings:
 
 ```
 Settings → Pages → Source: GitHub Actions
 ```
 
-### 3. Ersten Run anstoßen
+### 3. Trigger the first run
 
 ```
 Actions → "Update MTG Spoiler RSS Feed" → Run workflow
 ```
 
-Der erste Lauf befüllt `data/known_cards.json` und generiert `docs/feed.xml`.
-Ab dann läuft der Workflow automatisch alle 2 Stunden.
+The first run populates `data/known_cards.json` and generates `docs/feed.xml`.
+After that, the workflow runs automatically every 4 hours.
 
-### 4. Feed URL ermitteln
+### 4. Determine the feed URL
 
 ```
 https://<username>.github.io/<repo>/feed.xml
@@ -66,54 +67,54 @@ https://<username>.github.io/<repo>/feed.xml
 
 ---
 
-## Konfiguration
+## Configuration
 
-Alle Parameter sind im Script `scripts/generate_feed.py` oben als Konstanten
-definiert:
+All parameters are defined as constants at the top of the
+`scripts/generate_feed.py` script:
 
-| Konstante | Standard | Beschreibung |
+| Constant | Default | Description |
 |---|---|---|
-| `MAX_FEED_ENTRIES` | `750` | Maximale Anzahl Einträge im Feed |
-| `EXCLUDED_SET_CODES` | `{"plist"}` | Set-Codes, deren Karten nie als "neu" gelten (z. B. "The List") |
+| `MAX_FEED_ENTRIES` | `750` | Maximum number of entries in the feed |
+| `EXCLUDED_SET_CODES` | `{"plist"}` | Set codes whose cards never count as "new" (e.g. "The List") |
 
 ---
 
-## Lokale Ausführung
+## Running locally
 
 ```bash
-# Abhängigkeiten: keine (nur Python 3.11+ Stdlib)
+# Dependencies: none (Python 3.11+ stdlib only)
 python scripts/generate_feed.py
 ```
 
-Der generierte Feed liegt dann unter `docs/feed.xml`.
+The generated feed is then located at `docs/feed.xml`.
 
 ---
 
-## Dateistruktur
+## File structure
 
 ```
 .
 ├── .github/
 │   └── workflows/
-│       └── update-feed.yml     # GitHub Actions Workflow
+│       └── update-feed.yml     # GitHub Actions workflow
 ├── data/
-│   ├── known_cards.json        # Bekannte (oracle_id, set) Kombinationen (Duplikat-Schutz)
-│   ├── known_print_ids.json    # Baseline aller Scryfall Print-IDs (letzter Manifest-Stand)
-│   └── feed_items.json         # Zuletzt gerenderte Feed-Einträge (Basis für den nächsten Build)
-├── docs/                       # GitHub Pages Root
-│   ├── feed.xml                # Generierter RSS Feed
-│   └── index.html              # Info-Seite
+│   ├── known_cards.json        # Known (oracle_id, set) combinations (duplicate protection)
+│   ├── known_print_ids.json    # Baseline of all Scryfall print IDs (last manifest state)
+│   └── feed_items.json         # Most recently rendered feed entries (base for the next build)
+├── docs/                       # GitHub Pages root
+│   ├── feed.xml                # Generated RSS feed
+│   └── index.html              # Info page
 ├── scripts/
-│   └── generate_feed.py        # Feed-Generator
+│   └── generate_feed.py        # Feed generator
 └── README.md
 ```
 
 ---
 
-## Datenschutz & Lizenz
+## Privacy & License
 
-Kartendaten und -bilder stammen von [Scryfall](https://scryfall.com) und
-sind Eigentum von Wizards of the Coast LLC.
-Magic: The Gathering ist eine eingetragene Marke von Wizards of the Coast.
+Card data and images are sourced from [Scryfall](https://scryfall.com) and
+are the property of Wizards of the Coast LLC.
+Magic: The Gathering is a registered trademark of Wizards of the Coast.
 
-Dieses Projekt steht unter der [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
