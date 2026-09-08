@@ -5,6 +5,25 @@ Magic: The Gathering Karten. Daten kommen von der [Scryfall API](https://scryfal
 der Build läuft alle 2 Stunden via GitHub Actions, das Ergebnis wird auf
 GitHub Pages veröffentlicht.
 
+## Wie neue Karten erkannt werden
+
+Statt eines rollierenden Zeitfensters wird bei jedem Lauf der komplette
+Scryfall-Kartenkatalog über [`/cards/manifest`](https://scryfall.com/docs/api/cards/manifest)
+abgerufen (paginiert, ~8 Requests) und die Menge aller Print-IDs mit dem
+letzten bekannten Stand (`data/known_print_ids.json`) verglichen. Neue IDs
+werden per [`/cards/collection`](https://scryfall.com/docs/api/cards/collection)
+vollständig aufgelöst. Das ist robuster als eine Datums-Suche, weil dabei
+nichts durch ein abgelaufenes Zeitfenster oder Preview-Datums-Eigenheiten
+verloren gehen kann – ein Kartendruck gilt als neu, sobald seine ID zum
+ersten Mal im Katalog auftaucht.
+
+Karten werden pro `(oracle_id, set)`-Kombination getrackt (`data/known_cards.json`):
+ein Nachdruck in einem neuen Set erzeugt also einen neuen Feed-Eintrag,
+mehrere Varianten (Foil, Showcase, …) im selben Set aber nur einen.
+
+Beide Scryfall-Rate-Limits werden eingehalten: 10 Requests/Minute für
+`/cards/manifest`, 2 Requests/Sekunde für `/cards/collection`.
+
 ## Feed abonnieren
 
 Nach dem ersten Deployment ist der Feed erreichbar unter:
@@ -54,8 +73,8 @@ definiert:
 
 | Konstante | Standard | Beschreibung |
 |---|---|---|
-| `LOOKBACK_DAYS` | `14` | Wie weit zurück nach neuen Karten gesucht wird |
-| `MAX_FEED_ENTRIES` | `250` | Maximale Anzahl Einträge im Feed |
+| `MAX_FEED_ENTRIES` | `750` | Maximale Anzahl Einträge im Feed |
+| `EXCLUDED_SET_CODES` | `{"plist"}` | Set-Codes, deren Karten nie als "neu" gelten (z. B. "The List") |
 
 ---
 
@@ -76,14 +95,16 @@ Der generierte Feed liegt dann unter `docs/feed.xml`.
 .
 ├── .github/
 │   └── workflows/
-│       └── update-feed.yml   # GitHub Actions Workflow
+│       └── update-feed.yml     # GitHub Actions Workflow
 ├── data/
-│   └── known_cards.json      # Bekannte Oracle IDs (Duplikat-Schutz)
-├── docs/                     # GitHub Pages Root
-│   ├── feed.xml              # Generierter RSS Feed
-│   └── index.html            # Info-Seite
+│   ├── known_cards.json        # Bekannte (oracle_id, set) Kombinationen (Duplikat-Schutz)
+│   ├── known_print_ids.json    # Baseline aller Scryfall Print-IDs (letzter Manifest-Stand)
+│   └── feed_items.json         # Zuletzt gerenderte Feed-Einträge (Basis für den nächsten Build)
+├── docs/                       # GitHub Pages Root
+│   ├── feed.xml                # Generierter RSS Feed
+│   └── index.html              # Info-Seite
 ├── scripts/
-│   └── generate_feed.py      # Feed-Generator
+│   └── generate_feed.py        # Feed-Generator
 └── README.md
 ```
 
