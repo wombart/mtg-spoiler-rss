@@ -176,6 +176,8 @@ def fetch_recent_cards(since_date: datetime) -> list[dict]:
         "order": "released",
         "dir": "desc",
         "unique": "cards",
+        "game": "paper",
+        "-set": "plist",
     })
     url = f"{SCRYFALL_SEARCH_URL}?{params}"
 
