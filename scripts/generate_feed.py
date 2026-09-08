@@ -286,8 +286,8 @@ def is_feed_eligible(card: dict) -> bool:
     """Filters out cards that aren't interesting "new card" spoilers."""
     if card.get("set") in EXCLUDED_SET_CODES:
         return False
-    if "paper" not in card.get("games", []):
-        return False
+    #if "paper" not in card.get("games", []):
+    #    return False
     return True
 
 
