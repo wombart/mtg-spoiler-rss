@@ -29,7 +29,7 @@ MANIFEST_MIN_INTERVAL = 6.0   # /cards/manifest: 10/minute
 COLLECTION_MIN_INTERVAL = 0.5  # /cards/collection: 2/second
 COLLECTION_BATCH_SIZE = 75    # max identifiers per /cards/collection request
 # Sets that only contain reprints and are not interesting as "new cards"
-EXCLUDED_SET_CODES = {"plist"}  # "The List"
+EXCLUDED_SET_CODES = {}  # "The List"
 MAX_FEED_ENTRIES = 500
 DATA_FILE = Path(__file__).parent.parent / "data" / "known_cards.json"
 KNOWN_PRINT_IDS_FILE = Path(__file__).parent.parent / "data" / "known_print_ids.json"
