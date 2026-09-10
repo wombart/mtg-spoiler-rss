@@ -293,7 +293,8 @@ def is_feed_eligible(card: dict) -> bool:
 
 def feed_dedup_key(card: dict) -> str:
     """Cards are tracked per (oracle card, set) so a reprint in a new set is a new entry."""
-    return f"{card.get('oracle_id')}"# or card.get('id')}:{card.get('set')}"
+    #return f"{card.get('oracle_id') or card.get('id')}:{card.get('set')}"
+    return f"{card.get('id') or card.get('oracle_id')}:{card.get('set')}"
 
 
 def trim_card_for_storage(card: dict) -> dict:
