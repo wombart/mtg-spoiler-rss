@@ -5,7 +5,7 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 09 Sep 2026 22:23:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 03:59:20 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
     <item>
@@ -2118,6 +2118,276 @@
 &lt;p&gt;Flying&lt;br/&gt;{1}{W}: Untap target creature. Activate only as a sorcery and only once each turn.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/12/dot-7-repair-squad?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/f/c/fca1528c-84cc-42d2-99ae-9f10f0e28743.jpg?1786005749" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Haze of Rage [The List]</title>
+      <link>https://scryfall.com/card/plst/FUT-100/haze-of-rage?utm_source=api</link>
+      <guid isPermaLink="false">f17d0fb8-c157-43b8-be26-f5ba4c6aed14</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/b/3b1ff9dc-dc87-42bc-92b3-f6e8161b4d03.jpg?1788983792&quot; alt=&quot;Haze of Rage&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Haze of Rage&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The List&lt;/p&gt;
+&lt;p&gt;Buyback {2} (You may pay an additional {2} as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;br/&gt;Creatures you control get +1/+0 until end of turn.&lt;br/&gt;Storm (When you cast this spell, copy it for each spell cast before it this turn.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/FUT-100/haze-of-rage?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/b/3b1ff9dc-dc87-42bc-92b3-f6e8161b4d03.jpg?1788983792" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hunter's Talent [The List]</title>
+      <link>https://scryfall.com/card/plst/BLB-179/hunters-talent?utm_source=api</link>
+      <guid isPermaLink="false">a8a9b103-0cb8-4810-a2d7-42f6a10f80bd</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/b/3bab8b04-97d0-4a82-b24a-028f9254b01f.jpg?1788982935&quot; alt=&quot;Hunter's Talent&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Hunter's Talent&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Class&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The List&lt;/p&gt;
+&lt;p&gt;(Gain the next level as a sorcery to add its ability.)&lt;br/&gt;When this Class enters, target creature you control deals damage equal to its power to target creature you don't control.&lt;br/&gt;{1}{G}: Level 2&lt;br/&gt;Whenever you attack, target attacking creature gets +1/+0 and gains trample until end of turn.&lt;br/&gt;{3}{G}: Level 3&lt;br/&gt;At the beginning of your end step, if you control a creature with power 4 or greater, draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/BLB-179/hunters-talent?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/b/3bab8b04-97d0-4a82-b24a-028f9254b01f.jpg?1788982935" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Batwing Brume [The List]</title>
+      <link>https://scryfall.com/card/plst/ARC-80/batwing-brume?utm_source=api</link>
+      <guid isPermaLink="false">fc8247f5-f7b2-4fc4-a9ea-90babad5fa42</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/8/6811f0a4-9a05-481c-8185-fcc4432466d6.jpg?1788982918&quot; alt=&quot;Batwing Brume&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Batwing Brume&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W/B}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The List&lt;/p&gt;
+&lt;p&gt;Prevent all combat damage that would be dealt this turn if {W} was spent to cast this spell. Each player loses 1 life for each attacking creature they control if {B} was spent to cast this spell. (Do both if {W}{B} was spent.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/ARC-80/batwing-brume?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/8/6811f0a4-9a05-481c-8185-fcc4432466d6.jpg?1788982918" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Lure [The List]</title>
+      <link>https://scryfall.com/card/plst/MMQ-258/lure?utm_source=api</link>
+      <guid isPermaLink="false">7a7425ba-4478-4bc4-855f-abf947ea4fa2</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/c/6c95342f-4da4-4420-a9ce-ec9d5f5f4edb.jpg?1788983860&quot; alt=&quot;Lure&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Lure&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Aura&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The List&lt;/p&gt;
+&lt;p&gt;Enchant creature&lt;br/&gt;All creatures able to block enchanted creature do so.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/MMQ-258/lure?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/c/6c95342f-4da4-4420-a9ce-ec9d5f5f4edb.jpg?1788983860" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Vow of Lightning [The List]</title>
+      <link>https://scryfall.com/card/plst/GN3-88/vow-of-lightning?utm_source=api</link>
+      <guid isPermaLink="false">bfed67f3-70d2-49c2-8f25-16e4d10fa5be</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/2/72ea3c33-f65e-434d-bc8a-212cb0a65a71.jpg?1788983807&quot; alt=&quot;Vow of Lightning&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Vow of Lightning&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Aura&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The List&lt;/p&gt;
+&lt;p&gt;Enchant creature&lt;br/&gt;Enchanted creature gets +2/+2, has first strike, and can't attack you or planeswalkers you control.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/GN3-88/vow-of-lightning?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/2/72ea3c33-f65e-434d-bc8a-212cb0a65a71.jpg?1788983807" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Exsanguinate [The List]</title>
+      <link>https://scryfall.com/card/plst/CMM-156/exsanguinate?utm_source=api</link>
+      <guid isPermaLink="false">8164b1e8-3350-465e-8a17-75f57d326344</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/7/87db9df3-4558-4569-8bc4-860fa1391578.jpg?1788983700&quot; alt=&quot;Exsanguinate&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Exsanguinate&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {X}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The List&lt;/p&gt;
+&lt;p&gt;Each opponent loses X life. You gain life equal to the life lost this way.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/CMM-156/exsanguinate?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/7/87db9df3-4558-4569-8bc4-860fa1391578.jpg?1788983700" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Yavimaya Elder [The List]</title>
+      <link>https://scryfall.com/card/plst/UDS-124/yavimaya-elder?utm_source=api</link>
+      <guid isPermaLink="false">7fd4c452-07f2-492c-9c78-d1c6362d9eec</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/4/94e15c8b-8a79-43ce-98ae-722e6c74c18d.jpg?1788983907&quot; alt=&quot;Yavimaya Elder&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Yavimaya Elder&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Human Druid&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The List&lt;/p&gt;
+&lt;p&gt;When this creature dies, you may search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.&lt;br/&gt;{2}, Sacrifice this creature: Draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/UDS-124/yavimaya-elder?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/4/94e15c8b-8a79-43ce-98ae-722e6c74c18d.jpg?1788983907" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Beetleback Chief [The List]</title>
+      <link>https://scryfall.com/card/plst/TDC-205/beetleback-chief?utm_source=api</link>
+      <guid isPermaLink="false">f5c5f64c-6911-430c-a825-b32b96d39c7d</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/e/9eb27caf-57e4-4fca-a734-148195dcad1b.jpg?1788983888&quot; alt=&quot;Beetleback Chief&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Beetleback Chief&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{R}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Goblin Warrior&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The List&lt;/p&gt;
+&lt;p&gt;When this creature enters, create two 1/1 red Goblin creature tokens.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/TDC-205/beetleback-chief?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/e/9eb27caf-57e4-4fca-a734-148195dcad1b.jpg?1788983888" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Chainer's Edict [The List]</title>
+      <link>https://scryfall.com/card/plst/DMR-78/chainers-edict?utm_source=api</link>
+      <guid isPermaLink="false">7975cb9d-d37e-44f8-9614-86d2ad453c35</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/1/a1d194d7-dccf-4421-be8f-8efdcf9fbbeb.jpg?1788983756&quot; alt=&quot;Chainer's Edict&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Chainer's Edict&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The List&lt;/p&gt;
+&lt;p&gt;Target player sacrifices a creature of their choice.&lt;br/&gt;Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/DMR-78/chainers-edict?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/1/a1d194d7-dccf-4421-be8f-8efdcf9fbbeb.jpg?1788983756" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Read the Bones [The List]</title>
+      <link>https://scryfall.com/card/plst/MOC-267/read-the-bones?utm_source=api</link>
+      <guid isPermaLink="false">5bf4d8d9-a2b2-4dba-ac05-9d4470a89db2</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/a/aa1f2d4f-fe35-4b3d-9242-8caae28798b3.jpg?1788983874&quot; alt=&quot;Read the Bones&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Read the Bones&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The List&lt;/p&gt;
+&lt;p&gt;Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/MOC-267/read-the-bones?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/a/aa1f2d4f-fe35-4b3d-9242-8caae28798b3.jpg?1788983874" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Rhonas's Monument [The List]</title>
+      <link>https://scryfall.com/card/plst/GNT-56/rhonass-monument?utm_source=api</link>
+      <guid isPermaLink="false">b9a7c722-6b24-4383-ac6e-2a30f7834269</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/b/cb36db01-af50-4a31-90f5-f46475d1f7e8.jpg?1788983823&quot; alt=&quot;Rhonas's Monument&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Rhonas's Monument&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The List&lt;/p&gt;
+&lt;p&gt;Green creature spells you cast cost {1} less to cast.&lt;br/&gt;Whenever you cast a creature spell, target creature you control gets +2/+2 and gains trample until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/GNT-56/rhonass-monument?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/b/cb36db01-af50-4a31-90f5-f46475d1f7e8.jpg?1788983823" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Biogenic Upgrade [The List]</title>
+      <link>https://scryfall.com/card/plst/FDN-553/biogenic-upgrade?utm_source=api</link>
+      <guid isPermaLink="false">30812870-87c0-469c-95a5-811d5a181e72</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/1/d1bb834b-f50f-41b2-9ce0-648d4840ff47.jpg?1788983773&quot; alt=&quot;Biogenic Upgrade&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Biogenic Upgrade&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The List&lt;/p&gt;
+&lt;p&gt;Distribute three +1/+1 counters among one, two, or three target creatures, then double the number of +1/+1 counters on each of those creatures.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/FDN-553/biogenic-upgrade?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/1/d1bb834b-f50f-41b2-9ce0-648d4840ff47.jpg?1788983773" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Brinelin, the Moon Kraken [The List]</title>
+      <link>https://scryfall.com/card/plst/CMM-78/brinelin-the-moon-kraken?utm_source=api</link>
+      <guid isPermaLink="false">1f00edd6-4321-48a1-9053-77c77b922aeb</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/5/d571f915-fa80-46e9-813d-735515733e76.jpg?1788983721&quot; alt=&quot;Brinelin, the Moon Kraken&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Brinelin, the Moon Kraken&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {6}{U}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Kraken&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The List&lt;/p&gt;
+&lt;p&gt;When Brinelin enters and whenever you cast a spell with mana value 6 or greater, you may return target nonland permanent to its owner's hand.&lt;br/&gt;Partner (You can have two commanders if both have partner.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/CMM-78/brinelin-the-moon-kraken?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/5/d571f915-fa80-46e9-813d-735515733e76.jpg?1788983721" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Stitch Together [The List]</title>
+      <link>https://scryfall.com/card/plst/CMD-102/stitch-together?utm_source=api</link>
+      <guid isPermaLink="false">bc3d5911-3580-4132-9daf-2826495b5739</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/3/e3913376-8101-4beb-80c8-31b4b6be3028.jpg?1788983666&quot; alt=&quot;Stitch Together&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Stitch Together&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The List&lt;/p&gt;
+&lt;p&gt;Return target creature card from your graveyard to your hand.&lt;br/&gt;Threshold — Return that card from your graveyard to the battlefield instead if there are seven or more cards in your graveyard.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/CMD-102/stitch-together?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/3/e3913376-8101-4beb-80c8-31b4b6be3028.jpg?1788983666" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Warchief Giant [The List]</title>
+      <link>https://scryfall.com/card/plst/CM2-127/warchief-giant?utm_source=api</link>
+      <guid isPermaLink="false">589abb40-04b4-4dbe-9c2a-446b6c3075d1</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/2/f277c54a-7658-4ef0-ab73-fdd614f45369.jpg?1788983652&quot; alt=&quot;Warchief Giant&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Warchief Giant&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{R}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Giant Warrior&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The List&lt;/p&gt;
+&lt;p&gt;Haste&lt;br/&gt;Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token copy that's tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/CM2-127/warchief-giant?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/2/f277c54a-7658-4ef0-ab73-fdd614f45369.jpg?1788983652" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Phyrexian Ingester [The List]</title>
+      <link>https://scryfall.com/card/plst/CMM-111/phyrexian-ingester?utm_source=api</link>
+      <guid isPermaLink="false">ec9c35f2-6a68-45e7-a86e-9f5af9fe28fc</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/7/f7525a05-5909-45b9-8158-800109c384ea.jpg?1788983681&quot; alt=&quot;Phyrexian Ingester&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Phyrexian Ingester&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {6}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Phyrexian Beast&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The List&lt;/p&gt;
+&lt;p&gt;Imprint — When this creature enters, you may exile target nontoken creature.&lt;br/&gt;This creature gets +X/+Y, where X is the exiled creature card's power and Y is its toughness.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/CMM-111/phyrexian-ingester?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/7/f7525a05-5909-45b9-8158-800109c384ea.jpg?1788983681" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Skullwinder [The List]</title>
+      <link>https://scryfall.com/card/plst/CLB-256/skullwinder?utm_source=api</link>
+      <guid isPermaLink="false">d3d8dd6e-a80b-4063-a542-ff67ef8dad4f</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/a/fa76bef0-0530-4706-b89a-49ac462ac497.jpg?1788982955&quot; alt=&quot;Skullwinder&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Skullwinder&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Snake&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: The List&lt;/p&gt;
+&lt;p&gt;Deathtouch&lt;br/&gt;When this creature enters, return target card from your graveyard to your hand, then choose an opponent. That player returns a card from their graveyard to their hand.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/CLB-256/skullwinder?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/a/fa76bef0-0530-4706-b89a-49ac462ac497.jpg?1788982955" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Blur [The List]</title>
+      <link>https://scryfall.com/card/plst/CLB-58/blur?utm_source=api</link>
+      <guid isPermaLink="false">00b36996-43c6-42a5-892c-c7c8864cf973</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/f/fff93572-989e-4ba3-a129-4333d6c2f512.jpg?1788982972&quot; alt=&quot;Blur&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Blur&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The List&lt;/p&gt;
+&lt;p&gt;Exile target creature you control, then return that card to the battlefield under its owner's control.&lt;br/&gt;Draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/CLB-58/blur?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/f/fff93572-989e-4ba3-a129-4333d6c2f512.jpg?1788982972" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Quest for Pure Flame [The List]</title>
@@ -7214,276 +7484,6 @@
 &lt;p&gt;Flash&lt;br/&gt;When this artifact enters during the declare attackers step, you may reselect which player or permanent target attacking creature is attacking. (It can't attack its controller or their permanents.)&lt;br/&gt;{T}: Add {U}.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/WOC-11/misleading-signpost?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/a/8/a85e2eb8-ccae-4761-92a0-6bb24ee4a40c.jpg?1787701571" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Glava, Five-Advents Mage [Mystery Booster Commander Edition]</title>
-      <link>https://scryfall.com/card/mbc/29/glava-five-advents-mage?utm_source=api</link>
-      <guid isPermaLink="false">94d9a596-96b3-4fd6-b3f9-62920929c668</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/8/a8862e68-432f-4374-bd33-474d7349a0bf.jpg?1785758967&quot; alt=&quot;Glava, Five-Advents Mage&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Glava, Five-Advents Mage&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {5}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Wizard&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Mystery Booster Commander Edition&lt;/p&gt;
-&lt;p&gt;Whenever you cast a permanent spell with {X} in its mana cost or activate an ability with {X} in its activation cost that isn't a mana ability, you may have the value of X become 5. Do this only once each turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mbc/29/glava-five-advents-mage?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/8/a8862e68-432f-4374-bd33-474d7349a0bf.jpg?1785758967" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Lively Dirge [The List]</title>
-      <link>https://scryfall.com/card/plst/OTJ-93/lively-dirge?utm_source=api</link>
-      <guid isPermaLink="false">0b23d9aa-d4ed-4ccf-8810-4a4d11d6fb9c</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/8/a8a98a6b-3425-4532-806f-3ca98745aaa5.jpg?1787700753&quot; alt=&quot;Lively Dirge&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Lively Dirge&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: The List&lt;/p&gt;
-&lt;p&gt;Spree (Choose one or more additional costs.)&lt;br/&gt;+ {1} — Search your library for a card, put it into your graveyard, then shuffle.&lt;br/&gt;+ {2} — Return up to two creature cards with total mana value 4 or less from your graveyard to the battlefield.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/OTJ-93/lively-dirge?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/8/a8a98a6b-3425-4532-806f-3ca98745aaa5.jpg?1787700753" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Ulamog, the Ceaseless Hunger [The List]</title>
-      <link>https://scryfall.com/card/plst/BFZ-15/ulamog-the-ceaseless-hunger?utm_source=api</link>
-      <guid isPermaLink="false">0bfa4512-e35a-4c93-b324-80ec659f5a97</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/a/aa0aadff-bc69-49fb-8d12-5b5e4cfa438d.jpg?1787677075&quot; alt=&quot;Ulamog, the Ceaseless Hunger&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Ulamog, the Ceaseless Hunger&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {10}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Eldrazi&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: The List&lt;/p&gt;
-&lt;p&gt;When you cast this spell, exile two target permanents.&lt;br/&gt;Indestructible&lt;br/&gt;Whenever Ulamog attacks, defending player exiles the top twenty cards of their library.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/BFZ-15/ulamog-the-ceaseless-hunger?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/a/aa0aadff-bc69-49fb-8d12-5b5e4cfa438d.jpg?1787677075" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Court of Embereth [The List]</title>
-      <link>https://scryfall.com/card/plst/WOC-24/court-of-embereth?utm_source=api</link>
-      <guid isPermaLink="false">87a82441-9dfb-49bd-8b9e-eaab2c552843</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/a/aa68004f-66b6-460e-836c-05e8acd8651f.jpg?1787701612&quot; alt=&quot;Court of Embereth&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Court of Embereth&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{R}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Enchantment&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: The List&lt;/p&gt;
-&lt;p&gt;When this enchantment enters, you become the monarch.&lt;br/&gt;At the beginning of your upkeep, create a 3/1 red Knight creature token. Then if you're the monarch, this enchantment deals X damage to each opponent, where X is the number of creatures you control.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/WOC-24/court-of-embereth?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/a/aa68004f-66b6-460e-836c-05e8acd8651f.jpg?1787701612" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Kamahl, Heart of Krosa [The List]</title>
-      <link>https://scryfall.com/card/plst/CMR-237/kamahl-heart-of-krosa?utm_source=api</link>
-      <guid isPermaLink="false">343fd080-c2c2-4dcd-84dd-c065addbaebe</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/a/aaa66e66-daea-4cb8-b67a-69edeb044893.jpg?1787679297&quot; alt=&quot;Kamahl, Heart of Krosa&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Kamahl, Heart of Krosa&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {6}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Druid&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: The List&lt;/p&gt;
-&lt;p&gt;At the beginning of combat on your turn, creatures you control get +3/+3 and gain trample until end of turn.&lt;br/&gt;{1}{G}: Until end of turn, target land you control becomes a 1/1 Elemental creature with vigilance, indestructible, and haste. It's still a land.&lt;br/&gt;Partner (You can have two commanders if both have partner.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/CMR-237/kamahl-heart-of-krosa?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/a/aaa66e66-daea-4cb8-b67a-69edeb044893.jpg?1787679297" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Endrek Sahr, Master Breeder [The List]</title>
-      <link>https://scryfall.com/card/plst/CMM-155/endrek-sahr-master-breeder?utm_source=api</link>
-      <guid isPermaLink="false">47a0079f-3544-45bc-a32a-bd93844c8c43</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/b/ab1ae05a-20ca-4d4c-907c-be7cf8d9f062.jpg?1787678821&quot; alt=&quot;Endrek Sahr, Master Breeder&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Endrek Sahr, Master Breeder&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Wizard&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: The List&lt;/p&gt;
-&lt;p&gt;Whenever you cast a creature spell, create X 1/1 black Thrull creature tokens, where X is that spell's mana value.&lt;br/&gt;When you control seven or more Thrulls, sacrifice Endrek Sahr.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/CMM-155/endrek-sahr-master-breeder?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/b/ab1ae05a-20ca-4d4c-907c-be7cf8d9f062.jpg?1787678821" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>The Unluckiest Planeswalker [Mystery Booster Commander Edition]</title>
-      <link>https://scryfall.com/card/mbc/26/the-unluckiest-planeswalker?utm_source=api</link>
-      <guid isPermaLink="false">c7ea2ce7-f684-44a2-94b2-d4aa7353f6fc</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/b/abaa08a6-62aa-4f2f-8be9-5950c2b32dc4.jpg?1787066036&quot; alt=&quot;The Unluckiest Planeswalker&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;The Unluckiest Planeswalker&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Planeswalker&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Mystery Booster Commander Edition&lt;/p&gt;
-&lt;p&gt;Rulebreaker — A deck with this commander can have Aura cards of any color identity and any basic land cards.&lt;br/&gt;+1: Add one mana of any color. When you spend this mana to cast an Aura spell this turn, create a 1/1 red Gremlin creature token.&lt;br/&gt;−3: Discard your hand, then draw cards equal to twice the number of Auras you control. For each Aura attached to you, attach it to an opponent of your choice.&lt;br/&gt;The Unluckiest Planeswalker can be your commander.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mbc/26/the-unluckiest-planeswalker?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/b/abaa08a6-62aa-4f2f-8be9-5950c2b32dc4.jpg?1787066036" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Price of Fame [The List]</title>
-      <link>https://scryfall.com/card/plst/ZNC-52/price-of-fame?utm_source=api</link>
-      <guid isPermaLink="false">45d5cd4c-7285-4507-8cbf-eace7a734f41</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/c/ac3cfafe-cfc6-4e13-a535-0b8052f0dc0a.jpg?1787701719&quot; alt=&quot;Price of Fame&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Price of Fame&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: The List&lt;/p&gt;
-&lt;p&gt;This spell costs {2} less to cast if it targets a legendary creature.&lt;br/&gt;Destroy target creature.&lt;br/&gt;Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/ZNC-52/price-of-fame?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/c/ac3cfafe-cfc6-4e13-a535-0b8052f0dc0a.jpg?1787701719" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Maular, the Next Evolution [Mystery Booster Commander Edition]</title>
-      <link>https://scryfall.com/card/mbc/31/maular-the-next-evolution?utm_source=api</link>
-      <guid isPermaLink="false">214f4e0a-eba7-4a08-86b2-d490d6ae1048</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/c/ac8d307f-5340-4419-95b4-b0ca09f9fd89.jpg?1787065450&quot; alt=&quot;Maular, the Next Evolution&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Maular, the Next Evolution&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {5}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Dinosaur Mutant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Mystery Booster Commander Edition&lt;/p&gt;
-&lt;p&gt;Rulebreaker — A deck with this commander can have creature cards with mana value 7 or greater of any color identity and any basic land cards.&lt;br/&gt;Whenever a creature you control with mana value 7 or greater attacks, double its power and toughness until end of turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mbc/31/maular-the-next-evolution?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/c/ac8d307f-5340-4419-95b4-b0ca09f9fd89.jpg?1787065450" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Thought Vessel [Mystery Booster Commander Edition]</title>
-      <link>https://scryfall.com/card/mbc/78/thought-vessel?utm_source=api</link>
-      <guid isPermaLink="false">9965d9c5-2ebf-4a6c-930e-55c5890979be</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/d/ad077996-6b5e-4eb8-bb6e-93d43c5efa8f.jpg?1785759392&quot; alt=&quot;Thought Vessel&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Thought Vessel&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Mystery Booster Commander Edition&lt;/p&gt;
-&lt;p&gt;You have no maximum hand size.&lt;br/&gt;{T}: Add {C}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mbc/78/thought-vessel?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/d/ad077996-6b5e-4eb8-bb6e-93d43c5efa8f.jpg?1785759392" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Aboleth Spawn [The List]</title>
-      <link>https://scryfall.com/card/plst/CLB-662/aboleth-spawn?utm_source=api</link>
-      <guid isPermaLink="false">d6ae77b3-59e7-475c-800c-930a5cb2e0ca</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/d/ada4e3fe-366a-42a8-b534-4c8d0d631c50.jpg?1787678394&quot; alt=&quot;Aboleth Spawn&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Aboleth Spawn&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Fish Horror&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: The List&lt;/p&gt;
-&lt;p&gt;Flash&lt;br/&gt;Ward {2}&lt;br/&gt;Probing Telepathy — Whenever a creature entering under an opponent's control causes a triggered ability of that creature to trigger, you may copy that ability. You may choose new targets for the copy.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/CLB-662/aboleth-spawn?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/d/ada4e3fe-366a-42a8-b534-4c8d0d631c50.jpg?1787678394" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Syphon Flesh [The List]</title>
-      <link>https://scryfall.com/card/plst/CM2-79/syphon-flesh?utm_source=api</link>
-      <guid isPermaLink="false">bc7c3151-ad07-429a-8af8-e4f24b7d9f6b</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/d/adf09241-c401-48d2-b3f9-233ea1097c0a.jpg?1787678726&quot; alt=&quot;Syphon Flesh&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Syphon Flesh&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: The List&lt;/p&gt;
-&lt;p&gt;Each other player sacrifices a creature. You create a 2/2 black Zombie creature token for each creature sacrificed this way.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/CM2-79/syphon-flesh?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/d/adf09241-c401-48d2-b3f9-233ea1097c0a.jpg?1787678726" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Novice Occultist [The List]</title>
-      <link>https://scryfall.com/card/plst/MID-117/novice-occultist?utm_source=api</link>
-      <guid isPermaLink="false">e51f5b41-5465-4b1d-b96a-544762657ca5</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/e/ae2d0723-f944-464a-881f-1d7bf1b7660c.jpg?1787682187&quot; alt=&quot;Novice Occultist&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Novice Occultist&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Human Wizard&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: The List&lt;/p&gt;
-&lt;p&gt;When this creature dies, you draw a card and you lose 1 life.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/MID-117/novice-occultist?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/e/ae2d0723-f944-464a-881f-1d7bf1b7660c.jpg?1787682187" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Roar of Challenge [The List]</title>
-      <link>https://scryfall.com/card/plst/J22-720/roar-of-challenge?utm_source=api</link>
-      <guid isPermaLink="false">9d83a1d3-ef0f-4134-a38b-c992d396592b</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/f/af6c0818-75db-498b-8d4c-a96ccb221732.jpg?1787681112&quot; alt=&quot;Roar of Challenge&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Roar of Challenge&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: The List&lt;/p&gt;
-&lt;p&gt;All creatures able to block target creature this turn do so.&lt;br/&gt;Ferocious — That creature gains indestructible until end of turn if you control a creature with power 4 or greater.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/J22-720/roar-of-challenge?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/f/af6c0818-75db-498b-8d4c-a96ccb221732.jpg?1787681112" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Feroz, Ulgrotha's Warden [Mystery Booster Commander Edition]</title>
-      <link>https://scryfall.com/card/mbc/38/feroz-ulgrothas-warden?utm_source=api</link>
-      <guid isPermaLink="false">724bcd6b-4deb-49c0-aa0e-1245bb40dd56</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/f/afdb5a3e-f689-4d19-a869-1d67f3b72ed5.jpg?1785762539&quot; alt=&quot;Feroz, Ulgrotha's Warden&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Feroz, Ulgrotha's Warden&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{G}{W}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Planeswalker — Feroz&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Mystery Booster Commander Edition&lt;/p&gt;
-&lt;p&gt;+2: Create two 1/1 blue Bird creature tokens with flying.&lt;br/&gt;0: Draw a card. You may put a permanent card with mana value 4 or less from your hand onto the battlefield.&lt;br/&gt;−7: Create a Feroz's Ban token. (It's a {6} artifact with &quot;Creature spells cost {2} more to cast.&quot;)&lt;br/&gt;Feroz, Ulgrotha's Warden can be your commander.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mbc/38/feroz-ulgrothas-warden?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/f/afdb5a3e-f689-4d19-a869-1d67f3b72ed5.jpg?1785762539" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Dalkovan Packbeasts [The List]</title>
-      <link>https://scryfall.com/card/plst/TDM-7/dalkovan-packbeasts?utm_source=api</link>
-      <guid isPermaLink="false">cdd1a043-bd47-4197-be26-e2f7d3f1d209</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/0/b021490e-cddb-4db3-bdae-56cbf76b8ec9.jpg?1787701297&quot; alt=&quot;Dalkovan Packbeasts&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Dalkovan Packbeasts&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Ox&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: The List&lt;/p&gt;
-&lt;p&gt;Vigilance&lt;br/&gt;Mobilize 3 (Whenever this creature attacks, create three tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/TDM-7/dalkovan-packbeasts?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/0/b021490e-cddb-4db3-bdae-56cbf76b8ec9.jpg?1787701297" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Blessed Hippogriff // Tyr's Blessing [The List]</title>
-      <link>https://scryfall.com/card/plst/CLB-11/blessed-hippogriff-tyrs-blessing?utm_source=api</link>
-      <guid isPermaLink="false">3372b994-47de-4e89-9bfc-76e1cb3f1cfa</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/0/b0cbe132-cd3f-4772-b7c9-d06d5a3b8663.jpg?1787677840&quot; alt=&quot;Blessed Hippogriff // Tyr's Blessing&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Blessed Hippogriff // Tyr's Blessing&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{W} // {W}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Hippogriff // Instant — Adventure&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: The List&lt;/p&gt;
-&lt;p&gt;Flying&lt;br/&gt;Whenever this creature attacks, target attacking creature without flying gains flying until end of turn.&lt;br/&gt;//&lt;br/&gt;Target creature gains indestructible until end of turn. (Then exile this card. You may cast the creature later from exile.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/CLB-11/blessed-hippogriff-tyrs-blessing?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/0/b0cbe132-cd3f-4772-b7c9-d06d5a3b8663.jpg?1787677840" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Life of the Party [The List]</title>
-      <link>https://scryfall.com/card/plst/NCC-48/life-of-the-party?utm_source=api</link>
-      <guid isPermaLink="false">b2d1f87b-a11f-43eb-8b89-b48945320d73</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/1/b17e1dd2-b26d-4169-a6c4-fe4f1e5c8a35.jpg?1787700224&quot; alt=&quot;Life of the Party&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Life of the Party&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Elemental&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: The List&lt;/p&gt;
-&lt;p&gt;First strike, trample, haste&lt;br/&gt;Whenever this creature attacks, it gets +X/+0 until end of turn, where X is the number of creatures you control.&lt;br/&gt;When this creature enters, if it's not a token, each opponent creates a token that's a copy of it. The tokens are goaded for the rest of the game. (They attack each combat if able and attack a player other than you if able.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/plst/NCC-48/life-of-the-party?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/1/b17e1dd2-b26d-4169-a6c4-fe4f1e5c8a35.jpg?1787700224" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
