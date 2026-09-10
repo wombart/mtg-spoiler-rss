@@ -30,7 +30,7 @@ COLLECTION_MIN_INTERVAL = 0.5  # /cards/collection: 2/second
 COLLECTION_BATCH_SIZE = 75    # max identifiers per /cards/collection request
 # Sets that only contain reprints and are not interesting as "new cards"
 EXCLUDED_SET_CODES = {}  # "The List"
-MAX_FEED_ENTRIES = 750
+MAX_FEED_ENTRIES = 500
 DATA_FILE = Path(__file__).parent.parent / "data" / "known_cards.json"
 KNOWN_PRINT_IDS_FILE = Path(__file__).parent.parent / "data" / "known_print_ids.json"
 FEED_ITEMS_FILE = Path(__file__).parent.parent / "data" / "feed_items.json"
@@ -293,7 +293,7 @@ def is_feed_eligible(card: dict) -> bool:
 
 def feed_dedup_key(card: dict) -> str:
     """Cards are tracked per (oracle card, set) so a reprint in a new set is a new entry."""
-    return f"{card.get('oracle_id') or card.get('id')}:{card.get('set')}"
+    return f"{card.get('oracle_id')}"# or card.get('id')}:{card.get('set')}"
 
 
 def trim_card_for_storage(card: dict) -> dict:
