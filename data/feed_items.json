@@ -4990,5 +4990,83 @@
       "art": "https://cards.scryfall.io/art/front/a/0/a0b51fb8-6e5a-479d-aa3a-17cf603dd05c.webp?1787065628",
       "crop": "https://cards.scryfall.io/crop/front/a/0/a0b51fb8-6e5a-479d-aa3a-17cf603dd05c.webp?1787065628"
     }
+  },
+  {
+    "id": "1703306d-6a3d-4ab8-bf58-a9992236ef0f",
+    "oracle_id": "571cb06d-55b5-46e4-9678-1f74aca73068",
+    "name": "\"I've been pulling the strings the whole time!\"",
+    "set": "fra",
+    "set_name": "Reality Fracture",
+    "mana_cost": "{1}{R}{G}",
+    "type_line": "Creature — Human Artificer",
+    "oracle_text": "When this creature enters, you may sacrifice a land. If you do, create two tapped Heartwood tokens. (They're red and green artifacts with \"{T}: Add {R} or {G}.\")\nTap two untapped artifacts you control: Put two +1/+1 counters on this creature.",
+    "rarity": "rare",
+    "released_at": "2026-10-02",
+    "scryfall_uri": "https://scryfall.com/card/fra/154/ive-been-pulling-the-strings-the-whole-time!?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/1/7/1703306d-6a3d-4ab8-bf58-a9992236ef0f.jpg?1789109881",
+      "normal": "https://cards.scryfall.io/normal/front/1/7/1703306d-6a3d-4ab8-bf58-a9992236ef0f.jpg?1789109881",
+      "large": "https://cards.scryfall.io/large/front/1/7/1703306d-6a3d-4ab8-bf58-a9992236ef0f.jpg?1789109881",
+      "png": "https://cards.scryfall.io/png/front/1/7/1703306d-6a3d-4ab8-bf58-a9992236ef0f.png?1789109881",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/1/7/1703306d-6a3d-4ab8-bf58-a9992236ef0f.jpg?1789109881",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/1/7/1703306d-6a3d-4ab8-bf58-a9992236ef0f.jpg?1789109881",
+      "thumb": "https://cards.scryfall.io/thumb/front/1/7/1703306d-6a3d-4ab8-bf58-a9992236ef0f.webp?1789109881",
+      "grid": "https://cards.scryfall.io/grid/front/1/7/1703306d-6a3d-4ab8-bf58-a9992236ef0f.webp?1789109881",
+      "display": "https://cards.scryfall.io/display/front/1/7/1703306d-6a3d-4ab8-bf58-a9992236ef0f.webp?1789109881",
+      "art": "https://cards.scryfall.io/art/front/1/7/1703306d-6a3d-4ab8-bf58-a9992236ef0f.webp?1789109881",
+      "crop": "https://cards.scryfall.io/crop/front/1/7/1703306d-6a3d-4ab8-bf58-a9992236ef0f.webp?1789109881"
+    }
+  },
+  {
+    "id": "47abea4b-9848-48aa-bc1b-f04f4799e920",
+    "oracle_id": "ab56f7cf-9538-45b5-a657-1e2ebef1e92b",
+    "name": "Mabel, Valley Hero",
+    "set": "fra",
+    "set_name": "Reality Fracture",
+    "mana_cost": "{1}{R}{W}",
+    "type_line": "Legendary Creature — Mouse Soldier",
+    "oracle_text": "Whenever Mabel or another creature you control enters, put a +1/+1 counter on target creature that entered this turn.",
+    "rarity": "uncommon",
+    "released_at": "2026-10-02",
+    "scryfall_uri": "https://scryfall.com/card/fra/274/mabel-valley-hero?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/4/7/47abea4b-9848-48aa-bc1b-f04f4799e920.jpg?1789108059",
+      "normal": "https://cards.scryfall.io/normal/front/4/7/47abea4b-9848-48aa-bc1b-f04f4799e920.jpg?1789108059",
+      "large": "https://cards.scryfall.io/large/front/4/7/47abea4b-9848-48aa-bc1b-f04f4799e920.jpg?1789108059",
+      "png": "https://cards.scryfall.io/png/front/4/7/47abea4b-9848-48aa-bc1b-f04f4799e920.png?1789108059",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/4/7/47abea4b-9848-48aa-bc1b-f04f4799e920.jpg?1789108059",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/4/7/47abea4b-9848-48aa-bc1b-f04f4799e920.jpg?1789108059",
+      "thumb": "https://cards.scryfall.io/thumb/front/4/7/47abea4b-9848-48aa-bc1b-f04f4799e920.webp?1789108059",
+      "grid": "https://cards.scryfall.io/grid/front/4/7/47abea4b-9848-48aa-bc1b-f04f4799e920.webp?1789108059",
+      "display": "https://cards.scryfall.io/display/front/4/7/47abea4b-9848-48aa-bc1b-f04f4799e920.webp?1789108059",
+      "art": "https://cards.scryfall.io/art/front/4/7/47abea4b-9848-48aa-bc1b-f04f4799e920.webp?1789108059",
+      "crop": "https://cards.scryfall.io/crop/front/4/7/47abea4b-9848-48aa-bc1b-f04f4799e920.webp?1789108059"
+    }
+  },
+  {
+    "id": "b2a412b0-2ae4-4552-bc5e-70654b6b9b4e",
+    "oracle_id": "36924990-8e3a-434e-bcd1-f03603cb350d",
+    "name": "Mabel, Bitter Recluse",
+    "set": "fra",
+    "set_name": "Reality Fracture",
+    "mana_cost": "{B}",
+    "type_line": "Legendary Creature — Mouse Warlock",
+    "oracle_text": "Deathtouch\nWhen Mabel enters, remove up to three counters from another target creature or planeswalker.",
+    "rarity": "uncommon",
+    "released_at": "2026-10-02",
+    "scryfall_uri": "https://scryfall.com/card/fra/233/mabel-bitter-recluse?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/b/2/b2a412b0-2ae4-4552-bc5e-70654b6b9b4e.jpg?1789108084",
+      "normal": "https://cards.scryfall.io/normal/front/b/2/b2a412b0-2ae4-4552-bc5e-70654b6b9b4e.jpg?1789108084",
+      "large": "https://cards.scryfall.io/large/front/b/2/b2a412b0-2ae4-4552-bc5e-70654b6b9b4e.jpg?1789108084",
+      "png": "https://cards.scryfall.io/png/front/b/2/b2a412b0-2ae4-4552-bc5e-70654b6b9b4e.png?1789108084",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/b/2/b2a412b0-2ae4-4552-bc5e-70654b6b9b4e.jpg?1789108084",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/b/2/b2a412b0-2ae4-4552-bc5e-70654b6b9b4e.jpg?1789108084",
+      "thumb": "https://cards.scryfall.io/thumb/front/b/2/b2a412b0-2ae4-4552-bc5e-70654b6b9b4e.webp?1789108084",
+      "grid": "https://cards.scryfall.io/grid/front/b/2/b2a412b0-2ae4-4552-bc5e-70654b6b9b4e.webp?1789108084",
+      "display": "https://cards.scryfall.io/display/front/b/2/b2a412b0-2ae4-4552-bc5e-70654b6b9b4e.webp?1789108084",
+      "art": "https://cards.scryfall.io/art/front/b/2/b2a412b0-2ae4-4552-bc5e-70654b6b9b4e.webp?1789108084",
+      "crop": "https://cards.scryfall.io/crop/front/b/2/b2a412b0-2ae4-4552-bc5e-70654b6b9b4e.webp?1789108084"
+    }
   }
 ]
