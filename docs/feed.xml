@@ -5,7 +5,7 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:42:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:12:07 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
     <item>
@@ -2868,6 +2868,664 @@
 &lt;p&gt;Rulebreaker — A deck with this commander can have Phyrexian cards of any color identity and any basic land cards.&lt;br/&gt;Phyrexian creatures you control have menace and lifelink.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mbc/60/valko-indorian?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/a/0/a0b51fb8-6e5a-479d-aa3a-17cf603dd05c.jpg?1787065628" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Yargle, Glutton of Urborg [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/241/yargle-glutton-of-urborg?utm_source=api</link>
+      <guid isPermaLink="false">ed66cd31-958f-4b28-82a3-e04acc819afc</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/4/04c816fb-5951-4db1-8834-ed3f0b36bfe1.jpg?1789127722&quot; alt=&quot;Yargle, Glutton of Urborg&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Yargle, Glutton of Urborg&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Frog Spirit&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/241/yargle-glutton-of-urborg?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/4/04c816fb-5951-4db1-8834-ed3f0b36bfe1.jpg?1789127722" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Lyra, Tolarian Archangel [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/301/lyra-tolarian-archangel?utm_source=api</link>
+      <guid isPermaLink="false">d9060fff-0b65-4b3d-930d-6e36315b802c</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/6/06796f03-18d4-4286-ab77-3cd9aa517090.jpg?1789127788&quot; alt=&quot;Lyra, Tolarian Archangel&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Lyra, Tolarian Archangel&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{U}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Angel Wizard&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;At the beginning of each end step, if you've drawn three or more cards this turn, create a 3/3 blue Angel creature token with flying.&lt;br/&gt;{3}{U}{U}: Until end of turn, whenever Lyra deals combat damage to a player, draw two cards.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/301/lyra-tolarian-archangel?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/6/06796f03-18d4-4286-ab77-3cd9aa517090.jpg?1789127788" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Kiora of Fire and Ashes [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/247/kiora-of-fire-and-ashes?utm_source=api</link>
+      <guid isPermaLink="false">02b41d0e-82e7-4307-8cc4-8175ff78ea1f</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/8/08657053-86f9-4c52-abf0-d9cdd443ae3b.jpg?1789127995&quot; alt=&quot;Kiora of Fire and Ashes&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Kiora of Fire and Ashes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{R}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Merfolk Noble&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;When Kiora enters, create a 5/5 red Dragon creature token with flying.&lt;br/&gt;{8}: Create a 5/5 red Dragon creature token with flying.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/247/kiora-of-fire-and-ashes?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/8/08657053-86f9-4c52-abf0-d9cdd443ae3b.jpg?1789127995" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fblthp, Knows the Way [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/313/fblthp-knows-the-way?utm_source=api</link>
+      <guid isPermaLink="false">48b891b6-3175-4864-bb98-af131098c557</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/a/0a41d10e-7dad-46fd-bd15-0ea6c89bc0aa.jpg?1789127794&quot; alt=&quot;Fblthp, Knows the Way&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Fblthp, Knows the Way&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {X}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Homunculus Scout&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Domain — Fblthp's power is equal to the number of basic land types among lands you control.&lt;br/&gt;When Fblthp enters, search your library for up to X basic land cards with different names, reveal them, put them into your hand, then shuffle.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/313/fblthp-knows-the-way?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/a/0a41d10e-7dad-46fd-bd15-0ea6c89bc0aa.jpg?1789127794" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Way of the Deathbringer [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/238/way-of-the-deathbringer?utm_source=api</link>
+      <guid isPermaLink="false">54775625-bf44-4035-969e-7e70578c8b98</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/2/12dd46b2-e892-4660-b120-55766fd4d878.jpg?1789112609&quot; alt=&quot;Way of the Deathbringer&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Way of the Deathbringer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;When Way of the Deathbringer enters, empower Jace 5. (Put five loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with &quot;[-1]: Surveil 1&quot; and &quot;[-3]: Draw a card.&quot;)&lt;br/&gt;Planeswalkers you control have &quot;[-2]: You may sacrifice a creature. If you do, create a 4/4 green Beast creature token with trample.&quot;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/238/way-of-the-deathbringer?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/2/12dd46b2-e892-4660-b120-55766fd4d878.jpg?1789112609" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fblthp, Impossibly Lost [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/298/fblthp-impossibly-lost?utm_source=api</link>
+      <guid isPermaLink="false">17e7212e-69d8-4014-af98-447baed2cae7</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/5/15139452-04fc-4870-8306-c9a6defba76d.jpg?1789127792&quot; alt=&quot;Fblthp, Impossibly Lost&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Fblthp, Impossibly Lost&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Homunculus&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;When one or more of your opponents are dealt combat damage during your turn, draw two cards. If your library has no cards in it, you win the game. Fblthp's owner shuffles him into their library. (If you draw from an empty library this way, you still win the game.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/298/fblthp-impossibly-lost?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/5/15139452-04fc-4870-8306-c9a6defba76d.jpg?1789127792" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Solarium Sentry [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/148/solarium-sentry?utm_source=api</link>
+      <guid isPermaLink="false">afddba56-f9a0-4917-8167-c9fd17ca9954</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/e/1ef12dcf-df50-4da6-8c4c-e2937ba9698e.jpg?1789127651&quot; alt=&quot;Solarium Sentry&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Solarium Sentry&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {G}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Cat Soldier&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Whenever an opponent casts a spell with mana value 2 or less, you gain 2 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/148/solarium-sentry?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/e/1ef12dcf-df50-4da6-8c4c-e2937ba9698e.jpg?1789127651" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Konstrari Charm [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/433/konstrari-charm?utm_source=api</link>
+      <guid isPermaLink="false">40961b23-b153-434a-aeb9-b9c2ff613dcb</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/2/2261c33e-1667-4554-ad31-0adf4805a69d.jpg?1789127836&quot; alt=&quot;Konstrari Charm&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Konstrari Charm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {R}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Choose one —&lt;br/&gt;• Konstrari Charm deals 6 damage to target creature with flying.&lt;br/&gt;• Put two +1/+1 counters on target creature. It gains trample until end of turn.&lt;br/&gt;• Add {C}{C}{C}.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/433/konstrari-charm?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/2/2261c33e-1667-4554-ad31-0adf4805a69d.jpg?1789127836" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Last Gasp [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/56/last-gasp?utm_source=api</link>
+      <guid isPermaLink="false">a82c3860-4dd6-4ffd-aa8f-ab8df687db6c</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/3/2381d123-d8c7-4822-98fe-b1c365beb5ed.jpg?1789127524&quot; alt=&quot;Last Gasp&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Last Gasp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Target creature gets -3/-3 until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/56/last-gasp?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/3/2381d123-d8c7-4822-98fe-b1c365beb5ed.jpg?1789127524" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Theorix Charm [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/155/theorix-charm?utm_source=api</link>
+      <guid isPermaLink="false">cf527bbd-e898-4aa9-909d-daec2f4b62ad</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/8/2835c9aa-0904-44db-8da2-e8c4e04201aa.jpg?1789127659&quot; alt=&quot;Theorix Charm&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Theorix Charm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {U}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Choose one —&lt;br/&gt;• Counter target noncreature spell unless its controller pays {2}.&lt;br/&gt;• Target creature gets -2/-2 until end of turn.&lt;br/&gt;• Mill three cards, then draw a card. (To mill three cards, put the top three cards of your library into your graveyard.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/155/theorix-charm?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/8/2835c9aa-0904-44db-8da2-e8c4e04201aa.jpg?1789127659" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Vigorbloom Charm [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/160/vigorbloom-charm?utm_source=api</link>
+      <guid isPermaLink="false">826f17d1-3806-4579-8b1b-2082b7b03d69</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/b/2b198e10-b507-4314-a29c-a219f06e48b7.jpg?1789127656&quot; alt=&quot;Vigorbloom Charm&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Vigorbloom Charm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {G}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Choose one —&lt;br/&gt;• Target permanent you control gains hexproof and indestructible until end of turn.&lt;br/&gt;• You draw a card and gain 3 life.&lt;br/&gt;• Put a +1/+1 counter on target creature you control. Then it fights target creature an opponent controls. (Each deals damage equal to its power to the other.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/160/vigorbloom-charm?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/b/2b198e10-b507-4314-a29c-a219f06e48b7.jpg?1789127656" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Master of Barbs [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/344/master-of-barbs?utm_source=api</link>
+      <guid isPermaLink="false">e8c36337-135c-460d-a1da-cc01743dda71</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/2/32dcc615-910c-413b-8774-d4db32e80e19.jpg?1789127802&quot; alt=&quot;Master of Barbs&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Master of Barbs&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Lizard Bard&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Menace&lt;br/&gt;Whenever one or more opponents are dealt noncombat damage, creatures you control get +1/+0 until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/344/master-of-barbs?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/2/32dcc615-910c-413b-8774-d4db32e80e19.jpg?1789127802" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Tetsuko Umezawa, Fugitive [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/221/tetsuko-umezawa-fugitive?utm_source=api</link>
+      <guid isPermaLink="false">ceeeacbc-01b0-4421-aaca-2ce6cdbe45d7</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/9/3983d71e-3c23-4b36-b331-08e0707d8245.jpg?1789127702&quot; alt=&quot;Tetsuko Umezawa, Fugitive&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Tetsuko Umezawa, Fugitive&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Rogue&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Creatures you control with power or toughness 1 or less can't be blocked.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/221/tetsuko-umezawa-fugitive?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/9/3983d71e-3c23-4b36-b331-08e0707d8245.jpg?1789127702" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Null Summoner [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/142/null-summoner?utm_source=api</link>
+      <guid isPermaLink="false">56c412be-daab-4461-931f-1e2ea8ecd75d</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/a/3afdc75a-1bf5-4f2f-84eb-d82f77a095cd.jpg?1789127648&quot; alt=&quot;Null Summoner&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Null Summoner&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Human Warlock&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;When this creature enters, if you cast it, target opponent reveals their hand. You choose a nonland card from it. Exile that card.&lt;br/&gt;Threshold — As long as there are seven or more cards in your graveyard, you may cast the exiled card, and mana of any type can be spent to cast that spell.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/142/null-summoner?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/a/3afdc75a-1bf5-4f2f-84eb-d82f77a095cd.jpg?1789127648" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Face Yourself [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/83/face-yourself?utm_source=api</link>
+      <guid isPermaLink="false">3c0fe71c-bee1-41d3-aeb5-1723028eedde</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/c/3ccf8f64-19bd-4fdf-b70a-30a042bacf2f.jpg?1789127528&quot; alt=&quot;Face Yourself&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Face Yourself&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {5}{R}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;For each creature target player controls, create a token that's a copy of that creature, except it has haste and &quot;At the beginning of the end step, if you don't control a planeswalker, sacrifice this creature.&quot;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/83/face-yourself?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/c/3ccf8f64-19bd-4fdf-b70a-30a042bacf2f.jpg?1789127528" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hungering Puppetbeast [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/346/hungering-puppetbeast?utm_source=api</link>
+      <guid isPermaLink="false">690ae865-87bd-46b2-8e65-c53bd80c1a18</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/c/3cee6c29-e9ab-4e86-8fc9-9b9c287ffdfd.jpg?1789127804&quot; alt=&quot;Hungering Puppetbeast&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Hungering Puppetbeast&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact Creature — Beast Construct&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;When this creature enters, create a Heartwood token. (It's a red and green artifact with &quot;{T}: Add {R} or {G}.&quot;)&lt;br/&gt;{1}, Sacrifice another artifact: Put a +1/+1 counter on this creature. It gains your choice of trample, hexproof, or haste until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/346/hungering-puppetbeast?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/c/3cee6c29-e9ab-4e86-8fc9-9b9c287ffdfd.jpg?1789127804" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Proctor of Potential [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/354/proctor-of-potential?utm_source=api</link>
+      <guid isPermaLink="false">c612ba0a-5134-45fa-a762-f4621bda4f83</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/5/4589d911-1740-470d-9da5-7fbab448e184.jpg?1789127809&quot; alt=&quot;Proctor of Potential&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Proctor of Potential&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Human Cleric&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Whenever this creature or another creature you control enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)&lt;br/&gt;{W}{U}: Return this card from your graveyard to the battlefield with a finality counter on it. Activate only if you've scried or surveilled this turn. (If a creature with a finality counter on it would die, exile it instead.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/354/proctor-of-potential?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/5/4589d911-1740-470d-9da5-7fbab448e184.jpg?1789127809" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Yuriko, Hope from the Shadows [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/226/yuriko-hope-from-the-shadows?utm_source=api</link>
+      <guid isPermaLink="false">983f4fde-ab04-44f0-a294-c3b472de0b19</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/5/45e81487-8b8c-480b-922a-eaa9edc7201d.jpg?1789127717&quot; alt=&quot;Yuriko, Hope from the Shadows&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Yuriko, Hope from the Shadows&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Ninja&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Flash&lt;br/&gt;When Yuriko enters, choose one —&lt;br/&gt;• Target creature gets -X/-0 until end of turn, where X is the number of cards in your graveyard.&lt;br/&gt;• Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/226/yuriko-hope-from-the-shadows?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/5/45e81487-8b8c-480b-922a-eaa9edc7201d.jpg?1789127717" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Vraska, the Cutting Glare [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/278/vraska-the-cutting-glare?utm_source=api</link>
+      <guid isPermaLink="false">580de511-863c-4b7a-9d2e-fcdf6e12d54b</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/c/5c28b012-5efb-488f-a1c1-09e2dddfd6ee.jpg?1789127776&quot; alt=&quot;Vraska, the Cutting Glare&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Vraska, the Cutting Glare&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {B}{B}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Gorgon Assassin&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Deathtouch&lt;br/&gt;When Vraska enters, if you control six or more lands, destroy target permanent an opponent controls. They create a Treasure token. (It's an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/278/vraska-the-cutting-glare?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/c/5c28b012-5efb-488f-a1c1-09e2dddfd6ee.jpg?1789127776" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Vindictive Triumph [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/377/vindictive-triumph?utm_source=api</link>
+      <guid isPermaLink="false">d6b478d1-5015-49ba-b1aa-cbc2b08107a6</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/0/70cbf43a-d6d0-4777-807d-537257879ca5.jpg?1789127822&quot; alt=&quot;Vindictive Triumph&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Vindictive Triumph&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Exile target creature or planeswalker. If that permanent's mana value was 3 or less, return it to the battlefield tapped under your control. Exile it at the beginning of the next end step.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/377/vindictive-triumph?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/0/70cbf43a-d6d0-4777-807d-537257879ca5.jpg?1789127822" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Gideon's Memorial [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/198/gideons-memorial?utm_source=api</link>
+      <guid isPermaLink="false">c8f08704-7330-4fa9-b456-2e96aa252a2c</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/6/768c0e64-9907-417a-a763-c836fdf36883.jpg?1789127685&quot; alt=&quot;Gideon's Memorial&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Gideon's Memorial&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Creature tokens you control get +1/+0 and have vigilance.&lt;br/&gt;{T}: Add one mana of any color. Spend this mana only to cast a planeswalker spell.&lt;br/&gt;{1}{W}, Discard this card: It deals 4 damage to target attacking or blocking creature.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/198/gideons-memorial?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/6/768c0e64-9907-417a-a763-c836fdf36883.jpg?1789127685" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Edgar, Ancient Bloodlord [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/270/edgar-ancient-bloodlord?utm_source=api</link>
+      <guid isPermaLink="false">cab2bc93-f38b-4301-ac42-05765615586b</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/c/7c619fed-2394-4efc-8cdc-6df5f51c1f57.jpg?1789127743&quot; alt=&quot;Edgar, Ancient Bloodlord&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Edgar, Ancient Bloodlord&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Vampire Noble&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Whenever another creature or planeswalker you control dies, you gain 1 life.&lt;br/&gt;{2}, Sacrifice another creature or planeswalker: Put a +1/+1 counter on Edgar. He gains menace until end of turn. (He can't be blocked except by two or more creatures.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/270/edgar-ancient-bloodlord?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/c/7c619fed-2394-4efc-8cdc-6df5f51c1f57.jpg?1789127743" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Stingerquill Charm [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/434/stingerquill-charm?utm_source=api</link>
+      <guid isPermaLink="false">987aadac-d6a6-4e50-9468-9e8e53cc5529</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/c/7c9013bc-bc85-49b2-ad9b-745b97d6775d.jpg?1789127826&quot; alt=&quot;Stingerquill Charm&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Stingerquill Charm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {B}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Choose one —&lt;br/&gt;• Stingerquill Charm deals 3 damage to any target.&lt;br/&gt;• Target creature gains first strike and deathtouch until end of turn.&lt;br/&gt;• Create a 2/2 colorless Wizard Soldier creature token named Cadet. It gains haste until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/434/stingerquill-charm?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/c/7c9013bc-bc85-49b2-ad9b-745b97d6775d.jpg?1789127826" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hallway Heckler // Vicious Verse [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/85/hallway-heckler-vicious-verse?utm_source=api</link>
+      <guid isPermaLink="false">d1af8018-35b5-4b6f-93c8-1ed6bd8c92b1</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/e/7e324816-552f-455d-97c4-5ea6b26d2e6e.jpg?1789127576&quot; alt=&quot;Hallway Heckler // Vicious Verse&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Hallway Heckler // Vicious Verse&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{R} // {B/R}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Elemental Sorcerer // Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)&lt;br/&gt;{T}, Discard a card: Draw a card.&lt;br/&gt;//&lt;br/&gt;Vicious Verse deals 1 damage to target opponent.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/85/hallway-heckler-vicious-verse?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/e/7e324816-552f-455d-97c4-5ea6b26d2e6e.jpg?1789127576" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Semester Foreseer // Peer Review [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/39/semester-foreseer-peer-review?utm_source=api</link>
+      <guid isPermaLink="false">21b8d59f-a90d-44ff-a2e3-9f439ac3e14a</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/e/7e5a640b-fd88-4b5a-9dfc-1d8f5a5cef41.jpg?1789127516&quot; alt=&quot;Semester Foreseer // Peer Review&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Semester Foreseer // Peer Review&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{U} // {2}{W/U}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Human Wizard // Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)&lt;br/&gt;When this creature enters, surveil 1.&lt;br/&gt;//&lt;br/&gt;Create a 2/2 colorless Wizard Soldier creature token named Cadet. Surveil 1.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/39/semester-foreseer-peer-review?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/e/7e5a640b-fd88-4b5a-9dfc-1d8f5a5cef41.jpg?1789127516" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Thalia, the Survivor [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/205/thalia-the-survivor?utm_source=api</link>
+      <guid isPermaLink="false">55ef129e-698e-424f-be3c-3fbba6c2cc3e</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/0/80226231-9e70-430e-aabc-f262f70b9226.jpg?1789127700&quot; alt=&quot;Thalia, the Survivor&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Thalia, the Survivor&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Soldier&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Lifelink&lt;br/&gt;Noncreature spells your opponents cast cost {1} more to cast.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/205/thalia-the-survivor?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/0/80226231-9e70-430e-aabc-f262f70b9226.jpg?1789127700" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Whiplash Wordsmith // Vicious Verse [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/164/whiplash-wordsmith-vicious-verse?utm_source=api</link>
+      <guid isPermaLink="false">e1ffb884-a89e-4e2a-9beb-8bd5838b6a94</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/0/8096bc9a-a610-448f-bef2-7230e17e9777.jpg?1789127692&quot; alt=&quot;Whiplash Wordsmith // Vicious Verse&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Whiplash Wordsmith // Vicious Verse&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{B/R} // {B/R}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Vampire Sorcerer // Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)&lt;br/&gt;As long as an opponent was dealt noncombat damage this turn, this creature has flying and haste.&lt;br/&gt;//&lt;br/&gt;Vicious Verse deals 1 damage to target opponent.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/164/whiplash-wordsmith-vicious-verse?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/0/8096bc9a-a610-448f-bef2-7230e17e9777.jpg?1789127692" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Kiora of Salt and Sand [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/273/kiora-of-salt-and-sand?utm_source=api</link>
+      <guid isPermaLink="false">e70bb7f8-8098-49c5-929c-68f63cd821c5</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/1/8151f5f5-e9f6-4fbe-b543-f456ebf22aa5.jpg?1789127745&quot; alt=&quot;Kiora of Salt and Sand&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Kiora of Salt and Sand&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{G}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Merfolk Noble&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Whenever you attack, if you've activated a loyalty ability this turn, untap target attacking creature. It can't be blocked this turn.&lt;br/&gt;Planeswalkers you control have &quot;[−8]: Create an 8/8 blue Leviathan creature token with hexproof.&quot;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/273/kiora-of-salt-and-sand?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/1/8151f5f5-e9f6-4fbe-b543-f456ebf22aa5.jpg?1789127745" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Geist of Saint Thalia [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/299/geist-of-saint-thalia?utm_source=api</link>
+      <guid isPermaLink="false">ef32a4a9-14e2-4738-b4c2-53ce5e1d2a53</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/5/85082e55-cb7e-4fe2-86d5-f8accd48ba2c.jpg?1789127779&quot; alt=&quot;Geist of Saint Thalia&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Geist of Saint Thalia&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Spirit Cleric&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;Noncreature spells you cast cost {1} less to cast.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/299/geist-of-saint-thalia?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/5/85082e55-cb7e-4fe2-86d5-f8accd48ba2c.jpg?1789127779" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Lyra, Archangel of Dawn [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/201/lyra-archangel-of-dawn?utm_source=api</link>
+      <guid isPermaLink="false">0fca3328-484f-4050-925e-91840710b5d6</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/6/86a3866e-68a8-402c-baf0-1908e98e3995.jpg?1789127693&quot; alt=&quot;Lyra, Archangel of Dawn&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Lyra, Archangel of Dawn&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Angel Knight&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;Whenever you gain life, put a +1/+1 counter on each Angel you control.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/201/lyra-archangel-of-dawn?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/6/86a3866e-68a8-402c-baf0-1908e98e3995.jpg?1789127693" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Cruel Calculations [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/336/cruel-calculations?utm_source=api</link>
+      <guid isPermaLink="false">69b96fe5-9733-4b43-bd66-075742e142d9</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/b/8bdd99c6-d0f1-4922-ada8-0c4566860e15.jpg?1789127800&quot; alt=&quot;Cruel Calculations&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Cruel Calculations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Draw X cards, where X is the number of cards that were put into target player's graveyard from their library this turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/336/cruel-calculations?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/b/8bdd99c6-d0f1-4922-ada8-0c4566860e15.jpg?1789127800" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Heartwood Crafter // Soul Tether [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/105/heartwood-crafter-soul-tether?utm_source=api</link>
+      <guid isPermaLink="false">c8b3a070-408e-4a8f-8597-6476eeec0a5f</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/1/910a1f41-17fd-4ab0-9597-7151e79dc760.jpg?1789127630&quot; alt=&quot;Heartwood Crafter // Soul Tether&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Heartwood Crafter // Soul Tether&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {G} // {2}{R/G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Elf Artificer // Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)&lt;br/&gt;{T}: Add {C}. This mana can't be spent to cast spells from your hand.&lt;br/&gt;//&lt;br/&gt;Create a Heartwood token. (It's a red and green artifact with &quot;{T}: Add {R} or {G}.&quot;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/105/heartwood-crafter-soul-tether?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/1/910a1f41-17fd-4ab0-9597-7151e79dc760.jpg?1789127630" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Winter, Tormented Loner [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/240/winter-tormented-loner?utm_source=api</link>
+      <guid isPermaLink="false">84eaac2e-74ce-4a16-9faa-409df7c58eb3</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/6/9670f754-f41f-45ac-8e8b-025ad2c0f66b.jpg?1789127724&quot; alt=&quot;Winter, Tormented Loner&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Winter, Tormented Loner&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Warlock&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;When Winter enters, you may sacrifice a creature or planeswalker. When you do, each opponent sacrifices a creature of their choice.&lt;br/&gt;Winter gets +1/+0 for each creature and planeswalker card in your graveyard.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/240/winter-tormented-loner?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/6/9670f754-f41f-45ac-8e8b-025ad2c0f66b.jpg?1789127724" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fatehold Charm [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/432/fatehold-charm?utm_source=api</link>
+      <guid isPermaLink="false">313aee0e-4090-4589-b323-a4edbda21c68</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/2/a2008313-659e-4132-85a2-e7b7be93bcdc.jpg?1789127823&quot; alt=&quot;Fatehold Charm&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Fatehold Charm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Choose one —&lt;br/&gt;• Draw a card. Empower Jace 2.&lt;br/&gt;• Return target spell or creature to its owner's hand.&lt;br/&gt;• Creatures you control get +1/+2 until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/432/fatehold-charm?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/2/a2008313-659e-4132-85a2-e7b7be93bcdc.jpg?1789127823" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Way of the Wildspeaker [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/268/way-of-the-wildspeaker?utm_source=api</link>
+      <guid isPermaLink="false">501580b9-692c-4804-be34-012a25ba8adf</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/2/a252cb01-537b-4afe-9abc-81a98c4a1439.jpg?1789112663&quot; alt=&quot;Way of the Wildspeaker&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Way of the Wildspeaker&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;When Way of the Wildspeaker enters, empower Jace 7. (Put seven loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with &quot;[-1]: Surveil 1&quot; and &quot;[-3]: Draw a card.&quot;)&lt;br/&gt;Planeswalkers you control have &quot;[-4]: Create a 4/4 green Beast creature token with trample.&quot;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/268/way-of-the-wildspeaker?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/2/a252cb01-537b-4afe-9abc-81a98c4a1439.jpg?1789112663" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Gideon the Oathless [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/304/gideon-the-oathless?utm_source=api</link>
+      <guid isPermaLink="false">7afa530f-ea51-4bee-af3b-59b83ea5cb25</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/a/aace6d83-d30f-4481-9c6f-c5b3e3794dea.jpg?1789127802&quot; alt=&quot;Gideon the Oathless&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Gideon the Oathless&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Mercenary&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Ward—Discard a card.&lt;br/&gt;Whenever a creature an opponent controls enters, Gideon deals 1 damage to that player.&lt;br/&gt;Whenever an opponent activates a loyalty ability, Gideon deals 1 damage to that player.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/304/gideon-the-oathless?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/a/aace6d83-d30f-4481-9c6f-c5b3e3794dea.jpg?1789127802" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Violent Echoes [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/95/violent-echoes?utm_source=api</link>
+      <guid isPermaLink="false">e8ecec61-cc47-4051-a599-0e7470764488</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/d/ad03ba90-2442-4a71-94df-2088b5b63662.jpg?1789127599&quot; alt=&quot;Violent Echoes&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Violent Echoes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{R}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Violent Echoes deals 6 damage to target creature or planeswalker. If excess damage was dealt to that permanent this way, empower Jace X, where X is that excess damage. (Put that many loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with &quot;[−1]: Surveil 1&quot; and &quot;[−3]: Draw a card.&quot;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/95/violent-echoes?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/d/ad03ba90-2442-4a71-94df-2088b5b63662.jpg?1789127599" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Vraska, Soul of Stone [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/318/vraska-soul-of-stone?utm_source=api</link>
+      <guid isPermaLink="false">cad63b31-667b-4518-bc49-be4ffb82bc63</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/4/c4f56034-fab2-4f23-923d-cb5c395a0a87.jpg?1789127796&quot; alt=&quot;Vraska, Soul of Stone&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Vraska, Soul of Stone&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {U}{R}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Gorgon Wizard&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Artifact creatures you control have vigilance.&lt;br/&gt;Whenever you cast a noncreature spell, create a 1/1 colorless Sculpture Treasure artifact creature token with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/318/vraska-soul-of-stone?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/4/c4f56034-fab2-4f23-923d-cb5c395a0a87.jpg?1789127796" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Yuriko, Blade of the Mighty [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/210/yuriko-blade-of-the-mighty?utm_source=api</link>
+      <guid isPermaLink="false">f89b0143-4b19-4ab1-a96b-356b21e435ef</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/c/ccbe92a5-42bc-4228-9d5a-212df2f5dc15.jpg?1789128047&quot; alt=&quot;Yuriko, Blade of the Mighty&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Yuriko, Blade of the Mighty&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Samurai&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;During combat, players can't cast spells or activate abilities that aren't mana abilities.&lt;br/&gt;Whenever a creature you control attacks a player alone, it gains double strike until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/210/yuriko-blade-of-the-mighty?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/c/ccbe92a5-42bc-4228-9d5a-212df2f5dc15.jpg?1789128047" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Edgar, Moonlit Sovereign [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/257/edgar-moonlit-sovereign?utm_source=api</link>
+      <guid isPermaLink="false">1917bda6-c0e1-4c80-8009-74c28cf6b8e9</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/a/dad6afc9-8505-4cdd-bf79-e9ba4670f2bb.jpg?1789127966&quot; alt=&quot;Edgar, Moonlit Sovereign&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Edgar, Moonlit Sovereign&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Werewolf Noble&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Flash&lt;br/&gt;At the beginning of your end step, if you didn't cast a spell this turn, put two +1/+1 counters on Edgar.&lt;br/&gt;{4}{G}: Put a +1/+1 counter on each creature you control with a +1/+1 counter on it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/257/edgar-moonlit-sovereign?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/a/dad6afc9-8505-4cdd-bf79-e9ba4670f2bb.jpg?1789127966" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Tetsuko Umezawa, Pursuer [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/252/tetsuko-umezawa-pursuer?utm_source=api</link>
+      <guid isPermaLink="false">708d4567-a5a3-437f-bae4-ae10f1537aa9</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/f/df818900-ce5e-4b0d-a927-c975cbef7eda.jpg?1789128002&quot; alt=&quot;Tetsuko Umezawa, Pursuer&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Tetsuko Umezawa, Pursuer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Mercenary&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Double strike&lt;br/&gt;Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;br/&gt;Whenever a creature an opponent controls with power or toughness 1 or less blocks, Tetsuko Umezawa deals 1 damage to that creature's controller.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/252/tetsuko-umezawa-pursuer?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/f/df818900-ce5e-4b0d-a927-c975cbef7eda.jpg?1789128002" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Winter, Team Player [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/256/winter-team-player?utm_source=api</link>
+      <guid isPermaLink="false">254f133a-eee5-48b9-b19f-110555e49300</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/f/df8713cd-3f4b-43ef-adbd-e37c2617c617.jpg?1789128020&quot; alt=&quot;Winter, Team Player&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Winter, Team Player&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Warrior&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Convoke&lt;br/&gt;Whenever you cast a noncreature spell, creatures you control get +1/+0 until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/256/winter-team-player?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/f/df8713cd-3f4b-43ef-adbd-e37c2617c617.jpg?1789128020" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Carnivorous Cultivator // Enroot [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/437/carnivorous-cultivator-enroot?utm_source=api</link>
+      <guid isPermaLink="false">db655c5a-06f6-42bc-8180-d9ca1c1d939a</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/9/e9e31f13-8a2c-4ae2-854e-27d6c62936f2.jpg?1789127852&quot; alt=&quot;Carnivorous Cultivator // Enroot&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Carnivorous Cultivator // Enroot&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{G} // {G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Elf Warlock // Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Deathtouch&lt;br/&gt;This creature enters prepared.&lt;br/&gt;Whenever this creature deals combat damage to a player, return target land card from your graveyard to your hand.&lt;br/&gt;//&lt;br/&gt;Search your library for a land card, put it into your graveyard, then shuffle.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/437/carnivorous-cultivator-enroot?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/9/e9e31f13-8a2c-4ae2-854e-27d6c62936f2.jpg?1789127852" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Yargle, Goliath of Otaria [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/225/yargle-goliath-of-otaria?utm_source=api</link>
+      <guid isPermaLink="false">014d0bcd-b80f-4c43-8f00-f4c31e8f3370</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/4/f45ba926-6496-4bd4-96eb-663946d56bbf.jpg?1789128043&quot; alt=&quot;Yargle, Goliath of Otaria&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Yargle, Goliath of Otaria&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Frog Spirit&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/225/yargle-goliath-of-otaria?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/4/f45ba926-6496-4bd4-96eb-663946d56bbf.jpg?1789128043" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>&quot;I've been pulling the strings the whole time!&quot; [Reality Fracture]</title>
