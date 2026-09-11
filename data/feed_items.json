@@ -4992,6 +4992,32 @@
     }
   },
   {
+    "id": "3d693cb0-681e-480a-8f70-07e94c39225c",
+    "oracle_id": "4a9e0294-c967-4e90-b776-6d3195034a23",
+    "name": "Wrecking Gecko",
+    "set": "fra",
+    "set_name": "Reality Fracture",
+    "mana_cost": "{4}{G}",
+    "type_line": "Artifact Creature — Lizard Construct",
+    "oracle_text": "Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\n{6}{G}{G}: This creature gets +4/+4 and gains trample until end of turn.",
+    "rarity": "common",
+    "released_at": "2026-10-02",
+    "scryfall_uri": "https://scryfall.com/card/fra/120/wrecking-gecko?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/3/d/3d693cb0-681e-480a-8f70-07e94c39225c.jpg?1789129820",
+      "normal": "https://cards.scryfall.io/normal/front/3/d/3d693cb0-681e-480a-8f70-07e94c39225c.jpg?1789129820",
+      "large": "https://cards.scryfall.io/large/front/3/d/3d693cb0-681e-480a-8f70-07e94c39225c.jpg?1789129820",
+      "png": "https://cards.scryfall.io/png/front/3/d/3d693cb0-681e-480a-8f70-07e94c39225c.png?1789129820",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/3/d/3d693cb0-681e-480a-8f70-07e94c39225c.jpg?1789129820",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/3/d/3d693cb0-681e-480a-8f70-07e94c39225c.jpg?1789129820",
+      "thumb": "https://cards.scryfall.io/thumb/front/3/d/3d693cb0-681e-480a-8f70-07e94c39225c.webp?1789129820",
+      "grid": "https://cards.scryfall.io/grid/front/3/d/3d693cb0-681e-480a-8f70-07e94c39225c.webp?1789129820",
+      "display": "https://cards.scryfall.io/display/front/3/d/3d693cb0-681e-480a-8f70-07e94c39225c.webp?1789129820",
+      "art": "https://cards.scryfall.io/art/front/3/d/3d693cb0-681e-480a-8f70-07e94c39225c.webp?1789129820",
+      "crop": "https://cards.scryfall.io/crop/front/3/d/3d693cb0-681e-480a-8f70-07e94c39225c.webp?1789129820"
+    }
+  },
+  {
     "id": "04c816fb-5951-4db1-8834-ed3f0b36bfe1",
     "oracle_id": "ed66cd31-958f-4b28-82a3-e04acc819afc",
     "name": "Yargle, Glutton of Urborg",
