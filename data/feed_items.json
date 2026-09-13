@@ -6631,5 +6631,31 @@
       "art": "https://cards.scryfall.io/art/front/b/2/b2a412b0-2ae4-4552-bc5e-70654b6b9b4e.webp?1789108084",
       "crop": "https://cards.scryfall.io/crop/front/b/2/b2a412b0-2ae4-4552-bc5e-70654b6b9b4e.webp?1789108084"
     }
+  },
+  {
+    "id": "8cf804e1-5bf3-4a04-bd1c-a99a9561fdc4",
+    "oracle_id": "0895c9b7-ae7d-4bb3-af17-3b75deb50a25",
+    "name": "Command Tower",
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "mana_cost": "",
+    "type_line": "Land",
+    "oracle_text": "{T}: Add one mana of any color in your commander's color identity.",
+    "rarity": "rare",
+    "released_at": "2026-08-31",
+    "scryfall_uri": "https://scryfall.com/card/sld/7191/command-tower?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/c/8cf804e1-5bf3-4a04-bd1c-a99a9561fdc4.jpg?1789278454",
+      "normal": "https://cards.scryfall.io/normal/front/8/c/8cf804e1-5bf3-4a04-bd1c-a99a9561fdc4.jpg?1789278454",
+      "large": "https://cards.scryfall.io/large/front/8/c/8cf804e1-5bf3-4a04-bd1c-a99a9561fdc4.jpg?1789278454",
+      "png": "https://cards.scryfall.io/png/front/8/c/8cf804e1-5bf3-4a04-bd1c-a99a9561fdc4.png?1789278454",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/c/8cf804e1-5bf3-4a04-bd1c-a99a9561fdc4.jpg?1789278454",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/c/8cf804e1-5bf3-4a04-bd1c-a99a9561fdc4.jpg?1789278454",
+      "thumb": "https://cards.scryfall.io/thumb/front/8/c/8cf804e1-5bf3-4a04-bd1c-a99a9561fdc4.webp?1789278454",
+      "grid": "https://cards.scryfall.io/grid/front/8/c/8cf804e1-5bf3-4a04-bd1c-a99a9561fdc4.webp?1789278454",
+      "display": "https://cards.scryfall.io/display/front/8/c/8cf804e1-5bf3-4a04-bd1c-a99a9561fdc4.webp?1789278454",
+      "art": "https://cards.scryfall.io/art/front/8/c/8cf804e1-5bf3-4a04-bd1c-a99a9561fdc4.webp?1789278454",
+      "crop": "https://cards.scryfall.io/crop/front/8/c/8cf804e1-5bf3-4a04-bd1c-a99a9561fdc4.webp?1789278454"
+    }
   }
 ]
