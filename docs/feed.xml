@@ -5,7 +5,7 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 11 Sep 2026 22:22:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 09:47:28 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
     <item>
@@ -2868,6 +2868,201 @@
 &lt;p&gt;Rulebreaker — A deck with this commander can have Phyrexian cards of any color identity and any basic land cards.&lt;br/&gt;Phyrexian creatures you control have menace and lifelink.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mbc/60/valko-indorian?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/a/0/a0b51fb8-6e5a-479d-aa3a-17cf603dd05c.jpg?1787065628" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sphinx of False Conclusions [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/40/sphinx-of-false-conclusions?utm_source=api</link>
+      <guid isPermaLink="false">9f004382-c57b-4fde-af97-0c85516c3cf4</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/8/08ffbd51-2bd3-4262-8809-09576ce2b6f5.jpg?1789274569&quot; alt=&quot;Sphinx of False Conclusions&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Sphinx of False Conclusions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Sphinx Illusion&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Flash&lt;br/&gt;Flying&lt;br/&gt;Whenever this creature attacks, draw a card, then discard a card.&lt;br/&gt;When this creature dies, if it isn't a token, create a token that's a copy of it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/40/sphinx-of-false-conclusions?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/8/08ffbd51-2bd3-4262-8809-09576ce2b6f5.jpg?1789274569" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Echoverse Fulcrum [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/378/the-echoverse-fulcrum?utm_source=api</link>
+      <guid isPermaLink="false">c04197ad-d2f3-499f-b863-bed0c869519c</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/b/1b54a4c5-511f-439f-86d0-e84a30275462.jpg?1789272615&quot; alt=&quot;The Echoverse Fulcrum&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;The Echoverse Fulcrum&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;When The Echoverse Fulcrum enters, draw a card, then discard a card.&lt;br/&gt;{5}, {T}, Exile The Echoverse Fulcrum: Destroy all creatures. Activate only as a sorcery.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/378/the-echoverse-fulcrum?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/b/1b54a4c5-511f-439f-86d0-e84a30275462.jpg?1789272615" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Chandra's Emberling [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/76/chandras-emberling?utm_source=api</link>
+      <guid isPermaLink="false">d3576617-7867-4c3d-aa31-d6742483465b</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/a/3a64c5f4-9cfc-4d19-bd99-13d619b1aa9d.jpg?1789274152&quot; alt=&quot;Chandra's Emberling&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Chandra's Emberling&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Gremlin Elemental&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Haste&lt;br/&gt;Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/76/chandras-emberling?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/a/3a64c5f4-9cfc-4d19-bd99-13d619b1aa9d.jpg?1789274152" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Break Under Pressure [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/50/break-under-pressure?utm_source=api</link>
+      <guid isPermaLink="false">8dd23c50-cc84-4064-89cd-8d52fbfbd4ab</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/6/46974d94-e900-43e4-92b5-4fb9b9f7cf46.jpg?1789271379&quot; alt=&quot;Break Under Pressure&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Break Under Pressure&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Target opponent sacrifices a creature or planeswalker with the greatest mana value among creatures and planeswalkers they control. You gain 2 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/50/break-under-pressure?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/6/46974d94-e900-43e4-92b5-4fb9b9f7cf46.jpg?1789271379" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Gallia, Tragic Host [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/228/gallia-tragic-host?utm_source=api</link>
+      <guid isPermaLink="false">58285b70-0d13-4723-b5a4-91fb6f9ccf03</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/9/498fa810-8522-4020-b773-52ad404c9f65.jpg?1789275452&quot; alt=&quot;Gallia, Tragic Host&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Gallia, Tragic Host&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Zombie Satyr&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Menace (This creature can't be blocked except by two or more creatures.)&lt;br/&gt;{4}{B}, Exile another creature card from your graveyard: Return this card from your graveyard to the battlefield tapped with a +1/+1 counter on her.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/228/gallia-tragic-host?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/9/498fa810-8522-4020-b773-52ad404c9f65.jpg?1789275452" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Afterthought Sentry [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/166/afterthought-sentry?utm_source=api</link>
+      <guid isPermaLink="false">f0c533a2-751a-4c5a-8cec-b83da3c8c62f</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/d/4d4b3bf7-a149-4099-b97d-4e36a87dfa60.jpg?1789271517&quot; alt=&quot;Afterthought Sentry&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Afterthought Sentry&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact Creature — Gargoyle&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;{2}: This creature gains flying until end of turn.&lt;br/&gt;Whenever this creature attacks, exile up to one target card from a graveyard.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/166/afterthought-sentry?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/d/4d4b3bf7-a149-4099-b97d-4e36a87dfa60.jpg?1789271517" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Vraska's Final Mercy [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/71/vraskas-final-mercy?utm_source=api</link>
+      <guid isPermaLink="false">7799413d-e313-4a05-ad28-f4c926c26d28</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/9/992bd991-7cfb-459f-bafd-9a44f3c925c5.jpg?1789272675&quot; alt=&quot;Vraska's Final Mercy&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Vraska's Final Mercy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Choose one —&lt;br/&gt;• You lose 2 life. Destroy target creature or planeswalker.&lt;br/&gt;• You lose 2 life. Empower Jace 6. (Put six loyalty counters on a Jace token you control. If you don't control one, first create a blue Face planeswalker token with &quot;[-1]: Surveil 1&quot; and &quot;[-3]: Draw a card.&quot;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/71/vraskas-final-mercy?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/9/992bd991-7cfb-459f-bafd-9a44f3c925c5.jpg?1789272675" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Surveillance Phantasm [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/42/surveillance-phantasm?utm_source=api</link>
+      <guid isPermaLink="false">b97648b7-ae98-45c9-8f0f-a52d6faf2d2d</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/d/9df8a06d-c7de-49af-8c01-06dca3dfef4b.jpg?1789273544&quot; alt=&quot;Surveillance Phantasm&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Surveillance Phantasm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Bird Illusion&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Defender, flying, vigilance&lt;br/&gt;As long as you've scried or surveilled this turn, this creature can attack as though it didn't have defender.&lt;br/&gt;{3}{U}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/42/surveillance-phantasm?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/d/9df8a06d-c7de-49af-8c01-06dca3dfef4b.jpg?1789273544" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Wrath of the Bloodmane [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/96/wrath-of-the-bloodmane?utm_source=api</link>
+      <guid isPermaLink="false">c1994d6a-984d-4b75-9198-1f1822eab6eb</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/5/b5b55617-684a-4036-be9b-a3b24fc9cd5a.jpg?1789271847&quot; alt=&quot;Wrath of the Bloodmane&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Wrath of the Bloodmane&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;This spell costs {1} less to cast if you control a legendary creature.&lt;br/&gt;Wrath of the Bloodmane deals 4 damage to target creature or planeswalker.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/96/wrath-of-the-bloodmane?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/5/b5b55617-684a-4036-be9b-a3b24fc9cd5a.jpg?1789271847" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Surgical Precision [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/22/surgical-precision?utm_source=api</link>
+      <guid isPermaLink="false">0caccec3-4942-499a-9434-0c94389afcf8</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/3/d3acf176-ef02-4729-88c4-0f0dfbfdada4.jpg?1789271794&quot; alt=&quot;Surgical Precision&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Surgical Precision&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Choose one —&lt;br/&gt;• Destroy target creature with toughness 4 or greater. You gain 1 life.&lt;br/&gt;• You draw a card and gain 2 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/22/surgical-precision?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/3/d3acf176-ef02-4729-88c4-0f0dfbfdada4.jpg?1789271794" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Shatterwing Pegasus [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/21/shatterwing-pegasus?utm_source=api</link>
+      <guid isPermaLink="false">7d6641e7-4d14-4a06-b588-0c752af529bd</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/2/e29095de-59ec-4562-ba8e-73f952e457ae.jpg?1789271761&quot; alt=&quot;Shatterwing Pegasus&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Shatterwing Pegasus&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Pegasus&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;{4}{W}: Creatures you control get +1/+1 until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/21/shatterwing-pegasus?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/2/e29095de-59ec-4562-ba8e-73f952e457ae.jpg?1789271761" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Silence the Echo [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/66/silence-the-echo?utm_source=api</link>
+      <guid isPermaLink="false">43654381-c55c-4d6d-abfd-12932ceb5a4a</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/1/f1d274db-751b-4414-a38d-762198168e91.jpg?1789274131&quot; alt=&quot;Silence the Echo&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Silence the Echo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;As an additional cost to cast this spell, sacrifice a creature or planeswalker or pay {3}.&lt;br/&gt;Destroy target creature or planeswalker.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/66/silence-the-echo?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/1/f1d274db-751b-4414-a38d-762198168e91.jpg?1789274131" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Gallia, the Merrymaker [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/245/gallia-the-merrymaker?utm_source=api</link>
+      <guid isPermaLink="false">87f39199-3e4b-44fa-8406-62019eb43c10</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/2/f27d50f0-d76e-4ce1-a8d9-d997af6a5b41.jpg?1789275444&quot; alt=&quot;Gallia, the Merrymaker&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Gallia, the Merrymaker&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Satyr&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Haste&lt;br/&gt;Each other creature you control with +1/+1 counter on it has haste.&lt;br/&gt;{1}{R}, {T}: Put a +1/+1 counter on target creature that entered this turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/245/gallia-the-merrymaker?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/2/f27d50f0-d76e-4ce1-a8d9-d997af6a5b41.jpg?1789275444" type="image/jpeg" length="0"/>
     </item>
     <item>
       <title>Wrecking Gecko [Reality Fracture]</title>
