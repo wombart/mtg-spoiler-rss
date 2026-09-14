@@ -5,9 +5,22 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 14 Sep 2026 16:47:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 22:54:37 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Command Tower // Command Tower [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2794/command-tower-command-tower?utm_source=api</link>
+      <guid isPermaLink="false">af609bad-083f-42e4-a102-7a0da8e7a85f:sld</guid>
+      <pubDate>Mon, 14 Sep 2026 22:54:37 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.jpg?1789415886&quot; alt=&quot;Command Tower // Command Tower&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Command Tower // Command Tower&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;{T}: Add one mana of any color in your commander&amp;#x27;s color identity.&lt;br/&gt;//&lt;br/&gt;{T}: Add one mana of any color in your commander&amp;#x27;s color identity.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2794/command-tower-command-tower?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.jpg?1789415886" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>&quot;How to Go X-0 at Prerelease&quot; [Reality Fracture]</title>
       <link>https://scryfall.com/card/fra/127/how-to-go-x-0-at-prerelease?utm_source=api</link>

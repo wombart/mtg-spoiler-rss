@@ -1,5 +1,53 @@
 [
   {
+    "id": "af609bad-083f-42e4-a102-7a0da8e7a85f",
+    "name": "Command Tower // Command Tower",
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "rarity": "rare",
+    "released_at": "2026-09-14",
+    "discovered_at": "2026-09-14T22:54:37.297994+00:00",
+    "scryfall_uri": "https://scryfall.com/card/sld/2794/command-tower-command-tower?utm_source=api",
+    "card_faces": [
+      {
+        "name": "Command Tower",
+        "oracle_text": "{T}: Add one mana of any color in your commander's color identity.",
+        "mana_cost": "",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.jpg?1789415886",
+          "normal": "https://cards.scryfall.io/normal/front/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.jpg?1789415886",
+          "large": "https://cards.scryfall.io/large/front/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.jpg?1789415886",
+          "png": "https://cards.scryfall.io/png/front/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.png?1789415886",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.jpg?1789415886",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.jpg?1789415886",
+          "thumb": "https://cards.scryfall.io/thumb/front/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.webp?1789415886",
+          "grid": "https://cards.scryfall.io/grid/front/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.webp?1789415886",
+          "display": "https://cards.scryfall.io/display/front/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.webp?1789415886",
+          "art": "https://cards.scryfall.io/art/front/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.webp?1789415886",
+          "crop": "https://cards.scryfall.io/crop/front/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.webp?1789415886"
+        }
+      },
+      {
+        "name": "Command Tower",
+        "oracle_text": "{T}: Add one mana of any color in your commander's color identity.",
+        "mana_cost": "",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.jpg?1789415886",
+          "normal": "https://cards.scryfall.io/normal/back/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.jpg?1789415886",
+          "large": "https://cards.scryfall.io/large/back/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.jpg?1789415886",
+          "png": "https://cards.scryfall.io/png/back/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.png?1789415886",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.jpg?1789415886",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.jpg?1789415886",
+          "thumb": "https://cards.scryfall.io/thumb/back/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.webp?1789415886",
+          "grid": "https://cards.scryfall.io/grid/back/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.webp?1789415886",
+          "display": "https://cards.scryfall.io/display/back/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.webp?1789415886",
+          "art": "https://cards.scryfall.io/art/back/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.webp?1789415886",
+          "crop": "https://cards.scryfall.io/crop/back/a/f/af609bad-083f-42e4-a102-7a0da8e7a85f.webp?1789415886"
+        }
+      }
+    ]
+  },
+  {
     "id": "03f9839c-aa07-4ee7-847b-091e47ab80c4",
     "oracle_id": "d25284b9-50e4-4dcb-9aaf-6f6478c4a90a",
     "name": "\"How to Go X-0 at Prerelease\"",
