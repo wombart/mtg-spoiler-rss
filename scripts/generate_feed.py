@@ -10,13 +10,17 @@ treated as a new feed entry, while duplicate variants within the same set
 are not.
 """
 
+import argparse
 import json
 import os
 import sys
+import tempfile
 import time
 from datetime import datetime, timezone
+from email.utils import format_datetime, parsedate_to_datetime
+from html import escape
 from pathlib import Path
-from xml.etree.ElementTree import Element, SubElement, tostring
+from xml.etree.ElementTree import Element, SubElement, fromstring, tostring, ParseError
 from xml.dom import minidom
 import urllib.request
 import urllib.error
@@ -98,10 +102,24 @@ def load_known_cards() -> dict:
     return {}
 
 
-def save_known_cards(known: dict) -> None:
-    DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(DATA_FILE, "w", encoding="utf-8") as f:
-        json.dump(known, f, indent=2, ensure_ascii=False)
+def write_text_if_changed(path: Path, content: str) -> bool:
+    if path.exists() and path.read_text(encoding="utf-8") == content:
+        return False
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temporary_path = None
+    try:
+        with tempfile.NamedTemporaryFile(mode="w", encoding="utf-8", dir=path.parent, delete=False) as temporary:
+            temporary_path = Path(temporary.name)
+            temporary.write(content)
+        temporary_path.replace(path)
+    finally:
+        if temporary_path is not None:
+            temporary_path.unlink(missing_ok=True)
+    return True
+
+
+def save_known_cards(known: dict) -> bool:
+    return write_text_if_changed(DATA_FILE, json.dumps(known, indent=2, ensure_ascii=False))
 
 
 def load_known_print_ids() -> set[str] | None:
@@ -112,10 +130,8 @@ def load_known_print_ids() -> set[str] | None:
         return set(json.load(f))
 
 
-def save_known_print_ids(ids: set[str]) -> None:
-    KNOWN_PRINT_IDS_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(KNOWN_PRINT_IDS_FILE, "w", encoding="utf-8") as f:
-        json.dump(sorted(ids), f)
+def save_known_print_ids(ids: set[str]) -> bool:
+    return write_text_if_changed(KNOWN_PRINT_IDS_FILE, json.dumps(sorted(ids)))
 
 
 def load_feed_items() -> list[dict]:
@@ -125,10 +141,8 @@ def load_feed_items() -> list[dict]:
     return []
 
 
-def save_feed_items(items: list[dict]) -> None:
-    FEED_ITEMS_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(FEED_ITEMS_FILE, "w", encoding="utf-8") as f:
-        json.dump(items, f, indent=2, ensure_ascii=False)
+def save_feed_items(items: list[dict]) -> bool:
+    return write_text_if_changed(FEED_ITEMS_FILE, json.dumps(items, indent=2, ensure_ascii=False))
 
 
 def card_image_url(card: dict) -> str | None:
@@ -154,7 +168,7 @@ def card_oracle_text(card: dict) -> str:
 
 
 def card_sort_date(card: dict) -> str:
-    return card.get("released_at") or "1970-01-01"
+    return card.get("discovered_at") or "1970-01-01T00:00:00+00:00"
 
 
 def build_rss_item(card: dict) -> Element:
@@ -171,7 +185,10 @@ def build_rss_item(card: dict) -> Element:
 
     pub_date_str = card_sort_date(card)
     try:
-        pub_dt = datetime.fromisoformat(pub_date_str).replace(tzinfo=timezone.utc)
+        pub_dt = datetime.fromisoformat(pub_date_str)
+        if pub_dt.tzinfo is None:
+            pub_dt = pub_dt.replace(tzinfo=timezone.utc)
+        pub_dt = pub_dt.astimezone(timezone.utc)
     except (ValueError, TypeError):
         pub_dt = datetime.now(timezone.utc)
 
@@ -181,25 +198,24 @@ def build_rss_item(card: dict) -> Element:
     SubElement(item, "title").text = title_text
     SubElement(item, "link").text = scryfall_uri
 
-    oracle_id = card.get("oracle_id") or card.get("id", name)
-    SubElement(item, "guid", isPermaLink="false").text = oracle_id
-    SubElement(item, "pubDate").text = pub_dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
+    SubElement(item, "guid", isPermaLink="false").text = feed_dedup_key(card)
+    SubElement(item, "pubDate").text = format_datetime(pub_dt)
 
     desc_parts = []
     if image_url:
-        desc_parts.append(f'<img src="{image_url}" alt="{name}" style="max-width:300px"/>')
-    desc_parts.append(f"<p><strong>{name}</strong></p>")
+        desc_parts.append(f'<img src="{escape(image_url)}" alt="{escape(name)}" style="max-width:300px"/>')
+    desc_parts.append(f"<p><strong>{escape(name)}</strong></p>")
     if mana_cost:
-        desc_parts.append(f"<p>Manakosten: {mana_cost}</p>")
+        desc_parts.append(f"<p>Manakosten: {escape(mana_cost)}</p>")
     if type_line:
-        desc_parts.append(f"<p>Typ: {type_line}</p>")
+        desc_parts.append(f"<p>Typ: {escape(type_line)}</p>")
     if rarity:
-        desc_parts.append(f"<p>Seltenheit: {rarity}</p>")
+        desc_parts.append(f"<p>Seltenheit: {escape(rarity)}</p>")
     if set_name:
-        desc_parts.append(f"<p>Set: {set_name}</p>")
+        desc_parts.append(f"<p>Set: {escape(set_name)}</p>")
     if oracle_text:
-        desc_parts.append(f"<p>{oracle_text.replace(chr(10), '<br/>')}</p>")
-    desc_parts.append(f'<p><a href="{scryfall_uri}">Auf Scryfall ansehen</a></p>')
+        desc_parts.append(f"<p>{escape(oracle_text).replace(chr(10), '<br/>')}</p>")
+    desc_parts.append(f'<p><a href="{escape(scryfall_uri)}">Auf Scryfall ansehen</a></p>')
 
     SubElement(item, "description").text = "\n".join(desc_parts)
     if image_url:
@@ -217,15 +233,15 @@ def build_rss_feed(items: list[Element], build_time: datetime) -> str:
     SubElement(channel, "link").text = FEED_LINK
     SubElement(channel, "description").text = FEED_DESCRIPTION
     SubElement(channel, "language").text = FEED_LANGUAGE
-    SubElement(channel, "lastBuildDate").text = build_time.strftime(
-        "%a, %d %b %Y %H:%M:%S +0000"
-    )
+    SubElement(channel, "lastBuildDate").text = format_datetime(build_time)
     SubElement(channel, "ttl").text = "120"
 
-    atom_link = SubElement(channel, "atom:link")
-    atom_link.set("rel", "self")
-    atom_link.set("type", "application/rss+xml")
-    atom_link.set("href", "https://wombart.github.io/mtg-spoiler-rss/feed.xml")
+    feed_url = os.environ.get("FEED_URL", "").strip()
+    if feed_url:
+        atom_link = SubElement(channel, "atom:link")
+        atom_link.set("rel", "self")
+        atom_link.set("type", "application/rss+xml")
+        atom_link.set("href", feed_url)
 
     for item in items:
         channel.append(item)
@@ -286,8 +302,6 @@ def is_feed_eligible(card: dict) -> bool:
     """Filters out cards that aren't interesting "new card" spoilers."""
     if card.get("set") in EXCLUDED_SET_CODES:
         return False
-    if card.get("reprint"):
-        return False
     return True
 
 
@@ -300,7 +314,7 @@ def trim_card_for_storage(card: dict) -> dict:
     """Keep only the fields build_rss_item() needs, to keep feed_items.json small."""
     keep_keys = (
         "id", "oracle_id", "name", "set", "set_name", "mana_cost", "type_line",
-        "oracle_text", "rarity", "released_at", "scryfall_uri", "image_uris",
+        "oracle_text", "rarity", "released_at", "discovered_at", "scryfall_uri", "image_uris",
     )
     trimmed = {k: card[k] for k in keep_keys if k in card}
     if "card_faces" in card:
@@ -311,13 +325,20 @@ def trim_card_for_storage(card: dict) -> dict:
     return trimmed
 
 
-def write_feed(feed_items: list[dict]) -> None:
+def write_feed(feed_items: list[dict]) -> bool:
     rss_items = [build_rss_item(card) for card in feed_items]
+    if OUTPUT_FILE.exists():
+        previous_xml = OUTPUT_FILE.read_text(encoding="utf-8")
+        try:
+            previous_time = parsedate_to_datetime(fromstring(previous_xml).findtext("./channel/lastBuildDate"))
+            if build_rss_feed(rss_items, previous_time) == previous_xml:
+                return False
+        except (ParseError, ValueError, TypeError, IndexError):
+            pass
     rss_xml = build_rss_feed(rss_items, datetime.now(timezone.utc))
-    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(rss_xml)
+    changed = write_text_if_changed(OUTPUT_FILE, rss_xml)
     print(f"Feed written: {OUTPUT_FILE} ({len(feed_items)} entries)")
+    return changed
 
 
 def set_github_output(key: str, value: str) -> None:
@@ -338,88 +359,79 @@ def select_new_cards_for_feed(hydrated_cards: list[dict], known_cards: dict) -> 
         if key in known_cards:
             continue
         known_cards[key] = now_iso
-        new_cards.append(card)
+        new_cards.append({**card, "discovered_at": now_iso})
     return new_cards
 
 
-def main() -> int:
+def normalize_feed_items(items: list[dict], known_cards: dict) -> list[dict]:
+    now_iso = datetime.now(timezone.utc).isoformat()
+    unique_items = {}
+    for card in items:
+        key = feed_dedup_key(card)
+        if key in unique_items:
+            continue
+        discovered_at = (
+            card.get("discovered_at") or known_cards.get(key)
+            or known_cards.get(card.get("oracle_id")) or now_iso
+        )
+        known_cards.setdefault(key, discovered_at)
+        unique_items[key] = trim_card_for_storage({**card, "discovered_at": discovered_at})
+    return sorted(unique_items.values(), key=card_sort_date, reverse=True)[:MAX_FEED_ENTRIES]
+
+
+def main(*, rebuild_only: bool = False) -> int:
     print("=== MTG Spoiler RSS Feed Generator ===")
 
     known_print_ids = load_known_print_ids()
     is_bootstrap = known_print_ids is None
     known_cards = load_known_cards()
-    feed_items = load_feed_items()
+    feed_items = normalize_feed_items(load_feed_items(), known_cards)
     print(f"Known cards in database: {len(known_cards)}")
     print(f"Known print IDs: {len(known_print_ids) if known_print_ids else 0}")
 
-    print("Fetching full card manifest from Scryfall (/cards/manifest)...")
-    try:
-        manifest_entries = fetch_manifest_entries()
-    except (urllib.error.URLError, OSError) as e:
-        print(f"Fatal: could not fetch manifest: {e}", file=sys.stderr)
-        set_github_output("new_cards", "false")
-        return 1
+    new_cards = []
+    processed_print_ids = known_print_ids
+    if not rebuild_only:
+        print("Fetching full card manifest from Scryfall (/cards/manifest)...")
+        try:
+            manifest_entries = fetch_manifest_entries()
+            current_print_ids = set(manifest_entries)
+            previous_ids = known_print_ids or set()
+            candidate_ids = [identifier for identifier in manifest_entries if identifier not in previous_ids]
+            selected_ids = candidate_ids[:MAX_FEED_ENTRIES]
+            print(f"Processing {len(selected_ids)} of {len(candidate_ids)} candidate print(s).")
+            hydrated = hydrate_cards(selected_ids)
+        except (urllib.error.URLError, OSError) as error:
+            print(f"Fatal: could not fetch cards: {error}", file=sys.stderr)
+            set_github_output("new_cards", "false")
+            return 1
 
-    current_print_ids = set(manifest_entries.keys())
-    print(f"Manifest contains {len(current_print_ids)} card print(s).")
+        resolved_ids = {card["id"] for card in hydrated} & set(selected_ids)
+        if is_bootstrap:
+            processed_print_ids = (current_print_ids - set(selected_ids)) | resolved_ids
+        else:
+            processed_print_ids = (previous_ids & current_print_ids) | resolved_ids
+        new_cards = select_new_cards_for_feed(
+            [card for card in hydrated if card["id"] in resolved_ids], known_cards
+        )
+        feed_items = normalize_feed_items(new_cards + feed_items, known_cards)
 
-    if is_bootstrap:
-        print("No known_print_ids baseline found – performing initial bootstrap.")
-        print("Recording the full catalog as the baseline and seeding an initial feed")
-        print("from the most recently released cards (no historical replay).")
-        # manifest_entries preserves newest-release-first order, so the first
-        # MAX_FEED_ENTRIES ids are the most recent cards on Scryfall.
-        seed_ids = list(manifest_entries.keys())[:MAX_FEED_ENTRIES]
-        hydrated = hydrate_cards(seed_ids)
-        new_cards = select_new_cards_for_feed(hydrated, known_cards)
+    feed_changed = write_feed(feed_items)
+    items_changed = save_feed_items(feed_items)
+    cards_changed = save_known_cards(known_cards)
+    ids_changed = False
+    if processed_print_ids is not None:
+        ids_changed = save_known_print_ids(processed_print_ids)
 
-        feed_items = [trim_card_for_storage(c) for c in new_cards]
-        feed_items.sort(key=card_sort_date, reverse=True)
-
-        save_known_print_ids(current_print_ids)
-        save_known_cards(known_cards)
-        save_feed_items(feed_items)
-        write_feed(feed_items)
-
-        set_github_output("new_cards", "true" if feed_items else "false")
-        print(f"Bootstrap complete: {len(current_print_ids)} print IDs recorded, {len(feed_items)} feed entries seeded.")
-        return 0
-
-    new_print_ids = current_print_ids - known_print_ids
-    print(f"New print ID(s) since last run: {len(new_print_ids)}")
-
-    if not new_print_ids:
-        save_known_print_ids(current_print_ids)
-        print("No new cards – skipping feed rebuild.")
-        set_github_output("new_cards", "false")
-        return 0
-
-    print("Hydrating new card print(s) via /cards/collection...")
-    hydrated = hydrate_cards(sorted(new_print_ids))
-    new_cards = select_new_cards_for_feed(hydrated, known_cards)
-    print(f"New feed-worthy card(s): {len(new_cards)} of {len(hydrated)} hydrated print(s).")
-
-    # Persist the wider catalog state regardless of feed-worthiness, so the
-    # next run's diff stays correct even if nothing ends up in the feed.
-    save_known_print_ids(current_print_ids)
-    save_known_cards(known_cards)
-
-    if not new_cards:
-        print("No feed-worthy new cards (filtered out or duplicates) – skipping feed rebuild.")
-        set_github_output("new_cards", "false")
-        return 0
-
-    feed_items = [trim_card_for_storage(c) for c in new_cards] + feed_items
-    feed_items.sort(key=card_sort_date, reverse=True)
-    feed_items = feed_items[:MAX_FEED_ENTRIES]
-
-    save_feed_items(feed_items)
-    write_feed(feed_items)
-
-    set_github_output("new_cards", "true")
-    print(f"Done – {len(new_cards)} new card(s) added.")
+    set_github_output("new_cards", "true" if new_cards else "false")
+    set_github_output("feed_changed", "true" if feed_changed else "false")
+    set_github_output("state_changed", "true" if items_changed or cards_changed or ids_changed else "false")
+    print(f"Done: {len(new_cards)} new card(s) added.")
     return 0
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--rebuild", action="store_true", help="Rebuild the stored feed without API requests.")
+    args = parser.parse_args()
+    sys.exit(main(rebuild_only=args.rebuild))

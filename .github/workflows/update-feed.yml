@@ -11,7 +11,7 @@ on:
       force_commit:
         description: "Force commit even if no new cards found"
         required: false
-        default: "false"
+        default: false
         type: boolean
 
 permissions:
@@ -39,13 +39,22 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Run regression tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
       - name: Run feed generator
         id: generate
+        env:
+          FEED_URL: ${{ vars.FEED_URL || format('{0}/feed.xml', steps.pages.outputs.base_url) }}
         run: python scripts/generate_feed.py
 
       - name: Commit and push changes
         id: commit
-        if: steps.generate.outputs.new_cards == 'true' || inputs.force_commit == 'true'
+        if: steps.generate.outputs.state_changed == 'true' || steps.generate.outputs.feed_changed == 'true' || inputs.force_commit
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
@@ -53,17 +62,13 @@ jobs:
           git diff --staged --quiet || git commit -m "chore: update MTG spoiler feed [skip ci]"
           git push
 
-      - name: Setup Pages
-        if: steps.generate.outputs.new_cards == 'true' || inputs.force_commit == 'true'
-        uses: actions/configure-pages@v5
-
       - name: Upload Pages artifact
-        if: steps.generate.outputs.new_cards == 'true' || inputs.force_commit == 'true'
+        if: steps.generate.outputs.feed_changed == 'true' || github.event_name != 'schedule' || inputs.force_commit
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs/
 
       - name: Deploy to GitHub Pages
-        if: steps.generate.outputs.new_cards == 'true' || inputs.force_commit == 'true'
+        if: steps.generate.outputs.feed_changed == 'true' || github.event_name != 'schedule' || inputs.force_commit
         id: deployment
         uses: actions/deploy-pages@v4

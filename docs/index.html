@@ -77,11 +77,12 @@
       flex-wrap: wrap;
     }
 
-    .feed-url code {
+    .feed-url a {
       font-family: "Fira Code", "Cascadia Code", monospace;
       font-size: 0.85rem;
       color: #7dd3fc;
       flex: 1;
+      min-width: 0;
       word-break: break-all;
     }
 
@@ -138,6 +139,12 @@
       text-decoration: none;
     }
     .footer a:hover { text-decoration: underline; }
+
+    @media (max-width: 480px) {
+      body { padding: 1rem; }
+      .card { padding: 1.5rem; }
+      h1 { font-size: 1.5rem; }
+    }
   </style>
 </head>
 <body>
@@ -152,45 +159,65 @@
     </p>
 
     <div class="feed-url">
-      <code id="feedUrl">feed.xml</code>
-      <button class="copy-btn" onclick="copyUrl()">Kopieren</button>
+      <a id="feedUrl" href="feed.xml">feed.xml</a>
+      <button type="button" class="copy-btn" onclick="copyUrl()" aria-live="polite">Kopieren</button>
     </div>
 
     <ul class="features">
-      <li>Letzte 14 Tage – alle Sets eingeschlossen</li>
-      <li>Bis zu 250 Einträge, ältere werden automatisch entfernt</li>
-      <li>Duplikate werden via Oracle ID ausgeschlossen</li>
+      <li>Neue Karten und Nachdrucke, ohne „The List“</li>
+      <li>Bis zu 500 Einträge, neueste Entdeckungen zuerst</li>
+      <li>Ein Eintrag pro Karte und Set</li>
       <li>Kartenbilder, Manakosten und Oracle Text direkt im Feed</li>
       <li>Aktualisierung alle 2 Stunden</li>
     </ul>
 
     <div class="footer">
       <span>Kartendaten &copy; <a href="https://scryfall.com">Scryfall</a> &amp; Wizards of the Coast</span>
-      <span id="buildTime"></span>
+      <span id="buildTime" role="status">Stand wird geladen...</span>
     </div>
   </div>
 
   <script>
-    // Set absolute feed URL
-    const base = window.location.origin + window.location.pathname.replace(/\/?$/, "/");
-    const feedUrl = base + "feed.xml";
+    const feedUrl = new URL("feed.xml", window.location.href).href;
     document.getElementById("feedUrl").textContent = feedUrl;
+    document.getElementById("feedUrl").href = feedUrl;
 
-    // Build time
-    document.getElementById("buildTime").textContent =
-      "Stand: " + new Date().toLocaleDateString("de-DE", {
-        day: "2-digit", month: "2-digit", year: "numeric",
-        hour: "2-digit", minute: "2-digit"
-      });
-
-    function copyUrl() {
-      navigator.clipboard.writeText(feedUrl).then(() => {
-        const btn = document.querySelector(".copy-btn");
-        const orig = btn.textContent;
-        btn.textContent = "Kopiert!";
-        setTimeout(() => btn.textContent = orig, 2000);
-      });
+    async function loadBuildTime() {
+      const status = document.getElementById("buildTime");
+      try {
+        const response = await fetch(feedUrl, { cache: "no-cache" });
+        if (!response.ok) throw new Error("Feed unavailable");
+        const xml = new DOMParser().parseFromString(await response.text(), "application/xml");
+        const value = xml.querySelector("channel > lastBuildDate")?.textContent;
+        const buildTime = new Date(value || "");
+        if (xml.querySelector("parsererror") || Number.isNaN(buildTime.getTime())) {
+          throw new Error("Invalid feed date");
+        }
+        status.textContent = "Stand: " + buildTime.toLocaleString("de-DE", {
+          day: "2-digit", month: "2-digit", year: "numeric",
+          hour: "2-digit", minute: "2-digit"
+        });
+      } catch {
+        status.textContent = "Stand nicht verfügbar";
+      }
     }
+
+    async function copyUrl() {
+      const button = document.querySelector(".copy-btn");
+      button.disabled = true;
+      try {
+        await navigator.clipboard.writeText(feedUrl);
+        button.textContent = "Kopiert!";
+      } catch {
+        button.textContent = "Nicht kopiert";
+      }
+      setTimeout(() => {
+        button.textContent = "Kopieren";
+        button.disabled = false;
+      }, 2000);
+    }
+
+    loadBuildTime();
   </script>
 </body>
 </html>
