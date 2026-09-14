@@ -1,5 +1,32 @@
 [
   {
+    "id": "dd3faaf4-45ca-4714-8dbe-37102ec131cf",
+    "oracle_id": "a49c0c64-ea87-44f4-9acf-e7181962aeb2",
+    "name": "Pia, Determined Rebuilder",
+    "set": "fra",
+    "set_name": "Reality Fracture",
+    "mana_cost": "{2}{R}",
+    "type_line": "Legendary Creature — Human Artificer",
+    "oracle_text": "When Pia enters, create a 1/1 colorless Thopter artifact creature token with flying.\n{5}{R}: Target creature gets +X/+0 until end of turn, where X is the number of artifacts you control.",
+    "rarity": "uncommon",
+    "released_at": "2026-10-02",
+    "discovered_at": "2026-09-14T10:39:30.267194+00:00",
+    "scryfall_uri": "https://scryfall.com/card/fra/250/pia-determined-rebuilder?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/d/d/dd3faaf4-45ca-4714-8dbe-37102ec131cf.jpg?1789356248",
+      "normal": "https://cards.scryfall.io/normal/front/d/d/dd3faaf4-45ca-4714-8dbe-37102ec131cf.jpg?1789356248",
+      "large": "https://cards.scryfall.io/large/front/d/d/dd3faaf4-45ca-4714-8dbe-37102ec131cf.jpg?1789356248",
+      "png": "https://cards.scryfall.io/png/front/d/d/dd3faaf4-45ca-4714-8dbe-37102ec131cf.png?1789356248",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/d/d/dd3faaf4-45ca-4714-8dbe-37102ec131cf.jpg?1789356248",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/d/d/dd3faaf4-45ca-4714-8dbe-37102ec131cf.jpg?1789356248",
+      "thumb": "https://cards.scryfall.io/thumb/front/d/d/dd3faaf4-45ca-4714-8dbe-37102ec131cf.webp?1789356248",
+      "grid": "https://cards.scryfall.io/grid/front/d/d/dd3faaf4-45ca-4714-8dbe-37102ec131cf.webp?1789356248",
+      "display": "https://cards.scryfall.io/display/front/d/d/dd3faaf4-45ca-4714-8dbe-37102ec131cf.webp?1789356248",
+      "art": "https://cards.scryfall.io/art/front/d/d/dd3faaf4-45ca-4714-8dbe-37102ec131cf.webp?1789356248",
+      "crop": "https://cards.scryfall.io/crop/front/d/d/dd3faaf4-45ca-4714-8dbe-37102ec131cf.webp?1789356248"
+    }
+  },
+  {
     "id": "8cf804e1-5bf3-4a04-bd1c-a99a9561fdc4",
     "oracle_id": "0895c9b7-ae7d-4bb3-af17-3b75deb50a25",
     "name": "Command Tower",
