@@ -1,5 +1,32 @@
 [
   {
+    "id": "d6ac5a7f-0e73-45d1-9b20-6ae1a60fa7cf",
+    "oracle_id": "711eea87-0fa3-46e0-a42b-fa5a86455f04",
+    "name": "Shivan Dragon",
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "mana_cost": "{4}{R}{R}",
+    "type_line": "Creature — Dragon",
+    "oracle_text": "Flying\n{R}: This creature gets +1/+0 until end of turn.",
+    "rarity": "rare",
+    "released_at": "2026-08-31",
+    "discovered_at": "2026-09-15T12:56:13.937248+00:00",
+    "scryfall_uri": "https://scryfall.com/card/sld/7180/shivan-dragon?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/d/6/d6ac5a7f-0e73-45d1-9b20-6ae1a60fa7cf.jpg?1789446861",
+      "normal": "https://cards.scryfall.io/normal/front/d/6/d6ac5a7f-0e73-45d1-9b20-6ae1a60fa7cf.jpg?1789446861",
+      "large": "https://cards.scryfall.io/large/front/d/6/d6ac5a7f-0e73-45d1-9b20-6ae1a60fa7cf.jpg?1789446861",
+      "png": "https://cards.scryfall.io/png/front/d/6/d6ac5a7f-0e73-45d1-9b20-6ae1a60fa7cf.png?1789446861",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/d/6/d6ac5a7f-0e73-45d1-9b20-6ae1a60fa7cf.jpg?1789446861",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/d/6/d6ac5a7f-0e73-45d1-9b20-6ae1a60fa7cf.jpg?1789446861",
+      "thumb": "https://cards.scryfall.io/thumb/front/d/6/d6ac5a7f-0e73-45d1-9b20-6ae1a60fa7cf.webp?1789446861",
+      "grid": "https://cards.scryfall.io/grid/front/d/6/d6ac5a7f-0e73-45d1-9b20-6ae1a60fa7cf.webp?1789446861",
+      "display": "https://cards.scryfall.io/display/front/d/6/d6ac5a7f-0e73-45d1-9b20-6ae1a60fa7cf.webp?1789446861",
+      "art": "https://cards.scryfall.io/art/front/d/6/d6ac5a7f-0e73-45d1-9b20-6ae1a60fa7cf.webp?1789446861",
+      "crop": "https://cards.scryfall.io/crop/front/d/6/d6ac5a7f-0e73-45d1-9b20-6ae1a60fa7cf.webp?1789446861"
+    }
+  },
+  {
     "id": "6b8789a6-3b63-4198-af5f-c2f2f49fafd9",
     "oracle_id": "d13c111a-ebfc-48ac-b734-f203c7c29d21",
     "name": "Puppet Crafting",
