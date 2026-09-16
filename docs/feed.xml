@@ -5,9 +5,99 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 16 Sep 2026 06:53:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:52:46 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Invisible Woman [Marvel Legends Series Inserts]</title>
+      <link>https://scryfall.com/card/lmar/5/invisible-woman?utm_source=api</link>
+      <guid isPermaLink="false">085016ee-4429-453f-b7f3-d61065f1214e:lmar</guid>
+      <pubDate>Wed, 16 Sep 2026 12:52:46 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/d/8d239a23-9575-4202-804a-cab7c08a546d.jpg?1789532579&quot; alt=&quot;Invisible Woman&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Invisible Woman&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Hero&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Marvel Legends Series Inserts&lt;/p&gt;
+&lt;p&gt;At the beginning of combat on your turn, if you&amp;#x27;ve cast a noncreature spell this turn, create a 0/3 colorless Wall creature token with defender and reach.&lt;br/&gt;Whenever you attack, you may pay {R}{G}{W}{U}. When you do, target creature gets +1/+0 until end of turn for each creature you control and can&amp;#x27;t be blocked this turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/lmar/5/invisible-woman?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/d/8d239a23-9575-4202-804a-cab7c08a546d.jpg?1789532579" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Doctor Doom, King of Latveria [Marvel Legends Series Inserts]</title>
+      <link>https://scryfall.com/card/lmar/7/doctor-doom-king-of-latveria?utm_source=api</link>
+      <guid isPermaLink="false">9c9cd0fd-bfe9-409c-a9a9-146f5f4a2ef4:lmar</guid>
+      <pubDate>Wed, 16 Sep 2026 12:52:46 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/9/b9997d93-4c6f-49dd-8ff0-76901fe78859.jpg?1789532701&quot; alt=&quot;Doctor Doom, King of Latveria&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Doctor Doom, King of Latveria&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{U}{B}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Noble Villain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Marvel Legends Series Inserts&lt;/p&gt;
+&lt;p&gt;Whenever you discard one or more land cards, each opponent loses 2 life.&lt;br/&gt;At the beginning of combat on your turn, target Villain you control gains menace until end of turn. It connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/lmar/7/doctor-doom-king-of-latveria?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/9/b9997d93-4c6f-49dd-8ff0-76901fe78859.jpg?1789532701" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Captain America, Team Leader [Marvel Legends Series Inserts]</title>
+      <link>https://scryfall.com/card/lmar/6/captain-america-team-leader?utm_source=api</link>
+      <guid isPermaLink="false">916cf34a-fd2c-47fe-bebb-f7b52b3dabed:lmar</guid>
+      <pubDate>Wed, 16 Sep 2026 12:52:46 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/f/ff25a4f5-c1de-464b-8153-7678bca847a8.jpg?1789532484&quot; alt=&quot;Captain America, Team Leader&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Captain America, Team Leader&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {R}{W}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Soldier Hero&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Marvel Legends Series Inserts&lt;/p&gt;
+&lt;p&gt;Whenever another Hero you control enters, it gains vigilance and haste until end of turn. Put a +1/+1 counter on that Hero and a +1/+1 counter on Captain America.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/lmar/6/captain-america-team-leader?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/f/ff25a4f5-c1de-464b-8153-7678bca847a8.jpg?1789532484" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>T'Challa, the Black Panther [Marvel Legends Series Inserts]</title>
+      <link>https://scryfall.com/card/lmar/8/tchalla-the-black-panther?utm_source=api</link>
+      <guid isPermaLink="false">ae10eb15-28e7-46d1-9a2e-85763d93febf:lmar</guid>
+      <pubDate>Wed, 16 Sep 2026 12:52:46 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/7/d72c4452-b4f2-45a8-9127-42368a23ac6a.jpg?1789532400&quot; alt=&quot;T&amp;#x27;Challa, the Black Panther&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;T&amp;#x27;Challa, the Black Panther&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{G}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Noble Hero&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Marvel Legends Series Inserts&lt;/p&gt;
+&lt;p&gt;Whenever T&amp;#x27;Challa enters or attacks, create a tapped Vibranium token. (It&amp;#x27;s an artifact with indestructible and &amp;quot;{T}: Add {C}. This mana can&amp;#x27;t be spent to cast a nonartifact spell.&amp;quot;)&lt;br/&gt;Whenever you cast an artifact spell with mana value 4 or greater, put two +1/+1 counters on T&amp;#x27;Challa.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/lmar/8/tchalla-the-black-panther?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/7/d72c4452-b4f2-45a8-9127-42368a23ac6a.jpg?1789532400" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Way of the Mind Sculptor [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/224/way-of-the-mind-sculptor?utm_source=api</link>
+      <guid isPermaLink="false">94be2e86-ba0e-4b8d-9b9c-114adacb26db:fra</guid>
+      <pubDate>Wed, 16 Sep 2026 12:52:46 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/8/5838af68-66c3-4fe8-ab89-0a1721b0cfeb.jpg?1789530002&quot; alt=&quot;Way of the Mind Sculptor&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Way of the Mind Sculptor&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;When Way of the Mind Sculptor enters, empower Jace 5. (Put five loyalty counters on a Jace token you control. If you don&amp;#x27;t control one, first create a blue Jace planeswalker token with &amp;quot;[-1]: Surveil 1&amp;quot; and &amp;quot;[-3]: Draw a card.&amp;quot;)&lt;br/&gt;Whenever you activate a loyalty ability, if you removed two or more loyalty counters to activate it, draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/224/way-of-the-mind-sculptor?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/8/5838af68-66c3-4fe8-ab89-0a1721b0cfeb.jpg?1789530002" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Way of the Paradox [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/267/way-of-the-paradox?utm_source=api</link>
+      <guid isPermaLink="false">76771cd1-6b74-49bb-9421-8845fe344567:fra</guid>
+      <pubDate>Wed, 16 Sep 2026 12:52:46 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/8/98dc5470-507a-4364-8480-42607255e56c.jpg?1789530047&quot; alt=&quot;Way of the Paradox&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Way of the Paradox&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;When Way of the Paradox enters, empower Jace 5. (Put five loyalty counters on a Jace token you control. If you don&amp;#x27;t control one, first create a blue Jace planeswalker token with &amp;quot;[-1]: Surveil 1&amp;quot; and &amp;quot;[-3]: Draw a card.&amp;quot;)&lt;br/&gt;Whenever you activate a loyalty ability, you gain 1 life. You may play an additional land this turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/267/way-of-the-paradox?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/8/98dc5470-507a-4364-8480-42607255e56c.jpg?1789530047" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Archive Arbiter [Reality Fracture]</title>
       <link>https://scryfall.com/card/fra/167/archive-arbiter?utm_source=api</link>
