@@ -1,5 +1,32 @@
 [
   {
+    "id": "c4effc17-0d0e-423a-b5f2-597ea6c71f67",
+    "oracle_id": "7fd2cac5-cd29-4a47-9e89-9c6be39a0b67",
+    "name": "Plan for All Outcomes",
+    "set": "fra",
+    "set_name": "Reality Fracture",
+    "mana_cost": "{3}{U}",
+    "type_line": "Enchantment",
+    "oracle_text": "When this enchantment enters, the owner of up to one other target nonland permanent puts it on their choice of the top or bottom of their library.\nWhenever you cast your first noncreature spell each turn, empower Jace 1. (Put a loyalty counter on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with \"[−1]: Surveil 1\" and \"[−3]: Draw a card.\")",
+    "rarity": "uncommon",
+    "released_at": "2026-10-02",
+    "discovered_at": "2026-09-16T23:56:00.460378+00:00",
+    "scryfall_uri": "https://scryfall.com/card/fra/35/plan-for-all-outcomes?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/4/c4effc17-0d0e-423a-b5f2-597ea6c71f67.jpg?1789576786",
+      "normal": "https://cards.scryfall.io/normal/front/c/4/c4effc17-0d0e-423a-b5f2-597ea6c71f67.jpg?1789576786",
+      "large": "https://cards.scryfall.io/large/front/c/4/c4effc17-0d0e-423a-b5f2-597ea6c71f67.jpg?1789576786",
+      "png": "https://cards.scryfall.io/png/front/c/4/c4effc17-0d0e-423a-b5f2-597ea6c71f67.png?1789576786",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/4/c4effc17-0d0e-423a-b5f2-597ea6c71f67.jpg?1789576786",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/4/c4effc17-0d0e-423a-b5f2-597ea6c71f67.jpg?1789576786",
+      "thumb": "https://cards.scryfall.io/thumb/front/c/4/c4effc17-0d0e-423a-b5f2-597ea6c71f67.webp?1789576786",
+      "grid": "https://cards.scryfall.io/grid/front/c/4/c4effc17-0d0e-423a-b5f2-597ea6c71f67.webp?1789576786",
+      "display": "https://cards.scryfall.io/display/front/c/4/c4effc17-0d0e-423a-b5f2-597ea6c71f67.webp?1789576786",
+      "art": "https://cards.scryfall.io/art/front/c/4/c4effc17-0d0e-423a-b5f2-597ea6c71f67.webp?1789576786",
+      "crop": "https://cards.scryfall.io/crop/front/c/4/c4effc17-0d0e-423a-b5f2-597ea6c71f67.webp?1789576786"
+    }
+  },
+  {
     "id": "11608fa5-2c53-4008-ad82-555380f5e6f1",
     "oracle_id": "7c934091-1bc7-4458-acef-fdac62ec3df1",
     "name": "The Monarch",

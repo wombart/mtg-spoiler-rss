@@ -5,9 +5,24 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 16 Sep 2026 17:47:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 23:56:00 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Plan for All Outcomes [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/35/plan-for-all-outcomes?utm_source=api</link>
+      <guid isPermaLink="false">7fd2cac5-cd29-4a47-9e89-9c6be39a0b67:fra</guid>
+      <pubDate>Wed, 16 Sep 2026 23:56:00 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/4/c4effc17-0d0e-423a-b5f2-597ea6c71f67.jpg?1789576786&quot; alt=&quot;Plan for All Outcomes&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Plan for All Outcomes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;When this enchantment enters, the owner of up to one other target nonland permanent puts it on their choice of the top or bottom of their library.&lt;br/&gt;Whenever you cast your first noncreature spell each turn, empower Jace 1. (Put a loyalty counter on a Jace token you control. If you don&amp;#x27;t control one, first create a blue Jace planeswalker token with &amp;quot;[−1]: Surveil 1&amp;quot; and &amp;quot;[−3]: Draw a card.&amp;quot;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/35/plan-for-all-outcomes?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/4/c4effc17-0d0e-423a-b5f2-597ea6c71f67.jpg?1789576786" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>The Monarch [Reality Fracture Commander Tokens]</title>
       <link>https://scryfall.com/card/tfrc/17/the-monarch?utm_source=api</link>
