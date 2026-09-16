@@ -5,9 +5,54 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 15 Sep 2026 16:13:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:53:41 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Archive Arbiter [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/167/archive-arbiter?utm_source=api</link>
+      <guid isPermaLink="false">36cb3d18-019c-464d-b591-8c87e1b81f31:fra</guid>
+      <pubDate>Wed, 16 Sep 2026 06:53:41 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/2/024bce1e-a5f3-4292-bc17-d0355a5d65e1.jpg?1789522149&quot; alt=&quot;Archive Arbiter&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Archive Arbiter&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {6}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact Creature — Sphinx&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;When this creature enters, choose one —&lt;br/&gt;• Destroy target noncreature, nonland permanent.&lt;br/&gt;• You gain 4 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/167/archive-arbiter?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/2/024bce1e-a5f3-4292-bc17-d0355a5d65e1.jpg?1789522149" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Eye of Jace [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/170/eye-of-jace?utm_source=api</link>
+      <guid isPermaLink="false">c8f802ad-4621-4f71-b52d-fbc55853dc88:fra</guid>
+      <pubDate>Wed, 16 Sep 2026 06:53:41 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/e/0edba64a-39cf-4a8d-ba20-4f7da10b6c3d.jpg?1789526793&quot; alt=&quot;Eye of Jace&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Eye of Jace&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;At the beginning of your upkeep, surveil 1. Then if there are seven or more cards in your graveyard, sacrifice this artifact, it deals 2 damage to each opponent, and you gain 2 life. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/170/eye-of-jace?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/e/0edba64a-39cf-4a8d-ba20-4f7da10b6c3d.jpg?1789526793" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Loot, the Nexus [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/262/loot-the-nexus?utm_source=api</link>
+      <guid isPermaLink="false">a99ce9db-9b7d-45a0-bee7-0875fc62ca48:fra</guid>
+      <pubDate>Wed, 16 Sep 2026 06:53:41 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/c/3cfa4fc6-4d90-4576-a83f-6496c7f21104.jpg?1789522055&quot; alt=&quot;Loot, the Nexus&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Loot, the Nexus&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Beast Noble&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;{T}: Choose a color. Add one mana of that color for each different power among creatures you control.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/262/loot-the-nexus?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/c/3cfa4fc6-4d90-4576-a83f-6496c7f21104.jpg?1789522055" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Terminal Criticism [Reality Fracture]</title>
       <link>https://scryfall.com/card/fra/366/terminal-criticism?utm_source=api</link>
