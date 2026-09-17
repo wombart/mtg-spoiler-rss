@@ -5,9 +5,946 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 16 Sep 2026 23:56:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 06:49:15 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Incubator // Phyrexian [Reality Fracture Commander Tokens]</title>
+      <link>https://scryfall.com/card/tfrc/13/incubator-phyrexian?utm_source=api</link>
+      <guid isPermaLink="false">dd3bf75e-9ef0-4ded-9b65-1a60a78a6253:tfrc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/b/7b7f2e3a-ec43-4408-affd-a09338566ce3.jpg?1789599993&quot; alt=&quot;Incubator // Phyrexian&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Incubator // Phyrexian&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Artifact — Incubator // Token Artifact Creature — Phyrexian&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander Tokens&lt;/p&gt;
+&lt;p&gt;{2}: Transform this artifact.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfrc/13/incubator-phyrexian?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/b/7b7f2e3a-ec43-4408-affd-a09338566ce3.jpg?1789599993" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Dimir Signet [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/56/dimir-signet?utm_source=api</link>
+      <guid isPermaLink="false">7d881c57-0bd9-4c57-aa4a-b10808b86143:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/8/0862060d-3198-4eeb-af8c-efeb27f42a99.jpg?1789599833&quot; alt=&quot;Dimir Signet&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Dimir Signet&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{1}, {T}: Add {U}{B}.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/56/dimir-signet?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/8/0862060d-3198-4eeb-af8c-efeb27f42a99.jpg?1789599833" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Serra's Emissary [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/32/serras-emissary?utm_source=api</link>
+      <guid isPermaLink="false">7a56c6e1-0509-4783-9b29-cf3163977166:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/a/0a69b668-7b7c-4da9-af49-e8cbc13797cc.jpg?1789599789&quot; alt=&quot;Serra&amp;#x27;s Emissary&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Serra&amp;#x27;s Emissary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{W}{W}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Angel&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;As this creature enters, choose a card type.&lt;br/&gt;You and creatures you control have protection from the chosen card type.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/32/serras-emissary?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/a/0a69b668-7b7c-4da9-af49-e8cbc13797cc.jpg?1789599789" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Restless Anchorage [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/81/restless-anchorage?utm_source=api</link>
+      <guid isPermaLink="false">91320daf-f69c-4350-b0fc-4bb37a6904b1:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/0/109900a9-6dcb-4f89-b84c-0ce0a0175e8f.jpg?1789599913&quot; alt=&quot;Restless Anchorage&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Restless Anchorage&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;This land enters tapped.&lt;br/&gt;{T}: Add {W} or {U}.&lt;br/&gt;{1}{W}{U}: Until end of turn, this land becomes a 2/3 white and blue Bird creature with flying. It&amp;#x27;s still a land.&lt;br/&gt;Whenever this land attacks, create a Map token.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/81/restless-anchorage?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/0/109900a9-6dcb-4f89-b84c-0ce0a0175e8f.jpg?1789599913" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Archfiend of Despair [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/46/archfiend-of-despair?utm_source=api</link>
+      <guid isPermaLink="false">9c36760b-57c5-488b-afc9-ef141942c6ab:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/3/137b69ad-3296-49f1-bddf-24818a03830f.jpg?1789599815&quot; alt=&quot;Archfiend of Despair&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Archfiend of Despair&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {6}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Demon&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;Your opponents can&amp;#x27;t gain life.&lt;br/&gt;At the beginning of each end step, each opponent loses life equal to the life that player lost this turn. (Damage causes loss of life.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/46/archfiend-of-despair?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/3/137b69ad-3296-49f1-bddf-24818a03830f.jpg?1789599815" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Overlord of the Mistmoors [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/29/overlord-of-the-mistmoors?utm_source=api</link>
+      <guid isPermaLink="false">7e64b1dc-a238-4bff-98ff-2bea44340568:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/5/152d9e61-40f4-489a-b94d-af17a3674441.jpg?1789599797&quot; alt=&quot;Overlord of the Mistmoors&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Overlord of the Mistmoors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {5}{W}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment Creature — Avatar Horror&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Impending 4—{2}{W}{W} (If you cast this spell for its impending cost, it enters with four time counters and isn&amp;#x27;t a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)&lt;br/&gt;Whenever this permanent enters or attacks, create two 2/1 white Insect creature tokens with flying.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/29/overlord-of-the-mistmoors?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/5/152d9e61-40f4-489a-b94d-af17a3674441.jpg?1789599797" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Kher Keep [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/75/kher-keep?utm_source=api</link>
+      <guid isPermaLink="false">79638767-fbc7-451a-b29f-d93f2ac6f102:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/5/15ca0b68-33a1-4d25-b622-d3f5ba05b0a5.jpg?1789599901&quot; alt=&quot;Kher Keep&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Kher Keep&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{1}{R}, {T}: Create a 0/1 red Kobold creature token named Kobolds of Kher Keep.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/75/kher-keep?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/5/15ca0b68-33a1-4d25-b622-d3f5ba05b0a5.jpg?1789599901" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Cursed Mirror [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/49/cursed-mirror?utm_source=api</link>
+      <guid isPermaLink="false">4d67e2a7-4aa7-44cc-853b-500d7aac046d:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/e/1e82aa17-1eac-49e8-8a63-50357e564997.jpg?1789599820&quot; alt=&quot;Cursed Mirror&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Cursed Mirror&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{T}: Add {R}.&lt;br/&gt;As this artifact enters, you may have it become a copy of any creature on the battlefield until end of turn, except it has haste.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/49/cursed-mirror?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/e/1e82aa17-1eac-49e8-8a63-50357e564997.jpg?1789599820" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Path to Exile [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/30/path-to-exile?utm_source=api</link>
+      <guid isPermaLink="false">d683d985-9888-4d21-8b5f-69e69ce4a03b:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/2/22e08a78-55b7-46b0-bd1a-a51548fc1861.jpg?1789599789&quot; alt=&quot;Path to Exile&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Path to Exile&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/30/path-to-exile?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/2/22e08a78-55b7-46b0-bd1a-a51548fc1861.jpg?1789599789" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Windcrag Siege [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/52/windcrag-siege?utm_source=api</link>
+      <guid isPermaLink="false">64df560a-905f-45d1-bc70-14d99e3112d3:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/3/235f5564-0928-411f-ade8-53838890f720.jpg?1789599828&quot; alt=&quot;Windcrag Siege&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Windcrag Siege&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{R}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;As this enchantment enters, choose Mardu or Jeskai.&lt;br/&gt;• Mardu — If a creature attacking causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.&lt;br/&gt;• Jeskai — At the beginning of your upkeep, create a 1/1 red Goblin creature token. It gains lifelink and haste until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/52/windcrag-siege?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/3/235f5564-0928-411f-ade8-53838890f720.jpg?1789599828" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sulfur Falls [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/84/sulfur-falls?utm_source=api</link>
+      <guid isPermaLink="false">6a6c5e17-6465-4a1f-9d63-8a3ce2edc522:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/b/2b20fa73-c6de-49c1-b3d0-6ebd543a00d0.jpg?1789599921&quot; alt=&quot;Sulfur Falls&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Sulfur Falls&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;This land enters tapped unless you control an Island or a Mountain.&lt;br/&gt;{T}: Add {U} or {R}.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/84/sulfur-falls?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/b/2b20fa73-c6de-49c1-b3d0-6ebd543a00d0.jpg?1789599921" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Despark [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/50/despark?utm_source=api</link>
+      <guid isPermaLink="false">bd16434d-55ea-4c5a-a9ef-752971a4af16:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/c/2c09f45f-54a5-47b5-afd7-9ac7c05438e7.jpg?1789599827&quot; alt=&quot;Despark&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Despark&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Exile target permanent with mana value 4 or greater.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/50/despark?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/c/2c09f45f-54a5-47b5-afd7-9ac7c05438e7.jpg?1789599827" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Brainsurge [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/40/brainsurge?utm_source=api</link>
+      <guid isPermaLink="false">46c727cb-1f47-4775-8af4-0230ef53966b:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/d/2dc20172-4cf0-4ada-a4f3-4ef951cb8207.jpg?1789599807&quot; alt=&quot;Brainsurge&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Brainsurge&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Draw four cards, then put two cards from your hand on top of your library in any order.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/40/brainsurge?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/d/2dc20172-4cf0-4ada-a4f3-4ef951cb8207.jpg?1789599807" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Restless Spire [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/82/restless-spire?utm_source=api</link>
+      <guid isPermaLink="false">0ca4e80e-c19c-4b74-b531-c5a4dc5a8ba9:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/0/30ecfd44-8dd4-4ae3-9076-14799f8a9a14.jpg?1789599918&quot; alt=&quot;Restless Spire&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Restless Spire&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;This land enters tapped.&lt;br/&gt;{T}: Add {U} or {R}.&lt;br/&gt;{U}{R}: Until end of turn, this land becomes a 2/1 blue and red Elemental creature with &amp;quot;During your turn, this creature has first strike.&amp;quot; It&amp;#x27;s still a land.&lt;br/&gt;Whenever this land attacks, scry 1.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/82/restless-spire?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/0/30ecfd44-8dd4-4ae3-9076-14799f8a9a14.jpg?1789599918" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Talisman of Indulgence [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/63/talisman-of-indulgence?utm_source=api</link>
+      <guid isPermaLink="false">1d9aeaaa-66f6-41cb-9bac-162d6fd8662c:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/6/36bd614f-ab3b-4ad1-ab5c-a7ca0a641f32.jpg?1789599847&quot; alt=&quot;Talisman of Indulgence&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Talisman of Indulgence&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}: Add {B} or {R}. This artifact deals 1 damage to you.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/63/talisman-of-indulgence?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/6/36bd614f-ab3b-4ad1-ab5c-a7ca0a641f32.jpg?1789599847" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Glacial Fortress [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/73/glacial-fortress?utm_source=api</link>
+      <guid isPermaLink="false">027dd013-baa7-4111-b3c9-f4d1414e9c45:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/c/3c726a60-8de7-4d5e-8ad5-8405e6ac36b5.jpg?1789599901&quot; alt=&quot;Glacial Fortress&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Glacial Fortress&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;This land enters tapped unless you control a Plains or an Island.&lt;br/&gt;{T}: Add {W} or {U}.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/73/glacial-fortress?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/c/3c726a60-8de7-4d5e-8ad5-8405e6ac36b5.jpg?1789599901" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Flawless Maneuver [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/25/flawless-maneuver?utm_source=api</link>
+      <guid isPermaLink="false">4e183439-17d2-47ff-9d99-5e22821d91e3:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/f/3ffe82a4-584e-4ebd-9551-a745bed01e26.jpg?1789599786&quot; alt=&quot;Flawless Maneuver&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Flawless Maneuver&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;If you control a commander, you may cast this spell without paying its mana cost.&lt;br/&gt;Creatures you control gain indestructible until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/25/flawless-maneuver?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/f/3ffe82a4-584e-4ebd-9551-a745bed01e26.jpg?1789599786" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Chromatic Lantern [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/54/chromatic-lantern?utm_source=api</link>
+      <guid isPermaLink="false">539f5396-d99a-417d-a84c-dff7930b5900:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/2/424c40b0-49d8-4a6f-a0ef-545738224ec9.jpg?1789599834&quot; alt=&quot;Chromatic Lantern&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Chromatic Lantern&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Lands you control have &amp;quot;{T}: Add one mana of any color.&amp;quot;&lt;br/&gt;{T}: Add one mana of any color.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/54/chromatic-lantern?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/2/424c40b0-49d8-4a6f-a0ef-545738224ec9.jpg?1789599834" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Talisman of Progress [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/64/talisman-of-progress?utm_source=api</link>
+      <guid isPermaLink="false">00e35322-1a9a-41e3-9ce1-359c8eaa3bc7:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/5/454ed9c8-3ec1-4b65-bf3f-29a186742aed.jpg?1789599848&quot; alt=&quot;Talisman of Progress&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Talisman of Progress&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}: Add {W} or {U}. This artifact deals 1 damage to you.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/64/talisman-of-progress?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/5/454ed9c8-3ec1-4b65-bf3f-29a186742aed.jpg?1789599848" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Drowned Catacomb [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/69/drowned-catacomb?utm_source=api</link>
+      <guid isPermaLink="false">819fc966-434e-470f-91e9-a38df974ad17:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/a/4acb0f92-74be-40e8-b70e-61c4aaaeb47b.jpg?1789599912&quot; alt=&quot;Drowned Catacomb&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Drowned Catacomb&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;This land enters tapped unless you control an Island or a Swamp.&lt;br/&gt;{T}: Add {U} or {B}.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/69/drowned-catacomb?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/a/4acb0f92-74be-40e8-b70e-61c4aaaeb47b.jpg?1789599912" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Martial Coup [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/28/martial-coup?utm_source=api</link>
+      <guid isPermaLink="false">2b7c4dab-e432-4b34-b058-3cec5c0d72df:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/c/5c4d0ad9-4d57-4e5c-b478-059220f5b1dd.jpg?1789599791&quot; alt=&quot;Martial Coup&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Martial Coup&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {X}{W}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Create X 1/1 white Soldier creature tokens. If X is 5 or more, destroy all other creatures.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/28/martial-coup?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/c/5c4d0ad9-4d57-4e5c-b478-059220f5b1dd.jpg?1789599791" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Shark Typhoon [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/44/shark-typhoon?utm_source=api</link>
+      <guid isPermaLink="false">8c0520fa-276b-4d21-b4a9-dce1fce59f6b:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/0/605ca3c0-7c9a-4bc1-9795-82aeb6f552ee.jpg?1789599836&quot; alt=&quot;Shark Typhoon&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Shark Typhoon&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {5}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Whenever you cast a noncreature spell, create an X/X blue Shark creature token with flying, where X is that spell&amp;#x27;s mana value.&lt;br/&gt;Cycling {X}{1}{U} ({X}{1}{U}, Discard this card: Draw a card.)&lt;br/&gt;When you cycle this card, create an X/X blue Shark creature token with flying.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/44/shark-typhoon?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/0/605ca3c0-7c9a-4bc1-9795-82aeb6f552ee.jpg?1789599836" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fabled Passage [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/71/fabled-passage?utm_source=api</link>
+      <guid isPermaLink="false">0c85b8f7-0bd0-4680-9ec5-d4b110460a54:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/6/76edd22f-808e-4a7c-b941-13c0f5e30418.jpg?1789599905&quot; alt=&quot;Fabled Passage&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Fabled Passage&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/71/fabled-passage?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/6/76edd22f-808e-4a7c-b941-13c0f5e30418.jpg?1789599905" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Synthetic Destiny [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/45/synthetic-destiny?utm_source=api</link>
+      <guid isPermaLink="false">640a7d2c-42c4-4ea7-bd5b-72f12a65785e:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/8/78ab1d69-da01-424b-9d09-ef985aef4cbd.jpg?1789599820&quot; alt=&quot;Synthetic Destiny&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Synthetic Destiny&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{U}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Exile all creatures you control. At the beginning of the next end step, reveal cards from the top of your library until you reveal that many creature cards, put all creature cards revealed this way onto the battlefield, then shuffle the rest of the revealed cards into your library.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/45/synthetic-destiny?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/8/78ab1d69-da01-424b-9d09-ef985aef4cbd.jpg?1789599820" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Talisman of Dominance [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/62/talisman-of-dominance?utm_source=api</link>
+      <guid isPermaLink="false">4c0a0448-b9d6-43a0-8549-64066dac63f0:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/8/78d5366f-eb6d-4ec1-880b-111872863766.jpg?1789599840&quot; alt=&quot;Talisman of Dominance&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Talisman of Dominance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}: Add {U} or {B}. This artifact deals 1 damage to you.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/62/talisman-of-dominance?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/8/78d5366f-eb6d-4ec1-880b-111872863766.jpg?1789599840" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Secure the Wastes [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/31/secure-the-wastes?utm_source=api</link>
+      <guid isPermaLink="false">b2347910-d6c6-4681-8316-7ef27056485c:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/3/83a01121-e5cd-45ba-97c2-7bd7d50158e6.jpg?1789599800&quot; alt=&quot;Secure the Wastes&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Secure the Wastes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {X}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Create X 1/1 white Warrior creature tokens.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/31/secure-the-wastes?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/3/83a01121-e5cd-45ba-97c2-7bd7d50158e6.jpg?1789599800" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Archon of Cruelty [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/47/archon-of-cruelty?utm_source=api</link>
+      <guid isPermaLink="false">aa1a6646-c1e6-4bff-9092-43ee3e137914:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/5/95ff951b-a098-409c-86c8-373b6c9f8331.jpg?1789599818&quot; alt=&quot;Archon of Cruelty&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Archon of Cruelty&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {6}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Archon&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;Whenever this creature enters or attacks, target opponent sacrifices a creature or planeswalker of their choice, discards a card, and loses 3 life. You draw a card and gain 3 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/47/archon-of-cruelty?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/5/95ff951b-a098-409c-86c8-373b6c9f8331.jpg?1789599818" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Dreadhorde Invasion [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/48/dreadhorde-invasion?utm_source=api</link>
+      <guid isPermaLink="false">01deabbb-af6a-4998-99a7-35b7cfa9ef77:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/b/9bbfad2d-a3b5-4119-aea4-0793b7a9da88.jpg?1789599825&quot; alt=&quot;Dreadhorde Invasion&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Dreadhorde Invasion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;At the beginning of your upkeep, you lose 1 life and amass Zombies 1. (Put a +1/+1 counter on an Army you control. It&amp;#x27;s also a Zombie. If you don&amp;#x27;t control an Army, create a 0/0 black Zombie Army creature token first.)&lt;br/&gt;Whenever a Zombie token you control with power 6 or greater attacks, it gains lifelink until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/48/dreadhorde-invasion?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/b/9bbfad2d-a3b5-4119-aea4-0793b7a9da88.jpg?1789599825" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Shivan Reef [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/83/shivan-reef?utm_source=api</link>
+      <guid isPermaLink="false">0fe16212-66c3-4e45-a641-7391e9b2e304:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/f/9fb3938c-9ecf-46cc-865a-0091455419f9.jpg?1789599919&quot; alt=&quot;Shivan Reef&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Shivan Reef&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}: Add {U} or {R}. This land deals 1 damage to you.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/83/shivan-reef?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/f/9fb3938c-9ecf-46cc-865a-0091455419f9.jpg?1789599919" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Rakdos Signet [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/60/rakdos-signet?utm_source=api</link>
+      <guid isPermaLink="false">3adb7681-977f-4a32-9ec8-51481b958268:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/2/a263e71d-953f-4648-b326-33133cfa7e00.jpg?1789599847&quot; alt=&quot;Rakdos Signet&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Rakdos Signet&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{1}, {T}: Add {B}{R}.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/60/rakdos-signet?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/2/a263e71d-953f-4648-b326-33133cfa7e00.jpg?1789599847" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sunfall [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/36/sunfall?utm_source=api</link>
+      <guid isPermaLink="false">fb3f5097-0da0-458c-8508-60823567e2da:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/5/a560b9a7-4c00-4c0c-b63d-774d3f6b9aa9.jpg?1789611521&quot; alt=&quot;Sunfall&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Sunfall&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{W}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Exile all creatures. Incubate X, where X is the number of creatures exiled this way. (Create an Incubator token with X +1/+1 counters on it and &amp;quot;{2}: Transform this token.&amp;quot; It transforms into a 0/0 Phyrexian artifact creature.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/36/sunfall?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/5/a560b9a7-4c00-4c0c-b63d-774d3f6b9aa9.jpg?1789611521" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Grand Crescendo [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/26/grand-crescendo?utm_source=api</link>
+      <guid isPermaLink="false">dc600c06-8239-409e-b53d-20f813a3f5e7:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/6/a60834b0-38ab-40c9-9fd9-db3a23b13076.jpg?1789599802&quot; alt=&quot;Grand Crescendo&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Grand Crescendo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {X}{W}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Create X 1/1 green and white Citizen creature tokens. Creatures you control gain indestructible until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/26/grand-crescendo?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/6/a60834b0-38ab-40c9-9fd9-db3a23b13076.jpg?1789599802" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Elspeth, Sun's Champion [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/24/elspeth-suns-champion?utm_source=api</link>
+      <guid isPermaLink="false">05e6b243-48a6-4a42-bc5f-413441de9c33:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/9/a91d9163-c1f2-4eae-acab-5dabbc71d7d4.jpg?1789613307&quot; alt=&quot;Elspeth, Sun&amp;#x27;s Champion&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Elspeth, Sun&amp;#x27;s Champion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{W}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Planeswalker — Elspeth&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;+1: Create three 1/1 white Soldier creature tokens.&lt;br/&gt;−3: Destroy all creatures with power 4 or greater.&lt;br/&gt;−7: You get an emblem with &amp;quot;Creatures you control get +2/+2 and have flying.&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/24/elspeth-suns-champion?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/9/a91d9163-c1f2-4eae-acab-5dabbc71d7d4.jpg?1789613307" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Prairie Stream [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/79/prairie-stream?utm_source=api</link>
+      <guid isPermaLink="false">5330e24a-8568-446e-840a-594cd08bd1bc:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/9/a93c2e0b-3fca-476e-ae5b-a331ccacae19.jpg?1789599913&quot; alt=&quot;Prairie Stream&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Prairie Stream&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land — Plains Island&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;({T}: Add {W} or {U}.)&lt;br/&gt;This land enters tapped unless you control two or more basic lands.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/79/prairie-stream?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/9/a93c2e0b-3fca-476e-ae5b-a331ccacae19.jpg?1789599913" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fetid Heath [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/72/fetid-heath?utm_source=api</link>
+      <guid isPermaLink="false">42bf259d-4bb9-49c3-b4ec-223dca62f4d6:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/e/ae07ff9f-d5a8-4220-b08f-fe8fad5adcb7.jpg?1789599906&quot; alt=&quot;Fetid Heath&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Fetid Heath&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{W/B}, {T}: Add {W}{W}, {W}{B}, or {B}{B}.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/72/fetid-heath?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/e/ae07ff9f-d5a8-4220-b08f-fe8fad5adcb7.jpg?1789599906" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>White Sun's Twilight [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/38/white-suns-twilight?utm_source=api</link>
+      <guid isPermaLink="false">a38828be-781e-4340-9c6f-f40b1d34773f:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/e/ae7a778c-f4a7-447f-90f0-146997e03398.jpg?1789599802&quot; alt=&quot;White Sun&amp;#x27;s Twilight&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;White Sun&amp;#x27;s Twilight&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {X}{W}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;You gain X life. Create X 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and &amp;quot;This token can&amp;#x27;t block.&amp;quot; If X is 5 or more, destroy all other creatures. (Players dealt combat damage by a creature with toxic 1 also get a poison counter.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/38/white-suns-twilight?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/e/ae7a778c-f4a7-447f-90f0-146997e03398.jpg?1789599802" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Azorius Signet [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/53/azorius-signet?utm_source=api</link>
+      <guid isPermaLink="false">e018773f-95b3-49a3-9674-6f04ddef2092:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/f/af690536-b0bc-4d85-8bb8-f6856b9f927b.jpg?1789599829&quot; alt=&quot;Azorius Signet&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Azorius Signet&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{1}, {T}: Add {W}{U}.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/53/azorius-signet?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/f/af690536-b0bc-4d85-8bb8-f6856b9f927b.jpg?1789599829" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Mass Polymorph [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/42/mass-polymorph?utm_source=api</link>
+      <guid isPermaLink="false">b133129d-1ffb-4b78-9f5b-852d163cc9b7:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/2/b29db023-28d0-411d-864a-8f1e22ae1f74.jpg?1789599820&quot; alt=&quot;Mass Polymorph&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Mass Polymorph&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {5}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Exile all creatures you control, then reveal cards from the top of your library until you reveal that many creature cards. Put all creature cards revealed this way onto the battlefield, then shuffle the rest of the revealed cards into your library.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/42/mass-polymorph?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/2/b29db023-28d0-411d-864a-8f1e22ae1f74.jpg?1789599820" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Isolated Chapel [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/74/isolated-chapel?utm_source=api</link>
+      <guid isPermaLink="false">7e5d9efe-48a9-434b-bb09-056e0e09cc9a:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/3/b3169b9a-f5e3-402e-883a-08274d0c7b12.jpg?1789599905&quot; alt=&quot;Isolated Chapel&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Isolated Chapel&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;This land enters tapped unless you control a Plains or a Swamp.&lt;br/&gt;{T}: Add {W} or {B}.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/74/isolated-chapel?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/3/b3169b9a-f5e3-402e-883a-08274d0c7b12.jpg?1789599905" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sunken Ruins [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/86/sunken-ruins?utm_source=api</link>
+      <guid isPermaLink="false">e6415ffb-8b7a-41c3-bedf-0d4112b7b795:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/8/b8652a52-d9f6-42ad-9746-6827845b540e.jpg?1789599920&quot; alt=&quot;Sunken Ruins&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Sunken Ruins&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{U/B}, {T}: Add {U}{U}, {U}{B}, or {B}{B}.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/86/sunken-ruins?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/8/b8652a52-d9f6-42ad-9746-6827845b540e.jpg?1789599920" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fellwar Stone [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/57/fellwar-stone?utm_source=api</link>
+      <guid isPermaLink="false">95560508-7ac9-4be9-8a3f-3c7d5b52807b:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/c/bc99f300-29c0-44e7-9560-7bbd1dda7556.jpg?1789599840&quot; alt=&quot;Fellwar Stone&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Fellwar Stone&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{T}: Add one mana of any color that a land an opponent controls could produce.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/57/fellwar-stone?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/c/bc99f300-29c0-44e7-9560-7bbd1dda7556.jpg?1789599840" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sulfurous Springs [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/85/sulfurous-springs?utm_source=api</link>
+      <guid isPermaLink="false">f5c38c01-4a40-469f-91a0-7479daf4e8e7:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/e/be340a1c-f1e7-446e-ae91-86ecb884479c.jpg?1789599923&quot; alt=&quot;Sulfurous Springs&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Sulfurous Springs&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}: Add {B} or {R}. This land deals 1 damage to you.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/85/sulfurous-springs?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/e/be340a1c-f1e7-446e-ae91-86ecb884479c.jpg?1789599923" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Path of Ancestry [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/77/path-of-ancestry?utm_source=api</link>
+      <guid isPermaLink="false">b473e293-59e3-4e04-acf2-622604aeb25f:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/0/c047dedc-43bc-4a7c-bca4-182283c89069.jpg?1789599910&quot; alt=&quot;Path of Ancestry&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Path of Ancestry&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;This land enters tapped.&lt;br/&gt;{T}: Add one mana of any color in your commander&amp;#x27;s color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/77/path-of-ancestry?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/0/c047dedc-43bc-4a7c-bca4-182283c89069.jpg?1789599910" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Caves of Koilos [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/66/caves-of-koilos?utm_source=api</link>
+      <guid isPermaLink="false">33de01e9-ce5a-42d4-afcb-343cd54a6d80:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/a/ca814c7c-9908-4727-b556-3f85bfd653ca.jpg?1789599896&quot; alt=&quot;Caves of Koilos&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Caves of Koilos&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}: Add {W} or {B}. This land deals 1 damage to you.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/66/caves-of-koilos?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/a/ca814c7c-9908-4727-b556-3f85bfd653ca.jpg?1789599896" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Exotic Orchard [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/70/exotic-orchard?utm_source=api</link>
+      <guid isPermaLink="false">27b047e3-0d41-45e2-98e9-9391d7923a1e:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/c/cc14b1ee-5def-42df-8ef6-0d91dba39e3a.jpg?1789599911&quot; alt=&quot;Exotic Orchard&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Exotic Orchard&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{T}: Add one mana of any color that a land an opponent controls could produce.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/70/exotic-orchard?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/c/cc14b1ee-5def-42df-8ef6-0d91dba39e3a.jpg?1789599911" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Clifftop Retreat [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/67/clifftop-retreat?utm_source=api</link>
+      <guid isPermaLink="false">d7faa3c8-46cf-46b2-bfa4-89000307cf18:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/d/cd112d5c-102f-45a6-b26c-f80cc97d4df2.jpg?1789599889&quot; alt=&quot;Clifftop Retreat&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Clifftop Retreat&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;This land enters tapped unless you control a Mountain or a Plains.&lt;br/&gt;{T}: Add {R} or {W}.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/67/clifftop-retreat?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/d/cd112d5c-102f-45a6-b26c-f80cc97d4df2.jpg?1789599889" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Stroke of Midnight [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/35/stroke-of-midnight?utm_source=api</link>
+      <guid isPermaLink="false">9a107e48-3d50-4941-95b1-10f2b29a4245:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/4/d42b9f9e-2df2-491e-b6ac-3b2bac8a8d8e.jpg?1789599799&quot; alt=&quot;Stroke of Midnight&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Stroke of Midnight&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Destroy target nonland permanent. Its controller creates a 1/1 white Human creature token.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/35/stroke-of-midnight?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/4/d42b9f9e-2df2-491e-b6ac-3b2bac8a8d8e.jpg?1789599799" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Talisman of Creativity [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/61/talisman-of-creativity?utm_source=api</link>
+      <guid isPermaLink="false">14d2979d-5728-42d7-a027-0eb1f754655d:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/4/d4ba86c8-8052-4c9e-a0d0-ac6ad0b2679c.jpg?1789599844&quot; alt=&quot;Talisman of Creativity&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Talisman of Creativity&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}: Add {U} or {R}. This artifact deals 1 damage to you.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/61/talisman-of-creativity?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/4/d4ba86c8-8052-4c9e-a0d0-ac6ad0b2679c.jpg?1789599844" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Izzet Signet [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/58/izzet-signet?utm_source=api</link>
+      <guid isPermaLink="false">2fda4fe7-8b0c-489c-a000-6d358e614e34:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/5/d5e141ad-5cb8-416b-9acf-bce1baeb6b6b.jpg?1789599844&quot; alt=&quot;Izzet Signet&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Izzet Signet&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{1}, {T}: Add {U}{R}.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/58/izzet-signet?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/5/d5e141ad-5cb8-416b-9acf-bce1baeb6b6b.jpg?1789599844" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Whirlwind of Thought [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/51/whirlwind-of-thought?utm_source=api</link>
+      <guid isPermaLink="false">6467cbb7-1e4e-482d-a20f-6cb9fc0f1ad1:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/1/e1de5fb8-7206-44a6-b827-5c6a21c25296.jpg?1789599828&quot; alt=&quot;Whirlwind of Thought&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Whirlwind of Thought&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{U}{R}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Whenever you cast a noncreature spell, draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/51/whirlwind-of-thought?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/1/e1de5fb8-7206-44a6-b827-5c6a21c25296.jpg?1789599828" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Skrelv's Hive [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/33/skrelvs-hive?utm_source=api</link>
+      <guid isPermaLink="false">06d219ff-0083-4c2a-b5b3-2b84bb58f57e:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/2/e2652c4d-38a7-4014-94bb-7efd277de992.jpg?1789599795&quot; alt=&quot;Skrelv&amp;#x27;s Hive&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Skrelv&amp;#x27;s Hive&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;At the beginning of your upkeep, you lose 1 life and create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and &amp;quot;This token can&amp;#x27;t block.&amp;quot;&lt;br/&gt;Corrupted — As long as an opponent has three or more poison counters, creatures you control with toxic have lifelink.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/33/skrelvs-hive?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/2/e2652c4d-38a7-4014-94bb-7efd277de992.jpg?1789599795" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Lingering Souls [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/27/lingering-souls?utm_source=api</link>
+      <guid isPermaLink="false">0b8c3337-04dd-4798-8203-6d8b8cfb936b:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/5/e5b16141-d185-4be2-97c1-5b0ef5483728.jpg?1789599791&quot; alt=&quot;Lingering Souls&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Lingering Souls&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Create two 1/1 white Spirit creature tokens with flying.&lt;br/&gt;Flashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/27/lingering-souls?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/5/e5b16141-d185-4be2-97c1-5b0ef5483728.jpg?1789599791" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Occult Epiphany [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/43/occult-epiphany?utm_source=api</link>
+      <guid isPermaLink="false">6df1c314-b97b-4bbc-8b7e-a07785347a49:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/5/e5fcfaff-2fd0-46d8-b863-ad25558c9e95.jpg?1789599813&quot; alt=&quot;Occult Epiphany&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Occult Epiphany&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {X}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Draw X cards, then discard X cards. Create a 1/1 white Spirit creature token with flying for each card type among cards discarded this way.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/43/occult-epiphany?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/5/e5fcfaff-2fd0-46d8-b863-ad25558c9e95.jpg?1789599813" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Proteus Staff [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/59/proteus-staff?utm_source=api</link>
+      <guid isPermaLink="false">97024e8e-dfde-4769-bc27-c3d6fad19e7c:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/6/e6fcedb4-4152-47c3-a97e-34f4483ff94d.jpg?1789599838&quot; alt=&quot;Proteus Staff&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Proteus Staff&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{2}{U}, {T}: Put target creature on the bottom of its owner&amp;#x27;s library. That creature&amp;#x27;s controller reveals cards from the top of their library until they reveal a creature card. The player puts that card onto the battlefield and the rest on the bottom of their library in any order. Activate only as a sorcery.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/59/proteus-staff?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/6/e6fcedb4-4152-47c3-a97e-34f4483ff94d.jpg?1789599838" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Underground River [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/87/underground-river?utm_source=api</link>
+      <guid isPermaLink="false">857febd9-cdd7-4f8e-a852-d88084b0cfbc:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/8/e8b05f37-815f-4854-bf82-ca544ca67532.jpg?1789599935&quot; alt=&quot;Underground River&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Underground River&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}: Add {U} or {B}. This land deals 1 damage to you.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/87/underground-river?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/8/e8b05f37-815f-4854-bf82-ca544ca67532.jpg?1789599935" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fact or Fiction [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/41/fact-or-fiction?utm_source=api</link>
+      <guid isPermaLink="false">437b2dab-15e0-4b9a-a204-58622d37a3b3:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/b/eb1a25c5-1918-40f3-b54f-5d31cf6b4eb2.jpg?1789599811&quot; alt=&quot;Fact or Fiction&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Fact or Fiction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/41/fact-or-fiction?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/b/eb1a25c5-1918-40f3-b54f-5d31cf6b4eb2.jpg?1789599811" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Brainstorm [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/39/brainstorm?utm_source=api</link>
+      <guid isPermaLink="false">36cd2364-d113-47d1-b2c4-b088d9eb88dd:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/c/ec7d6864-7b6b-4f74-8474-9b9ec96b1d33.jpg?1789599806&quot; alt=&quot;Brainstorm&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Brainstorm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {U}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Draw three cards, then put two cards from your hand on top of your library in any order.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/39/brainstorm?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/c/ec7d6864-7b6b-4f74-8474-9b9ec96b1d33.jpg?1789599806" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Battlefield Forge [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/65/battlefield-forge?utm_source=api</link>
+      <guid isPermaLink="false">6b75b94e-83b7-457e-ac41-7ca90b5a59aa:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/f/ef7d3676-b1db-4329-9201-18f8a6c54ea6.jpg?1789599856&quot; alt=&quot;Battlefield Forge&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Battlefield Forge&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}: Add {R} or {W}. This land deals 1 damage to you.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/65/battlefield-forge?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/f/ef7d3676-b1db-4329-9201-18f8a6c54ea6.jpg?1789599856" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Swords to Plowshares [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/37/swords-to-plowshares?utm_source=api</link>
+      <guid isPermaLink="false">b1544f21-7e98-461b-aed5-e748b0168c52:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/7/f7e12477-d59f-442b-a678-1be746d0b7be.jpg?1789599810&quot; alt=&quot;Swords to Plowshares&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Swords to Plowshares&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Exile target creature. Its controller gains life equal to its power.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/37/swords-to-plowshares?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/7/f7e12477-d59f-442b-a678-1be746d0b7be.jpg?1789599810" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Currency Converter [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/55/currency-converter?utm_source=api</link>
+      <guid isPermaLink="false">981298e6-ddee-49c0-9377-f47f019b4138:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/9/f91b18ef-ac8a-4d4c-9586-b101681d33e2.jpg?1789599836&quot; alt=&quot;Currency Converter&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Currency Converter&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;Whenever you discard a card, you may exile that card from your graveyard.&lt;br/&gt;{2}, {T}: Draw a card, then discard a card.&lt;br/&gt;{T}: Put a card exiled with this artifact into its owner&amp;#x27;s graveyard. If it&amp;#x27;s a land card, create a Treasure token. If it&amp;#x27;s a nonland card, create a 2/2 black Rogue creature token.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/55/currency-converter?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/9/f91b18ef-ac8a-4d4c-9586-b101681d33e2.jpg?1789599836" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Contaminated Landscape [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/68/contaminated-landscape?utm_source=api</link>
+      <guid isPermaLink="false">28196fd9-00c9-4cd0-b603-0eec8511ec79:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/9/f9274fad-3f30-454a-8d61-d487165090d7.jpg?1789599890&quot; alt=&quot;Contaminated Landscape&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Contaminated Landscape&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}, Sacrifice this land: Search your library for a basic Plains, Island, or Swamp card, put it onto the battlefield tapped, then shuffle.&lt;br/&gt;Cycling {W}{U}{B} ({W}{U}{B}, Discard this card: Draw a card.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/68/contaminated-landscape?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/9/f9274fad-3f30-454a-8d61-d487165090d7.jpg?1789599890" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Staff of the Storyteller [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/34/staff-of-the-storyteller?utm_source=api</link>
+      <guid isPermaLink="false">0c4e2c90-c17b-42cc-b4d7-cf75970fbe90:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/9/f9321060-c1bf-4190-aaf6-253d6df64237.jpg?1789599795&quot; alt=&quot;Staff of the Storyteller&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Staff of the Storyteller&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;When this artifact enters, create a 1/1 white Spirit creature token with flying.&lt;br/&gt;Whenever you create one or more creature tokens, put a story counter on this artifact.&lt;br/&gt;{W}, {T}, Remove a story counter from this artifact: Draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/34/staff-of-the-storyteller?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/9/f9321060-c1bf-4190-aaf6-253d6df64237.jpg?1789599795" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Mystic Gate [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/76/mystic-gate?utm_source=api</link>
+      <guid isPermaLink="false">e9f5feb2-2c1a-46ce-885a-4f378d7d10af:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/a/fa32d90e-1153-42ab-b8ff-0eb82698692c.jpg?1789599906&quot; alt=&quot;Mystic Gate&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Mystic Gate&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{W/U}, {T}: Add {W}{W}, {W}{U}, or {U}{U}.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/76/mystic-gate?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/a/fa32d90e-1153-42ab-b8ff-0eb82698692c.jpg?1789599906" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Perilous Landscape [Reality Fracture Commander]</title>
+      <link>https://scryfall.com/card/frc/78/perilous-landscape?utm_source=api</link>
+      <guid isPermaLink="false">e2b472dd-047d-47eb-9ebb-df6aa4b52dd4:frc</guid>
+      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/e/fec4ca25-ef4c-4500-9bec-60d29c060b83.jpg?1789599914&quot; alt=&quot;Perilous Landscape&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Perilous Landscape&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}, Sacrifice this land: Search your library for a basic Island, Mountain, or Plains card, put it onto the battlefield tapped, then shuffle.&lt;br/&gt;Cycling {U}{R}{W} ({U}{R}{W}, Discard this card: Draw a card.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/78/perilous-landscape?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/e/fec4ca25-ef4c-4500-9bec-60d29c060b83.jpg?1789599914" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Plan for All Outcomes [Reality Fracture]</title>
       <link>https://scryfall.com/card/fra/35/plan-for-all-outcomes?utm_source=api</link>
