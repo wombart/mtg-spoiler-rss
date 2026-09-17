@@ -5,9 +5,54 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 17 Sep 2026 06:49:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:49:04 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Extrapolate the Impossible [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/55/extrapolate-the-impossible?utm_source=api</link>
+      <guid isPermaLink="false">1f47c869-f4a9-43b0-aec0-8da4e3a3fec5:fra</guid>
+      <pubDate>Thu, 17 Sep 2026 12:49:04 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/7/17fb6538-493c-41aa-ad13-3e63d3ad3317.jpg?1789627658&quot; alt=&quot;Extrapolate the Impossible&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Extrapolate the Impossible&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;You may reveal exactly two cards you own with different names from outside the game. An opponent chooses one of them. You put that card into your hand.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/55/extrapolate-the-impossible?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/7/17fb6538-493c-41aa-ad13-3e63d3ad3317.jpg?1789627658" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Marwyn, the Preserver [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/263/marwyn-the-preserver?utm_source=api</link>
+      <guid isPermaLink="false">eb03f6c1-c94f-4f09-b2e9-a55ce5533653:fra</guid>
+      <pubDate>Thu, 17 Sep 2026 12:49:04 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/0/90f33f99-7bc5-42e1-815e-bfb4c2b74107.jpg?1789615282&quot; alt=&quot;Marwyn, the Preserver&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Marwyn, the Preserver&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Elf Druid&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Lands you control have hexproof. (They can&amp;#x27;t be the targets of spells or abilities your opponents control.)&lt;br/&gt;{2}: Return target land card from your graveyard to your hand.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/263/marwyn-the-preserver?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/0/90f33f99-7bc5-42e1-815e-bfb4c2b74107.jpg?1789615282" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Marwyn, the Clearcutter [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/249/marwyn-the-clearcutter?utm_source=api</link>
+      <guid isPermaLink="false">aff4e43d-cafa-47de-8e39-011f9254a26a:fra</guid>
+      <pubDate>Thu, 17 Sep 2026 12:49:04 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/9/f93da73c-ca8b-438e-8387-6109dac3fc1a.jpg?1789615244&quot; alt=&quot;Marwyn, the Clearcutter&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Marwyn, the Clearcutter&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Elf Warrior&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;{2}, {T}, Sacrifice an artifact or land: Draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/249/marwyn-the-clearcutter?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/9/f93da73c-ca8b-438e-8387-6109dac3fc1a.jpg?1789615244" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Incubator // Phyrexian [Reality Fracture Commander Tokens]</title>
       <link>https://scryfall.com/card/tfrc/13/incubator-phyrexian?utm_source=api</link>
