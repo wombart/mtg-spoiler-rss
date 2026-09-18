@@ -5,9 +5,90 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 18 Sep 2026 17:19:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:03:08 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Map [Reality Fracture Commander Tokens]</title>
+      <link>https://scryfall.com/card/tfrc/14/map?utm_source=api</link>
+      <guid isPermaLink="false">c050f054-1ccf-4819-bc30-a928aed60c56:tfrc</guid>
+      <pubDate>Fri, 18 Sep 2026 20:03:08 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/1/91613970-c25c-4959-b5b0-b6e2a7657634.jpg?1789737819&quot; alt=&quot;Map&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Map&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Artifact — Map&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander Tokens&lt;/p&gt;
+&lt;p&gt;{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. (Reveal the top card of your library. Put that card into your hand if it&amp;#x27;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfrc/14/map?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/1/91613970-c25c-4959-b5b0-b6e2a7657634.jpg?1789737819" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Citizen [Reality Fracture Commander Tokens]</title>
+      <link>https://scryfall.com/card/tfrc/11/citizen?utm_source=api</link>
+      <guid isPermaLink="false">ffbc4833-01db-45f8-b8b4-c2e2c8235d0c:tfrc</guid>
+      <pubDate>Fri, 18 Sep 2026 20:03:08 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/7/b7171de9-476d-4bfa-8cc0-b4fbc168cf4d.jpg?1789737561&quot; alt=&quot;Citizen&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Citizen&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Citizen&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander Tokens&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfrc/11/citizen?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/7/b7171de9-476d-4bfa-8cc0-b4fbc168cf4d.jpg?1789737561" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Kobolds of Kher Keep [Reality Fracture Commander Tokens]</title>
+      <link>https://scryfall.com/card/tfrc/10/kobolds-of-kher-keep?utm_source=api</link>
+      <guid isPermaLink="false">6790eb4e-f6ed-44f5-85f1-bd7e167b828c:tfrc</guid>
+      <pubDate>Fri, 18 Sep 2026 20:03:08 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/0/d0d630b2-1e42-4cf7-bfa1-36d5c135877b.jpg?1789737548&quot; alt=&quot;Kobolds of Kher Keep&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Kobolds of Kher Keep&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Kobold&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander Tokens&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfrc/10/kobolds-of-kher-keep?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/0/d0d630b2-1e42-4cf7-bfa1-36d5c135877b.jpg?1789737548" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Gingerbrute Token [Reality Fracture Commander Tokens]</title>
+      <link>https://scryfall.com/card/tfrc/12/gingerbrute-token?utm_source=api</link>
+      <guid isPermaLink="false">b00e75f4-65fc-4f50-a564-6dabd10d360b:tfrc</guid>
+      <pubDate>Fri, 18 Sep 2026 20:03:08 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/c/dc2dff97-a68b-497f-a004-1e14ba5116ea.jpg?1789737618&quot; alt=&quot;Gingerbrute Token&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Gingerbrute Token&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Artifact Creature — Food Golem&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander Tokens&lt;/p&gt;
+&lt;p&gt;Haste&lt;br/&gt;{1}: This token can&amp;#x27;t be blocked this turn except by creatures with haste.&lt;br/&gt;{2}, {T}, Sacrifice this token: You gain 3 life.&lt;br/&gt;(This token&amp;#x27;s mana cost is {1}.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfrc/12/gingerbrute-token?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/c/dc2dff97-a68b-497f-a004-1e14ba5116ea.jpg?1789737618" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Myr [Reality Fracture Commander Tokens]</title>
+      <link>https://scryfall.com/card/tfrc/15/myr?utm_source=api</link>
+      <guid isPermaLink="false">bf690282-125f-431c-a363-39f6772324c8:tfrc</guid>
+      <pubDate>Fri, 18 Sep 2026 20:03:08 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/4/e41f83c6-c20f-455a-b630-5fad99fa54ad.jpg?1789737643&quot; alt=&quot;Myr&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Myr&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Artifact Creature — Myr&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander Tokens&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfrc/15/myr?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/4/e41f83c6-c20f-455a-b630-5fad99fa54ad.jpg?1789737643" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Phyrexian Mite [Reality Fracture Commander Tokens]</title>
+      <link>https://scryfall.com/card/tfrc/16/phyrexian-mite?utm_source=api</link>
+      <guid isPermaLink="false">2667d723-01c8-4ea3-ac17-cedb3b842c3b:tfrc</guid>
+      <pubDate>Fri, 18 Sep 2026 20:03:08 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/9/e9c68c64-f3b9-45b7-83d1-bd1439a49942.jpg?1789737661&quot; alt=&quot;Phyrexian Mite&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Phyrexian Mite&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Artifact Creature — Phyrexian Mite&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander Tokens&lt;/p&gt;
+&lt;p&gt;Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)&lt;br/&gt;This creature can&amp;#x27;t block.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfrc/16/phyrexian-mite?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/9/e9c68c64-f3b9-45b7-83d1-bd1439a49942.jpg?1789737661" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Treasure [Reality Fracture Tokens]</title>
       <link>https://scryfall.com/card/tfra/15/treasure?utm_source=api</link>
@@ -7318,81 +7399,6 @@
 &lt;p&gt;Whenever a source you control deals damage, if at least one permanent or player was dealt exactly 2 of that damage, exile the top card of your library. You may play it until the end of your next turn.&lt;br/&gt;{R}, {T}, Exile two cards from your graveyard: Matoc deals 2 damage to any other target.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mbc/25/matoc-lavamancer?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/9/a/9acfac7e-11c9-4b5b-8cad-03923024d837.jpg?1785758942" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Chromatic Lantern [Mystery Booster Commander Edition]</title>
-      <link>https://scryfall.com/card/mbc/73/chromatic-lantern?utm_source=api</link>
-      <guid isPermaLink="false">539f5396-d99a-417d-a84c-dff7930b5900:mbc</guid>
-      <pubDate>Tue, 08 Sep 2026 08:42:25 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/b/9b29492a-8bdd-4806-8d1b-3058ed277cc1.jpg?1787743253&quot; alt=&quot;Chromatic Lantern&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Chromatic Lantern&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Mystery Booster Commander Edition&lt;/p&gt;
-&lt;p&gt;Lands you control have &amp;quot;{T}: Add one mana of any color.&amp;quot;&lt;br/&gt;{T}: Add one mana of any color.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mbc/73/chromatic-lantern?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/b/9b29492a-8bdd-4806-8d1b-3058ed277cc1.jpg?1787743253" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Blor the Impervious [Mystery Booster Commander Edition]</title>
-      <link>https://scryfall.com/card/mbc/28/blor-the-impervious?utm_source=api</link>
-      <guid isPermaLink="false">f5f2fa96-8e87-44bc-8c82-e217706d3cab:mbc</guid>
-      <pubDate>Tue, 08 Sep 2026 08:42:25 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/c/9c2239e5-cdbd-4d3d-81a1-5e18174f1209.jpg?1785758961&quot; alt=&quot;Blor the Impervious&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Blor the Impervious&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Frog Warrior&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Mystery Booster Commander Edition&lt;/p&gt;
-&lt;p&gt;Trample, hexproof, indestructible&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mbc/28/blor-the-impervious?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/c/9c2239e5-cdbd-4d3d-81a1-5e18174f1209.jpg?1785758961" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Davvol, Evincar of Rath [Mystery Booster Commander Edition]</title>
-      <link>https://scryfall.com/card/mbc/36/davvol-evincar-of-rath?utm_source=api</link>
-      <guid isPermaLink="false">e4aca279-b144-4517-acef-d925f4f552e2:mbc</guid>
-      <pubDate>Tue, 08 Sep 2026 08:42:25 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/c/9c8bf856-e7a6-4c58-b001-5ed27c7570ec.jpg?1785759004&quot; alt=&quot;Davvol, Evincar of Rath&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Davvol, Evincar of Rath&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{B}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Phyrexian Noble&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Mystery Booster Commander Edition&lt;/p&gt;
-&lt;p&gt;Whenever another creature you control enters, you lose 1 life and add {B}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mbc/36/davvol-evincar-of-rath?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/c/9c8bf856-e7a6-4c58-b001-5ed27c7570ec.jpg?1785759004" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Gustha Ebbasdotter [Mystery Booster Commander Edition]</title>
-      <link>https://scryfall.com/card/mbc/10/gustha-ebbasdotter?utm_source=api</link>
-      <guid isPermaLink="false">a0a8c04e-3ce7-4945-a6af-7e40a990c82c:mbc</guid>
-      <pubDate>Tue, 08 Sep 2026 08:42:25 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/f/9ff02aab-9532-445e-915c-3ccf71147c76.jpg?1785758859&quot; alt=&quot;Gustha Ebbasdotter&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Gustha Ebbasdotter&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{U}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Wizard&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Mystery Booster Commander Edition&lt;/p&gt;
-&lt;p&gt;Protection from red&lt;br/&gt;Whenever you cast your first spell during each opponent&amp;#x27;s turn, draw three cards, then put two cards from your hand on top of your library in any order.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mbc/10/gustha-ebbasdotter?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/f/9ff02aab-9532-445e-915c-3ccf71147c76.jpg?1785758859" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Valko Indorian [Mystery Booster Commander Edition]</title>
-      <link>https://scryfall.com/card/mbc/60/valko-indorian?utm_source=api</link>
-      <guid isPermaLink="false">8023d419-8fd2-4b92-b6ea-f25fd67e6410:mbc</guid>
-      <pubDate>Tue, 08 Sep 2026 08:42:25 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/0/a0b51fb8-6e5a-479d-aa3a-17cf603dd05c.jpg?1787065628&quot; alt=&quot;Valko Indorian&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Valko Indorian&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Wizard&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Mystery Booster Commander Edition&lt;/p&gt;
-&lt;p&gt;Rulebreaker — A deck with this commander can have Phyrexian cards of any color identity and any basic land cards.&lt;br/&gt;Phyrexian creatures you control have menace and lifelink.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mbc/60/valko-indorian?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/0/a0b51fb8-6e5a-479d-aa3a-17cf603dd05c.jpg?1787065628" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
