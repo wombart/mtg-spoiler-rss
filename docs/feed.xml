@@ -5,9 +5,398 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 17 Sep 2026 17:47:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 17:19:40 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Treasure [Reality Fracture Tokens]</title>
+      <link>https://scryfall.com/card/tfra/15/treasure?utm_source=api</link>
+      <guid isPermaLink="false">3c549374-6c37-42e0-8d88-a8555d46732d:tfra</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/3/03992f88-7a15-4234-9bed-b7617d7ff09c.jpg?1789735245&quot; alt=&quot;Treasure&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Treasure&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Artifact — Treasure&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Tokens&lt;/p&gt;
+&lt;p&gt;{T}, Sacrifice this token: Add one mana of any color.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfra/15/treasure?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/3/03992f88-7a15-4234-9bed-b7617d7ff09c.jpg?1789735245" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Rogue [Reality Fracture Commander Tokens]</title>
+      <link>https://scryfall.com/card/tfrc/7/rogue?utm_source=api</link>
+      <guid isPermaLink="false">9acbc363-827c-4146-a004-81be179a8c28:tfrc</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/5/0526330e-40eb-4c5f-b0f5-5489839e5f44.jpg?1789737431&quot; alt=&quot;Rogue&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Rogue&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Rogue&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander Tokens&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfrc/7/rogue?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/5/0526330e-40eb-4c5f-b0f5-5489839e5f44.jpg?1789737431" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Spirit [Reality Fracture Commander Tokens]</title>
+      <link>https://scryfall.com/card/tfrc/4/spirit?utm_source=api</link>
+      <guid isPermaLink="false">dc4e2134-f0c2-49aa-9ea3-ebf83af1445c:tfrc</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/6/06a96ac2-94a4-4b1c-a3c5-add1a3112cb2.jpg?1789737345&quot; alt=&quot;Spirit&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Spirit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Spirit&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander Tokens&lt;/p&gt;
+&lt;p&gt;Flying&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfrc/4/spirit?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/6/06a96ac2-94a4-4b1c-a3c5-add1a3112cb2.jpg?1789737345" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Goblin [Reality Fracture Commander Tokens]</title>
+      <link>https://scryfall.com/card/tfrc/9/goblin?utm_source=api</link>
+      <guid isPermaLink="false">4465eff4-5851-4721-a248-866c686c2ab8:tfrc</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/c/0c7f299e-4774-4e8b-bb0e-db27d57d2621.jpg?1789737534&quot; alt=&quot;Goblin&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Goblin&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Goblin&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander Tokens&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfrc/9/goblin?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/c/0c7f299e-4774-4e8b-bb0e-db27d57d2621.jpg?1789737534" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Angel [Reality Fracture Commander Tokens]</title>
+      <link>https://scryfall.com/card/tfrc/1/angel?utm_source=api</link>
+      <guid isPermaLink="false">40c64f08-ab2f-4933-8e0e-d1a1c729008f:tfrc</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/1/1159d02c-0291-42de-91e6-e9a49d5ed968.jpg?1789737317&quot; alt=&quot;Angel&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Angel&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Angel&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander Tokens&lt;/p&gt;
+&lt;p&gt;Flying&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfrc/1/angel?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/1/1159d02c-0291-42de-91e6-e9a49d5ed968.jpg?1789737317" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Zombie Army [Reality Fracture Commander Tokens]</title>
+      <link>https://scryfall.com/card/tfrc/8/zombie-army?utm_source=api</link>
+      <guid isPermaLink="false">8bf1137a-163c-446f-8d34-168a7705df4e:tfrc</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/4/14474e29-27a4-475a-9d2c-eb1d6c146421.jpg?1789737477&quot; alt=&quot;Zombie Army&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Zombie Army&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Zombie Army&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander Tokens&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfrc/8/zombie-army?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/4/14474e29-27a4-475a-9d2c-eb1d6c146421.jpg?1789737477" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Shark [Reality Fracture Commander Tokens]</title>
+      <link>https://scryfall.com/card/tfrc/6/shark?utm_source=api</link>
+      <guid isPermaLink="false">9a010305-a9d9-48e5-8e1d-b0a6a7627832:tfrc</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/1/21a614b0-2e65-4ea0-94c3-9c9afa0bc03c.jpg?1789737376&quot; alt=&quot;Shark&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Shark&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Shark&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander Tokens&lt;/p&gt;
+&lt;p&gt;Flying&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfrc/6/shark?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/1/21a614b0-2e65-4ea0-94c3-9c9afa0bc03c.jpg?1789737376" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Warrior [Reality Fracture Commander Tokens]</title>
+      <link>https://scryfall.com/card/tfrc/5/warrior?utm_source=api</link>
+      <guid isPermaLink="false">6a880a0f-0a98-4505-9c27-9821be3e4818:tfrc</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/d/2dde64e7-dff3-4495-9649-d4b1e91f1cf3.jpg?1789737362&quot; alt=&quot;Warrior&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Warrior&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Warrior&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander Tokens&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfrc/5/warrior?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/d/2dde64e7-dff3-4495-9649-d4b1e91f1cf3.jpg?1789737362" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Angel [Reality Fracture Tokens]</title>
+      <link>https://scryfall.com/card/tfra/3/angel?utm_source=api</link>
+      <guid isPermaLink="false">35030576-3f03-417a-a52a-c4356b78362f:tfra</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/1/5165055a-89e1-471b-ac96-732e593c910b.jpg?1789735744&quot; alt=&quot;Angel&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Angel&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Angel&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Tokens&lt;/p&gt;
+&lt;p&gt;Flying&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfra/3/angel?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/1/5165055a-89e1-471b-ac96-732e593c910b.jpg?1789735744" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Mowu [Reality Fracture Tokens]</title>
+      <link>https://scryfall.com/card/tfra/10/mowu?utm_source=api</link>
+      <guid isPermaLink="false">78ef9d88-f629-4db4-95dd-f8ab7985dade:tfra</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/8/5868190d-18f6-43b6-af83-9e0ef585687d.jpg?1789735768&quot; alt=&quot;Mowu&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Mowu&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Legendary Creature — Dog&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Tokens&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfra/10/mowu?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/8/5868190d-18f6-43b6-af83-9e0ef585687d.jpg?1789735768" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ajani Resolute Emblem [Reality Fracture Tokens]</title>
+      <link>https://scryfall.com/card/tfra/16/ajani-resolute-emblem?utm_source=api</link>
+      <guid isPermaLink="false">ee946840-7b8f-4ce2-8e7e-704a9042e4aa:tfra</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/9/595a628e-218b-4df2-8bd2-d84ad22d302f.jpg?1789735284&quot; alt=&quot;Ajani Resolute Emblem&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Ajani Resolute Emblem&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Emblem&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Tokens&lt;/p&gt;
+&lt;p&gt;Creatures you control get +2/+2.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfra/16/ajani-resolute-emblem?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/9/595a628e-218b-4df2-8bd2-d84ad22d302f.jpg?1789735284" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Chandra, Torch of Defiance Emblem [Reality Fracture Tokens]</title>
+      <link>https://scryfall.com/card/tfra/18/chandra-torch-of-defiance-emblem?utm_source=api</link>
+      <guid isPermaLink="false">1c944fa3-ff6c-4638-a8cd-77d3ca68e599:tfra</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/f/5fdc53ba-e023-4ee4-bb14-fd8c52955ee9.jpg?1789735329&quot; alt=&quot;Chandra, Torch of Defiance Emblem&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Chandra, Torch of Defiance Emblem&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Emblem — Chandra&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Tokens&lt;/p&gt;
+&lt;p&gt;Whenever you cast a spell, this emblem deals 5 damage to any target.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfra/18/chandra-torch-of-defiance-emblem?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/f/5fdc53ba-e023-4ee4-bb14-fd8c52955ee9.jpg?1789735329" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ajani's Pridemate [Reality Fracture Tokens]</title>
+      <link>https://scryfall.com/card/tfra/2/ajanis-pridemate?utm_source=api</link>
+      <guid isPermaLink="false">9fcff433-c6f7-44c6-8279-04625703cb3e:tfra</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/8/7801c326-d740-4cec-9268-05348ace8302.jpg?1789735461&quot; alt=&quot;Ajani&amp;#x27;s Pridemate&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Ajani&amp;#x27;s Pridemate&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Cat Soldier&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Tokens&lt;/p&gt;
+&lt;p&gt;Whenever you gain life, put a +1/+1 counter on Ajani&amp;#x27;s Pridemate.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfra/2/ajanis-pridemate?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/8/7801c326-d740-4cec-9268-05348ace8302.jpg?1789735461" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Beast [Reality Fracture Tokens]</title>
+      <link>https://scryfall.com/card/tfra/8/beast?utm_source=api</link>
+      <guid isPermaLink="false">7ed8a016-a259-4fda-aae5-02f8df94f2de:tfra</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/5/859bda9a-fa90-4ad3-b0c1-6fc62e27c12f.jpg?1789736256&quot; alt=&quot;Beast&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Beast&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Beast&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Tokens&lt;/p&gt;
+&lt;p&gt;Trample&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfra/8/beast?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/5/859bda9a-fa90-4ad3-b0c1-6fc62e27c12f.jpg?1789736256" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Cadet [Reality Fracture Tokens]</title>
+      <link>https://scryfall.com/card/tfra/1/cadet?utm_source=api</link>
+      <guid isPermaLink="false">2d321161-65cd-43ed-8285-551e3d4989e4:tfra</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/f/8f4534d8-2783-484f-8ebf-a47b1cc4c6df.jpg?1789734318&quot; alt=&quot;Cadet&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Cadet&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Wizard Soldier&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Tokens&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfra/1/cadet?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/f/8f4534d8-2783-484f-8ebf-a47b1cc4c6df.jpg?1789734318" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Dragon [Reality Fracture Tokens]</title>
+      <link>https://scryfall.com/card/tfra/7/dragon?utm_source=api</link>
+      <guid isPermaLink="false">60fe4897-6760-4c5a-8074-c92bd64df52b:tfra</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/9/991a5840-adc7-45b5-8d5f-b24dae384bab.jpg?1789734473&quot; alt=&quot;Dragon&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Dragon&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Dragon&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Tokens&lt;/p&gt;
+&lt;p&gt;Flying&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfra/7/dragon?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/9/991a5840-adc7-45b5-8d5f-b24dae384bab.jpg?1789734473" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sculpture Treasure [Reality Fracture Tokens]</title>
+      <link>https://scryfall.com/card/tfra/13/sculpture-treasure?utm_source=api</link>
+      <guid isPermaLink="false">c0e859ec-aced-4514-a561-bc145bbd9061:tfra</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/0/a0fec445-c6fb-4ca2-b63f-1d608c418a22.jpg?1789735148&quot; alt=&quot;Sculpture Treasure&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Sculpture Treasure&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Artifact Creature — Sculpture Treasure&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Tokens&lt;/p&gt;
+&lt;p&gt;{T}, Sacrifice this token: Add one mana of any color.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfra/13/sculpture-treasure?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/0/a0fec445-c6fb-4ca2-b63f-1d608c418a22.jpg?1789735148" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Leviathan [Reality Fracture Tokens]</title>
+      <link>https://scryfall.com/card/tfra/6/leviathan?utm_source=api</link>
+      <guid isPermaLink="false">7aca8155-f42b-44f5-b27d-ca083f28faba:tfra</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/4/a4339d5a-7c07-4326-b0e6-d2519332803d.jpg?1789735757&quot; alt=&quot;Leviathan&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Leviathan&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Leviathan&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Tokens&lt;/p&gt;
+&lt;p&gt;Hexproof&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfra/6/leviathan?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/4/a4339d5a-7c07-4326-b0e6-d2519332803d.jpg?1789735757" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Soldier [Reality Fracture Commander Tokens]</title>
+      <link>https://scryfall.com/card/tfrc/3/soldier?utm_source=api</link>
+      <guid isPermaLink="false">eac25f12-6459-438c-a09e-93e23d2cf80d:tfrc</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/5/a58c2fc3-c07f-4f06-a9d5-1d0fe3dbde1f.jpg?1789737284&quot; alt=&quot;Soldier&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Soldier&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Soldier&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander Tokens&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfrc/3/soldier?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/5/a58c2fc3-c07f-4f06-a9d5-1d0fe3dbde1f.jpg?1789737284" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Thopter [Reality Fracture Tokens]</title>
+      <link>https://scryfall.com/card/tfra/14/thopter?utm_source=api</link>
+      <guid isPermaLink="false">7c0b6b53-4ddb-4bb5-8a26-0041b2006d3f:tfra</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/f/bfd6132f-c96b-4ce0-ac4d-c46356afc767.jpg?1789735223&quot; alt=&quot;Thopter&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Thopter&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Artifact Creature — Thopter&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Tokens&lt;/p&gt;
+&lt;p&gt;Flying&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfra/14/thopter?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/f/bfd6132f-c96b-4ce0-ac4d-c46356afc767.jpg?1789735223" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Lotus [Reality Fracture Tokens]</title>
+      <link>https://scryfall.com/card/tfra/12/lotus?utm_source=api</link>
+      <guid isPermaLink="false">9eafaa49-cf0b-470d-b8a3-c51cff3d26e0:tfra</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/5/c59b7223-00a9-4c0d-896d-1cd463860c40.jpg?1789734772&quot; alt=&quot;Lotus&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Lotus&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Tokens&lt;/p&gt;
+&lt;p&gt;{T}, Sacrifice this token: Add three mana of any one color.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfra/12/lotus?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/5/c59b7223-00a9-4c0d-896d-1cd463860c40.jpg?1789734772" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Chandra, Chill of Compliance Emblem [Reality Fracture Tokens]</title>
+      <link>https://scryfall.com/card/tfra/17/chandra-chill-of-compliance-emblem?utm_source=api</link>
+      <guid isPermaLink="false">f28bd571-eccd-4d8e-afee-5a87ed8529e1:tfra</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/e/ce0ece65-ba13-4243-b343-b4da443fceff.jpg?1789735299&quot; alt=&quot;Chandra, Chill of Compliance Emblem&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Chandra, Chill of Compliance Emblem&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Emblem&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Tokens&lt;/p&gt;
+&lt;p&gt;Whenever you cast a spell, draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfra/17/chandra-chill-of-compliance-emblem?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/e/ce0ece65-ba13-4243-b343-b4da443fceff.jpg?1789735299" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Insect [Reality Fracture Commander Tokens]</title>
+      <link>https://scryfall.com/card/tfrc/2/insect?utm_source=api</link>
+      <guid isPermaLink="false">9e8fc105-68f6-4fd6-b760-a77a61793d06:tfrc</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/5/f5d782a4-6726-4d64-9977-82ea2ab77e0f.jpg?1789737199&quot; alt=&quot;Insect&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Insect&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Insect&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Commander Tokens&lt;/p&gt;
+&lt;p&gt;Flying&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfrc/2/insect?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/5/f5d782a4-6726-4d64-9977-82ea2ab77e0f.jpg?1789737199" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Forest Tentacle [Reality Fracture Tokens]</title>
+      <link>https://scryfall.com/card/tfra/9/forest-tentacle?utm_source=api</link>
+      <guid isPermaLink="false">00ae3028-7b59-4166-96da-6b65859bd5db:tfra</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/c/fc924972-5014-45d1-9676-6a76d862b205.jpg?1789735762&quot; alt=&quot;Forest Tentacle&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Forest Tentacle&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Land Creature — Forest Tentacle&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture Tokens&lt;/p&gt;
+&lt;p&gt;(This token has &amp;quot;{T}: Add {G}.&amp;quot; It&amp;#x27;s affected by summoning sickness until your next turn.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tfra/9/forest-tentacle?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/c/fc924972-5014-45d1-9676-6a76d862b205.jpg?1789735762" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Your Fate Ends Here [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/24/your-fate-ends-here?utm_source=api</link>
+      <guid isPermaLink="false">28a362c2-0c99-48e0-b9cb-485a6c1f350b:fra</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/5/25000a17-b701-4d69-b2ef-2c74029199d3.jpg?1789729751&quot; alt=&quot;Your Fate Ends Here&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Your Fate Ends Here&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Destroy target creature or planeswalker with mana value 3 or greater. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/24/your-fate-ends-here?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/5/25000a17-b701-4d69-b2ef-2c74029199d3.jpg?1789729751" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Tomik, Izzet Sparkmage [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/253/tomik-izzet-sparkmage?utm_source=api</link>
+      <guid isPermaLink="false">16604fee-cd8d-41e4-8269-3c7ff756613d:fra</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/c/5c5afd5f-6f37-4c3e-83f0-68fdcea98810.jpg?1789729773&quot; alt=&quot;Tomik, Izzet Sparkmage&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Tomik, Izzet Sparkmage&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Wizard&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;br/&gt;If a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/253/tomik-izzet-sparkmage?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/c/5c5afd5f-6f37-4c3e-83f0-68fdcea98810.jpg?1789729773" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Tomik, Orzhov Lawmage [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/206/tomik-orzhov-lawmage?utm_source=api</link>
+      <guid isPermaLink="false">7a501f7e-eec8-45f7-9ac3-483fd8f5ca5e:fra</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/c/7ca95235-6e54-4ff8-bc2e-6a3d483ff007.jpg?1789729766&quot; alt=&quot;Tomik, Orzhov Lawmage&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Tomik, Orzhov Lawmage&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Advisor&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;Planeswalkers you control have &amp;quot;No more than one creature can attack this planeswalker each combat.&amp;quot;&lt;br/&gt;{T}: Target creature with a +1/+1 counter on it gains flying until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/206/tomik-orzhov-lawmage?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/c/7ca95235-6e54-4ff8-bc2e-6a3d483ff007.jpg?1789729766" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Artifist Acumen [Reality Fracture]</title>
+      <link>https://scryfall.com/card/fra/73/artifist-acumen?utm_source=api</link>
+      <guid isPermaLink="false">129b41cf-8327-42f0-b186-1111b42c08ab:fra</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:40 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/d/7d3b720d-f27c-462a-8f80-15748e5086e1.jpg?1789729762&quot; alt=&quot;Artifist Acumen&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Artifist Acumen&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {R}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
+&lt;p&gt;Creatures you control gain first strike until end of turn.&lt;br/&gt;Draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/73/artifist-acumen?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/d/7d3b720d-f27c-462a-8f80-15748e5086e1.jpg?1789729762" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Primal Witchstalker [Reality Fracture]</title>
       <link>https://scryfall.com/card/fra/144/primal-witchstalker?utm_source=api</link>
