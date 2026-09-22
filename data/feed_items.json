@@ -1,5 +1,32 @@
 [
   {
+    "id": "37d275d1-5ec7-4168-af2c-16b4e08aef08",
+    "oracle_id": "495e52e6-4c2b-4574-9474-eadbdcc8b4ac",
+    "name": "Farseek",
+    "set": "pf27",
+    "set_name": "MagicFest 2027",
+    "mana_cost": "{1}{G}",
+    "type_line": "Sorcery",
+    "oracle_text": "Search your library for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle.",
+    "rarity": "rare",
+    "released_at": "2026-02-26",
+    "discovered_at": "2026-09-22T17:48:21.951955+00:00",
+    "scryfall_uri": "https://scryfall.com/card/pf27/1/farseek?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/3/7/37d275d1-5ec7-4168-af2c-16b4e08aef08.jpg?1790081865",
+      "normal": "https://cards.scryfall.io/normal/front/3/7/37d275d1-5ec7-4168-af2c-16b4e08aef08.jpg?1790081865",
+      "large": "https://cards.scryfall.io/large/front/3/7/37d275d1-5ec7-4168-af2c-16b4e08aef08.jpg?1790081865",
+      "png": "https://cards.scryfall.io/png/front/3/7/37d275d1-5ec7-4168-af2c-16b4e08aef08.png?1790081865",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/3/7/37d275d1-5ec7-4168-af2c-16b4e08aef08.jpg?1790081865",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/3/7/37d275d1-5ec7-4168-af2c-16b4e08aef08.jpg?1790081865",
+      "thumb": "https://cards.scryfall.io/thumb/front/3/7/37d275d1-5ec7-4168-af2c-16b4e08aef08.webp?1790081865",
+      "grid": "https://cards.scryfall.io/grid/front/3/7/37d275d1-5ec7-4168-af2c-16b4e08aef08.webp?1790081865",
+      "display": "https://cards.scryfall.io/display/front/3/7/37d275d1-5ec7-4168-af2c-16b4e08aef08.webp?1790081865",
+      "art": "https://cards.scryfall.io/art/front/3/7/37d275d1-5ec7-4168-af2c-16b4e08aef08.webp?1790081865",
+      "crop": "https://cards.scryfall.io/crop/front/3/7/37d275d1-5ec7-4168-af2c-16b4e08aef08.webp?1790081865"
+    }
+  },
+  {
     "id": "11bafc20-499d-42ab-a2d4-8cd656008994",
     "oracle_id": "693e57f0-2eef-44b1-9595-156398e47fc4",
     "name": "Phyrexian Beast",
@@ -13526,33 +13553,6 @@
       "display": "https://cards.scryfall.io/display/front/9/6/960c7335-331d-488b-be68-2ad1c1c695dc.webp?1789556709",
       "art": "https://cards.scryfall.io/art/front/9/6/960c7335-331d-488b-be68-2ad1c1c695dc.webp?1789556709",
       "crop": "https://cards.scryfall.io/crop/front/9/6/960c7335-331d-488b-be68-2ad1c1c695dc.webp?1789556709"
-    }
-  },
-  {
-    "id": "97bbbd23-ecb1-4407-ac14-dede08532a1e",
-    "oracle_id": "00ad5200-5179-4d1b-8bb3-a09e1b31be58",
-    "name": "Theorix Annex",
-    "set": "fra",
-    "set_name": "Reality Fracture",
-    "mana_cost": "",
-    "type_line": "Land",
-    "oracle_text": "This land enters tapped unless you control a planeswalker.\n{T}: Add {U} or {B}.",
-    "rarity": "common",
-    "released_at": "2026-10-02",
-    "discovered_at": "2026-09-16T17:47:49.368160+00:00",
-    "scryfall_uri": "https://scryfall.com/card/fra/192/theorix-annex?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/9/7/97bbbd23-ecb1-4407-ac14-dede08532a1e.jpg?1789557008",
-      "normal": "https://cards.scryfall.io/normal/front/9/7/97bbbd23-ecb1-4407-ac14-dede08532a1e.jpg?1789557008",
-      "large": "https://cards.scryfall.io/large/front/9/7/97bbbd23-ecb1-4407-ac14-dede08532a1e.jpg?1789557008",
-      "png": "https://cards.scryfall.io/png/front/9/7/97bbbd23-ecb1-4407-ac14-dede08532a1e.png?1789557008",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/9/7/97bbbd23-ecb1-4407-ac14-dede08532a1e.jpg?1789557008",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/9/7/97bbbd23-ecb1-4407-ac14-dede08532a1e.jpg?1789557008",
-      "thumb": "https://cards.scryfall.io/thumb/front/9/7/97bbbd23-ecb1-4407-ac14-dede08532a1e.webp?1789557008",
-      "grid": "https://cards.scryfall.io/grid/front/9/7/97bbbd23-ecb1-4407-ac14-dede08532a1e.webp?1789557008",
-      "display": "https://cards.scryfall.io/display/front/9/7/97bbbd23-ecb1-4407-ac14-dede08532a1e.webp?1789557008",
-      "art": "https://cards.scryfall.io/art/front/9/7/97bbbd23-ecb1-4407-ac14-dede08532a1e.webp?1789557008",
-      "crop": "https://cards.scryfall.io/crop/front/9/7/97bbbd23-ecb1-4407-ac14-dede08532a1e.webp?1789557008"
     }
   }
 ]

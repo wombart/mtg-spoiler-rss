@@ -5,9 +5,24 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 18 Sep 2026 23:41:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 17:48:22 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Farseek [MagicFest 2027]</title>
+      <link>https://scryfall.com/card/pf27/1/farseek?utm_source=api</link>
+      <guid isPermaLink="false">495e52e6-4c2b-4574-9474-eadbdcc8b4ac:pf27</guid>
+      <pubDate>Tue, 22 Sep 2026 17:48:21 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/7/37d275d1-5ec7-4168-af2c-16b4e08aef08.jpg?1790081865&quot; alt=&quot;Farseek&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Farseek&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: MagicFest 2027&lt;/p&gt;
+&lt;p&gt;Search your library for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pf27/1/farseek?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/7/37d275d1-5ec7-4168-af2c-16b4e08aef08.jpg?1790081865" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Phyrexian Beast [Foundations Commander Tokens]</title>
       <link>https://scryfall.com/card/tfdc/11/phyrexian-beast?utm_source=api</link>
@@ -7366,20 +7381,6 @@
 &lt;p&gt;Flash&lt;br/&gt;When this creature enters, choose one —&lt;br/&gt;• Tap target creature.&lt;br/&gt;• Untap target creature.&lt;br/&gt;• Draw a card, then discard a card.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/29/divining-duelist?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/9/6/960c7335-331d-488b-be68-2ad1c1c695dc.jpg?1789556709" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Theorix Annex [Reality Fracture]</title>
-      <link>https://scryfall.com/card/fra/192/theorix-annex?utm_source=api</link>
-      <guid isPermaLink="false">00ad5200-5179-4d1b-8bb3-a09e1b31be58:fra</guid>
-      <pubDate>Wed, 16 Sep 2026 17:47:49 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/7/97bbbd23-ecb1-4407-ac14-dede08532a1e.jpg?1789557008&quot; alt=&quot;Theorix Annex&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Theorix Annex&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
-&lt;p&gt;This land enters tapped unless you control a planeswalker.&lt;br/&gt;{T}: Add {U} or {B}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/192/theorix-annex?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/7/97bbbd23-ecb1-4407-ac14-dede08532a1e.jpg?1789557008" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
