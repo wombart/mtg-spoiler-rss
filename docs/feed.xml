@@ -5,9 +5,231 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 22 Sep 2026 17:48:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 08:51:55 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Yennett, Cryptic Sovereign [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2121/yennett-cryptic-sovereign?utm_source=api</link>
+      <guid isPermaLink="false">4eec6838-3565-407f-8941-ce9421402f0b:sld</guid>
+      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/b/0ba9362f-eb35-4e72-8c51-7047c0a3f648.jpg?1790387379&quot; alt=&quot;Yennett, Cryptic Sovereign&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Yennett, Cryptic Sovereign&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}{U}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Sphinx&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Flying, vigilance, menace&lt;br/&gt;Whenever Yennett attacks, reveal the top card of your library. You may cast it without paying its mana cost if its mana value is odd. If you don&amp;#x27;t cast it, draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2121/yennett-cryptic-sovereign?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/b/0ba9362f-eb35-4e72-8c51-7047c0a3f648.jpg?1790387379" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Virtue of Persistence // Locthwain Scorn [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2129/virtue-of-persistence-locthwain-scorn?utm_source=api</link>
+      <guid isPermaLink="false">fae36da0-bf9c-484f-b2fe-dd8ab2effc5c:sld</guid>
+      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/e/0e48e154-a1e0-49c8-888a-a1f6b568aa39.jpg?1790387742&quot; alt=&quot;Virtue of Persistence // Locthwain Scorn&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Virtue of Persistence // Locthwain Scorn&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {5}{B}{B} // {1}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment // Sorcery — Adventure&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;At the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control.&lt;br/&gt;//&lt;br/&gt;Target creature gets -3/-3 until end of turn. You gain 2 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2129/virtue-of-persistence-locthwain-scorn?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/e/0e48e154-a1e0-49c8-888a-a1f6b568aa39.jpg?1790387742" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Plains [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2116/plains?utm_source=api</link>
+      <guid isPermaLink="false">bc71ebf6-2056-41f7-be35-b2e5c34afa99:sld</guid>
+      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/0/20d35e6b-ee5a-47cd-8e65-175a9df607a7.jpg?1790387896&quot; alt=&quot;Plains&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Plains&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Basic Land — Plains&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;({T}: Add {W}.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2116/plains?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/0/20d35e6b-ee5a-47cd-8e65-175a9df607a7.jpg?1790387896" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sensei's Divining Top [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2131/senseis-divining-top?utm_source=api</link>
+      <guid isPermaLink="false">13575cf9-65c1-4861-b21e-eb2155e07766:sld</guid>
+      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/c/2c71926c-678a-491a-9929-c5b77f2a3de9.jpg?1790387802&quot; alt=&quot;Sensei&amp;#x27;s Divining Top&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Sensei&amp;#x27;s Divining Top&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;{1}: Look at the top three cards of your library, then put them back in any order.&lt;br/&gt;{T}: Draw a card, then put this artifact on top of its owner&amp;#x27;s library.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2131/senseis-divining-top?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/c/2c71926c-678a-491a-9929-c5b77f2a3de9.jpg?1790387802" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Reconnaissance [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2124/reconnaissance?utm_source=api</link>
+      <guid isPermaLink="false">32599d7c-243b-447b-9d5d-e8e29830ac61:sld</guid>
+      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/8/68dad9ea-2333-427d-9bec-3d840e24bc3a.jpg?1790387559&quot; alt=&quot;Reconnaissance&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Reconnaissance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;{0}: Remove target attacking creature you control from combat and untap it. (If you activate during end of combat, the creature will untap after it deals combat damage.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2124/reconnaissance?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/8/68dad9ea-2333-427d-9bec-3d840e24bc3a.jpg?1790387559" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Island [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2117/island?utm_source=api</link>
+      <guid isPermaLink="false">b2c6aa39-2d2a-459c-a555-fb48ba993373:sld</guid>
+      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/a/7a191d35-1d61-404c-b518-6c4188e8afce.jpg?1790387920&quot; alt=&quot;Island&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Island&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Basic Land — Island&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;({T}: Add {U}.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2117/island?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/a/7a191d35-1d61-404c-b518-6c4188e8afce.jpg?1790387920" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Breach the Multiverse [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2128/breach-the-multiverse?utm_source=api</link>
+      <guid isPermaLink="false">ebbd5b9c-07ff-4b42-81c2-ba09539f3a42:sld</guid>
+      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/3/835c60fd-7a25-4d51-b230-069ea68bb8a2.jpg?1790387712&quot; alt=&quot;Breach the Multiverse&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Breach the Multiverse&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {5}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Each player mills ten cards. For each player, choose a creature or planeswalker card in that player&amp;#x27;s graveyard. Put those cards onto the battlefield under your control. Then each creature you control becomes a Phyrexian in addition to its other types.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2128/breach-the-multiverse?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/3/835c60fd-7a25-4d51-b230-069ea68bb8a2.jpg?1790387712" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Swords to Plowshares [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2125/swords-to-plowshares?utm_source=api</link>
+      <guid isPermaLink="false">b1544f21-7e98-461b-aed5-e748b0168c52:sld</guid>
+      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/4/84a4a532-538e-428c-bd62-d0b997895c31.jpg?1790387619&quot; alt=&quot;Swords to Plowshares&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Swords to Plowshares&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Exile target creature. Its controller gains life equal to its power.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2125/swords-to-plowshares?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/4/84a4a532-538e-428c-bd62-d0b997895c31.jpg?1790387619" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Void Winnower [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2122/void-winnower?utm_source=api</link>
+      <guid isPermaLink="false">70ac902e-1eb5-4f83-a5a6-00ac89cfe50f:sld</guid>
+      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/8/b88492e7-ce33-4a7f-9706-61b186e8d04e.jpg?1790387424&quot; alt=&quot;Void Winnower&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Void Winnower&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {9}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Eldrazi&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Your opponents can&amp;#x27;t cast spells with even mana values. (Zero is even.)&lt;br/&gt;Your opponents can&amp;#x27;t block with creatures with even mana values.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2122/void-winnower?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/8/b88492e7-ce33-4a7f-9706-61b186e8d04e.jpg?1790387424" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sol Ring [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2132/sol-ring?utm_source=api</link>
+      <guid isPermaLink="false">6ad8011d-3471-4369-9d68-b264cc027487:sld</guid>
+      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/f/bf6b187e-5ad0-4731-9c39-638451ac1e30.jpg?1790387828&quot; alt=&quot;Sol Ring&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Sol Ring&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}{C}.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2132/sol-ring?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/f/bf6b187e-5ad0-4731-9c39-638451ac1e30.jpg?1790387828" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Shadrix Silverquill [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2130/shadrix-silverquill?utm_source=api</link>
+      <guid isPermaLink="false">2143f413-7baa-4fd6-a7ca-32f52bfa553f:sld</guid>
+      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/f/cf3e5f36-b024-4342-846d-2cf1d4965ca1.jpg?1790387763&quot; alt=&quot;Shadrix Silverquill&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Shadrix Silverquill&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{W}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Elder Dragon&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Flying, double strike&lt;br/&gt;At the beginning of combat on your turn, you may choose two. Each mode must target a different player.&lt;br/&gt;• Target player creates a 2/1 white and black Inkling creature token with flying.&lt;br/&gt;• Target player draws a card and loses 1 life.&lt;br/&gt;• Target player puts a +1/+1 counter on each creature they control.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2130/shadrix-silverquill?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/f/cf3e5f36-b024-4342-846d-2cf1d4965ca1.jpg?1790387763" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Weathered Wayfarer [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2126/weathered-wayfarer?utm_source=api</link>
+      <guid isPermaLink="false">1093fdb6-bd4f-46a8-92e3-5aa46b52bb4f:sld</guid>
+      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/4/e4f780bb-8f0c-46af-a53d-abae2e1f4f26.jpg?1790387643&quot; alt=&quot;Weathered Wayfarer&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Weathered Wayfarer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Human Nomad Cleric&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;{W}, {T}: Search your library for a land card, reveal it, put it into your hand, then shuffle. Activate only if an opponent controls more lands than you.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2126/weathered-wayfarer?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/4/e4f780bb-8f0c-46af-a53d-abae2e1f4f26.jpg?1790387643" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Esper Sentinel [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2123/esper-sentinel?utm_source=api</link>
+      <guid isPermaLink="false">5def9f38-0a0b-4e8d-9f9d-29dcb46520b4:sld</guid>
+      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/8/f8b6c532-b837-42b6-9ed2-0231d0779626.jpg?1790387492&quot; alt=&quot;Esper Sentinel&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Esper Sentinel&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact Creature — Human Soldier&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is this creature&amp;#x27;s power.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2123/esper-sentinel?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/8/f8b6c532-b837-42b6-9ed2-0231d0779626.jpg?1790387492" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Misleading Signpost [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2127/misleading-signpost?utm_source=api</link>
+      <guid isPermaLink="false">eaffdf95-8e20-408d-99fa-3adc9e19523d:sld</guid>
+      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/c/fccfb909-63bf-44eb-a1cb-21d0edb17074.jpg?1790387659&quot; alt=&quot;Misleading Signpost&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Misleading Signpost&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Flash&lt;br/&gt;When this artifact enters during the declare attackers step, you may reselect which player or permanent target attacking creature is attacking. (It can&amp;#x27;t attack its controller or their permanents.)&lt;br/&gt;{T}: Add {U}.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2127/misleading-signpost?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/c/fccfb909-63bf-44eb-a1cb-21d0edb17074.jpg?1790387659" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Swamp [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2118/swamp?utm_source=api</link>
+      <guid isPermaLink="false">56719f6a-1a6c-4c0a-8d21-18f7d7350b68:sld</guid>
+      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/d/fdfb7347-04cd-437f-955f-aab99e32b679.jpg?1790387940&quot; alt=&quot;Swamp&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Swamp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Basic Land — Swamp&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;({T}: Add {B}.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2118/swamp?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/d/fdfb7347-04cd-437f-955f-aab99e32b679.jpg?1790387940" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Farseek [MagicFest 2027]</title>
       <link>https://scryfall.com/card/pf27/1/farseek?utm_source=api</link>
@@ -7162,225 +7384,6 @@
 &lt;p&gt;Draw a card. If this spell wasn&amp;#x27;t cast from your hand, draw two cards instead.&lt;br/&gt;Flashback—{1}{U/R}{U/R}, Discard a card. (You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/157/twinned-vision?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/5/5/55f85984-0137-4899-8993-bbc8c4794d33.jpg?1789556940" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Living Library [Reality Fracture]</title>
-      <link>https://scryfall.com/card/fra/172/living-library?utm_source=api</link>
-      <guid isPermaLink="false">81f022a7-fd19-4340-b8a0-6b11ab3e9d91:fra</guid>
-      <pubDate>Wed, 16 Sep 2026 17:47:49 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/d/5d4a8e5f-0024-4da3-a2f5-edb48b12e733.jpg?1789556949&quot; alt=&quot;Living Library&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Living Library&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact Creature — Book Illusion&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
-&lt;p&gt;{6}, Sacrifice this creature: Choose target creature or planeswalker an opponent controls. Its owner shuffles it into their library.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/172/living-library?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/5/d/5d4a8e5f-0024-4da3-a2f5-edb48b12e733.jpg?1789556949" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Memnarch, the Warden [Reality Fracture Commander]</title>
-      <link>https://scryfall.com/card/frc/15/memnarch-the-warden?utm_source=api</link>
-      <guid isPermaLink="false">f2630b02-fb48-4167-8a47-8284f7d4c484:frc</guid>
-      <pubDate>Wed, 16 Sep 2026 17:47:49 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/0/60d05210-c2b1-4248-a470-e0f8123d33f8.jpg?1789561632&quot; alt=&quot;Memnarch, the Warden&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Memnarch, the Warden&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {10}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Artifact Creature — Wizard&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
-&lt;p&gt;Indestructible&lt;br/&gt;When Memnarch enters, create two 1/1 colorless Myr artifact creature tokens.&lt;br/&gt;Whenever Memnarch attacks, draw a card for each artifact you control.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/15/memnarch-the-warden?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/6/0/60d05210-c2b1-4248-a470-e0f8123d33f8.jpg?1789561632" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Unflinching Hortimancer [Reality Fracture]</title>
-      <link>https://scryfall.com/card/fra/23/unflinching-hortimancer?utm_source=api</link>
-      <guid isPermaLink="false">7cd0bd74-2463-4e9d-9802-69ac4ef6d543:fra</guid>
-      <pubDate>Wed, 16 Sep 2026 17:47:49 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/3/63f82985-c9c2-4d0a-ac4f-560166bebd9f.jpg?1789556741&quot; alt=&quot;Unflinching Hortimancer&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Unflinching Hortimancer&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Human Cleric&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
-&lt;p&gt;Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)&lt;br/&gt;Whenever you gain life, put a +1/+1 counter on this creature.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/23/unflinching-hortimancer?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/6/3/63f82985-c9c2-4d0a-ac4f-560166bebd9f.jpg?1789556741" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Recursive Recruitment [Reality Fracture]</title>
-      <link>https://scryfall.com/card/fra/147/recursive-recruitment?utm_source=api</link>
-      <guid isPermaLink="false">b73e35b0-b8c9-471a-bdff-f7dc8f453d7a:fra</guid>
-      <pubDate>Wed, 16 Sep 2026 17:47:49 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/8/68fddb6a-86d4-4ebb-907d-fdcaadebc4b3.jpg?1789556898&quot; alt=&quot;Recursive Recruitment&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Recursive Recruitment&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{U}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
-&lt;p&gt;Create two 2/2 colorless Wizard Soldier creature tokens named Cadet. If this spell was cast from a graveyard, put a +1/+1 counter on each of them for every three cards in your graveyard.&lt;br/&gt;Flashback {6}{U}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/147/recursive-recruitment?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/6/8/68fddb6a-86d4-4ebb-907d-fdcaadebc4b3.jpg?1789556898" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Stingerquill Annex [Reality Fracture]</title>
-      <link>https://scryfall.com/card/fra/190/stingerquill-annex?utm_source=api</link>
-      <guid isPermaLink="false">26e20ae5-4059-4d63-9db5-6e12421d1aba:fra</guid>
-      <pubDate>Wed, 16 Sep 2026 17:47:49 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/e/6ede3143-69ac-4cbe-922a-d25b07c26da7.jpg?1789557046&quot; alt=&quot;Stingerquill Annex&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Stingerquill Annex&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
-&lt;p&gt;This land enters tapped unless you control a planeswalker.&lt;br/&gt;{T}: Add {B} or {R}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/190/stingerquill-annex?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/6/e/6ede3143-69ac-4cbe-922a-d25b07c26da7.jpg?1789557046" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Omnath, Locus of the Void [Reality Fracture Commander]</title>
-      <link>https://scryfall.com/card/frc/3/omnath-locus-of-the-void?utm_source=api</link>
-      <guid isPermaLink="false">579225b5-50e2-4891-8871-0bf6dbc07e33:frc</guid>
-      <pubDate>Wed, 16 Sep 2026 17:47:49 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/2/727511d8-be1a-4c2e-92f6-5cc9d67a2b0c.jpg?1789562187&quot; alt=&quot;Omnath, Locus of the Void&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Omnath, Locus of the Void&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {7}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Elemental&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
-&lt;p&gt;Omnath gets +1/+1 for each unspent mana you have.&lt;br/&gt;If you would lose unspent mana, that mana becomes colorless instead.&lt;br/&gt;Landfall — Whenever a land you control enters, add {C}{C}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/3/omnath-locus-of-the-void?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/7/2/727511d8-be1a-4c2e-92f6-5cc9d67a2b0c.jpg?1789562187" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Innovative Commons [Reality Fracture]</title>
-      <link>https://scryfall.com/card/fra/182/innovative-commons?utm_source=api</link>
-      <guid isPermaLink="false">6812e4d3-0034-4fc8-9ee9-520f76a0ea94:fra</guid>
-      <pubDate>Wed, 16 Sep 2026 17:47:49 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/4/84ea799a-faa2-4ff1-a933-432d4ee31a3b.jpg?1789556991&quot; alt=&quot;Innovative Commons&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Innovative Commons&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
-&lt;p&gt;This land enters tapped unless you control a planeswalker.&lt;br/&gt;{T}: Add {U} or {R}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/182/innovative-commons?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/4/84ea799a-faa2-4ff1-a933-432d4ee31a3b.jpg?1789556991" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Medic's Kitesail [Reality Fracture]</title>
-      <link>https://scryfall.com/card/fra/173/medics-kitesail?utm_source=api</link>
-      <guid isPermaLink="false">eacfe895-5106-437c-b8c1-2ff03c107744:fra</guid>
-      <pubDate>Wed, 16 Sep 2026 17:47:49 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/b/8b07409a-1dce-461d-95e4-1130521ff4c4.jpg?1789556945&quot; alt=&quot;Medic&amp;#x27;s Kitesail&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Medic&amp;#x27;s Kitesail&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact — Equipment&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
-&lt;p&gt;Equipped creature gets +1/+0 and has flying and &amp;quot;Whenever this creature attacks, you gain 1 life.&amp;quot;&lt;br/&gt;Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/173/medics-kitesail?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/b/8b07409a-1dce-461d-95e4-1130521ff4c4.jpg?1789556945" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Turbulent Wetlands [Reality Fracture Commander]</title>
-      <link>https://scryfall.com/card/frc/18/turbulent-wetlands?utm_source=api</link>
-      <guid isPermaLink="false">b51c8659-ec4f-4213-beb1-49a7acd7366c:frc</guid>
-      <pubDate>Wed, 16 Sep 2026 17:47:49 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/d/8d86f7f8-492d-4e19-8b61-39084c6299ac.jpg?1789562345&quot; alt=&quot;Turbulent Wetlands&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Turbulent Wetlands&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land — Island Swamp&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
-&lt;p&gt;({T}: Add {U} or {B}.)&lt;br/&gt;This land enters tapped unless your opponents control eight or more lands.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/18/turbulent-wetlands?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/d/8d86f7f8-492d-4e19-8b61-39084c6299ac.jpg?1789562345" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Arni, Humble Scribe [Reality Fracture]</title>
-      <link>https://scryfall.com/card/fra/211/arni-humble-scribe?utm_source=api</link>
-      <guid isPermaLink="false">a680d1ab-99f2-43d0-b289-5fdba4083d03:fra</guid>
-      <pubDate>Wed, 16 Sep 2026 17:47:49 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/e/8e3a2239-9348-4639-9318-e9e35b2cf86b.jpg?1789557032&quot; alt=&quot;Arni, Humble Scribe&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Arni, Humble Scribe&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Wizard&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
-&lt;p&gt;Whenever another nontoken creature you control enters, untap Arni.&lt;br/&gt;{T}: Draw a card, then discard a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/211/arni-humble-scribe?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/e/8e3a2239-9348-4639-9318-e9e35b2cf86b.jpg?1789557032" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Sol Ring [Reality Fracture Commander]</title>
-      <link>https://scryfall.com/card/frc/21/sol-ring?utm_source=api</link>
-      <guid isPermaLink="false">6ad8011d-3471-4369-9d68-b264cc027487:frc</guid>
-      <pubDate>Wed, 16 Sep 2026 17:47:49 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/e/8ee443cc-e17a-493b-9c93-1f9e141a30e4.jpg?1789562626&quot; alt=&quot;Sol Ring&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Sol Ring&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
-&lt;p&gt;{T}: Add {C}{C}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/21/sol-ring?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/e/8ee443cc-e17a-493b-9c93-1f9e141a30e4.jpg?1789562626" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Hexhaven Dueling Arena [Reality Fracture]</title>
-      <link>https://scryfall.com/card/fra/181/hexhaven-dueling-arena?utm_source=api</link>
-      <guid isPermaLink="false">2cc075da-f79b-4050-84eb-2c1b9a30260c:fra</guid>
-      <pubDate>Wed, 16 Sep 2026 17:47:49 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/1/9128ce00-6744-4d36-bfbe-ef75d78110b0.jpg?1789556985&quot; alt=&quot;Hexhaven Dueling Arena&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Hexhaven Dueling Arena&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
-&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{2}, {T}: Target creature that attacked this turn becomes prepared. Activate only as a sorcery. (Only creatures with prepare spells can become prepared.)&lt;br/&gt;{4}, {T}: Target creature becomes prepared.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/181/hexhaven-dueling-arena?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/1/9128ce00-6744-4d36-bfbe-ef75d78110b0.jpg?1789556985" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Turbulent Shore [Reality Fracture Commander]</title>
-      <link>https://scryfall.com/card/frc/17/turbulent-shore?utm_source=api</link>
-      <guid isPermaLink="false">c13c5f07-dac5-47d0-a088-e24b9fbec3c5:frc</guid>
-      <pubDate>Wed, 16 Sep 2026 17:47:49 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/2/92039341-152a-4797-a3df-e89e8d5145d3.jpg?1789562299&quot; alt=&quot;Turbulent Shore&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Turbulent Shore&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land — Plains Island&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
-&lt;p&gt;({T}: Add {W} or {U}.)&lt;br/&gt;This land enters tapped unless your opponents control eight or more lands.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/17/turbulent-shore?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/2/92039341-152a-4797-a3df-e89e8d5145d3.jpg?1789562299" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Meticulous Commons [Reality Fracture]</title>
-      <link>https://scryfall.com/card/fra/184/meticulous-commons?utm_source=api</link>
-      <guid isPermaLink="false">7fdd471f-ec95-4aa7-8f8a-ad8946de5ab4:fra</guid>
-      <pubDate>Wed, 16 Sep 2026 17:47:49 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/3/93ac525e-1919-43dd-aba4-073b7e4c1768.jpg?1789557002&quot; alt=&quot;Meticulous Commons&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Meticulous Commons&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
-&lt;p&gt;This land enters tapped unless you control a planeswalker.&lt;br/&gt;{T}: Add {W} or {B}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/184/meticulous-commons?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/3/93ac525e-1919-43dd-aba4-073b7e4c1768.jpg?1789557002" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Divining Duelist [Reality Fracture]</title>
-      <link>https://scryfall.com/card/fra/29/divining-duelist?utm_source=api</link>
-      <guid isPermaLink="false">d0ce03fa-2284-4217-85b2-4db6b8a88c94:fra</guid>
-      <pubDate>Wed, 16 Sep 2026 17:47:49 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/6/960c7335-331d-488b-be68-2ad1c1c695dc.jpg?1789556709&quot; alt=&quot;Divining Duelist&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Divining Duelist&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Merfolk Wizard&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
-&lt;p&gt;Flash&lt;br/&gt;When this creature enters, choose one —&lt;br/&gt;• Tap target creature.&lt;br/&gt;• Untap target creature.&lt;br/&gt;• Draw a card, then discard a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/29/divining-duelist?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/6/960c7335-331d-488b-be68-2ad1c1c695dc.jpg?1789556709" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
