@@ -5,9 +5,37 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 26 Sep 2026 08:51:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 19:21:24 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Forest [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2120/forest?utm_source=api</link>
+      <guid isPermaLink="false">b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6:sld</guid>
+      <pubDate>Sun, 27 Sep 2026 19:21:24 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/9/191c278a-cfcf-45e8-a2e6-403f71157f7a.jpg?1790512370&quot; alt=&quot;Forest&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Forest&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Basic Land — Forest&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;({T}: Add {G}.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2120/forest?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/9/191c278a-cfcf-45e8-a2e6-403f71157f7a.jpg?1790512370" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Mountain [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2119/mountain?utm_source=api</link>
+      <guid isPermaLink="false">a3fb7228-e76b-4e96-a40e-20b5fed75685:sld</guid>
+      <pubDate>Sun, 27 Sep 2026 19:21:24 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/3/935543cb-87f4-4568-8610-d7f776975666.jpg?1790512347&quot; alt=&quot;Mountain&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Mountain&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Basic Land — Mountain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;({T}: Add {R}.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2119/mountain?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/3/935543cb-87f4-4568-8610-d7f776975666.jpg?1790512347" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Yennett, Cryptic Sovereign [Secret Lair Drop]</title>
       <link>https://scryfall.com/card/sld/2121/yennett-cryptic-sovereign?utm_source=api</link>
@@ -7354,36 +7382,6 @@
 &lt;p&gt;This land enters tapped unless you control a planeswalker.&lt;br/&gt;{T}: Add {W} or {U}.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/177/fatehold-annex?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/5/1/5140f962-62f3-40fd-a322-44896c7e2613.jpg?1789556955" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Jace, Multiverse Architect [Reality Fracture Commander]</title>
-      <link>https://scryfall.com/card/frc/1/jace-multiverse-architect?utm_source=api</link>
-      <guid isPermaLink="false">3321c134-bf5b-4f63-8035-fca0bbdfa86b:frc</guid>
-      <pubDate>Wed, 16 Sep 2026 17:47:49 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/5/55cd03d9-2535-4cf3-a8b2-1418e1190f4a.jpg?1789562771&quot; alt=&quot;Jace, Multiverse Architect&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Jace, Multiverse Architect&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{W}{U}{B}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Planeswalker — Jace&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
-&lt;p&gt;At the beginning of combat on each opponent&amp;#x27;s turn, they may pay {2}. If they don&amp;#x27;t, creatures they control can&amp;#x27;t attack Jaces you control this turn.&lt;br/&gt;+1: Draw two cards, then put a card from your hand on the bottom of your library.&lt;br/&gt;−3: Exile another target planeswalker or creature you control. Reveal cards from the top of your library until you reveal a creature or planeswalker card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.&lt;br/&gt;Jace, Multiverse Architect can be your commander.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/1/jace-multiverse-architect?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/5/5/55cd03d9-2535-4cf3-a8b2-1418e1190f4a.jpg?1789562771" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Twinned Vision [Reality Fracture]</title>
-      <link>https://scryfall.com/card/fra/157/twinned-vision?utm_source=api</link>
-      <guid isPermaLink="false">fa1cc78f-26bc-4d5d-973b-7cb7d7490973:fra</guid>
-      <pubDate>Wed, 16 Sep 2026 17:47:49 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/5/55f85984-0137-4899-8993-bbc8c4794d33.jpg?1789556940&quot; alt=&quot;Twinned Vision&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Twinned Vision&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{U/R}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture&lt;/p&gt;
-&lt;p&gt;Draw a card. If this spell wasn&amp;#x27;t cast from your hand, draw two cards instead.&lt;br/&gt;Flashback—{1}{U/R}{U/R}, Discard a card. (You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fra/157/twinned-vision?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/5/5/55f85984-0137-4899-8993-bbc8c4794d33.jpg?1789556940" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

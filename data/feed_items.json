@@ -1,5 +1,59 @@
 [
   {
+    "id": "191c278a-cfcf-45e8-a2e6-403f71157f7a",
+    "oracle_id": "b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6",
+    "name": "Forest",
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "mana_cost": "",
+    "type_line": "Basic Land — Forest",
+    "oracle_text": "({T}: Add {G}.)",
+    "rarity": "rare",
+    "released_at": "2026-09-28",
+    "discovered_at": "2026-09-27T19:21:24.164141+00:00",
+    "scryfall_uri": "https://scryfall.com/card/sld/2120/forest?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/1/9/191c278a-cfcf-45e8-a2e6-403f71157f7a.jpg?1790512370",
+      "normal": "https://cards.scryfall.io/normal/front/1/9/191c278a-cfcf-45e8-a2e6-403f71157f7a.jpg?1790512370",
+      "large": "https://cards.scryfall.io/large/front/1/9/191c278a-cfcf-45e8-a2e6-403f71157f7a.jpg?1790512370",
+      "png": "https://cards.scryfall.io/png/front/1/9/191c278a-cfcf-45e8-a2e6-403f71157f7a.png?1790512370",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/1/9/191c278a-cfcf-45e8-a2e6-403f71157f7a.jpg?1790512370",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/1/9/191c278a-cfcf-45e8-a2e6-403f71157f7a.jpg?1790512370",
+      "thumb": "https://cards.scryfall.io/thumb/front/1/9/191c278a-cfcf-45e8-a2e6-403f71157f7a.webp?1790512370",
+      "grid": "https://cards.scryfall.io/grid/front/1/9/191c278a-cfcf-45e8-a2e6-403f71157f7a.webp?1790512370",
+      "display": "https://cards.scryfall.io/display/front/1/9/191c278a-cfcf-45e8-a2e6-403f71157f7a.webp?1790512370",
+      "art": "https://cards.scryfall.io/art/front/1/9/191c278a-cfcf-45e8-a2e6-403f71157f7a.webp?1790512370",
+      "crop": "https://cards.scryfall.io/crop/front/1/9/191c278a-cfcf-45e8-a2e6-403f71157f7a.webp?1790512370"
+    }
+  },
+  {
+    "id": "935543cb-87f4-4568-8610-d7f776975666",
+    "oracle_id": "a3fb7228-e76b-4e96-a40e-20b5fed75685",
+    "name": "Mountain",
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "mana_cost": "",
+    "type_line": "Basic Land — Mountain",
+    "oracle_text": "({T}: Add {R}.)",
+    "rarity": "rare",
+    "released_at": "2026-09-28",
+    "discovered_at": "2026-09-27T19:21:24.164141+00:00",
+    "scryfall_uri": "https://scryfall.com/card/sld/2119/mountain?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/9/3/935543cb-87f4-4568-8610-d7f776975666.jpg?1790512347",
+      "normal": "https://cards.scryfall.io/normal/front/9/3/935543cb-87f4-4568-8610-d7f776975666.jpg?1790512347",
+      "large": "https://cards.scryfall.io/large/front/9/3/935543cb-87f4-4568-8610-d7f776975666.jpg?1790512347",
+      "png": "https://cards.scryfall.io/png/front/9/3/935543cb-87f4-4568-8610-d7f776975666.png?1790512347",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/9/3/935543cb-87f4-4568-8610-d7f776975666.jpg?1790512347",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/9/3/935543cb-87f4-4568-8610-d7f776975666.jpg?1790512347",
+      "thumb": "https://cards.scryfall.io/thumb/front/9/3/935543cb-87f4-4568-8610-d7f776975666.webp?1790512347",
+      "grid": "https://cards.scryfall.io/grid/front/9/3/935543cb-87f4-4568-8610-d7f776975666.webp?1790512347",
+      "display": "https://cards.scryfall.io/display/front/9/3/935543cb-87f4-4568-8610-d7f776975666.webp?1790512347",
+      "art": "https://cards.scryfall.io/art/front/9/3/935543cb-87f4-4568-8610-d7f776975666.webp?1790512347",
+      "crop": "https://cards.scryfall.io/crop/front/9/3/935543cb-87f4-4568-8610-d7f776975666.webp?1790512347"
+    }
+  },
+  {
     "id": "0ba9362f-eb35-4e72-8c51-7047c0a3f648",
     "oracle_id": "4eec6838-3565-407f-8941-ce9421402f0b",
     "name": "Yennett, Cryptic Sovereign",
@@ -13510,60 +13564,6 @@
       "display": "https://cards.scryfall.io/display/front/5/1/5140f962-62f3-40fd-a322-44896c7e2613.webp?1789556955",
       "art": "https://cards.scryfall.io/art/front/5/1/5140f962-62f3-40fd-a322-44896c7e2613.webp?1789556955",
       "crop": "https://cards.scryfall.io/crop/front/5/1/5140f962-62f3-40fd-a322-44896c7e2613.webp?1789556955"
-    }
-  },
-  {
-    "id": "55cd03d9-2535-4cf3-a8b2-1418e1190f4a",
-    "oracle_id": "3321c134-bf5b-4f63-8035-fca0bbdfa86b",
-    "name": "Jace, Multiverse Architect",
-    "set": "frc",
-    "set_name": "Reality Fracture Commander",
-    "mana_cost": "{1}{W}{U}{B}{R}",
-    "type_line": "Legendary Planeswalker — Jace",
-    "oracle_text": "At the beginning of combat on each opponent's turn, they may pay {2}. If they don't, creatures they control can't attack Jaces you control this turn.\n+1: Draw two cards, then put a card from your hand on the bottom of your library.\n−3: Exile another target planeswalker or creature you control. Reveal cards from the top of your library until you reveal a creature or planeswalker card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.\nJace, Multiverse Architect can be your commander.",
-    "rarity": "mythic",
-    "released_at": "2026-10-02",
-    "discovered_at": "2026-09-16T17:47:49.368160+00:00",
-    "scryfall_uri": "https://scryfall.com/card/frc/1/jace-multiverse-architect?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/5/5/55cd03d9-2535-4cf3-a8b2-1418e1190f4a.jpg?1789562771",
-      "normal": "https://cards.scryfall.io/normal/front/5/5/55cd03d9-2535-4cf3-a8b2-1418e1190f4a.jpg?1789562771",
-      "large": "https://cards.scryfall.io/large/front/5/5/55cd03d9-2535-4cf3-a8b2-1418e1190f4a.jpg?1789562771",
-      "png": "https://cards.scryfall.io/png/front/5/5/55cd03d9-2535-4cf3-a8b2-1418e1190f4a.png?1789562771",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/5/5/55cd03d9-2535-4cf3-a8b2-1418e1190f4a.jpg?1789562771",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/5/5/55cd03d9-2535-4cf3-a8b2-1418e1190f4a.jpg?1789562771",
-      "thumb": "https://cards.scryfall.io/thumb/front/5/5/55cd03d9-2535-4cf3-a8b2-1418e1190f4a.webp?1789562771",
-      "grid": "https://cards.scryfall.io/grid/front/5/5/55cd03d9-2535-4cf3-a8b2-1418e1190f4a.webp?1789562771",
-      "display": "https://cards.scryfall.io/display/front/5/5/55cd03d9-2535-4cf3-a8b2-1418e1190f4a.webp?1789562771",
-      "art": "https://cards.scryfall.io/art/front/5/5/55cd03d9-2535-4cf3-a8b2-1418e1190f4a.webp?1789562771",
-      "crop": "https://cards.scryfall.io/crop/front/5/5/55cd03d9-2535-4cf3-a8b2-1418e1190f4a.webp?1789562771"
-    }
-  },
-  {
-    "id": "55f85984-0137-4899-8993-bbc8c4794d33",
-    "oracle_id": "fa1cc78f-26bc-4d5d-973b-7cb7d7490973",
-    "name": "Twinned Vision",
-    "set": "fra",
-    "set_name": "Reality Fracture",
-    "mana_cost": "{1}{U/R}",
-    "type_line": "Instant",
-    "oracle_text": "Draw a card. If this spell wasn't cast from your hand, draw two cards instead.\nFlashback—{1}{U/R}{U/R}, Discard a card. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
-    "rarity": "common",
-    "released_at": "2026-10-02",
-    "discovered_at": "2026-09-16T17:47:49.368160+00:00",
-    "scryfall_uri": "https://scryfall.com/card/fra/157/twinned-vision?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/5/5/55f85984-0137-4899-8993-bbc8c4794d33.jpg?1789556940",
-      "normal": "https://cards.scryfall.io/normal/front/5/5/55f85984-0137-4899-8993-bbc8c4794d33.jpg?1789556940",
-      "large": "https://cards.scryfall.io/large/front/5/5/55f85984-0137-4899-8993-bbc8c4794d33.jpg?1789556940",
-      "png": "https://cards.scryfall.io/png/front/5/5/55f85984-0137-4899-8993-bbc8c4794d33.png?1789556940",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/5/5/55f85984-0137-4899-8993-bbc8c4794d33.jpg?1789556940",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/5/5/55f85984-0137-4899-8993-bbc8c4794d33.jpg?1789556940",
-      "thumb": "https://cards.scryfall.io/thumb/front/5/5/55f85984-0137-4899-8993-bbc8c4794d33.webp?1789556940",
-      "grid": "https://cards.scryfall.io/grid/front/5/5/55f85984-0137-4899-8993-bbc8c4794d33.webp?1789556940",
-      "display": "https://cards.scryfall.io/display/front/5/5/55f85984-0137-4899-8993-bbc8c4794d33.webp?1789556940",
-      "art": "https://cards.scryfall.io/art/front/5/5/55f85984-0137-4899-8993-bbc8c4794d33.webp?1789556940",
-      "crop": "https://cards.scryfall.io/crop/front/5/5/55f85984-0137-4899-8993-bbc8c4794d33.webp?1789556940"
     }
   }
 ]
