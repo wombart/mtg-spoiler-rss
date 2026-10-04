@@ -5,9 +5,84 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Sun, 04 Oct 2026 13:31:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 17:53:43 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Camaraderie [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/7183/camaraderie?utm_source=api</link>
+      <guid isPermaLink="false">9aab386c-d48c-4611-b757-aa69b26cc1b1:sld</guid>
+      <pubDate>Sun, 04 Oct 2026 17:53:43 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/9/49d9b42b-e68d-40f3-9f56-6a1b7677a704.jpg?1791121713&quot; alt=&quot;Camaraderie&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Camaraderie&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{G}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;You gain X life and draw X cards, where X is the number of creatures you control. Creatures you control get +1/+1 until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/7183/camaraderie?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/9/49d9b42b-e68d-40f3-9f56-6a1b7677a704.jpg?1791121713" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Whispersilk Cloak [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/7182/whispersilk-cloak?utm_source=api</link>
+      <guid isPermaLink="false">9ad4f730-a18e-4a7c-a468-a926c718c741:sld</guid>
+      <pubDate>Sun, 04 Oct 2026 17:53:43 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/f/6f6cdd9d-98ca-4949-bf19-43e770f4658e.jpg?1791121776&quot; alt=&quot;Whispersilk Cloak&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Whispersilk Cloak&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact — Equipment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Equipped creature can&amp;#x27;t be blocked and has shroud. (It can&amp;#x27;t be the target of spells or abilities.)&lt;br/&gt;Equip {2}&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/7182/whispersilk-cloak?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/f/6f6cdd9d-98ca-4949-bf19-43e770f4658e.jpg?1791121776" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Relic of Legends [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/7187/relic-of-legends?utm_source=api</link>
+      <guid isPermaLink="false">4d9554de-c005-41ab-a941-39328ebff9de:sld</guid>
+      <pubDate>Sun, 04 Oct 2026 17:53:43 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/b/9b5320b3-999d-4ec5-97a5-60c4670b97d8.jpg?1791121576&quot; alt=&quot;Relic of Legends&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Relic of Legends&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;{T}: Add one mana of any color.&lt;br/&gt;Tap an untapped legendary creature you control: Add one mana of any color.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/7187/relic-of-legends?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/b/9b5320b3-999d-4ec5-97a5-60c4670b97d8.jpg?1791121576" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Full Throttle [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/7181/full-throttle?utm_source=api</link>
+      <guid isPermaLink="false">3c2f87eb-b0f4-4578-b143-6fba313a82ec:sld</guid>
+      <pubDate>Sun, 04 Oct 2026 17:53:43 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/1/a15b1c7b-828a-4d51-a744-c212812b8a0e.jpg?1791121584&quot; alt=&quot;Full Throttle&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Full Throttle&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{R}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;After this main phase, there are two additional combat phases.&lt;br/&gt;At the beginning of each combat this turn, untap all creatures that attacked this turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/7181/full-throttle?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/1/a15b1c7b-828a-4d51-a744-c212812b8a0e.jpg?1791121584" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ponder [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/7186/ponder?utm_source=api</link>
+      <guid isPermaLink="false">02090581-61aa-4348-ad57-451be8ee91c2:sld</guid>
+      <pubDate>Sun, 04 Oct 2026 17:53:43 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/f/bfae4942-d110-4ea2-b56e-fc95a439fb49.jpg?1791121648&quot; alt=&quot;Ponder&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Ponder&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {U}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Look at the top three cards of your library, then put them back in any order. You may shuffle.&lt;br/&gt;Draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/7186/ponder?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/f/bfae4942-d110-4ea2-b56e-fc95a439fb49.jpg?1791121648" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Perplexing Chimera [Secret Lair Drop]</title>
       <link>https://scryfall.com/card/sld/7039/perplexing-chimera?utm_source=api</link>
@@ -7318,79 +7393,6 @@
 &lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}: Add {B} or {R}. This artifact deals 1 damage to you.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/63/talisman-of-indulgence?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/3/6/36bd614f-ab3b-4ad1-ab5c-a7ca0a641f32.jpg?1789599847" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Glacial Fortress [Reality Fracture Commander]</title>
-      <link>https://scryfall.com/card/frc/73/glacial-fortress?utm_source=api</link>
-      <guid isPermaLink="false">027dd013-baa7-4111-b3c9-f4d1414e9c45:frc</guid>
-      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/c/3c726a60-8de7-4d5e-8ad5-8405e6ac36b5.jpg?1789599901&quot; alt=&quot;Glacial Fortress&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Glacial Fortress&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
-&lt;p&gt;This land enters tapped unless you control a Plains or an Island.&lt;br/&gt;{T}: Add {W} or {U}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/73/glacial-fortress?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/3/c/3c726a60-8de7-4d5e-8ad5-8405e6ac36b5.jpg?1789599901" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Flawless Maneuver [Reality Fracture Commander]</title>
-      <link>https://scryfall.com/card/frc/25/flawless-maneuver?utm_source=api</link>
-      <guid isPermaLink="false">4e183439-17d2-47ff-9d99-5e22821d91e3:frc</guid>
-      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/f/3ffe82a4-584e-4ebd-9551-a745bed01e26.jpg?1789599786&quot; alt=&quot;Flawless Maneuver&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Flawless Maneuver&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
-&lt;p&gt;If you control a commander, you may cast this spell without paying its mana cost.&lt;br/&gt;Creatures you control gain indestructible until end of turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/25/flawless-maneuver?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/3/f/3ffe82a4-584e-4ebd-9551-a745bed01e26.jpg?1789599786" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Chromatic Lantern [Reality Fracture Commander]</title>
-      <link>https://scryfall.com/card/frc/54/chromatic-lantern?utm_source=api</link>
-      <guid isPermaLink="false">539f5396-d99a-417d-a84c-dff7930b5900:frc</guid>
-      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/2/424c40b0-49d8-4a6f-a0ef-545738224ec9.jpg?1789599834&quot; alt=&quot;Chromatic Lantern&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Chromatic Lantern&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
-&lt;p&gt;Lands you control have &amp;quot;{T}: Add one mana of any color.&amp;quot;&lt;br/&gt;{T}: Add one mana of any color.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/54/chromatic-lantern?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/2/424c40b0-49d8-4a6f-a0ef-545738224ec9.jpg?1789599834" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Talisman of Progress [Reality Fracture Commander]</title>
-      <link>https://scryfall.com/card/frc/64/talisman-of-progress?utm_source=api</link>
-      <guid isPermaLink="false">00e35322-1a9a-41e3-9ce1-359c8eaa3bc7:frc</guid>
-      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/5/454ed9c8-3ec1-4b65-bf3f-29a186742aed.jpg?1789599848&quot; alt=&quot;Talisman of Progress&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Talisman of Progress&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
-&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}: Add {W} or {U}. This artifact deals 1 damage to you.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/64/talisman-of-progress?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/5/454ed9c8-3ec1-4b65-bf3f-29a186742aed.jpg?1789599848" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Drowned Catacomb [Reality Fracture Commander]</title>
-      <link>https://scryfall.com/card/frc/69/drowned-catacomb?utm_source=api</link>
-      <guid isPermaLink="false">819fc966-434e-470f-91e9-a38df974ad17:frc</guid>
-      <pubDate>Thu, 17 Sep 2026 06:49:15 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/a/4acb0f92-74be-40e8-b70e-61c4aaaeb47b.jpg?1789599912&quot; alt=&quot;Drowned Catacomb&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Drowned Catacomb&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Commander&lt;/p&gt;
-&lt;p&gt;This land enters tapped unless you control an Island or a Swamp.&lt;br/&gt;{T}: Add {U} or {B}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/frc/69/drowned-catacomb?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/a/4acb0f92-74be-40e8-b70e-61c4aaaeb47b.jpg?1789599912" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
