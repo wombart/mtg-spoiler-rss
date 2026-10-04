@@ -1,5 +1,32 @@
 [
   {
+    "id": "81cea94d-e8a2-4c88-b121-9806eb7cc210",
+    "oracle_id": "7d075b8a-a606-4590-b52b-b4ef3a9e342f",
+    "name": "Perplexing Chimera",
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "mana_cost": "{4}{U}",
+    "type_line": "Enchantment Creature — Chimera",
+    "oracle_text": "Whenever an opponent casts a spell, you may exchange control of this creature and that spell. If you do, you may choose new targets for the spell. (If the spell becomes a permanent, you control that permanent.)",
+    "rarity": "rare",
+    "released_at": "2026-09-28",
+    "discovered_at": "2026-10-04T13:31:02.713665+00:00",
+    "scryfall_uri": "https://scryfall.com/card/sld/7039/perplexing-chimera?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/1/81cea94d-e8a2-4c88-b121-9806eb7cc210.jpg?1791084902",
+      "normal": "https://cards.scryfall.io/normal/front/8/1/81cea94d-e8a2-4c88-b121-9806eb7cc210.jpg?1791084902",
+      "large": "https://cards.scryfall.io/large/front/8/1/81cea94d-e8a2-4c88-b121-9806eb7cc210.jpg?1791084902",
+      "png": "https://cards.scryfall.io/png/front/8/1/81cea94d-e8a2-4c88-b121-9806eb7cc210.png?1791084902",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/1/81cea94d-e8a2-4c88-b121-9806eb7cc210.jpg?1791084902",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/1/81cea94d-e8a2-4c88-b121-9806eb7cc210.jpg?1791084902",
+      "thumb": "https://cards.scryfall.io/thumb/front/8/1/81cea94d-e8a2-4c88-b121-9806eb7cc210.webp?1791084902",
+      "grid": "https://cards.scryfall.io/grid/front/8/1/81cea94d-e8a2-4c88-b121-9806eb7cc210.webp?1791084902",
+      "display": "https://cards.scryfall.io/display/front/8/1/81cea94d-e8a2-4c88-b121-9806eb7cc210.webp?1791084902",
+      "art": "https://cards.scryfall.io/art/front/8/1/81cea94d-e8a2-4c88-b121-9806eb7cc210.webp?1791084902",
+      "crop": "https://cards.scryfall.io/crop/front/8/1/81cea94d-e8a2-4c88-b121-9806eb7cc210.webp?1791084902"
+    }
+  },
+  {
     "id": "7c074d4c-7155-44a0-a4a5-b3825cbc36b6",
     "name": "Lu Xun, Scholar General // Lu Xun, Scholar General",
     "set": "sld",
@@ -13559,33 +13586,6 @@
       "display": "https://cards.scryfall.io/display/front/4/a/4acb0f92-74be-40e8-b70e-61c4aaaeb47b.webp?1789599912",
       "art": "https://cards.scryfall.io/art/front/4/a/4acb0f92-74be-40e8-b70e-61c4aaaeb47b.webp?1789599912",
       "crop": "https://cards.scryfall.io/crop/front/4/a/4acb0f92-74be-40e8-b70e-61c4aaaeb47b.webp?1789599912"
-    }
-  },
-  {
-    "id": "5c4d0ad9-4d57-4e5c-b478-059220f5b1dd",
-    "oracle_id": "2b7c4dab-e432-4b34-b058-3cec5c0d72df",
-    "name": "Martial Coup",
-    "set": "frc",
-    "set_name": "Reality Fracture Commander",
-    "mana_cost": "{X}{W}{W}",
-    "type_line": "Sorcery",
-    "oracle_text": "Create X 1/1 white Soldier creature tokens. If X is 5 or more, destroy all other creatures.",
-    "rarity": "rare",
-    "released_at": "2026-10-02",
-    "discovered_at": "2026-09-17T06:49:15.901702+00:00",
-    "scryfall_uri": "https://scryfall.com/card/frc/28/martial-coup?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/5/c/5c4d0ad9-4d57-4e5c-b478-059220f5b1dd.jpg?1789599791",
-      "normal": "https://cards.scryfall.io/normal/front/5/c/5c4d0ad9-4d57-4e5c-b478-059220f5b1dd.jpg?1789599791",
-      "large": "https://cards.scryfall.io/large/front/5/c/5c4d0ad9-4d57-4e5c-b478-059220f5b1dd.jpg?1789599791",
-      "png": "https://cards.scryfall.io/png/front/5/c/5c4d0ad9-4d57-4e5c-b478-059220f5b1dd.png?1789599791",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/5/c/5c4d0ad9-4d57-4e5c-b478-059220f5b1dd.jpg?1789599791",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/5/c/5c4d0ad9-4d57-4e5c-b478-059220f5b1dd.jpg?1789599791",
-      "thumb": "https://cards.scryfall.io/thumb/front/5/c/5c4d0ad9-4d57-4e5c-b478-059220f5b1dd.webp?1789599791",
-      "grid": "https://cards.scryfall.io/grid/front/5/c/5c4d0ad9-4d57-4e5c-b478-059220f5b1dd.webp?1789599791",
-      "display": "https://cards.scryfall.io/display/front/5/c/5c4d0ad9-4d57-4e5c-b478-059220f5b1dd.webp?1789599791",
-      "art": "https://cards.scryfall.io/art/front/5/c/5c4d0ad9-4d57-4e5c-b478-059220f5b1dd.webp?1789599791",
-      "crop": "https://cards.scryfall.io/crop/front/5/c/5c4d0ad9-4d57-4e5c-b478-059220f5b1dd.webp?1789599791"
     }
   }
 ]
