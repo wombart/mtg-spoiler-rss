@@ -1,5 +1,82 @@
 [
   {
+    "id": "f9fc7b5e-a4d9-48f1-af5d-ebc6ebc4aa70",
+    "oracle_id": "e6b60a42-2bd0-412d-b7d0-fb7d92697c47",
+    "name": "God Pack Celebration Card",
+    "set": "tnau",
+    "set_name": "Nauctis: The Sunken Realm Tokens",
+    "mana_cost": "",
+    "type_line": "Card",
+    "oracle_text": "",
+    "rarity": "common",
+    "released_at": "2027-02-05",
+    "discovered_at": "2026-10-06T10:50:25.614097+00:00",
+    "scryfall_uri": "https://scryfall.com/card/tnau/10/god-pack-celebration-card?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/9/f9fc7b5e-a4d9-48f1-af5d-ebc6ebc4aa70.jpg?1791257897",
+      "normal": "https://cards.scryfall.io/normal/front/f/9/f9fc7b5e-a4d9-48f1-af5d-ebc6ebc4aa70.jpg?1791257897",
+      "large": "https://cards.scryfall.io/large/front/f/9/f9fc7b5e-a4d9-48f1-af5d-ebc6ebc4aa70.jpg?1791257897",
+      "png": "https://cards.scryfall.io/png/front/f/9/f9fc7b5e-a4d9-48f1-af5d-ebc6ebc4aa70.png?1791257897",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/9/f9fc7b5e-a4d9-48f1-af5d-ebc6ebc4aa70.jpg?1791257897",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/9/f9fc7b5e-a4d9-48f1-af5d-ebc6ebc4aa70.jpg?1791257897",
+      "thumb": "https://cards.scryfall.io/thumb/front/f/9/f9fc7b5e-a4d9-48f1-af5d-ebc6ebc4aa70.webp?1791257897",
+      "grid": "https://cards.scryfall.io/grid/front/f/9/f9fc7b5e-a4d9-48f1-af5d-ebc6ebc4aa70.webp?1791257897",
+      "display": "https://cards.scryfall.io/display/front/f/9/f9fc7b5e-a4d9-48f1-af5d-ebc6ebc4aa70.webp?1791257897",
+      "art": "https://cards.scryfall.io/art/front/f/9/f9fc7b5e-a4d9-48f1-af5d-ebc6ebc4aa70.webp?1791257897",
+      "crop": "https://cards.scryfall.io/crop/front/f/9/f9fc7b5e-a4d9-48f1-af5d-ebc6ebc4aa70.webp?1791257897"
+    }
+  },
+  {
+    "id": "a19f069c-b112-4a73-8303-709771d86b55",
+    "oracle_id": "c3a46eb3-38d9-4f47-9b71-26c9ea7ef1ce",
+    "name": "The Dragon-Kami Reborn // Dragon-Kami's Egg",
+    "set": "neo",
+    "set_name": "Kamigawa: Neon Dynasty",
+    "type_line": "Enchantment — Saga // Enchantment Creature — Egg",
+    "rarity": "rare",
+    "released_at": "2022-02-18",
+    "discovered_at": "2026-10-06T10:50:25.614097+00:00",
+    "scryfall_uri": "https://scryfall.com/card/neo/181b/the-dragon-kami-reborn-dragon-kamis-egg?utm_source=api",
+    "card_faces": [
+      {
+        "name": "The Dragon-Kami Reborn",
+        "oracle_text": "(As this Saga enters and after your draw step, add a lore counter.)\nI, II — You gain 2 life. Look at the top three cards of your library. Exile one of them face down with a hatching counter on it, then put the rest on the bottom of your library in any order.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
+        "mana_cost": "{2}{G}",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/a/1/a19f069c-b112-4a73-8303-709771d86b55.jpg?1791248920",
+          "normal": "https://cards.scryfall.io/normal/front/a/1/a19f069c-b112-4a73-8303-709771d86b55.jpg?1791248920",
+          "large": "https://cards.scryfall.io/large/front/a/1/a19f069c-b112-4a73-8303-709771d86b55.jpg?1791248920",
+          "png": "https://cards.scryfall.io/png/front/a/1/a19f069c-b112-4a73-8303-709771d86b55.png?1791248920",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/a/1/a19f069c-b112-4a73-8303-709771d86b55.jpg?1791248920",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/a/1/a19f069c-b112-4a73-8303-709771d86b55.jpg?1791248920",
+          "thumb": "https://cards.scryfall.io/thumb/front/a/1/a19f069c-b112-4a73-8303-709771d86b55.webp?1791248920",
+          "grid": "https://cards.scryfall.io/grid/front/a/1/a19f069c-b112-4a73-8303-709771d86b55.webp?1791248920",
+          "display": "https://cards.scryfall.io/display/front/a/1/a19f069c-b112-4a73-8303-709771d86b55.webp?1791248920",
+          "art": "https://cards.scryfall.io/art/front/a/1/a19f069c-b112-4a73-8303-709771d86b55.webp?1791248920",
+          "crop": "https://cards.scryfall.io/crop/front/a/1/a19f069c-b112-4a73-8303-709771d86b55.webp?1791248920"
+        }
+      },
+      {
+        "name": "Dragon-Kami's Egg",
+        "oracle_text": "Whenever this creature or a Dragon you control dies, you may cast a creature spell from among cards you own in exile with hatching counters on them without paying its mana cost.",
+        "mana_cost": "",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/a/1/a19f069c-b112-4a73-8303-709771d86b55.jpg?1791248920",
+          "normal": "https://cards.scryfall.io/normal/back/a/1/a19f069c-b112-4a73-8303-709771d86b55.jpg?1791248920",
+          "large": "https://cards.scryfall.io/large/back/a/1/a19f069c-b112-4a73-8303-709771d86b55.jpg?1791248920",
+          "png": "https://cards.scryfall.io/png/back/a/1/a19f069c-b112-4a73-8303-709771d86b55.png?1791248920",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/a/1/a19f069c-b112-4a73-8303-709771d86b55.jpg?1791248920",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/a/1/a19f069c-b112-4a73-8303-709771d86b55.jpg?1791248920",
+          "thumb": "https://cards.scryfall.io/thumb/back/a/1/a19f069c-b112-4a73-8303-709771d86b55.webp?1791248920",
+          "grid": "https://cards.scryfall.io/grid/back/a/1/a19f069c-b112-4a73-8303-709771d86b55.webp?1791248920",
+          "display": "https://cards.scryfall.io/display/back/a/1/a19f069c-b112-4a73-8303-709771d86b55.webp?1791248920",
+          "art": "https://cards.scryfall.io/art/back/a/1/a19f069c-b112-4a73-8303-709771d86b55.webp?1791248920",
+          "crop": "https://cards.scryfall.io/crop/back/a/1/a19f069c-b112-4a73-8303-709771d86b55.webp?1791248920"
+        }
+      }
+    ]
+  },
+  {
     "id": "054bc037-d998-4751-bb54-bbe879a62e71",
     "oracle_id": "15d5b198-edbe-40f3-87e2-d72f7f0c58ab",
     "name": "Dance of the Dead",
@@ -13574,60 +13651,6 @@
       "display": "https://cards.scryfall.io/display/front/d/9/d9f011c7-6d90-4db8-a4b7-65010130762c.webp?1789753073",
       "art": "https://cards.scryfall.io/art/front/d/9/d9f011c7-6d90-4db8-a4b7-65010130762c.webp?1789753073",
       "crop": "https://cards.scryfall.io/crop/front/d/9/d9f011c7-6d90-4db8-a4b7-65010130762c.webp?1789753073"
-    }
-  },
-  {
-    "id": "da046d5a-9a44-4efb-af0f-229898edc051",
-    "oracle_id": "426fa8e8-b0f9-4b6c-b22b-04ec2073187a",
-    "name": "Undead Butler",
-    "set": "fdc",
-    "set_name": "Foundations Commander",
-    "mana_cost": "{1}{B}",
-    "type_line": "Creature — Zombie",
-    "oracle_text": "When this creature enters, mill three cards. (Put the top three cards of your library into your graveyard.)\nWhen this creature dies, you may exile it. When you do, return target creature card from your graveyard to your hand.",
-    "rarity": "uncommon",
-    "released_at": "2024-11-15",
-    "discovered_at": "2026-09-18T23:41:08.593549+00:00",
-    "scryfall_uri": "https://scryfall.com/card/fdc/130/undead-butler?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/d/a/da046d5a-9a44-4efb-af0f-229898edc051.jpg?1789753057",
-      "normal": "https://cards.scryfall.io/normal/front/d/a/da046d5a-9a44-4efb-af0f-229898edc051.jpg?1789753057",
-      "large": "https://cards.scryfall.io/large/front/d/a/da046d5a-9a44-4efb-af0f-229898edc051.jpg?1789753057",
-      "png": "https://cards.scryfall.io/png/front/d/a/da046d5a-9a44-4efb-af0f-229898edc051.png?1789753057",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/d/a/da046d5a-9a44-4efb-af0f-229898edc051.jpg?1789753057",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/d/a/da046d5a-9a44-4efb-af0f-229898edc051.jpg?1789753057",
-      "thumb": "https://cards.scryfall.io/thumb/front/d/a/da046d5a-9a44-4efb-af0f-229898edc051.webp?1789753057",
-      "grid": "https://cards.scryfall.io/grid/front/d/a/da046d5a-9a44-4efb-af0f-229898edc051.webp?1789753057",
-      "display": "https://cards.scryfall.io/display/front/d/a/da046d5a-9a44-4efb-af0f-229898edc051.webp?1789753057",
-      "art": "https://cards.scryfall.io/art/front/d/a/da046d5a-9a44-4efb-af0f-229898edc051.webp?1789753057",
-      "crop": "https://cards.scryfall.io/crop/front/d/a/da046d5a-9a44-4efb-af0f-229898edc051.webp?1789753057"
-    }
-  },
-  {
-    "id": "db3b5708-9f41-48f7-99b5-cb30b191ee71",
-    "oracle_id": "d1d171de-1c6d-4fb9-817a-9c689c709f3d",
-    "name": "Shamanic Revelation",
-    "set": "fdc",
-    "set_name": "Foundations Commander",
-    "mana_cost": "{3}{G}{G}",
-    "type_line": "Sorcery",
-    "oracle_text": "Draw a card for each creature you control.\nFerocious — You gain 4 life for each creature you control with power 4 or greater.",
-    "rarity": "rare",
-    "released_at": "2024-11-15",
-    "discovered_at": "2026-09-18T23:41:08.593549+00:00",
-    "scryfall_uri": "https://scryfall.com/card/fdc/229/shamanic-revelation?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/d/b/db3b5708-9f41-48f7-99b5-cb30b191ee71.jpg?1789753293",
-      "normal": "https://cards.scryfall.io/normal/front/d/b/db3b5708-9f41-48f7-99b5-cb30b191ee71.jpg?1789753293",
-      "large": "https://cards.scryfall.io/large/front/d/b/db3b5708-9f41-48f7-99b5-cb30b191ee71.jpg?1789753293",
-      "png": "https://cards.scryfall.io/png/front/d/b/db3b5708-9f41-48f7-99b5-cb30b191ee71.png?1789753293",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/d/b/db3b5708-9f41-48f7-99b5-cb30b191ee71.jpg?1789753293",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/d/b/db3b5708-9f41-48f7-99b5-cb30b191ee71.jpg?1789753293",
-      "thumb": "https://cards.scryfall.io/thumb/front/d/b/db3b5708-9f41-48f7-99b5-cb30b191ee71.webp?1789753293",
-      "grid": "https://cards.scryfall.io/grid/front/d/b/db3b5708-9f41-48f7-99b5-cb30b191ee71.webp?1789753293",
-      "display": "https://cards.scryfall.io/display/front/d/b/db3b5708-9f41-48f7-99b5-cb30b191ee71.webp?1789753293",
-      "art": "https://cards.scryfall.io/art/front/d/b/db3b5708-9f41-48f7-99b5-cb30b191ee71.webp?1789753293",
-      "crop": "https://cards.scryfall.io/crop/front/d/b/db3b5708-9f41-48f7-99b5-cb30b191ee71.webp?1789753293"
     }
   }
 ]

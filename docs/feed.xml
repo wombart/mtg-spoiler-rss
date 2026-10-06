@@ -5,9 +5,36 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 05 Oct 2026 16:28:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:50:25 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>God Pack Celebration Card [Nauctis: The Sunken Realm Tokens]</title>
+      <link>https://scryfall.com/card/tnau/10/god-pack-celebration-card?utm_source=api</link>
+      <guid isPermaLink="false">e6b60a42-2bd0-412d-b7d0-fb7d92697c47:tnau</guid>
+      <pubDate>Tue, 06 Oct 2026 10:50:25 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/9/f9fc7b5e-a4d9-48f1-af5d-ebc6ebc4aa70.jpg?1791257897&quot; alt=&quot;God Pack Celebration Card&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;God Pack Celebration Card&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Card&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Nauctis: The Sunken Realm Tokens&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tnau/10/god-pack-celebration-card?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/9/f9fc7b5e-a4d9-48f1-af5d-ebc6ebc4aa70.jpg?1791257897" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Dragon-Kami Reborn // Dragon-Kami's Egg [Kamigawa: Neon Dynasty]</title>
+      <link>https://scryfall.com/card/neo/181b/the-dragon-kami-reborn-dragon-kamis-egg?utm_source=api</link>
+      <guid isPermaLink="false">c3a46eb3-38d9-4f47-9b71-26c9ea7ef1ce:neo</guid>
+      <pubDate>Tue, 06 Oct 2026 10:50:25 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/1/a19f069c-b112-4a73-8303-709771d86b55.jpg?1791248920&quot; alt=&quot;The Dragon-Kami Reborn // Dragon-Kami&amp;#x27;s Egg&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;The Dragon-Kami Reborn // Dragon-Kami&amp;#x27;s Egg&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Saga // Enchantment Creature — Egg&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Kamigawa: Neon Dynasty&lt;/p&gt;
+&lt;p&gt;(As this Saga enters and after your draw step, add a lore counter.)&lt;br/&gt;I, II — You gain 2 life. Look at the top three cards of your library. Exile one of them face down with a hatching counter on it, then put the rest on the bottom of your library in any order.&lt;br/&gt;III — Exile this Saga, then return it to the battlefield transformed under your control.&lt;br/&gt;//&lt;br/&gt;Whenever this creature or a Dragon you control dies, you may cast a creature spell from among cards you own in exile with hatching counters on them without paying its mana cost.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/neo/181b/the-dragon-kami-reborn-dragon-kamis-egg?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/1/a19f069c-b112-4a73-8303-709771d86b55.jpg?1791248920" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Dance of the Dead [MagicFest 2026]</title>
       <link>https://scryfall.com/card/pf26/14/dance-of-the-dead?utm_source=api</link>
@@ -7400,36 +7427,6 @@
 &lt;p&gt;Target creature you control deals damage equal to its power to each other creature and each opponent.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/145/chandras-ignition?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/d/9/d9f011c7-6d90-4db8-a4b7-65010130762c.jpg?1789753073" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Undead Butler [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/130/undead-butler?utm_source=api</link>
-      <guid isPermaLink="false">426fa8e8-b0f9-4b6c-b22b-04ec2073187a:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/a/da046d5a-9a44-4efb-af0f-229898edc051.jpg?1789753057&quot; alt=&quot;Undead Butler&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Undead Butler&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Zombie&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;When this creature enters, mill three cards. (Put the top three cards of your library into your graveyard.)&lt;br/&gt;When this creature dies, you may exile it. When you do, return target creature card from your graveyard to your hand.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/130/undead-butler?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/a/da046d5a-9a44-4efb-af0f-229898edc051.jpg?1789753057" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Shamanic Revelation [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/229/shamanic-revelation?utm_source=api</link>
-      <guid isPermaLink="false">d1d171de-1c6d-4fb9-817a-9c689c709f3d:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/b/db3b5708-9f41-48f7-99b5-cb30b191ee71.jpg?1789753293&quot; alt=&quot;Shamanic Revelation&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Shamanic Revelation&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Draw a card for each creature you control.&lt;br/&gt;Ferocious — You gain 4 life for each creature you control with power 4 or greater.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/229/shamanic-revelation?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/b/db3b5708-9f41-48f7-99b5-cb30b191ee71.jpg?1789753293" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
