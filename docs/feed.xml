@@ -5,9 +5,54 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 06 Oct 2026 10:50:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:27:43 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Elspeth, Storm Slayer [Secret Lair Promo]</title>
+      <link>https://scryfall.com/card/slp/55/elspeth-storm-slayer?utm_source=api</link>
+      <guid isPermaLink="false">f78af825-023a-42e9-8374-5c52303a1417:slp</guid>
+      <pubDate>Tue, 06 Oct 2026 17:27:43 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/8/08da7f82-cbcc-442c-ac3a-cb1435a62679.jpg?1791286061&quot; alt=&quot;Elspeth, Storm Slayer&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Elspeth, Storm Slayer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{W}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Planeswalker — Elspeth&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Promo&lt;/p&gt;
+&lt;p&gt;If one or more tokens would be created under your control, twice that many of those tokens are created instead.&lt;br/&gt;+1: Create a 1/1 white Soldier creature token.&lt;br/&gt;0: Put a +1/+1 counter on each creature you control. Those creatures gain flying until your next turn.&lt;br/&gt;−3: Destroy target creature an opponent controls with mana value 3 or greater.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slp/55/elspeth-storm-slayer?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/8/08da7f82-cbcc-442c-ac3a-cb1435a62679.jpg?1791286061" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Strategic Betrayal [Secret Lair Promo]</title>
+      <link>https://scryfall.com/card/slp/56/strategic-betrayal?utm_source=api</link>
+      <guid isPermaLink="false">0127c13f-7b0f-44c3-8b35-97f306c5f239:slp</guid>
+      <pubDate>Tue, 06 Oct 2026 17:27:43 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/7/477cfe49-76ef-425a-b677-587be1b00422.jpg?1791285945&quot; alt=&quot;Strategic Betrayal&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Strategic Betrayal&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Promo&lt;/p&gt;
+&lt;p&gt;Target opponent exiles a creature they control and their graveyard.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slp/56/strategic-betrayal?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/7/477cfe49-76ef-425a-b677-587be1b00422.jpg?1791285945" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Archenemy's Charm [Secret Lair Promo]</title>
+      <link>https://scryfall.com/card/slp/57/archenemys-charm?utm_source=api</link>
+      <guid isPermaLink="false">edcb0248-e7c9-4df9-8dba-982048654fd2:slp</guid>
+      <pubDate>Tue, 06 Oct 2026 17:27:43 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/c/dc13b59c-4e08-4b58-bd73-67a261db1fa0.jpg?1791285991&quot; alt=&quot;Archenemy&amp;#x27;s Charm&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Archenemy&amp;#x27;s Charm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {B}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Promo&lt;/p&gt;
+&lt;p&gt;Choose one —&lt;br/&gt;• Exile target creature or planeswalker.&lt;br/&gt;• Return one or two target creature and/or planeswalker cards from your graveyard to your hand.&lt;br/&gt;• Put two +1/+1 counters on target creature you control. It gains lifelink until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slp/57/archenemys-charm?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/c/dc13b59c-4e08-4b58-bd73-67a261db1fa0.jpg?1791285991" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>God Pack Celebration Card [Nauctis: The Sunken Realm Tokens]</title>
       <link>https://scryfall.com/card/tnau/10/god-pack-celebration-card?utm_source=api</link>
@@ -7382,51 +7427,6 @@
 &lt;p&gt;As this artifact enters, choose a creature type.&lt;br/&gt;Creature spells you cast of the chosen type cost {1} less to cast.&lt;br/&gt;At the beginning of your upkeep, look at the top card of your library. If it&amp;#x27;s a creature card of the chosen type, you may reveal it and put it into your hand.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/264/heralds-horn?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/d/5/d5ba6786-c812-4744-bb2e-f180010b18b7.jpg?1789753327" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Curious Altisaur [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/198/curious-altisaur?utm_source=api</link>
-      <guid isPermaLink="false">80686908-abb5-4728-a5f6-71baca27f467:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/5/d5c8619f-753b-472f-a6cd-00bd9e897279.jpg?1789753263&quot; alt=&quot;Curious Altisaur&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Curious Altisaur&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Dinosaur&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Reach, vigilance&lt;br/&gt;Whenever a Dinosaur you control deals combat damage to a player, draw a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/198/curious-altisaur?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/5/d5c8619f-753b-472f-a6cd-00bd9e897279.jpg?1789753263" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Kappa Cannoneer [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/64/kappa-cannoneer?utm_source=api</link>
-      <guid isPermaLink="false">7fffbe7f-ad78-4bb6-a611-c37e495c6ee0:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/6/d644be98-83df-4546-a448-247f40299993.jpg?1789752906&quot; alt=&quot;Kappa Cannoneer&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Kappa Cannoneer&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {5}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact Creature — Turtle Warrior&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Improvise (Your artifacts can help cast this spell. Each artifact you tap after you&amp;#x27;re done activating mana abilities pays for {1}.)&lt;br/&gt;Ward {4}&lt;br/&gt;Whenever this creature or another artifact you control enters, put a +1/+1 counter on this creature. It can&amp;#x27;t be blocked this turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/64/kappa-cannoneer?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/6/d644be98-83df-4546-a448-247f40299993.jpg?1789752906" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Chandra's Ignition [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/145/chandras-ignition?utm_source=api</link>
-      <guid isPermaLink="false">f61680da-606e-4d16-b0a0-361aa5210901:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/9/d9f011c7-6d90-4db8-a4b7-65010130762c.jpg?1789753073&quot; alt=&quot;Chandra&amp;#x27;s Ignition&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Chandra&amp;#x27;s Ignition&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{R}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Target creature you control deals damage equal to its power to each other creature and each opponent.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/145/chandras-ignition?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/9/d9f011c7-6d90-4db8-a4b7-65010130762c.jpg?1789753073" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
