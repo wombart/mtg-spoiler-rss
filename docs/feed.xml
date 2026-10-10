@@ -5,9 +5,212 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 06 Oct 2026 17:27:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 01:21:17 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Plains [Marvel: Darkhold Destiny]</title>
+      <link>https://scryfall.com/card/mdd/292/plains?utm_source=api</link>
+      <guid isPermaLink="false">bc71ebf6-2056-41f7-be35-b2e5c34afa99:mdd</guid>
+      <pubDate>Sat, 10 Oct 2026 01:21:17 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/9/09ac862f-0a51-44dd-b86f-9412b8218b13.jpg?1791578423&quot; alt=&quot;Plains&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Plains&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Basic Land — Plains&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Marvel: Darkhold Destiny&lt;/p&gt;
+&lt;p&gt;({T}: Add {W}.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mdd/292/plains?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/9/09ac862f-0a51-44dd-b86f-9412b8218b13.jpg?1791578423" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Island [Marvel: Darkhold Destiny]</title>
+      <link>https://scryfall.com/card/mdd/294/island?utm_source=api</link>
+      <guid isPermaLink="false">b2c6aa39-2d2a-459c-a555-fb48ba993373:mdd</guid>
+      <pubDate>Sat, 10 Oct 2026 01:21:17 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/3/1335d293-3dd2-4f13-bd2c-22181f4528ee.jpg?1791578424&quot; alt=&quot;Island&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Island&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Basic Land — Island&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Marvel: Darkhold Destiny&lt;/p&gt;
+&lt;p&gt;({T}: Add {U}.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mdd/294/island?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/3/1335d293-3dd2-4f13-bd2c-22181f4528ee.jpg?1791578424" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Temple of Khonshu [Marvel: Darkhold Destiny]</title>
+      <link>https://scryfall.com/card/mdd/288/temple-of-khonshu?utm_source=api</link>
+      <guid isPermaLink="false">34916c4b-fc1b-4864-bb3f-968977fd533d:mdd</guid>
+      <pubDate>Sat, 10 Oct 2026 01:21:17 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/3/2369ddb5-fa0b-46a0-a393-f213ec86818d.jpg?1791578411&quot; alt=&quot;Temple of Khonshu&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Temple of Khonshu&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Marvel: Darkhold Destiny&lt;/p&gt;
+&lt;p&gt;This land enters tapped unless you control a Dimension.&lt;br/&gt;{T}: Add {W} or {B}.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mdd/288/temple-of-khonshu?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/3/2369ddb5-fa0b-46a0-a393-f213ec86818d.jpg?1791578411" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Forest [Marvel: Darkhold Destiny]</title>
+      <link>https://scryfall.com/card/mdd/301/forest?utm_source=api</link>
+      <guid isPermaLink="false">b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6:mdd</guid>
+      <pubDate>Sat, 10 Oct 2026 01:21:17 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/e/2e781bfd-f8cb-4d20-b977-4359f3a21311.jpg?1791578317&quot; alt=&quot;Forest&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Forest&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Basic Land — Forest&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Marvel: Darkhold Destiny&lt;/p&gt;
+&lt;p&gt;({T}: Add {G}.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mdd/301/forest?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/e/2e781bfd-f8cb-4d20-b977-4359f3a21311.jpg?1791578317" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Gargantos, the Endbringer [Darkhold Destiny Commander]</title>
+      <link>https://scryfall.com/card/mdc/399/gargantos-the-endbringer?utm_source=api</link>
+      <guid isPermaLink="false">759e7e44-a082-419f-abd3-aabc45c47334:mdc</guid>
+      <pubDate>Sat, 10 Oct 2026 01:21:17 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/0/60b48730-3590-4c8c-b0e8-6007bb36d6b6.jpg?1791578335&quot; alt=&quot;Gargantos, the Endbringer&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Gargantos, the Endbringer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Elder God Horror&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Darkhold Destiny Commander&lt;/p&gt;
+&lt;p&gt;Deathtouch&lt;br/&gt;Gargantos enters with three +1/+1 counters on him.&lt;br/&gt;At the beginning of your upkeep, double the number of +1/+1 counters on Gargantos.&lt;br/&gt;Whenever Gargantos deals combat damage to an opponent, he deals that much damage to each other opponent.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mdc/399/gargantos-the-endbringer?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/0/60b48730-3590-4c8c-b0e8-6007bb36d6b6.jpg?1791578335" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Magik, Illyana Rasputin // Darkchild, Demon Uncaged [Marvel: Darkhold Destiny]</title>
+      <link>https://scryfall.com/card/mdd/242/magik-illyana-rasputin-darkchild-demon-uncaged?utm_source=api</link>
+      <guid isPermaLink="false">72d85d61-6bc3-4028-97c0-d5c34204a1df:mdd</guid>
+      <pubDate>Sat, 10 Oct 2026 01:21:17 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/0/60e252e3-88ea-49f2-a14f-ae9d0712bafe.jpg?1791578412&quot; alt=&quot;Magik, Illyana Rasputin // Darkchild, Demon Uncaged&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Magik, Illyana Rasputin // Darkchild, Demon Uncaged&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Mutant Sorcerer Hero // Legendary Creature — Mutant Demon Sorcerer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Marvel: Darkhold Destiny&lt;/p&gt;
+&lt;p&gt;At the beginning of your upkeep, exile the top card of your library. You may play that card this turn.&lt;br/&gt;At the beginning of your end step, if you&amp;#x27;ve sacrificed two or more permanents this turn, you may transform Magik.&lt;br/&gt;//&lt;br/&gt;At the beginning of your upkeep, exile cards from the top of your library until you exile a nonland card. You may play those cards this turn.&lt;br/&gt;Pay 4 life: Darkchild gains indestructible until end of turn. Tap her.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mdd/242/magik-illyana-rasputin-darkchild-demon-uncaged?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/0/60e252e3-88ea-49f2-a14f-ae9d0712bafe.jpg?1791578412" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Penance Stare [Marvel: Darkhold Destiny]</title>
+      <link>https://scryfall.com/card/mdd/28/penance-stare?utm_source=api</link>
+      <guid isPermaLink="false">e21a1ad5-bf31-425f-92c2-7818bdb1cef8:mdd</guid>
+      <pubDate>Sat, 10 Oct 2026 01:21:17 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/0/7082199e-318e-4e4e-9102-61e79af8a10c.jpg?1791578351&quot; alt=&quot;Penance Stare&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Penance Stare&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Marvel: Darkhold Destiny&lt;/p&gt;
+&lt;p&gt;Destroy target attacking creature with mana value 3 or less.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mdd/28/penance-stare?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/0/7082199e-318e-4e4e-9102-61e79af8a10c.jpg?1791578351" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hela's Arcanum [Marvel: Darkhold Destiny]</title>
+      <link>https://scryfall.com/card/mdd/107/helas-arcanum?utm_source=api</link>
+      <guid isPermaLink="false">4332a59b-f4b5-45c9-8a59-5baa59b46153:mdd</guid>
+      <pubDate>Sat, 10 Oct 2026 01:21:17 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/3/738f0bc9-075c-45de-a1c3-7509b8bdb55b.jpg?1791578373&quot; alt=&quot;Hela&amp;#x27;s Arcanum&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Hela&amp;#x27;s Arcanum&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Instant — Arcane&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Marvel: Darkhold Destiny&lt;/p&gt;
+&lt;p&gt;Choose up to five {P} worth of modes. You may choose the same mode more than once.&lt;br/&gt;{P} — Target creature gets +1/+0 and gains deathtouch until end of turn.&lt;br/&gt;{P}{P} — Until end of turn, target creature gains &amp;quot;When this creature dies, return it to the battlefield tapped under its owner&amp;#x27;s control.&amp;quot;&lt;br/&gt;{P}{P}{P} — Destroy each non-Zombie creature with power 3 or less.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mdd/107/helas-arcanum?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/3/738f0bc9-075c-45de-a1c3-7509b8bdb55b.jpg?1791578373" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hela, Mistress of Darkness // Dark Tutor [Marvel: Darkhold Destiny]</title>
+      <link>https://scryfall.com/card/mdd/106/hela-mistress-of-darkness-dark-tutor?utm_source=api</link>
+      <guid isPermaLink="false">203f6f4a-1cf5-4ddc-b60f-676832eeff6b:mdd</guid>
+      <pubDate>Sat, 10 Oct 2026 01:21:17 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/7/7750d4bb-0463-43fd-bdf3-a14271cace20.jpg?1791578367&quot; alt=&quot;Hela, Mistress of Darkness // Dark Tutor&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Hela, Mistress of Darkness // Dark Tutor&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{B}{B} // {1}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — God Sorcerer Villain // Sorcery — Vengeance&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Marvel: Darkhold Destiny&lt;/p&gt;
+&lt;p&gt;Whenever a player loses life during your turn, you may create that many tapped 2/2 black Zombie creature tokens. Do this only once each turn.&lt;br/&gt;//&lt;br/&gt;(Cast only from your graveyard. Then exile it.)&lt;br/&gt;Search your library for a card, put it into your hand or graveyard, then shuffle. You lose 3 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mdd/106/hela-mistress-of-darkness-dark-tutor?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/7/7750d4bb-0463-43fd-bdf3-a14271cace20.jpg?1791578367" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Mountain [Marvel: Darkhold Destiny]</title>
+      <link>https://scryfall.com/card/mdd/298/mountain?utm_source=api</link>
+      <guid isPermaLink="false">a3fb7228-e76b-4e96-a40e-20b5fed75685:mdd</guid>
+      <pubDate>Sat, 10 Oct 2026 01:21:17 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/5/85177bd7-6c50-48da-b692-ae5fe7bd357c.jpg?1791578439&quot; alt=&quot;Mountain&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Mountain&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Basic Land — Mountain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Marvel: Darkhold Destiny&lt;/p&gt;
+&lt;p&gt;({T}: Add {R}.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mdd/298/mountain?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/5/85177bd7-6c50-48da-b692-ae5fe7bd357c.jpg?1791578439" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Swamp [Marvel: Darkhold Destiny]</title>
+      <link>https://scryfall.com/card/mdd/296/swamp?utm_source=api</link>
+      <guid isPermaLink="false">56719f6a-1a6c-4c0a-8d21-18f7d7350b68:mdd</guid>
+      <pubDate>Sat, 10 Oct 2026 01:21:17 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/2/b233b117-9369-45c1-80c5-cc857386b6be.jpg?1791578437&quot; alt=&quot;Swamp&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Swamp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Basic Land — Swamp&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Marvel: Darkhold Destiny&lt;/p&gt;
+&lt;p&gt;({T}: Add {B}.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mdd/296/swamp?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/2/b233b117-9369-45c1-80c5-cc857386b6be.jpg?1791578437" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Rise from the Nether [Marvel: Darkhold Destiny]</title>
+      <link>https://scryfall.com/card/mdd/161/rise-from-the-nether?utm_source=api</link>
+      <guid isPermaLink="false">cc8c0234-a355-435d-b3de-8a6fc024c628:mdd</guid>
+      <pubDate>Sat, 10 Oct 2026 01:21:17 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/c/bccc5d74-f9bf-4a75-9a45-e2a32f5651f1.jpg?1791578381&quot; alt=&quot;Rise from the Nether&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Rise from the Nether&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {6}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery — Arcane&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Marvel: Darkhold Destiny&lt;/p&gt;
+&lt;p&gt;Create a 3/1 black Mindless-One creature token for each noncreature, nonland card in your graveyard.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mdd/161/rise-from-the-nether?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/c/bccc5d74-f9bf-4a75-9a45-e2a32f5651f1.jpg?1791578381" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Darkhold [Marvel: Darkhold Destiny]</title>
+      <link>https://scryfall.com/card/mdd/92/the-darkhold?utm_source=api</link>
+      <guid isPermaLink="false">3981970f-b332-49b7-9698-3296830ac399:mdd</guid>
+      <pubDate>Sat, 10 Oct 2026 01:21:17 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/c/fca11cb7-0896-4927-8f11-0e9dec2de416.jpg?1791578360&quot; alt=&quot;The Darkhold&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;The Darkhold&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Artifact — Book&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Marvel: Darkhold Destiny&lt;/p&gt;
+&lt;p&gt;{T}: Put a sin counter on The Darkhold. Draw a card for each sin counter on it, then you lose 1 life for each card in your hand.&lt;br/&gt;{6}{B}{B}, {T}: Each player&amp;#x27;s life total becomes the lowest life total among all players. Activate only as a sorcery.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/mdd/92/the-darkhold?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/c/fca11cb7-0896-4927-8f11-0e9dec2de416.jpg?1791578360" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Doctor Doom, King of Latveria [Media and Collaboration Promos]</title>
+      <link>https://scryfall.com/card/pmei/2026-26/doctor-doom-king-of-latveria?utm_source=api</link>
+      <guid isPermaLink="false">9c9cd0fd-bfe9-409c-a9a9-146f5f4a2ef4:pmei</guid>
+      <pubDate>Sat, 10 Oct 2026 01:21:17 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/1/91a7f124-79af-45c2-a43d-7004bbda3045.jpg?1791579831&quot; alt=&quot;Doctor Doom, King of Latveria&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Doctor Doom, King of Latveria&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{U}{B}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Noble Villain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Media and Collaboration Promos&lt;/p&gt;
+&lt;p&gt;Whenever you discard one or more land cards, each opponent loses 2 life.&lt;br/&gt;At the beginning of combat on your turn, target Villain you control gains menace until end of turn. It connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pmei/2026-26/doctor-doom-king-of-latveria?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/1/91a7f124-79af-45c2-a43d-7004bbda3045.jpg?1791579831" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Elspeth, Storm Slayer [Secret Lair Promo]</title>
       <link>https://scryfall.com/card/slp/55/elspeth-storm-slayer?utm_source=api</link>
@@ -7220,213 +7423,6 @@
 &lt;p&gt;Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)&lt;br/&gt;Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/246/basilisk-collar?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/c/d/cd35c8ca-a456-45b5-b018-98027a56c719.jpg?1789753308" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Beast Within [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/190/beast-within?utm_source=api</link>
-      <guid isPermaLink="false">7735eeba-693b-47e2-bd51-414379cf1016:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/d/cd6d61e9-239d-472b-a603-94290efbdad9.jpg?1789753258&quot; alt=&quot;Beast Within&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Beast Within&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Destroy target permanent. Its controller creates a 3/3 green Beast creature token.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/190/beast-within?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/d/cd6d61e9-239d-472b-a603-94290efbdad9.jpg?1789753258" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Memory Guardian [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/68/memory-guardian?utm_source=api</link>
-      <guid isPermaLink="false">dac33359-0317-4b11-9078-fccfd2321e53:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/e/ce1aa5e5-a3b7-4a9d-9afd-b7c52aa2364c.jpg?1789752912&quot; alt=&quot;Memory Guardian&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Memory Guardian&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact Creature — Robot Artificer&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)&lt;br/&gt;Flying&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/68/memory-guardian?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/e/ce1aa5e5-a3b7-4a9d-9afd-b7c52aa2364c.jpg?1789752912" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Seraph Sanctuary [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/313/seraph-sanctuary?utm_source=api</link>
-      <guid isPermaLink="false">0b504dc6-61cc-4a72-907c-145fa4c72466:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/e/cef8e044-6cc0-4988-9d5f-bf9a0ab1c66f.jpg?1789753450&quot; alt=&quot;Seraph Sanctuary&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Seraph Sanctuary&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;When this land enters, you gain 1 life.&lt;br/&gt;Whenever an Angel you control enters, you gain 1 life.&lt;br/&gt;{T}: Add {C}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/313/seraph-sanctuary?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/e/cef8e044-6cc0-4988-9d5f-bf9a0ab1c66f.jpg?1789753450" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Tendrils of Corruption [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/128/tendrils-of-corruption?utm_source=api</link>
-      <guid isPermaLink="false">84ee0da2-d886-4603-9aaa-bc5326a424d7:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/f/cf71a124-6112-4094-9541-dc0d384cc4de.jpg?1789753058&quot; alt=&quot;Tendrils of Corruption&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Tendrils of Corruption&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Tendrils of Corruption deals X damage to target creature and you gain X life, where X is the number of Swamps you control.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/128/tendrils-of-corruption?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/f/cf71a124-6112-4094-9541-dc0d384cc4de.jpg?1789753058" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Inspiring Overseer [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/35/inspiring-overseer?utm_source=api</link>
-      <guid isPermaLink="false">d646e42b-5635-4798-b633-29c093b66a55:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/0/d04d0a9b-a5a7-423a-bc27-8ea9b2cbff75.jpg?1789752840&quot; alt=&quot;Inspiring Overseer&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Inspiring Overseer&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Angel Cleric&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Flying&lt;br/&gt;When this creature enters, you gain 1 life and draw a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/35/inspiring-overseer?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/0/d04d0a9b-a5a7-423a-bc27-8ea9b2cbff75.jpg?1789752840" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Kalitas, Traitor of Ghet [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/108/kalitas-traitor-of-ghet?utm_source=api</link>
-      <guid isPermaLink="false">e1cfd1cb-44a5-429f-a5c1-e6d29bad1c71:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/1/d188a93a-cd9b-4a0b-80fb-738907b228cf.jpg?1789753038&quot; alt=&quot;Kalitas, Traitor of Ghet&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Kalitas, Traitor of Ghet&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{B}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Vampire Warrior&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Lifelink&lt;br/&gt;If a nontoken creature an opponent controls would die, instead exile that card and create a 2/2 black Zombie creature token.&lt;br/&gt;{2}{B}, Sacrifice another Vampire or Zombie: Put two +1/+1 counters on Kalitas.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/108/kalitas-traitor-of-ghet?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/1/d188a93a-cd9b-4a0b-80fb-738907b228cf.jpg?1789753038" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Terrian, World Tyrant [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/235/terrian-world-tyrant?utm_source=api</link>
-      <guid isPermaLink="false">856245a6-c697-4f03-90be-77d8eb2d274e:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/2/d2066390-7947-425c-ab6e-933b56f6a47a.jpg?1789753299&quot; alt=&quot;Terrian, World Tyrant&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Terrian, World Tyrant&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{G}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Dinosaur Ooze&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/235/terrian-world-tyrant?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/2/d2066390-7947-425c-ab6e-933b56f6a47a.jpg?1789753299" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Thrashing Brontodon [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/237/thrashing-brontodon?utm_source=api</link>
-      <guid isPermaLink="false">60bc63dc-ac9f-4a2f-aef5-c90d0aa31553:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/2/d268088d-a929-44eb-804c-02d625a7b019.jpg?1789753301&quot; alt=&quot;Thrashing Brontodon&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Thrashing Brontodon&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Dinosaur&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;{1}, Sacrifice this creature: Destroy target artifact or enchantment.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/237/thrashing-brontodon?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/2/d268088d-a929-44eb-804c-02d625a7b019.jpg?1789753301" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Steel Overseer [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/290/steel-overseer?utm_source=api</link>
-      <guid isPermaLink="false">986ae327-f433-4c58-93dc-afc544b9bfcb:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/3/d306b8c9-7a7f-4238-8496-6df10782afaa.jpg?1789753350&quot; alt=&quot;Steel Overseer&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Steel Overseer&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact Creature — Construct&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;{T}: Put a +1/+1 counter on each artifact creature you control.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/290/steel-overseer?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/3/d306b8c9-7a7f-4238-8496-6df10782afaa.jpg?1789753350" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Spinerock Knoll [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/314/spinerock-knoll?utm_source=api</link>
-      <guid isPermaLink="false">690c7f8e-fea2-4920-afa7-02ff120701a1:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/3/d3534bc9-6208-4d29-923a-b18237f7c68c.jpg?1789753452&quot; alt=&quot;Spinerock Knoll&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Spinerock Knoll&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Hideaway 4 (When this land enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)&lt;br/&gt;This land enters tapped.&lt;br/&gt;{T}: Add {R}.&lt;br/&gt;{R}, {T}: You may play the exiled card without paying its mana cost if an opponent was dealt 7 or more damage this turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/314/spinerock-knoll?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/3/d3534bc9-6208-4d29-923a-b18237f7c68c.jpg?1789753452" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Champion of the Perished [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/91/champion-of-the-perished?utm_source=api</link>
-      <guid isPermaLink="false">f3654fbd-16a5-4953-84ac-534e8421032f:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/3/d3bfa5bc-bcb9-4649-96b8-3cded84a25a2.jpg?1789752933&quot; alt=&quot;Champion of the Perished&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Champion of the Perished&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {B}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Zombie&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Whenever another Zombie you control enters, put a +1/+1 counter on this creature.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/91/champion-of-the-perished?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/3/d3bfa5bc-bcb9-4649-96b8-3cded84a25a2.jpg?1789752933" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Ezuri's Predation [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/203/ezuris-predation?utm_source=api</link>
-      <guid isPermaLink="false">d0dd425b-fdba-41b4-b9e6-f5161610bd7e:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/4/d43ef6eb-99ed-45a6-aee1-e87d3780d094.jpg?1789753270&quot; alt=&quot;Ezuri&amp;#x27;s Predation&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Ezuri&amp;#x27;s Predation&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {5}{G}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;For each creature your opponents control, create a 4/4 green Phyrexian Beast creature token. Each of those tokens fights a different one of those creatures.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/203/ezuris-predation?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/4/d43ef6eb-99ed-45a6-aee1-e87d3780d094.jpg?1789753270" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Steel Leaf Champion [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/230/steel-leaf-champion?utm_source=api</link>
-      <guid isPermaLink="false">666af637-9282-4121-962a-048e528f9221:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/5/d5362bf5-de79-4ad8-866a-1c590998fc96.jpg?1789753305&quot; alt=&quot;Steel Leaf Champion&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Steel Leaf Champion&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {G}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Elf Knight&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;This creature can&amp;#x27;t be blocked by creatures with power 2 or less.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/230/steel-leaf-champion?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/5/d5362bf5-de79-4ad8-866a-1c590998fc96.jpg?1789753305" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Herald's Horn [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/264/heralds-horn?utm_source=api</link>
-      <guid isPermaLink="false">c02c5547-b9c9-4b2d-9d12-e87bfba8f2d2:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/5/d5ba6786-c812-4744-bb2e-f180010b18b7.jpg?1789753327&quot; alt=&quot;Herald&amp;#x27;s Horn&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Herald&amp;#x27;s Horn&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;As this artifact enters, choose a creature type.&lt;br/&gt;Creature spells you cast of the chosen type cost {1} less to cast.&lt;br/&gt;At the beginning of your upkeep, look at the top card of your library. If it&amp;#x27;s a creature card of the chosen type, you may reveal it and put it into your hand.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/264/heralds-horn?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/5/d5ba6786-c812-4744-bb2e-f180010b18b7.jpg?1789753327" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
