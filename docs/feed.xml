@@ -5,9 +5,104 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 10 Oct 2026 01:21:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 19:35:16 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Giant [Marvel: Darkhold Destiny Tokens]</title>
+      <link>https://scryfall.com/card/tmdd/12/giant?utm_source=api</link>
+      <guid isPermaLink="false">22be49fa-33a6-47fa-9bfc-f06e044d3cdc:tmdd</guid>
+      <pubDate>Sat, 10 Oct 2026 19:35:16 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/6/0689b1b8-84be-4cc8-be4b-4461fefa885b.jpg?1791637288&quot; alt=&quot;Giant&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Giant&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Giant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Marvel: Darkhold Destiny Tokens&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tmdd/12/giant?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/6/0689b1b8-84be-4cc8-be4b-4461fefa885b.jpg?1791637288" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Mindless-One [Marvel: Darkhold Destiny Tokens]</title>
+      <link>https://scryfall.com/card/tmdd/9/mindless-one?utm_source=api</link>
+      <guid isPermaLink="false">1a0d84f7-d7fd-4794-b6ca-565fc111d701:tmdd</guid>
+      <pubDate>Sat, 10 Oct 2026 19:35:16 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/1/21d44eef-8dbc-4f2f-9be3-d6c43d4b405c.jpg?1791637095&quot; alt=&quot;Mindless-One&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Mindless-One&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Missing&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Marvel: Darkhold Destiny Tokens&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tmdd/9/mindless-one?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/1/21d44eef-8dbc-4f2f-9be3-d6c43d4b405c.jpg?1791637095" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Spirit Sorcerer Token [Marvel: Darkhold Destiny Tokens]</title>
+      <link>https://scryfall.com/card/tmdd/8/spirit-sorcerer-token?utm_source=api</link>
+      <guid isPermaLink="false">9c3c0e04-b222-4bc9-adbe-a3b37cc8c44e:tmdd</guid>
+      <pubDate>Sat, 10 Oct 2026 19:35:16 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/b/3b9c4950-9890-4977-87a0-6eba840e1f66.jpg?1791637068&quot; alt=&quot;Spirit Sorcerer Token&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Spirit Sorcerer Token&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Enchantment Creature — Spirit Sorcerer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Marvel: Darkhold Destiny Tokens&lt;/p&gt;
+&lt;p&gt;Flying&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tmdd/8/spirit-sorcerer-token?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/b/3b9c4950-9890-4977-87a0-6eba840e1f66.jpg?1791637068" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Angel [Marvel: Darkhold Destiny Tokens]</title>
+      <link>https://scryfall.com/card/tmdd/3/angel?utm_source=api</link>
+      <guid isPermaLink="false">9d256142-cae2-45d2-ab8f-5b390b403481:tmdd</guid>
+      <pubDate>Sat, 10 Oct 2026 19:35:16 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/8/481ff636-8343-4eb2-93cf-48b94c9ecfdb.jpg?1791637012&quot; alt=&quot;Angel&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Angel&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Angel&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Marvel: Darkhold Destiny Tokens&lt;/p&gt;
+&lt;p&gt;Flying, vigilance&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tmdd/3/angel?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/8/481ff636-8343-4eb2-93cf-48b94c9ecfdb.jpg?1791637012" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Zombie [Marvel: Darkhold Destiny Tokens]</title>
+      <link>https://scryfall.com/card/tmdd/10/zombie?utm_source=api</link>
+      <guid isPermaLink="false">ddc8c973-c31e-463f-be45-f3fa7d632362:tmdd</guid>
+      <pubDate>Sat, 10 Oct 2026 19:35:16 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/e/5e16386a-d478-475b-8e9b-edef62cae02b.jpg?1791637181&quot; alt=&quot;Zombie&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Zombie&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Zombie&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Marvel: Darkhold Destiny Tokens&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tmdd/10/zombie?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/e/5e16386a-d478-475b-8e9b-edef62cae02b.jpg?1791637181" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Elf Warrior [Marvel: Darkhold Destiny Tokens]</title>
+      <link>https://scryfall.com/card/tmdd/11/elf-warrior?utm_source=api</link>
+      <guid isPermaLink="false">dac8a765-6845-4b57-bb79-4ec463436f92:tmdd</guid>
+      <pubDate>Sat, 10 Oct 2026 19:35:16 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/2/72ac66e9-4b4b-4540-b310-e7b3dc04c305.jpg?1791637257&quot; alt=&quot;Elf Warrior&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Elf Warrior&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Elf Warrior&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Marvel: Darkhold Destiny Tokens&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/tmdd/11/elf-warrior?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/2/72ac66e9-4b4b-4540-b310-e7b3dc04c305.jpg?1791637257" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Salvaged Imitations [Alchemy: Reality Fracture]</title>
+      <link>https://scryfall.com/card/yfra/28/salvaged-imitations?utm_source=api</link>
+      <guid isPermaLink="false">7beb4697-23a0-4197-9f65-8b085e68251d:yfra</guid>
+      <pubDate>Sat, 10 Oct 2026 19:35:16 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/2/c2f7c018-e93e-483b-8e5b-bbd2204c2247.jpg?1791637426&quot; alt=&quot;Salvaged Imitations&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Salvaged Imitations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {X}{R}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Alchemy: Reality Fracture&lt;/p&gt;
+&lt;p&gt;For each number between 1 and X, conjure a random artifact card with that mana value onto the battlefield. X can&amp;#x27;t be 0.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/yfra/28/salvaged-imitations?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/2/c2f7c018-e93e-483b-8e5b-bbd2204c2247.jpg?1791637426" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Plains [Marvel: Darkhold Destiny]</title>
       <link>https://scryfall.com/card/mdd/292/plains?utm_source=api</link>
@@ -7318,111 +7413,6 @@
 &lt;p&gt;Choose one —&lt;br/&gt;• Destroy target creature with toughness 4 or greater.&lt;br/&gt;• Destroy target enchantment.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/26/destroy-evil?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/c/9/c927db80-2711-4546-970e-7c2e89a0fb2f.jpg?1789752830" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Cryptbreaker [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/94/cryptbreaker?utm_source=api</link>
-      <guid isPermaLink="false">16f75a65-d067-4f79-81b9-833c373cf4d2:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/9/c9d70cc4-379d-41db-8eb0-10643d2aafd1.jpg?1789752936&quot; alt=&quot;Cryptbreaker&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Cryptbreaker&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {B}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Zombie&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;{1}{B}, {T}, Discard a card: Create a 2/2 black Zombie creature token.&lt;br/&gt;Tap three untapped Zombies you control: You draw a card and you lose 1 life.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/94/cryptbreaker?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/9/c9d70cc4-379d-41db-8eb0-10643d2aafd1.jpg?1789752936" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Ilysian Caryatid [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/211/ilysian-caryatid?utm_source=api</link>
-      <guid isPermaLink="false">5f2be3c2-060a-43e1-b63b-9cd3c78ffcb0:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/9/c9dfb2e5-3ffe-4559-bdcb-50b98d4f16c6.jpg?1789753276&quot; alt=&quot;Ilysian Caryatid&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Ilysian Caryatid&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Plant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;{T}: Add one mana of any color. If you control a creature with power 4 or greater, add two mana of any one color instead.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/211/ilysian-caryatid?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/9/c9dfb2e5-3ffe-4559-bdcb-50b98d4f16c6.jpg?1789753276" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Vedalken Archmage [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/82/vedalken-archmage?utm_source=api</link>
-      <guid isPermaLink="false">568cf486-0261-4634-ac36-a6507101b2d0:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/b/cb57430d-a799-4036-aee2-6b5162035a7f.jpg?1789752926&quot; alt=&quot;Vedalken Archmage&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Vedalken Archmage&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{U}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Vedalken Wizard&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Whenever you cast an artifact spell, draw a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/82/vedalken-archmage?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/b/cb57430d-a799-4036-aee2-6b5162035a7f.jpg?1789752926" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Soulless One [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/126/soulless-one?utm_source=api</link>
-      <guid isPermaLink="false">27d98b94-a8a1-442b-8940-4ffab51b5164:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/b/cb759501-d634-430b-b5c9-24338e2d7367.jpg?1789753059&quot; alt=&quot;Soulless One&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Soulless One&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Zombie Avatar&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Soulless One&amp;#x27;s power and toughness are each equal to the number of Zombies on the battlefield plus the number of Zombie cards in all graveyards.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/126/soulless-one?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/b/cb759501-d634-430b-b5c9-24338e2d7367.jpg?1789753059" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Eternal Taskmaster [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/98/eternal-taskmaster?utm_source=api</link>
-      <guid isPermaLink="false">a7c000a8-1864-4bb2-80fa-a61d74dbd966:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/c/ccb7deab-cec1-453a-8257-8204c883c9f6.jpg?1789752941&quot; alt=&quot;Eternal Taskmaster&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Eternal Taskmaster&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Zombie&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;This creature enters tapped.&lt;br/&gt;Whenever this creature attacks, you may pay {2}{B}. If you do, return target creature card from your graveyard to your hand.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/98/eternal-taskmaster?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/c/ccb7deab-cec1-453a-8257-8204c883c9f6.jpg?1789752941" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Fall from Favor [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/63/fall-from-favor?utm_source=api</link>
-      <guid isPermaLink="false">e89e1fae-bac3-4cc0-a233-24b9e08a5290:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/d/cd200502-84ad-40af-829d-ccb15859c226.jpg?1789752905&quot; alt=&quot;Fall from Favor&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Fall from Favor&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Enchantment — Aura&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Enchant creature&lt;br/&gt;When this Aura enters, tap enchanted creature and you become the monarch.&lt;br/&gt;Enchanted creature doesn&amp;#x27;t untap during its controller&amp;#x27;s untap step unless that player is the monarch.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/63/fall-from-favor?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/d/cd200502-84ad-40af-829d-ccb15859c226.jpg?1789752905" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Basilisk Collar [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/246/basilisk-collar?utm_source=api</link>
-      <guid isPermaLink="false">f5f4dd28-f4ae-4d39-b9b8-6ebfd63c93fe:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/d/cd35c8ca-a456-45b5-b018-98027a56c719.jpg?1789753308&quot; alt=&quot;Basilisk Collar&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Basilisk Collar&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact — Equipment&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Equipped creature has deathtouch and lifelink. (Any amount of damage it deals to a creature is enough to destroy it. Damage dealt by this creature also causes you to gain that much life.)&lt;br/&gt;Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/246/basilisk-collar?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/d/cd35c8ca-a456-45b5-b018-98027a56c719.jpg?1789753308" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
