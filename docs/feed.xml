@@ -5,9 +5,144 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 12 Oct 2026 19:26:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 22:00:38 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Attrition [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2709/attrition?utm_source=api</link>
+      <guid isPermaLink="false">a85ee0cf-39ce-49f2-874a-f6f54ca1775f:sld</guid>
+      <pubDate>Tue, 13 Oct 2026 22:00:38 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/8/4840345d-9fc2-4bcc-ac7f-fc452fc1f334.jpg?1791898832&quot; alt=&quot;Attrition&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Attrition&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;{B}, Sacrifice a creature: Destroy target nonblack creature.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2709/attrition?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/8/4840345d-9fc2-4bcc-ac7f-fc452fc1f334.jpg?1791898832" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Tribute to the World Tree [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2708/tribute-to-the-world-tree?utm_source=api</link>
+      <guid isPermaLink="false">72deedab-7c17-4505-aeca-4bc8596d80a5:sld</guid>
+      <pubDate>Tue, 13 Oct 2026 22:00:38 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/f/4f80e176-9106-42ce-be93-a63a9a80faef.jpg?1791899255&quot; alt=&quot;Tribute to the World Tree&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Tribute to the World Tree&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {G}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Whenever a creature you control enters, draw a card if its power is 3 or greater. Otherwise, put two +1/+1 counters on it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2708/tribute-to-the-world-tree?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/f/4f80e176-9106-42ce-be93-a63a9a80faef.jpg?1791899255" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sign in Blood [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2712/sign-in-blood?utm_source=api</link>
+      <guid isPermaLink="false">c6207f6a-a624-4754-88f5-dbe700c841ff:sld</guid>
+      <pubDate>Tue, 13 Oct 2026 22:00:38 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/2/52a4ae24-0c0f-4f74-acec-38c21188bb3f.jpg?1791898982&quot; alt=&quot;Sign in Blood&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Sign in Blood&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Target player draws two cards and loses 2 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2712/sign-in-blood?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/2/52a4ae24-0c0f-4f74-acec-38c21188bb3f.jpg?1791898982" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Soul Spike [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2713/soul-spike?utm_source=api</link>
+      <guid isPermaLink="false">be979bfc-998d-43d5-a7a4-44548d9a14c4:sld</guid>
+      <pubDate>Tue, 13 Oct 2026 22:00:38 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/5/55292a78-f0d5-4dc9-97b6-16923839725b.jpg?1791899036&quot; alt=&quot;Soul Spike&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Soul Spike&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {5}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;You may exile two black cards from your hand rather than pay this spell&amp;#x27;s mana cost.&lt;br/&gt;Soul Spike deals 4 damage to any target and you gain 4 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2713/soul-spike?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/5/55292a78-f0d5-4dc9-97b6-16923839725b.jpg?1791899036" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Thoughtseize [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2705/thoughtseize?utm_source=api</link>
+      <guid isPermaLink="false">edd8d1e8-be43-4c38-bb3a-83081fbaf0b5:sld</guid>
+      <pubDate>Tue, 13 Oct 2026 22:00:38 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/1/a1e6beeb-a72a-48fa-9c69-75510773f446.jpg?1791899267&quot; alt=&quot;Thoughtseize&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Thoughtseize&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {B}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2705/thoughtseize?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/1/a1e6beeb-a72a-48fa-9c69-75510773f446.jpg?1791899267" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Bitter Ordeal [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2710/bitter-ordeal?utm_source=api</link>
+      <guid isPermaLink="false">c02fdb2e-10bb-49fc-bce0-b31b6fad8e38:sld</guid>
+      <pubDate>Tue, 13 Oct 2026 22:00:38 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/b/bb302418-8a43-4a44-ba2c-a7d607b0f51e.jpg?1791898890&quot; alt=&quot;Bitter Ordeal&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Bitter Ordeal&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Search target player&amp;#x27;s library for a card and exile it. Then that player shuffles.&lt;br/&gt;Gravestorm (When you cast this spell, copy it for each permanent put into a graveyard this turn. You may choose new targets for the copies.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2710/bitter-ordeal?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/b/bb302418-8a43-4a44-ba2c-a7d607b0f51e.jpg?1791898890" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Desperate Ritual [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2706/desperate-ritual?utm_source=api</link>
+      <guid isPermaLink="false">3620ab8f-b693-4225-bb96-5ca3cb3fa465:sld</guid>
+      <pubDate>Tue, 13 Oct 2026 22:00:38 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/a/cad9f66c-6e18-470a-890d-9a38e68bc9d8.jpg?1791899254&quot; alt=&quot;Desperate Ritual&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Desperate Ritual&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Instant — Arcane&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Add {R}{R}{R}.&lt;br/&gt;Splice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card&amp;#x27;s effects to that spell.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2706/desperate-ritual?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/a/cad9f66c-6e18-470a-890d-9a38e68bc9d8.jpg?1791899254" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ophiomancer [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2711/ophiomancer?utm_source=api</link>
+      <guid isPermaLink="false">55eca80c-dcd8-4c2f-aa0f-fb0aec7b80f7:sld</guid>
+      <pubDate>Tue, 13 Oct 2026 22:00:38 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/a/da04690b-82e2-48e5-bb80-55d6ae28be94.jpg?1791898935&quot; alt=&quot;Ophiomancer&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Ophiomancer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Human Shaman&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;At the beginning of each upkeep, if you control no Snakes, create a 1/1 black Snake creature token with deathtouch.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2711/ophiomancer?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/a/da04690b-82e2-48e5-bb80-55d6ae28be94.jpg?1791898935" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Pyroblast [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2707/pyroblast?utm_source=api</link>
+      <guid isPermaLink="false">ecc435e2-deb1-420a-a79f-01dd08747314:sld</guid>
+      <pubDate>Tue, 13 Oct 2026 22:00:38 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/f/df13dd0a-f313-426d-9227-f81aacbed791.jpg?1791899263&quot; alt=&quot;Pyroblast&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Pyroblast&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {R}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Choose one —&lt;br/&gt;• Counter target spell if it&amp;#x27;s blue.&lt;br/&gt;• Destroy target permanent if it&amp;#x27;s blue.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2707/pyroblast?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/f/df13dd0a-f313-426d-9227-f81aacbed791.jpg?1791899263" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Avoided Stairwurm [Alchemy: Reality Fracture]</title>
       <link>https://scryfall.com/card/yfra/10/avoided-stairwurm?utm_source=api</link>
@@ -7279,141 +7414,6 @@
 &lt;p&gt;Dragon spells you cast cost {2} less to cast.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/154/dragonspeaker-shaman?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/a/4/a44dbac8-756e-40a2-baed-2c7f4e20a962.jpg?1789753080" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Austere Command [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/18/austere-command?utm_source=api</link>
-      <guid isPermaLink="false">09cc8709-fe10-472a-b05c-e89f3523018d:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/4/a47d6756-400c-4d45-8708-8a8e95c926c8.jpg?1789752818&quot; alt=&quot;Austere Command&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Austere Command&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}{W}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Choose two —&lt;br/&gt;• Destroy all artifacts.&lt;br/&gt;• Destroy all enchantments.&lt;br/&gt;• Destroy all creatures with mana value 3 or less.&lt;br/&gt;• Destroy all creatures with mana value 4 or greater.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/18/austere-command?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/4/a47d6756-400c-4d45-8708-8a8e95c926c8.jpg?1789752818" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Dragonlord's Servant [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/152/dragonlords-servant?utm_source=api</link>
-      <guid isPermaLink="false">faf81ae0-0b35-45ef-a50d-6cecf0c0eeeb:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/5/a59f9425-6426-4a35-9eed-eaa59c0622a0.jpg?1789753084&quot; alt=&quot;Dragonlord&amp;#x27;s Servant&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Dragonlord&amp;#x27;s Servant&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Goblin Shaman&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Dragon spells you cast cost {1} less to cast.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/152/dragonlords-servant?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/5/a59f9425-6426-4a35-9eed-eaa59c0622a0.jpg?1789753084" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Hit the Mother Lode [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/161/hit-the-mother-lode?utm_source=api</link>
-      <guid isPermaLink="false">a49900b3-cc34-428f-806d-71861dc8059d:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/6/a636f0ea-d605-453c-8b10-c0ecfeffd573.jpg?1789753088&quot; alt=&quot;Hit the Mother Lode&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Hit the Mother Lode&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}{R}{R}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Discover 10. If the discovered card&amp;#x27;s mana value is less than 10, create a number of tapped Treasure tokens equal to the difference. (To discover 10, exile cards from the top of your library until you exile a nonland card with mana value 10 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/161/hit-the-mother-lode?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/6/a636f0ea-d605-453c-8b10-c0ecfeffd573.jpg?1789753088" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Razorlash Transmogrant [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/124/razorlash-transmogrant?utm_source=api</link>
-      <guid isPermaLink="false">580996d4-db9a-4b57-a0e1-a2dbb524121a:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/7/a789aea2-bf82-430e-ab6d-8beac52964a8.jpg?1789753054&quot; alt=&quot;Razorlash Transmogrant&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Razorlash Transmogrant&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact Creature — Zombie&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;This creature can&amp;#x27;t block.&lt;br/&gt;{4}{B}{B}: Return this card from your graveyard to the battlefield with a +1/+1 counter on it. This ability costs {4} less to activate if an opponent controls four or more nonbasic lands.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/124/razorlash-transmogrant?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/7/a789aea2-bf82-430e-ab6d-8beac52964a8.jpg?1789753054" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Angelic Destiny [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/14/angelic-destiny?utm_source=api</link>
-      <guid isPermaLink="false">8ba36878-0816-44c7-b543-8ebfc28c2ecd:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/8/a8c5b900-650b-4655-b8f8-a7d454b20207.jpg?1789753490&quot; alt=&quot;Angelic Destiny&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Angelic Destiny&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{W}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Enchantment — Aura&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Enchant creature&lt;br/&gt;Enchanted creature gets +4/+4, has flying and first strike, and is an Angel in addition to its other types.&lt;br/&gt;When enchanted creature dies, return this card to its owner&amp;#x27;s hand.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/14/angelic-destiny?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/8/a8c5b900-650b-4655-b8f8-a7d454b20207.jpg?1789753490" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Nevinyrral's Disk [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/276/nevinyrrals-disk?utm_source=api</link>
-      <guid isPermaLink="false">96230edf-568a-47dd-b877-9d92aa58fac8:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/8/a8d65c8e-984b-4cc2-8dc4-c8a7dd65be71.jpg?1789753337&quot; alt=&quot;Nevinyrral&amp;#x27;s Disk&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Nevinyrral&amp;#x27;s Disk&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;This artifact enters tapped.&lt;br/&gt;{1}, {T}: Destroy all artifacts, creatures, and enchantments.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/276/nevinyrrals-disk?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/8/a8d65c8e-984b-4cc2-8dc4-c8a7dd65be71.jpg?1789753337" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Minion of the Mighty [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/166/minion-of-the-mighty?utm_source=api</link>
-      <guid isPermaLink="false">058062c7-071b-4b14-903d-ae8d2876b37f:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/c/acf3b01f-6c67-4396-82ff-f3f416aea7c7.jpg?1789753090&quot; alt=&quot;Minion of the Mighty&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Minion of the Mighty&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {R}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Kobold&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Menace&lt;br/&gt;Pack tactics — Whenever this creature attacks, if you attacked with creatures with total power 6 or greater this combat, you may put a Dragon creature card from your hand onto the battlefield tapped and attacking.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/166/minion-of-the-mighty?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/c/acf3b01f-6c67-4396-82ff-f3f416aea7c7.jpg?1789753090" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Shivan Devastator [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/175/shivan-devastator?utm_source=api</link>
-      <guid isPermaLink="false">b7daa74c-6142-4107-9355-be98af6ccf13:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/d/ad5b6445-98a5-4126-bc58-6ac8c2de1950.jpg?1789753097&quot; alt=&quot;Shivan Devastator&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Shivan Devastator&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {X}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Dragon Hydra&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Flying, haste&lt;br/&gt;This creature enters with X +1/+1 counters on it.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/175/shivan-devastator?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/d/ad5b6445-98a5-4126-bc58-6ac8c2de1950.jpg?1789753097" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Sarkhan, Dragon Ascendant [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/172/sarkhan-dragon-ascendant?utm_source=api</link>
-      <guid isPermaLink="false">71cb48e2-2328-471c-a04a-7b6461f378f4:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/f/af6826db-29c2-446d-8a76-1faf87535c25.jpg?1789753241&quot; alt=&quot;Sarkhan, Dragon Ascendant&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Sarkhan, Dragon Ascendant&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Druid&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;When Sarkhan enters, you may behold a Dragon. If you do, create a Treasure token. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)&lt;br/&gt;Whenever a Dragon you control enters, put a +1/+1 counter on Sarkhan. Until end of turn, Sarkhan becomes a Dragon in addition to its other types and gains flying.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/172/sarkhan-dragon-ascendant?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/f/af6826db-29c2-446d-8a76-1faf87535c25.jpg?1789753241" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
