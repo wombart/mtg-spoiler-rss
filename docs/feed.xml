@@ -5,9 +5,53 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 13 Oct 2026 22:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:55:33 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Venom, Eddie Brock [Media and Collaboration Promos]</title>
+      <link>https://scryfall.com/card/pmei/2026-28/venom-eddie-brock?utm_source=api</link>
+      <guid isPermaLink="false">9132d7e6-7190-45e1-9c57-8fe2e5d0f2f2:pmei</guid>
+      <pubDate>Thu, 15 Oct 2026 17:55:33 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/2/529d3638-7045-4c66-a606-4cbae2382f8c.jpg?1792062011&quot; alt=&quot;Venom, Eddie Brock&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Venom, Eddie Brock&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Symbiote Villain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Media and Collaboration Promos&lt;/p&gt;
+&lt;p&gt;Menace (This creature can&amp;#x27;t be blocked except by two or more creatures.)&lt;br/&gt;Whenever another creature dies, put a +1/+1 counter on Venom. If that creature was a Villain, draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pmei/2026-28/venom-eddie-brock?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/2/529d3638-7045-4c66-a606-4cbae2382f8c.jpg?1792062011" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Villainous Hideout [Media and Collaboration Promos]</title>
+      <link>https://scryfall.com/card/pmei/2026-29/villainous-hideout?utm_source=api</link>
+      <guid isPermaLink="false">cd2888aa-71f3-47ee-ba33-7bb95d5bc836:pmei</guid>
+      <pubDate>Thu, 15 Oct 2026 17:55:33 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/c/dc904edb-acab-4ad4-9ff3-c44d91fd3d72.jpg?1792061981&quot; alt=&quot;Villainous Hideout&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Villainous Hideout&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Media and Collaboration Promos&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}: Add one mana of any color. Spend this mana only to cast a Villain spell or to activate an ability of a Villain source.&lt;br/&gt;{3}, {T}: Target Villain you control connives. Activate only as a sorcery. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pmei/2026-29/villainous-hideout?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/c/dc904edb-acab-4ad4-9ff3-c44d91fd3d72.jpg?1792061981" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Mind Stone [Media and Collaboration Promos]</title>
+      <link>https://scryfall.com/card/pmei/2026-27/mind-stone?utm_source=api</link>
+      <guid isPermaLink="false">c97361b5-af16-4a7b-af85-a429dbaf4ad2:pmei</guid>
+      <pubDate>Thu, 15 Oct 2026 17:55:33 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/6/562d9f6f-1ce1-46d6-8f5a-bfb1b83429ab.jpg?1792062072&quot; alt=&quot;Mind Stone&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Mind Stone&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Media and Collaboration Promos&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{1}, {T}, Sacrifice this artifact: Draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pmei/2026-27/mind-stone?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/6/562d9f6f-1ce1-46d6-8f5a-bfb1b83429ab.jpg?1792062072" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Attrition [Secret Lair Drop]</title>
       <link>https://scryfall.com/card/sld/2709/attrition?utm_source=api</link>
@@ -7369,51 +7413,6 @@
 &lt;p&gt;Flying&lt;br/&gt;Whenever another creature you control enters, you gain 1 life.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/24/dazzling-angel?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/a/1/a1a8cc0d-c2ac-4dfe-a0a1-996bfadb7d54.jpg?1789752829" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Utvara Hellkite [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/185/utvara-hellkite?utm_source=api</link>
-      <guid isPermaLink="false">05a6a571-643e-429e-8e5c-1c3f8b0dc746:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/2/a299293c-cdf9-42fa-af9c-ac2e9966234a.jpg?1789753250&quot; alt=&quot;Utvara Hellkite&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Utvara Hellkite&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {6}{R}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Dragon&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Flying&lt;br/&gt;Whenever a Dragon you control attacks, create a 6/6 red Dragon creature token with flying.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/185/utvara-hellkite?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/2/a299293c-cdf9-42fa-af9c-ac2e9966234a.jpg?1789753250" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Commander's Sphere [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/250/commanders-sphere?utm_source=api</link>
-      <guid isPermaLink="false">0b67c4e2-f88b-4e01-85a1-9d5f5b8db13b:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/2/a2f126c3-ef62-421b-8d3e-2ae2f2d4f000.jpg?1789753314&quot; alt=&quot;Commander&amp;#x27;s Sphere&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Commander&amp;#x27;s Sphere&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;{T}: Add one mana of any color in your commander&amp;#x27;s color identity.&lt;br/&gt;Sacrifice this artifact: Draw a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/250/commanders-sphere?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/2/a2f126c3-ef62-421b-8d3e-2ae2f2d4f000.jpg?1789753314" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Dragonspeaker Shaman [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/154/dragonspeaker-shaman?utm_source=api</link>
-      <guid isPermaLink="false">6a29f36b-7911-4d84-a3ae-546b131d5159:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/4/a44dbac8-756e-40a2-baed-2c7f4e20a962.jpg?1789753080&quot; alt=&quot;Dragonspeaker Shaman&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Dragonspeaker Shaman&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{R}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Human Barbarian Shaman&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Dragon spells you cast cost {2} less to cast.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/154/dragonspeaker-shaman?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/4/a44dbac8-756e-40a2-baed-2c7f4e20a962.jpg?1789753080" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
