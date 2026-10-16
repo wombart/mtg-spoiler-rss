@@ -5,9 +5,459 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 15 Oct 2026 17:55:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 19:04:58 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Unholy Heat [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/70/unholy-heat?utm_source=api</link>
+      <guid isPermaLink="false">b23cba46-6ed2-442d-bc39-7c4933f6b083:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/1/111be579-a9a8-41ed-a558-ffb87ad64b15.jpg?1792155603&quot; alt=&quot;Unholy Heat&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Unholy Heat&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {R}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Unholy Heat deals 2 damage to target creature or planeswalker.&lt;br/&gt;Delirium — Unholy Heat deals 6 damage instead if there are four or more card types among cards in your graveyard.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/70/unholy-heat?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/1/111be579-a9a8-41ed-a558-ffb87ad64b15.jpg?1792155603" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Collective Effort [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/82/collective-effort?utm_source=api</link>
+      <guid isPermaLink="false">a97e760a-99c8-47ea-a875-451aca913ee7:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/c/1cf94ce8-d945-4566-88b4-77af36dd9f67.jpg?1792156396&quot; alt=&quot;Collective Effort&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Collective Effort&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Escalate—Tap an untapped creature you control. (Pay this cost for each mode chosen beyond the first.)&lt;br/&gt;Choose one or more —&lt;br/&gt;• Destroy target creature with power 4 or greater.&lt;br/&gt;• Destroy target enchantment.&lt;br/&gt;• Put a +1/+1 counter on each creature target player controls.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/82/collective-effort?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/c/1cf94ce8-d945-4566-88b4-77af36dd9f67.jpg?1792156396" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Beta Ray Bill [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/78/beta-ray-bill?utm_source=api</link>
+      <guid isPermaLink="false">ebb58466-dca1-4a5a-83fe-f48d75063cbe:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/3/23a18d46-82d9-42b6-a057-6c1c7d2641a3.jpg?1792156132&quot; alt=&quot;Beta Ray Bill&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Beta Ray Bill&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{G/W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Alien Warrior Hero&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Valiant — Whenever Beta Ray Bill become the target of a spell or ability you control for the first time each turn, put a +1/+1 counter on him and up to one target God you control.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/78/beta-ray-bill?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/3/23a18d46-82d9-42b6-a057-6c1c7d2641a3.jpg?1792156132" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Champion's Helm [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/64/champions-helm?utm_source=api</link>
+      <guid isPermaLink="false">c01aafb8-3da5-4eb1-8731-2a223e747d63:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/8/284f705e-01a3-4fc0-a7c0-7f13d8b3f98a.jpg?1792154579&quot; alt=&quot;Champion&amp;#x27;s Helm&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Champion&amp;#x27;s Helm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact — Equipment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Equipped creature gets +2/+2.&lt;br/&gt;As long as equipped creature is legendary, it has hexproof. (It can&amp;#x27;t be the target of spells or abilities your opponents control.)&lt;br/&gt;Equip {1}&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/64/champions-helm?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/8/284f705e-01a3-4fc0-a7c0-7f13d8b3f98a.jpg?1792154579" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Villainous Wrath [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/71/villainous-wrath?utm_source=api</link>
+      <guid isPermaLink="false">1c7c1867-20cb-4035-bb2a-42760edf0a55:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/a/2a70155f-332e-49cc-808a-686785815c1d.jpg?1792155665&quot; alt=&quot;Villainous Wrath&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Villainous Wrath&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Target opponent loses life equal to the number of creatures they control. Then destroy all creatures.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/71/villainous-wrath?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/a/2a70155f-332e-49cc-808a-686785815c1d.jpg?1792155665" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Mjölnir, Storm Hammer [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/62/mj%C3%B6lnir-storm-hammer?utm_source=api</link>
+      <guid isPermaLink="false">f497e9a5-0ad3-4aec-8422-14be8e0dba4c:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/1/315b5a40-5566-4b08-8f2b-1e171aeb4b2d.jpg?1792154374&quot; alt=&quot;Mjölnir, Storm Hammer&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Mjölnir, Storm Hammer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Artifact — Equipment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;When Mjölnir enters, attach it to target legendary creature you control.&lt;br/&gt;Whenever equipped creature attacks, tap target creature defending player controls and put a stun counter on it. Then Mjölnir deals damage to each opponent equal to the number of tapped creatures that opponent controls.&lt;br/&gt;Equip {4}&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/62/mj%C3%B6lnir-storm-hammer?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/1/315b5a40-5566-4b08-8f2b-1e171aeb4b2d.jpg?1792154374" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Primal Might [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/73/primal-might?utm_source=api</link>
+      <guid isPermaLink="false">58d7b8b3-ac47-4805-8259-4ba8e70d7dc3:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/9/39625009-60e0-4605-8cef-9d06378e9c91.jpg?1792155781&quot; alt=&quot;Primal Might&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Primal Might&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {X}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Target creature you control gets +X/+X until end of turn. Then it fights up to one target creature you don&amp;#x27;t control. (Each deals damage equal to its power to the other.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/73/primal-might?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/9/39625009-60e0-4605-8cef-9d06378e9c91.jpg?1792155781" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Court of Bounty [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/68/court-of-bounty?utm_source=api</link>
+      <guid isPermaLink="false">e55d9377-f89a-41e5-a094-730d6f24caf0:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/9/39835a90-ab3a-458a-ad59-e7cd61e893fe.jpg?1792155104&quot; alt=&quot;Court of Bounty&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Court of Bounty&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;When this enchantment enters, you become the monarch.&lt;br/&gt;At the beginning of your upkeep, you may put a land card from your hand onto the battlefield. If you&amp;#x27;re the monarch, instead you may put a creature or land card from your hand onto the battlefield.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/68/court-of-bounty?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/9/39835a90-ab3a-458a-ad59-e7cd61e893fe.jpg?1792155104" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Damning Verdict [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/72/damning-verdict?utm_source=api</link>
+      <guid isPermaLink="false">355ed7ef-bfa6-4538-99fb-a2d203eb7005:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/f/3f8284fa-c436-41b8-8598-4ebd3b6363d1.jpg?1792155738&quot; alt=&quot;Damning Verdict&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Damning Verdict&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{W}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Destroy all creatures with no counters on them.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/72/damning-verdict?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/f/3f8284fa-c436-41b8-8598-4ebd3b6363d1.jpg?1792155738" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Unbreakable Formation [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/56/unbreakable-formation?utm_source=api</link>
+      <guid isPermaLink="false">97435e03-2fff-4fe0-8fa9-69ab0a046a33:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/6/46986f2d-f9dd-4109-a48b-2c3ce418afca.jpg?1792153984&quot; alt=&quot;Unbreakable Formation&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Unbreakable Formation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Creatures you control gain indestructible until end of turn.&lt;br/&gt;Addendum — If you cast this spell during your main phase, put a +1/+1 counter on each of those creatures and they gain vigilance until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/56/unbreakable-formation?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/6/46986f2d-f9dd-4109-a48b-2c3ce418afca.jpg?1792153984" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Vigor [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/61/vigor?utm_source=api</link>
+      <guid isPermaLink="false">70787d8b-0a40-43ea-837a-9617dc13e7e5:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/d/5d1994a0-9323-4108-addf-9ad8aaa80ca6.jpg?1792154600&quot; alt=&quot;Vigor&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Vigor&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{G}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Elemental Incarnation&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Trample&lt;br/&gt;If damage would be dealt to another creature you control, prevent that damage. Put a +1/+1 counter on that creature for each 1 damage prevented this way.&lt;br/&gt;When Vigor is put into a graveyard from anywhere, shuffle it into its owner&amp;#x27;s library.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/61/vigor?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/d/5d1994a0-9323-4108-addf-9ad8aaa80ca6.jpg?1792154600" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fierce Guardianship [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/55/fierce-guardianship?utm_source=api</link>
+      <guid isPermaLink="false">d09c9cba-fdd2-479b-ad5d-d05181c3e3f9:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/8/686ef3ed-9056-4d54-985c-56bc6d1a3232.jpg?1792153981&quot; alt=&quot;Fierce Guardianship&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Fierce Guardianship&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;If you control a commander, you may cast this spell without paying its mana cost.&lt;br/&gt;Counter target noncreature spell.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/55/fierce-guardianship?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/8/686ef3ed-9056-4d54-985c-56bc6d1a3232.jpg?1792153981" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Molten Duplication [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/54/molten-duplication?utm_source=api</link>
+      <guid isPermaLink="false">92b91910-9b65-4421-8eef-a33793161089:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/f/6f67598f-1a3c-4f24-8a37-2a437247e7af.jpg?1792153989&quot; alt=&quot;Molten Duplication&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Molten Duplication&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Create a token that&amp;#x27;s a copy of target artifact or creature you control, except it&amp;#x27;s an artifact in addition to its other types. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/54/molten-duplication?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/f/6f67598f-1a3c-4f24-8a37-2a437247e7af.jpg?1792153989" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Devastation [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/69/devastation?utm_source=api</link>
+      <guid isPermaLink="false">052838cb-dcf0-46f5-82b1-c3ed863b42b7:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/b/7befa177-b610-4711-9219-5c8c53b98012.jpg?1792155550&quot; alt=&quot;Devastation&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Devastation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {5}{R}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Destroy all creatures and lands.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/69/devastation?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/b/7befa177-b610-4711-9219-5c8c53b98012.jpg?1792155550" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Force of Virtue [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/65/force-of-virtue?utm_source=api</link>
+      <guid isPermaLink="false">4262893c-8cbe-4854-9762-b3b6b75c0e35:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/d/7d0f4947-847e-4816-a2ab-3d337b9f7ae8.jpg?1792154825&quot; alt=&quot;Force of Virtue&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Force of Virtue&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;If it&amp;#x27;s not your turn, you may exile a white card from your hand rather than pay this spell&amp;#x27;s mana cost.&lt;br/&gt;Flash&lt;br/&gt;Creatures you control get +1/+1.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/65/force-of-virtue?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/d/7d0f4947-847e-4816-a2ab-3d337b9f7ae8.jpg?1792154825" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Heroic Intervention [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/66/heroic-intervention?utm_source=api</link>
+      <guid isPermaLink="false">24882fa2-3fe9-4c1b-aa3d-0e6488b9db27:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/a/9ae40924-d2cc-4be1-b130-8bb6f4a39d65.jpg?1792154892&quot; alt=&quot;Heroic Intervention&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Heroic Intervention&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Permanents you control gain hexproof and indestructible until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/66/heroic-intervention?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/a/9ae40924-d2cc-4be1-b130-8bb6f4a39d65.jpg?1792154892" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fiery Confluence [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/76/fiery-confluence?utm_source=api</link>
+      <guid isPermaLink="false">3c22e031-4804-4c31-bd3c-c3f29d456b34:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/7/a7c9f8b3-9596-46a8-b636-a47312eb9503.jpg?1792155923&quot; alt=&quot;Fiery Confluence&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Fiery Confluence&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{R}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Choose three. You may choose the same mode more than once.&lt;br/&gt;• Fiery Confluence deals 1 damage to each creature.&lt;br/&gt;• Fiery Confluence deals 2 damage to each opponent.&lt;br/&gt;• Destroy target artifact.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/76/fiery-confluence?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/7/a7c9f8b3-9596-46a8-b636-a47312eb9503.jpg?1792155923" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Rogue's Gloves [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/77/rogues-gloves?utm_source=api</link>
+      <guid isPermaLink="false">308d7868-49f9-47a3-a7b1-4b0332d610f1:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/b/abf821ab-0c58-4706-81d4-3afd576af149.jpg?1792155951&quot; alt=&quot;Rogue&amp;#x27;s Gloves&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Rogue&amp;#x27;s Gloves&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact — Equipment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Whenever equipped creature deals combat damage to a player, you may draw a card.&lt;br/&gt;Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/77/rogues-gloves?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/b/abf821ab-0c58-4706-81d4-3afd576af149.jpg?1792155951" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>With Great Power . . . [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/60/with-great-power-?utm_source=api</link>
+      <guid isPermaLink="false">dfedb968-f27c-4117-aff6-da707dd43e82:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/3/b35cd8f6-de1e-46a9-8909-54ad28e71305.jpg?1792154590&quot; alt=&quot;With Great Power . . .&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;With Great Power . . .&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Aura&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Enchant creature you control&lt;br/&gt;Enchanted creature gets +2/+2 for each Aura and Equipment attached to it.&lt;br/&gt;All damage that would be dealt to you is dealt to enchanted creature instead.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/60/with-great-power-?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/3/b35cd8f6-de1e-46a9-8909-54ad28e71305.jpg?1792154590" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Tainted Pact [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/59/tainted-pact?utm_source=api</link>
+      <guid isPermaLink="false">1a85ba2b-ae10-4917-954a-7709b75a9740:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/9/b9f1a168-cd43-418c-bf49-ab1c252927d7.jpg?1792154192&quot; alt=&quot;Tainted Pact&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Tainted Pact&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Exile the top card of your library. You may put that card into your hand unless it has the same name as another card exiled this way. Repeat this process until you put a card into your hand or you exile two cards with the same name, whichever comes first.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/59/tainted-pact?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/9/b9f1a168-cd43-418c-bf49-ab1c252927d7.jpg?1792154192" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Lightning Bolt [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/83/lightning-bolt?utm_source=api</link>
+      <guid isPermaLink="false">4457ed35-7c10-48c8-9776-456485fdf070:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/b/bba5ea18-4e58-42a8-b613-2178706476a6.jpg?1792156428&quot; alt=&quot;Lightning Bolt&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Lightning Bolt&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {R}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Lightning Bolt deals 3 damage to any target.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/83/lightning-bolt?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/b/bba5ea18-4e58-42a8-b613-2178706476a6.jpg?1792156428" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Genesis Wave [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/75/genesis-wave?utm_source=api</link>
+      <guid isPermaLink="false">e2487868-f386-438e-a73f-b494f6d35fac:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/c/bc9db0b1-de3b-4a99-b989-19acbc025018.jpg?1792155895&quot; alt=&quot;Genesis Wave&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Genesis Wave&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {X}{G}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Reveal the top X cards of your library. You may put any number of permanent cards with mana value X or less from among them onto the battlefield. Then put all cards revealed this way that weren&amp;#x27;t put onto the battlefield into your graveyard.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/75/genesis-wave?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/c/bc9db0b1-de3b-4a99-b989-19acbc025018.jpg?1792155895" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Snuff Out [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/79/snuff-out?utm_source=api</link>
+      <guid isPermaLink="false">324824cb-f938-401c-b9b5-d8908b431ef0:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/2/c2074fd8-a351-4af0-b8b3-0c31898d9fa0.jpg?1792156216&quot; alt=&quot;Snuff Out&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Snuff Out&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;If you control a Swamp, you may pay 4 life rather than pay this spell&amp;#x27;s mana cost.&lt;br/&gt;Destroy target nonblack creature. It can&amp;#x27;t be regenerated.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/79/snuff-out?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/2/c2074fd8-a351-4af0-b8b3-0c31898d9fa0.jpg?1792156216" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Titanic Ultimatum [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/80/titanic-ultimatum?utm_source=api</link>
+      <guid isPermaLink="false">0cd28580-d718-4d0b-96e3-a836c2911c27:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/3/d3c8b53d-3a0f-4d94-8a27-8bc99626e403.jpg?1792156316&quot; alt=&quot;Titanic Ultimatum&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Titanic Ultimatum&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {R}{R}{G}{G}{G}{W}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Until end of turn, creatures you control get +5/+5 and gain first strike, trample, and lifelink.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/80/titanic-ultimatum?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/3/d3c8b53d-3a0f-4d94-8a27-8bc99626e403.jpg?1792156316" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fighter Class [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/67/fighter-class?utm_source=api</link>
+      <guid isPermaLink="false">8a280ba8-6b7b-46dd-9c2b-6d0027cfff30:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/6/d617fd56-b594-4baf-a4c2-318724044a52.jpg?1792155068&quot; alt=&quot;Fighter Class&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Fighter Class&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {R}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Class&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;(Gain the next level as a sorcery to add its ability.)&lt;br/&gt;When this Class enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.&lt;br/&gt;{1}{R}{W}: Level 2&lt;br/&gt;Equip abilities you activate cost {2} less to activate.&lt;br/&gt;{3}{R}{W}: Level 3&lt;br/&gt;Whenever a creature you control attacks, up to one target creature blocks it this combat if able.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/67/fighter-class?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/6/d617fd56-b594-4baf-a4c2-318724044a52.jpg?1792155068" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Doctor Strange, Master of Magic [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/63/doctor-strange-master-of-magic?utm_source=api</link>
+      <guid isPermaLink="false">554ac5df-b49c-4041-963d-408160f59fc1:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/c/dce65d5f-6fd4-469f-97fd-636be341d793.jpg?1792154594&quot; alt=&quot;Doctor Strange, Master of Magic&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Doctor Strange, Master of Magic&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Sorcerer Hero&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Flying, vigilance, prowess&lt;br/&gt;{T}: Draw a card. Activate only if you&amp;#x27;ve cast a noncreature spell this turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/63/doctor-strange-master-of-magic?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/c/dce65d5f-6fd4-469f-97fd-636be341d793.jpg?1792154594" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Opposition Agent [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/81/opposition-agent?utm_source=api</link>
+      <guid isPermaLink="false">1f438b8f-fe23-4f3b-ab2e-f6c33676c462:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/8/e8960592-350c-4a4e-b897-5fcc4508b5a9.jpg?1792156361&quot; alt=&quot;Opposition Agent&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Opposition Agent&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Human Rogue&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Flash&lt;br/&gt;You control your opponents while they&amp;#x27;re searching their libraries.&lt;br/&gt;While an opponent is searching their library, they exile each card they find. You may play those cards for as long as they remain exiled, and you may spend mana as though it were mana of any color to cast them.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/81/opposition-agent?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/8/e8960592-350c-4a4e-b897-5fcc4508b5a9.jpg?1792156361" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Biorhythm [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/58/biorhythm?utm_source=api</link>
+      <guid isPermaLink="false">447de961-106c-4189-83ce-ca63d487e1cd:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/2/f29d10ee-4d7c-450f-90f2-4ff1f28271f8.jpg?1792154142&quot; alt=&quot;Biorhythm&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Biorhythm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {6}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Each player&amp;#x27;s life total becomes the number of creatures they control.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/58/biorhythm?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/2/f29d10ee-4d7c-450f-90f2-4ff1f28271f8.jpg?1792154142" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Damn [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/74/damn?utm_source=api</link>
+      <guid isPermaLink="false">b01d61cc-9844-4191-86a0-f2db6d42d6e5:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/6/f6eed11d-5f22-45dd-a966-f61813dcc40e.jpg?1792155853&quot; alt=&quot;Damn&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Damn&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Destroy target creature. A creature destroyed this way can&amp;#x27;t be regenerated.&lt;br/&gt;Overload {2}{W}{W} (You may cast this spell for its overload cost. If you do, change &amp;quot;target&amp;quot; in its text to &amp;quot;each.&amp;quot;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/74/damn?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/6/f6eed11d-5f22-45dd-a966-f61813dcc40e.jpg?1792155853" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Timber Protector [Secret Lair Countdown]</title>
+      <link>https://scryfall.com/card/slc/57/timber-protector?utm_source=api</link>
+      <guid isPermaLink="false">9bc8a69b-6065-4ef7-a580-adb1e7c72ef4:slc</guid>
+      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/a/fa791e67-05ff-4d54-b1e5-72edc6531e3b.jpg?1792154045&quot; alt=&quot;Timber Protector&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Timber Protector&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Treefolk Warrior&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
+&lt;p&gt;Other Treefolk creatures you control get +1/+1.&lt;br/&gt;Other Treefolk and Forests you control have indestructible.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/57/timber-protector?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/a/fa791e67-05ff-4d54-b1e5-72edc6531e3b.jpg?1792154045" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Venom, Eddie Brock [Media and Collaboration Promos]</title>
       <link>https://scryfall.com/card/pmei/2026-28/venom-eddie-brock?utm_source=api</link>
@@ -6965,454 +7415,6 @@
 &lt;p&gt;Each player sacrifices all permanents they control that are one or more colors.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/9/all-is-dust?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/8/7/8764ca43-bbbb-43b5-895b-c7049cc76580.jpg?1789752814" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Goddric, Cloaked Reveler [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/158/goddric-cloaked-reveler?utm_source=api</link>
-      <guid isPermaLink="false">35b2b172-5fbc-4e4d-a011-390ee1b6c848:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/9/89950a60-8e6c-494e-93be-e0a44d81d598.jpg?1789753082&quot; alt=&quot;Goddric, Cloaked Reveler&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Goddric, Cloaked Reveler&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{R}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Noble&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Haste&lt;br/&gt;Celebration — As long as two or more nonland permanents entered the battlefield under your control this turn, Goddric is a Dragon with base power and toughness 4/4, flying, and &amp;quot;{R}: Dragons you control get +1/+0 until end of turn.&amp;quot; (It loses all other creature types.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/158/goddric-cloaked-reveler?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/9/89950a60-8e6c-494e-93be-e0a44d81d598.jpg?1789753082" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Diregraf Colossus [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/96/diregraf-colossus?utm_source=api</link>
-      <guid isPermaLink="false">fd62ad01-601f-4250-bc2a-8ef3982e45c4:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/9/89a24a9c-ad0d-49df-b7d8-e898da567e51.jpg?1789752939&quot; alt=&quot;Diregraf Colossus&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Diregraf Colossus&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Zombie Giant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;This creature enters with a +1/+1 counter on it for each Zombie card in your graveyard.&lt;br/&gt;Whenever you cast a Zombie spell, create a tapped 2/2 black Zombie creature token.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/96/diregraf-colossus?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/9/89a24a9c-ad0d-49df-b7d8-e898da567e51.jpg?1789752939" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Lathliss, Dragon Queen [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/7/lathliss-dragon-queen?utm_source=api</link>
-      <guid isPermaLink="false">15fef45d-f1a9-49b2-abaa-fe77bb9d1afd:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/a/8a17ec4e-b508-41af-803b-32acd863e598.jpg?1789752347&quot; alt=&quot;Lathliss, Dragon Queen&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Lathliss, Dragon Queen&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}{R}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Dragon&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Flying&lt;br/&gt;Whenever another nontoken Dragon you control enters, create a 5/5 red Dragon creature token with flying.&lt;br/&gt;{1}{R}: Dragons you control get +1/+0 until end of turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/7/lathliss-dragon-queen?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/a/8a17ec4e-b508-41af-803b-32acd863e598.jpg?1789752347" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Chain Reaction [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/144/chain-reaction?utm_source=api</link>
-      <guid isPermaLink="false">086b2564-9114-4ba2-94fd-b490f98f38a7:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/c/8c3aa5ea-722e-4ccc-b6cd-3eae9d05bc69.jpg?1789753072&quot; alt=&quot;Chain Reaction&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Chain Reaction&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{R}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Chain Reaction deals X damage to each creature, where X is the number of creatures on the battlefield.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/144/chain-reaction?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/c/8c3aa5ea-722e-4ccc-b6cd-3eae9d05bc69.jpg?1789753072" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Liliana's Mastery [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/109/lilianas-mastery?utm_source=api</link>
-      <guid isPermaLink="false">bd104c7e-311e-4b03-98d3-5f20f3a99d26:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/d/8d107d3f-1f6f-41dc-999f-b18bb55bf892.jpg?1789753039&quot; alt=&quot;Liliana&amp;#x27;s Mastery&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Liliana&amp;#x27;s Mastery&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{B}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Enchantment&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Zombies you control get +1/+1.&lt;br/&gt;When this enchantment enters, create two 2/2 black Zombie creature tokens.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/109/lilianas-mastery?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/d/8d107d3f-1f6f-41dc-999f-b18bb55bf892.jpg?1789753039" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Vanquisher's Banner [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/294/vanquishers-banner?utm_source=api</link>
-      <guid isPermaLink="false">8cf38025-5821-45a0-9483-266353b7e82d:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/e/8eae5f95-909e-4de7-b767-8a16bdba5ede.jpg?1789753356&quot; alt=&quot;Vanquisher&amp;#x27;s Banner&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Vanquisher&amp;#x27;s Banner&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {5}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;As this artifact enters, choose a creature type.&lt;br/&gt;Creatures you control of the chosen type get +1/+1.&lt;br/&gt;Whenever you cast a creature spell of the chosen type, draw a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/294/vanquishers-banner?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/e/8eae5f95-909e-4de7-b767-8a16bdba5ede.jpg?1789753356" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Shimmer Myr [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/283/shimmer-myr?utm_source=api</link>
-      <guid isPermaLink="false">e110ee80-37af-4989-a5fb-95d51dc7f102:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/e/8eb0c2fc-c7e0-41f2-b532-e4cac30d2ac7.jpg?1789753825&quot; alt=&quot;Shimmer Myr&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Shimmer Myr&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact Creature — Myr&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Flash&lt;br/&gt;You may cast artifact spells as though they had flash.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/283/shimmer-myr?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/e/8eb0c2fc-c7e0-41f2-b532-e4cac30d2ac7.jpg?1789753825" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Ghoulcaller Gisa [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/6/ghoulcaller-gisa?utm_source=api</link>
-      <guid isPermaLink="false">0dd894cb-1968-471c-af08-ea7ec5ce8428:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/0/909e62fa-4585-495e-812b-5df56af24610.jpg?1789752353&quot; alt=&quot;Ghoulcaller Gisa&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Ghoulcaller Gisa&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{B}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Wizard&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;{B}, {T}, Sacrifice another creature: Create X 2/2 black Zombie creature tokens, where X is the sacrificed creature&amp;#x27;s power.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/6/ghoulcaller-gisa?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/0/909e62fa-4585-495e-812b-5df56af24610.jpg?1789752353" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Nettlecyst [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/275/nettlecyst?utm_source=api</link>
-      <guid isPermaLink="false">04c7f4fe-2098-4311-866d-6733c08d5178:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/1/91ef92af-de6b-4dc4-81ab-8e527cb96fdd.jpg?1789753335&quot; alt=&quot;Nettlecyst&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Nettlecyst&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact — Equipment&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Living weapon (When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)&lt;br/&gt;Equipped creature gets +1/+1 for each artifact and/or enchantment you control.&lt;br/&gt;Equip {2}&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/275/nettlecyst?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/1/91ef92af-de6b-4dc4-81ab-8e527cb96fdd.jpg?1789753335" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Parapet Thrasher [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/170/parapet-thrasher?utm_source=api</link>
-      <guid isPermaLink="false">722e23d5-4f2a-43cd-bbd5-baf56b76e68d:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/3/93d8b962-2fe8-4323-a760-144979818f2c.jpg?1789753092&quot; alt=&quot;Parapet Thrasher&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Parapet Thrasher&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{R}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Dragon&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Flying&lt;br/&gt;Whenever one or more Dragons you control deal combat damage to an opponent, choose one that hasn&amp;#x27;t been chosen this turn —&lt;br/&gt;• Destroy target artifact that opponent controls.&lt;br/&gt;• This creature deals 4 damage to each other opponent.&lt;br/&gt;• Exile the top card of your library. You may play it this turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/170/parapet-thrasher?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/3/93d8b962-2fe8-4323-a760-144979818f2c.jpg?1789753092" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Garruk's Uprising [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/206/garruks-uprising?utm_source=api</link>
-      <guid isPermaLink="false">3127ae9b-a7a7-43ec-89d7-688f8445b33d:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/3/93ee55e0-9a2a-43f2-bd19-05e7ab04b262.jpg?1789753273&quot; alt=&quot;Garruk&amp;#x27;s Uprising&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Garruk&amp;#x27;s Uprising&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Enchantment&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;When this enchantment enters, if you control a creature with power 4 or greater, draw a card.&lt;br/&gt;Creatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it&amp;#x27;s attacking.)&lt;br/&gt;Whenever a creature you control with power 4 or greater enters, draw a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/206/garruks-uprising?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/3/93ee55e0-9a2a-43f2-bd19-05e7ab04b262.jpg?1789753273" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Mosswort Bridge [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/307/mosswort-bridge?utm_source=api</link>
-      <guid isPermaLink="false">7cb9e29f-835f-4155-a2a5-4b778866c773:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/4/94aff478-6040-4a13-be89-24e0edf1ffe5.jpg?1789753447&quot; alt=&quot;Mosswort Bridge&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Mosswort Bridge&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Hideaway 4 (When this land enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)&lt;br/&gt;This land enters tapped.&lt;br/&gt;{T}: Add {G}.&lt;br/&gt;{G}, {T}: You may play the exiled card without paying its mana cost if creatures you control have total power 10 or greater.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/307/mosswort-bridge?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/4/94aff478-6040-4a13-be89-24e0edf1ffe5.jpg?1789753447" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Youthful Valkyrie [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/58/youthful-valkyrie?utm_source=api</link>
-      <guid isPermaLink="false">6d37ba4b-ff56-4eec-9dc2-2d7f357dc9c9:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/5/9577d16a-e6ed-4d98-b90f-2abfc9b9586a.jpg?1789752899&quot; alt=&quot;Youthful Valkyrie&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Youthful Valkyrie&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Angel&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Flying&lt;br/&gt;Whenever another Angel you control enters, put a +1/+1 counter on this creature.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/58/youthful-valkyrie?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/5/9577d16a-e6ed-4d98-b90f-2abfc9b9586a.jpg?1789752899" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Midnight Reaper [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/114/midnight-reaper?utm_source=api</link>
-      <guid isPermaLink="false">e8c7566d-7cc0-48af-a986-83223ec7e06c:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/5/95bea61d-986c-4e01-a82d-25e47986375e.jpg?1789753046&quot; alt=&quot;Midnight Reaper&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Midnight Reaper&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Zombie Knight&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Whenever a nontoken creature you control dies, this creature deals 1 damage to you and you draw a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/114/midnight-reaper?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/5/95bea61d-986c-4e01-a82d-25e47986375e.jpg?1789753046" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Metallic Mimic [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/269/metallic-mimic?utm_source=api</link>
-      <guid isPermaLink="false">1f91297a-ec2b-4ea8-9198-aa1daac20ff8:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/7/97021da6-7008-4271-a83b-459e5c9691fa.jpg?1789753331&quot; alt=&quot;Metallic Mimic&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Metallic Mimic&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact Creature — Shapeshifter&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;As this creature enters, choose a creature type.&lt;br/&gt;This creature is the chosen type in addition to its other types.&lt;br/&gt;Each other creature you control of the chosen type enters with an additional +1/+1 counter on it.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/269/metallic-mimic?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/7/97021da6-7008-4271-a83b-459e5c9691fa.jpg?1789753331" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Charcoal Diamond [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/248/charcoal-diamond?utm_source=api</link>
-      <guid isPermaLink="false">1386d111-a2a7-4df1-91d7-947664126989:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/7/970593fe-747f-48d3-a964-e18a1fa2cf0f.jpg?1789753311&quot; alt=&quot;Charcoal Diamond&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Charcoal Diamond&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;This artifact enters tapped.&lt;br/&gt;{T}: Add {B}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/248/charcoal-diamond?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/7/970593fe-747f-48d3-a964-e18a1fa2cf0f.jpg?1789753311" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Moan of the Unhallowed [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/116/moan-of-the-unhallowed?utm_source=api</link>
-      <guid isPermaLink="false">ce87e5ed-2562-4563-9a5b-bd53c04ec4a5:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/8/983efb06-c4e3-4fe4-8a67-9ea9b54344a6.jpg?1789753046&quot; alt=&quot;Moan of the Unhallowed&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Moan of the Unhallowed&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{B}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Create two 2/2 black Zombie creature tokens.&lt;br/&gt;Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/116/moan-of-the-unhallowed?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/8/983efb06-c4e3-4fe4-8a67-9ea9b54344a6.jpg?1789753046" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Monstrous Onslaught [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/217/monstrous-onslaught?utm_source=api</link>
-      <guid isPermaLink="false">52be3da7-1e55-44c4-88bc-fb578a635ec0:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/9/99ae5d53-3485-4773-850f-61d30293280f.jpg?1789753283&quot; alt=&quot;Monstrous Onslaught&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Monstrous Onslaught&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Monstrous Onslaught deals X damage divided as you choose among any number of target creatures, where X is the greatest power among creatures you control as you cast this spell.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/217/monstrous-onslaught?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/9/99ae5d53-3485-4773-850f-61d30293280f.jpg?1789753283" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Pull from Tomorrow [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/73/pull-from-tomorrow?utm_source=api</link>
-      <guid isPermaLink="false">b1a23235-3076-475c-a68a-db29cf2a9dba:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/9/99d9d3a9-442b-485c-88e7-91de7278bde9.jpg?1789752915&quot; alt=&quot;Pull from Tomorrow&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Pull from Tomorrow&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {X}{U}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Draw X cards, then discard a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/73/pull-from-tomorrow?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/9/99d9d3a9-442b-485c-88e7-91de7278bde9.jpg?1789752915" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Llanowar Tribe [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/214/llanowar-tribe?utm_source=api</link>
-      <guid isPermaLink="false">cfd0f0e6-1bbf-4450-97d2-c54907abb7e4:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/a/9a373b9d-1c4c-4335-b7f8-30c5d6fef559.jpg?1789753281&quot; alt=&quot;Llanowar Tribe&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Llanowar Tribe&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {G}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Elf Druid&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;{T}: Add {G}{G}{G}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/214/llanowar-tribe?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/a/9a373b9d-1c4c-4335-b7f8-30c5d6fef559.jpg?1789753281" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Open the Graves [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/121/open-the-graves?utm_source=api</link>
-      <guid isPermaLink="false">28778958-a1f9-4fea-b551-c193d1257f18:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/a/9a6bc939-3d31-4a78-9925-27435bec2a67.jpg?1789753049&quot; alt=&quot;Open the Graves&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Open the Graves&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{B}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Enchantment&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Whenever a nontoken creature you control dies, create a 2/2 black Zombie creature token.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/121/open-the-graves?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/a/9a6bc939-3d31-4a78-9925-27435bec2a67.jpg?1789753049" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Radiant Fountain [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/308/radiant-fountain?utm_source=api</link>
-      <guid isPermaLink="false">6db442e5-fbcc-4456-a4c5-bea1aee3fc8e:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/a/9ab17fb1-98ed-4c8e-985d-a453d236095d.jpg?1789753449&quot; alt=&quot;Radiant Fountain&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Radiant Fountain&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;When this land enters, you gain 2 life.&lt;br/&gt;{T}: Add {C}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/308/radiant-fountain?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/a/9ab17fb1-98ed-4c8e-985d-a453d236095d.jpg?1789753449" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Myr Retriever [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/274/myr-retriever?utm_source=api</link>
-      <guid isPermaLink="false">d07d3be3-f69d-4484-8467-cffd43871788:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/b/9bc01feb-9e14-40f1-ba4b-87e109c672e7.jpg?1789753335&quot; alt=&quot;Myr Retriever&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Myr Retriever&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact Creature — Myr&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;When this creature dies, return another target artifact card from your graveyard to your hand.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/274/myr-retriever?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/b/9bc01feb-9e14-40f1-ba4b-87e109c672e7.jpg?1789753335" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Ornithopter of Paradise [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/277/ornithopter-of-paradise?utm_source=api</link>
-      <guid isPermaLink="false">3a940dfa-a026-4969-8981-ef90cdfbe9ef:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/e/9e5c677e-397d-4a0c-994e-2f35eadb8a33.jpg?1789753338&quot; alt=&quot;Ornithopter of Paradise&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Ornithopter of Paradise&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact Creature — Thopter&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Flying&lt;br/&gt;{T}: Add one mana of any color.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/277/ornithopter-of-paradise?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/e/9e5c677e-397d-4a0c-994e-2f35eadb8a33.jpg?1789753338" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Meteor Golem [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/270/meteor-golem?utm_source=api</link>
-      <guid isPermaLink="false">d9f11aa1-9219-42a8-85a9-a8f204160706:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/e/9e72f3f6-7420-4d5c-bddb-7ea972adce81.jpg?1789753332&quot; alt=&quot;Meteor Golem&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Meteor Golem&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {7}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact Creature — Golem&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;When this creature enters, destroy target nonland permanent an opponent controls.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/270/meteor-golem?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/e/9e72f3f6-7420-4d5c-bddb-7ea972adce81.jpg?1789753332" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Adaptive Omnitool [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/243/adaptive-omnitool?utm_source=api</link>
-      <guid isPermaLink="false">e91240bc-4a13-4131-9379-5ddac6555f4a:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/e/9e84f840-d7c6-4a82-8891-3d12281020ee.jpg?1789753307&quot; alt=&quot;Adaptive Omnitool&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Adaptive Omnitool&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact — Equipment&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Equipped creature gets +1/+1 for each artifact you control.&lt;br/&gt;Whenever equipped creature attacks, look at the top six cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.&lt;br/&gt;Equip {3}&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/243/adaptive-omnitool?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/e/9e84f840-d7c6-4a82-8891-3d12281020ee.jpg?1789753307" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Tangleweave Armor [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/234/tangleweave-armor?utm_source=api</link>
-      <guid isPermaLink="false">b9cec31a-9891-414f-b528-954612168832:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/f/9fd7ac91-8f76-4fd1-afc5-9a3fd5ce6894.jpg?1789753430&quot; alt=&quot;Tangleweave Armor&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Tangleweave Armor&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact — Equipment&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Living weapon (When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)&lt;br/&gt;Equipped creature gets +X/+X, where X is the greatest mana value among your commanders.&lt;br/&gt;Equip {4}&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/234/tangleweave-armor?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/f/9fd7ac91-8f76-4fd1-afc5-9a3fd5ce6894.jpg?1789753430" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Foundry Inspector [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/259/foundry-inspector?utm_source=api</link>
-      <guid isPermaLink="false">18f22960-87ec-43cd-82ea-ec5cabf49ad3:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/f/9ff34a25-85f9-40a4-a3fd-c27148bf7429.jpg?1789753322&quot; alt=&quot;Foundry Inspector&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Foundry Inspector&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact Creature — Construct&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Artifact spells you cast cost {1} less to cast.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/259/foundry-inspector?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/f/9ff34a25-85f9-40a4-a3fd-c27148bf7429.jpg?1789753322" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Surrak, the Hunt Caller [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/232/surrak-the-hunt-caller?utm_source=api</link>
-      <guid isPermaLink="false">fa56a5fa-ef96-404c-8fb6-d1f5fcebb52e:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/1/a1864bc3-d829-4146-ba4e-87736b0daa41.jpg?1789753430&quot; alt=&quot;Surrak, the Hunt Caller&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Surrak, the Hunt Caller&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Warrior&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Formidable — At the beginning of combat on your turn, if creatures you control have total power 8 or greater, target creature you control gains haste until end of turn. (It can attack and {T} no matter when it came under your control.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/232/surrak-the-hunt-caller?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/1/a1864bc3-d829-4146-ba4e-87736b0daa41.jpg?1789753430" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Dazzling Angel [Foundations Commander]</title>
-      <link>https://scryfall.com/card/fdc/24/dazzling-angel?utm_source=api</link>
-      <guid isPermaLink="false">7de464e3-fae3-44cc-8233-776fc727c00a:fdc</guid>
-      <pubDate>Fri, 18 Sep 2026 23:41:08 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/1/a1a8cc0d-c2ac-4dfe-a0a1-996bfadb7d54.jpg?1789752829&quot; alt=&quot;Dazzling Angel&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Dazzling Angel&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Angel&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Foundations Commander&lt;/p&gt;
-&lt;p&gt;Flying&lt;br/&gt;Whenever another creature you control enters, you gain 1 life.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/fdc/24/dazzling-angel?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/1/a1a8cc0d-c2ac-4dfe-a0a1-996bfadb7d54.jpg?1789752829" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
