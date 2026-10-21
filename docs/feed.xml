@@ -5,9 +5,39 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 20 Oct 2026 22:45:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 08:55:53 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Jean-Luc Picard, Luminary [Spotlight Series]</title>
+      <link>https://scryfall.com/card/pspl/14/jean-luc-picard-luminary?utm_source=api</link>
+      <guid isPermaLink="false">b95a6001-2773-43c1-a5ad-a37ef7c9f054:pspl</guid>
+      <pubDate>Wed, 21 Oct 2026 08:55:53 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/3/136b07f3-b902-41af-8732-92c6448b6ef9.jpg?1792551639&quot; alt=&quot;Jean-Luc Picard, Luminary&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Jean-Luc Picard, Luminary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{U}{R}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Officer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Spotlight Series&lt;/p&gt;
+&lt;p&gt;Whenever another historic permanent you control with mana value 3 or greater enters, draw a card. (Artifacts, legendaries, and Sagas are historic.)&lt;br/&gt;Seek out — Whenever you draw your second card each turn, put a +1/+1 counter on up to one other target creature and two charge counters on up to one target Spacecraft.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pspl/14/jean-luc-picard-luminary?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/3/136b07f3-b902-41af-8732-92c6448b6ef9.jpg?1792551639" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Guardian Archon [Magic Online Promos]</title>
+      <link>https://scryfall.com/card/prm/89988/guardian-archon?utm_source=api</link>
+      <guid isPermaLink="false">c7748659-0206-448f-8567-83565cb0b51a:prm</guid>
+      <pubDate>Wed, 21 Oct 2026 08:55:53 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/8/2800190f-bbff-40f2-9ef0-51cf84bb84f3.jpg?1792548508&quot; alt=&quot;Guardian Archon&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Guardian Archon&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{W}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Archon&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Magic Online Promos&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;As this creature enters, secretly choose an opponent.&lt;br/&gt;Reveal the player you chose: You and target permanent you control each gain protection from the chosen player until end of turn. Activate only once.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/prm/89988/guardian-archon?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/8/2800190f-bbff-40f2-9ef0-51cf84bb84f3.jpg?1792548508" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Federation Outpost [Star Trek]</title>
       <link>https://scryfall.com/card/trk/282/federation-outpost?utm_source=api</link>
@@ -7176,36 +7206,6 @@
 &lt;p&gt;Your opponents can&amp;#x27;t cast spells with even mana values. (Zero is even.)&lt;br/&gt;Your opponents can&amp;#x27;t block with creatures with even mana values.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2122/void-winnower?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/b/8/b88492e7-ce33-4a7f-9706-61b186e8d04e.jpg?1790387424" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Sol Ring [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2132/sol-ring?utm_source=api</link>
-      <guid isPermaLink="false">6ad8011d-3471-4369-9d68-b264cc027487:sld</guid>
-      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/f/bf6b187e-5ad0-4731-9c39-638451ac1e30.jpg?1790387828&quot; alt=&quot;Sol Ring&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Sol Ring&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;{T}: Add {C}{C}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2132/sol-ring?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/f/bf6b187e-5ad0-4731-9c39-638451ac1e30.jpg?1790387828" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Shadrix Silverquill [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2130/shadrix-silverquill?utm_source=api</link>
-      <guid isPermaLink="false">2143f413-7baa-4fd6-a7ca-32f52bfa553f:sld</guid>
-      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/f/cf3e5f36-b024-4342-846d-2cf1d4965ca1.jpg?1790387763&quot; alt=&quot;Shadrix Silverquill&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Shadrix Silverquill&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{W}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Elder Dragon&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Flying, double strike&lt;br/&gt;At the beginning of combat on your turn, you may choose two. Each mode must target a different player.&lt;br/&gt;• Target player creates a 2/1 white and black Inkling creature token with flying.&lt;br/&gt;• Target player draws a card and loses 1 life.&lt;br/&gt;• Target player puts a +1/+1 counter on each creature they control.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2130/shadrix-silverquill?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/f/cf3e5f36-b024-4342-846d-2cf1d4965ca1.jpg?1790387763" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

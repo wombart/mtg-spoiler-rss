@@ -1,5 +1,61 @@
 [
   {
+    "id": "136b07f3-b902-41af-8732-92c6448b6ef9",
+    "oracle_id": "b95a6001-2773-43c1-a5ad-a37ef7c9f054",
+    "name": "Jean-Luc Picard, Luminary",
+    "set": "pspl",
+    "set_name": "Spotlight Series",
+    "mana_cost": "{1}{U}{R}{W}",
+    "type_line": "Legendary Creature — Human Officer",
+    "oracle_text": "Whenever another historic permanent you control with mana value 3 or greater enters, draw a card. (Artifacts, legendaries, and Sagas are historic.)\nSeek out — Whenever you draw your second card each turn, put a +1/+1 counter on up to one other target creature and two charge counters on up to one target Spacecraft.",
+    "rarity": "mythic",
+    "released_at": "2027-01-09",
+    "discovered_at": "2026-10-21T08:55:53.041446+00:00",
+    "scryfall_uri": "https://scryfall.com/card/pspl/14/jean-luc-picard-luminary?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/1/3/136b07f3-b902-41af-8732-92c6448b6ef9.jpg?1792551639",
+      "normal": "https://cards.scryfall.io/normal/front/1/3/136b07f3-b902-41af-8732-92c6448b6ef9.jpg?1792551639",
+      "large": "https://cards.scryfall.io/large/front/1/3/136b07f3-b902-41af-8732-92c6448b6ef9.jpg?1792551639",
+      "png": "https://cards.scryfall.io/png/front/1/3/136b07f3-b902-41af-8732-92c6448b6ef9.png?1792551639",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/1/3/136b07f3-b902-41af-8732-92c6448b6ef9.jpg?1792551639",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/1/3/136b07f3-b902-41af-8732-92c6448b6ef9.jpg?1792551639",
+      "thumb": "https://cards.scryfall.io/thumb/front/1/3/136b07f3-b902-41af-8732-92c6448b6ef9.webp?1792551639",
+      "grid": "https://cards.scryfall.io/grid/front/1/3/136b07f3-b902-41af-8732-92c6448b6ef9.webp?1792551639",
+      "display": "https://cards.scryfall.io/display/front/1/3/136b07f3-b902-41af-8732-92c6448b6ef9.webp?1792551639",
+      "art": "https://cards.scryfall.io/art/front/1/3/136b07f3-b902-41af-8732-92c6448b6ef9.webp?1792551639",
+      "crop": "https://cards.scryfall.io/crop/front/1/3/136b07f3-b902-41af-8732-92c6448b6ef9.webp?1792551639",
+      "jpeg": "https://cards.scryfall.io/normal/front/1/3/136b07f3-b902-41af-8732-92c6448b6ef9.jpg?1792551639"
+    }
+  },
+  {
+    "id": "2800190f-bbff-40f2-9ef0-51cf84bb84f3",
+    "oracle_id": "c7748659-0206-448f-8567-83565cb0b51a",
+    "name": "Guardian Archon",
+    "set": "prm",
+    "set_name": "Magic Online Promos",
+    "mana_cost": "{4}{W}{W}",
+    "type_line": "Creature — Archon",
+    "oracle_text": "Flying\nAs this creature enters, secretly choose an opponent.\nReveal the player you chose: You and target permanent you control each gain protection from the chosen player until end of turn. Activate only once.",
+    "rarity": "rare",
+    "released_at": "2026-10-21",
+    "discovered_at": "2026-10-21T08:55:53.041446+00:00",
+    "scryfall_uri": "https://scryfall.com/card/prm/89988/guardian-archon?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/2/8/2800190f-bbff-40f2-9ef0-51cf84bb84f3.jpg?1792548508",
+      "normal": "https://cards.scryfall.io/normal/front/2/8/2800190f-bbff-40f2-9ef0-51cf84bb84f3.jpg?1792548508",
+      "large": "https://cards.scryfall.io/large/front/2/8/2800190f-bbff-40f2-9ef0-51cf84bb84f3.jpg?1792548508",
+      "png": "https://cards.scryfall.io/png/front/2/8/2800190f-bbff-40f2-9ef0-51cf84bb84f3.png?1792548508",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/2/8/2800190f-bbff-40f2-9ef0-51cf84bb84f3.jpg?1792548508",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/2/8/2800190f-bbff-40f2-9ef0-51cf84bb84f3.jpg?1792548508",
+      "thumb": "https://cards.scryfall.io/thumb/front/2/8/2800190f-bbff-40f2-9ef0-51cf84bb84f3.webp?1792548508",
+      "grid": "https://cards.scryfall.io/grid/front/2/8/2800190f-bbff-40f2-9ef0-51cf84bb84f3.webp?1792548508",
+      "display": "https://cards.scryfall.io/display/front/2/8/2800190f-bbff-40f2-9ef0-51cf84bb84f3.webp?1792548508",
+      "art": "https://cards.scryfall.io/art/front/2/8/2800190f-bbff-40f2-9ef0-51cf84bb84f3.webp?1792548508",
+      "crop": "https://cards.scryfall.io/crop/front/2/8/2800190f-bbff-40f2-9ef0-51cf84bb84f3.webp?1792548508",
+      "jpeg": "https://cards.scryfall.io/normal/front/2/8/2800190f-bbff-40f2-9ef0-51cf84bb84f3.jpg?1792548508"
+    }
+  },
+  {
     "id": "02e368bd-ece8-4201-8d1a-4c5287d5cfee",
     "oracle_id": "a8bcc930-3efe-4595-b164-f5985e1dc289",
     "name": "Federation Outpost",
@@ -16720,60 +16776,6 @@
       "display": "https://cards.scryfall.io/display/front/b/8/b88492e7-ce33-4a7f-9706-61b186e8d04e.webp?1790387424",
       "art": "https://cards.scryfall.io/art/front/b/8/b88492e7-ce33-4a7f-9706-61b186e8d04e.webp?1790387424",
       "crop": "https://cards.scryfall.io/crop/front/b/8/b88492e7-ce33-4a7f-9706-61b186e8d04e.webp?1790387424"
-    }
-  },
-  {
-    "id": "bf6b187e-5ad0-4731-9c39-638451ac1e30",
-    "oracle_id": "6ad8011d-3471-4369-9d68-b264cc027487",
-    "name": "Sol Ring",
-    "set": "sld",
-    "set_name": "Secret Lair Drop",
-    "mana_cost": "{1}",
-    "type_line": "Artifact",
-    "oracle_text": "{T}: Add {C}{C}.",
-    "rarity": "rare",
-    "released_at": "2026-09-28",
-    "discovered_at": "2026-09-26T08:51:55.611774+00:00",
-    "scryfall_uri": "https://scryfall.com/card/sld/2132/sol-ring?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/b/f/bf6b187e-5ad0-4731-9c39-638451ac1e30.jpg?1790387828",
-      "normal": "https://cards.scryfall.io/normal/front/b/f/bf6b187e-5ad0-4731-9c39-638451ac1e30.jpg?1790387828",
-      "large": "https://cards.scryfall.io/large/front/b/f/bf6b187e-5ad0-4731-9c39-638451ac1e30.jpg?1790387828",
-      "png": "https://cards.scryfall.io/png/front/b/f/bf6b187e-5ad0-4731-9c39-638451ac1e30.png?1790387828",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/b/f/bf6b187e-5ad0-4731-9c39-638451ac1e30.jpg?1790387828",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/b/f/bf6b187e-5ad0-4731-9c39-638451ac1e30.jpg?1790387828",
-      "thumb": "https://cards.scryfall.io/thumb/front/b/f/bf6b187e-5ad0-4731-9c39-638451ac1e30.webp?1790387828",
-      "grid": "https://cards.scryfall.io/grid/front/b/f/bf6b187e-5ad0-4731-9c39-638451ac1e30.webp?1790387828",
-      "display": "https://cards.scryfall.io/display/front/b/f/bf6b187e-5ad0-4731-9c39-638451ac1e30.webp?1790387828",
-      "art": "https://cards.scryfall.io/art/front/b/f/bf6b187e-5ad0-4731-9c39-638451ac1e30.webp?1790387828",
-      "crop": "https://cards.scryfall.io/crop/front/b/f/bf6b187e-5ad0-4731-9c39-638451ac1e30.webp?1790387828"
-    }
-  },
-  {
-    "id": "cf3e5f36-b024-4342-846d-2cf1d4965ca1",
-    "oracle_id": "2143f413-7baa-4fd6-a7ca-32f52bfa553f",
-    "name": "Shadrix Silverquill",
-    "set": "sld",
-    "set_name": "Secret Lair Drop",
-    "mana_cost": "{3}{W}{B}",
-    "type_line": "Legendary Creature — Elder Dragon",
-    "oracle_text": "Flying, double strike\nAt the beginning of combat on your turn, you may choose two. Each mode must target a different player.\n• Target player creates a 2/1 white and black Inkling creature token with flying.\n• Target player draws a card and loses 1 life.\n• Target player puts a +1/+1 counter on each creature they control.",
-    "rarity": "mythic",
-    "released_at": "2026-09-28",
-    "discovered_at": "2026-09-26T08:51:55.611774+00:00",
-    "scryfall_uri": "https://scryfall.com/card/sld/2130/shadrix-silverquill?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/c/f/cf3e5f36-b024-4342-846d-2cf1d4965ca1.jpg?1790387763",
-      "normal": "https://cards.scryfall.io/normal/front/c/f/cf3e5f36-b024-4342-846d-2cf1d4965ca1.jpg?1790387763",
-      "large": "https://cards.scryfall.io/large/front/c/f/cf3e5f36-b024-4342-846d-2cf1d4965ca1.jpg?1790387763",
-      "png": "https://cards.scryfall.io/png/front/c/f/cf3e5f36-b024-4342-846d-2cf1d4965ca1.png?1790387763",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/c/f/cf3e5f36-b024-4342-846d-2cf1d4965ca1.jpg?1790387763",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/c/f/cf3e5f36-b024-4342-846d-2cf1d4965ca1.jpg?1790387763",
-      "thumb": "https://cards.scryfall.io/thumb/front/c/f/cf3e5f36-b024-4342-846d-2cf1d4965ca1.webp?1790387763",
-      "grid": "https://cards.scryfall.io/grid/front/c/f/cf3e5f36-b024-4342-846d-2cf1d4965ca1.webp?1790387763",
-      "display": "https://cards.scryfall.io/display/front/c/f/cf3e5f36-b024-4342-846d-2cf1d4965ca1.webp?1790387763",
-      "art": "https://cards.scryfall.io/art/front/c/f/cf3e5f36-b024-4342-846d-2cf1d4965ca1.webp?1790387763",
-      "crop": "https://cards.scryfall.io/crop/front/c/f/cf3e5f36-b024-4342-846d-2cf1d4965ca1.webp?1790387763"
     }
   }
 ]
