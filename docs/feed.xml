@@ -5,9 +5,113 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 21 Oct 2026 08:55:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:42:31 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Dahar Master [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/146/dahar-master?utm_source=api</link>
+      <guid isPermaLink="false">c9bc1a28-8d3c-4d9f-a67d-b044cfe9d6c1:trk</guid>
+      <pubDate>Wed, 21 Oct 2026 19:42:31 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/1/1122fe1c-97f7-409d-ad37-0fed46f9f963.jpg?1792590970&quot; alt=&quot;Dahar Master&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Dahar Master&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Klingon Warrior&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;When this creature enters, you may sacrifice another nonland permanent. When you do, this creature deals 2 damage to any target.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/146/dahar-master?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/1/1122fe1c-97f7-409d-ad37-0fed46f9f963.jpg?1792590970" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Pure Energy [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/31/pure-energy?utm_source=api</link>
+      <guid isPermaLink="false">f4831eee-fef6-4fef-a174-400a25d0837d:trk</guid>
+      <pubDate>Wed, 21 Oct 2026 19:42:31 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/1/215709a8-044f-4fdb-b3ca-bd5a394b2a0f.jpg?1792591045&quot; alt=&quot;Pure Energy&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Pure Energy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Distribute two +1/+1 counters among one or two target creatures.&lt;br/&gt;Beam me up {2}{W} (You may cast this card from your graveyard for {2}{W} if you also return a creature you control to its owner&amp;#x27;s hand. Then exile this spell.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/31/pure-energy?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/1/215709a8-044f-4fdb-b3ca-bd5a394b2a0f.jpg?1792591045" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Tea, Earl Grey, Hot [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/269/tea-earl-grey-hot?utm_source=api</link>
+      <guid isPermaLink="false">6f2e8083-29af-4cdb-a2cb-216b2f3f5616:trk</guid>
+      <pubDate>Wed, 21 Oct 2026 19:42:31 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/8/289e8ebe-ab0f-466b-a4e6-d5cf8411e724.jpg?1792591098&quot; alt=&quot;Tea, Earl Grey, Hot&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Tea, Earl Grey, Hot&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact — Food&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;When this artifact enters, draw a card.&lt;br/&gt;{2}, {T}, Sacrifice this artifact: Choose one —&lt;br/&gt;• This artifact deals 2 damage to target opponent.&lt;br/&gt;• You gain 3 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/269/tea-earl-grey-hot?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/8/289e8ebe-ab0f-466b-a4e6-d5cf8411e724.jpg?1792591098" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Mirror Universe Intrusion [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/248/mirror-universe-intrusion?utm_source=api</link>
+      <guid isPermaLink="false">007d08e8-4db2-47d1-ba39-8bb8efa491a1:trk</guid>
+      <pubDate>Wed, 21 Oct 2026 19:42:31 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/5/3507f99b-15fb-4f66-9484-8e8115e7f5de.jpg?1792590699&quot; alt=&quot;Mirror Universe Intrusion&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Mirror Universe Intrusion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{U}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Kicker {4}{U}{B} (You may pay an additional 4 as you cast this spell.)&lt;br/&gt;Create a token that&amp;#x27;s a copy of target creature an opponent controls, except it has menace. If this spell was kicked, instead for each creature target opponent controls, create a token that&amp;#x27;s a copy of that creature, except it has menace.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/248/mirror-universe-intrusion?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/5/3507f99b-15fb-4f66-9484-8e8115e7f5de.jpg?1792590699" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Vexing Drone [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/45/vexing-drone?utm_source=api</link>
+      <guid isPermaLink="false">8e90e417-65ca-48bc-a32d-b93976519fe9:trk</guid>
+      <pubDate>Wed, 21 Oct 2026 19:42:31 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/f/6f4b2476-8f93-4d4e-b664-233e82fcf212.jpg?1792591213&quot; alt=&quot;Vexing Drone&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Vexing Drone&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact Creature — Borg&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;When this creature enters, tap target creature an opponent controls.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/45/vexing-drone?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/f/6f4b2476-8f93-4d4e-b664-233e82fcf212.jpg?1792591213" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Unexplored Territory [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/303/unexplored-territory?utm_source=api</link>
+      <guid isPermaLink="false">6e5d4bbd-4999-4acd-8775-25e02d901035:trk</guid>
+      <pubDate>Wed, 21 Oct 2026 19:42:31 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/a/ca1e60f1-11a9-4bb8-9f6e-5b652b49c517.jpg?1792591180&quot; alt=&quot;Unexplored Territory&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Unexplored Territory&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{1}, {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/303/unexplored-territory?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/a/ca1e60f1-11a9-4bb8-9f6e-5b652b49c517.jpg?1792591180" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Warp Core [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/274/warp-core?utm_source=api</link>
+      <guid isPermaLink="false">6a2df97a-341d-4bc4-9f5c-661b6ca78fd0:trk</guid>
+      <pubDate>Wed, 21 Oct 2026 19:42:31 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/e/de8e2bde-b368-4d10-8409-86f5da6997f6.jpg?1792590999&quot; alt=&quot;Warp Core&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Warp Core&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;When this artifact enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.&lt;br/&gt;{1}, {T}: Put two charge counters on target Spacecraft. Activate only as a sorcery.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/274/warp-core?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/e/de8e2bde-b368-4d10-8409-86f5da6997f6.jpg?1792590999" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Jean-Luc Picard, Luminary [Spotlight Series]</title>
       <link>https://scryfall.com/card/pspl/14/jean-luc-picard-luminary?utm_source=api</link>
@@ -7103,109 +7207,6 @@
 &lt;p&gt;At the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control.&lt;br/&gt;//&lt;br/&gt;Target creature gets -3/-3 until end of turn. You gain 2 life.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2129/virtue-of-persistence-locthwain-scorn?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/0/e/0e48e154-a1e0-49c8-888a-a1f6b568aa39.jpg?1790387742" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Plains [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2116/plains?utm_source=api</link>
-      <guid isPermaLink="false">bc71ebf6-2056-41f7-be35-b2e5c34afa99:sld</guid>
-      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/0/20d35e6b-ee5a-47cd-8e65-175a9df607a7.jpg?1790387896&quot; alt=&quot;Plains&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Plains&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Basic Land — Plains&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;({T}: Add {W}.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2116/plains?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/0/20d35e6b-ee5a-47cd-8e65-175a9df607a7.jpg?1790387896" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Sensei's Divining Top [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2131/senseis-divining-top?utm_source=api</link>
-      <guid isPermaLink="false">13575cf9-65c1-4861-b21e-eb2155e07766:sld</guid>
-      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/c/2c71926c-678a-491a-9929-c5b77f2a3de9.jpg?1790387802&quot; alt=&quot;Sensei&amp;#x27;s Divining Top&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Sensei&amp;#x27;s Divining Top&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;{1}: Look at the top three cards of your library, then put them back in any order.&lt;br/&gt;{T}: Draw a card, then put this artifact on top of its owner&amp;#x27;s library.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2131/senseis-divining-top?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/c/2c71926c-678a-491a-9929-c5b77f2a3de9.jpg?1790387802" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Reconnaissance [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2124/reconnaissance?utm_source=api</link>
-      <guid isPermaLink="false">32599d7c-243b-447b-9d5d-e8e29830ac61:sld</guid>
-      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/8/68dad9ea-2333-427d-9bec-3d840e24bc3a.jpg?1790387559&quot; alt=&quot;Reconnaissance&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Reconnaissance&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {W}&lt;/p&gt;
-&lt;p&gt;Typ: Enchantment&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;{0}: Remove target attacking creature you control from combat and untap it. (If you activate during end of combat, the creature will untap after it deals combat damage.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2124/reconnaissance?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/6/8/68dad9ea-2333-427d-9bec-3d840e24bc3a.jpg?1790387559" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Island [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2117/island?utm_source=api</link>
-      <guid isPermaLink="false">b2c6aa39-2d2a-459c-a555-fb48ba993373:sld</guid>
-      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/a/7a191d35-1d61-404c-b518-6c4188e8afce.jpg?1790387920&quot; alt=&quot;Island&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Island&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Basic Land — Island&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;({T}: Add {U}.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2117/island?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/7/a/7a191d35-1d61-404c-b518-6c4188e8afce.jpg?1790387920" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Breach the Multiverse [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2128/breach-the-multiverse?utm_source=api</link>
-      <guid isPermaLink="false">ebbd5b9c-07ff-4b42-81c2-ba09539f3a42:sld</guid>
-      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/3/835c60fd-7a25-4d51-b230-069ea68bb8a2.jpg?1790387712&quot; alt=&quot;Breach the Multiverse&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Breach the Multiverse&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {5}{B}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Each player mills ten cards. For each player, choose a creature or planeswalker card in that player&amp;#x27;s graveyard. Put those cards onto the battlefield under your control. Then each creature you control becomes a Phyrexian in addition to its other types.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2128/breach-the-multiverse?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/3/835c60fd-7a25-4d51-b230-069ea68bb8a2.jpg?1790387712" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Swords to Plowshares [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2125/swords-to-plowshares?utm_source=api</link>
-      <guid isPermaLink="false">b1544f21-7e98-461b-aed5-e748b0168c52:sld</guid>
-      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/4/84a4a532-538e-428c-bd62-d0b997895c31.jpg?1790387619&quot; alt=&quot;Swords to Plowshares&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Swords to Plowshares&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {W}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Exile target creature. Its controller gains life equal to its power.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2125/swords-to-plowshares?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/4/84a4a532-538e-428c-bd62-d0b997895c31.jpg?1790387619" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Void Winnower [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2122/void-winnower?utm_source=api</link>
-      <guid isPermaLink="false">70ac902e-1eb5-4f83-a5a6-00ac89cfe50f:sld</guid>
-      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/8/b88492e7-ce33-4a7f-9706-61b186e8d04e.jpg?1790387424&quot; alt=&quot;Void Winnower&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Void Winnower&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {9}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Eldrazi&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Your opponents can&amp;#x27;t cast spells with even mana values. (Zero is even.)&lt;br/&gt;Your opponents can&amp;#x27;t block with creatures with even mana values.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2122/void-winnower?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/8/b88492e7-ce33-4a7f-9706-61b186e8d04e.jpg?1790387424" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
