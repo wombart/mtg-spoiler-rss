@@ -5,9 +5,144 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 21 Oct 2026 19:42:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:58:23 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>There's Coffee in that Nebula [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/369/theres-coffee-in-that-nebula?utm_source=api</link>
+      <guid isPermaLink="false">887614f9-f12f-47bc-ae56-1438cd7cad10:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 08:58:23 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/7/07b3f211-1ff1-47c3-9063-9a1ac0fd814c.jpg?1792637380&quot; alt=&quot;There&amp;#x27;s Coffee in that Nebula&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;There&amp;#x27;s Coffee in that Nebula&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Look at the top five cards of your library. You may reveal a Plains card or nonland permanent card with mana value 3 or less from among them and put it into your hand. Put the rest on the bottom in a random order.&lt;br/&gt;Beam me up {2}{W} (You may cast this card from your graveyard for {2}{W} if you also return a creature you control to its owner&amp;#x27;s hand. Then exile this spell.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/369/theres-coffee-in-that-nebula?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/7/07b3f211-1ff1-47c3-9063-9a1ac0fd814c.jpg?1792637380" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Energize [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/56/energize?utm_source=api</link>
+      <guid isPermaLink="false">275257ea-3c72-4ca9-b2fc-e50efa071bdb:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 08:58:23 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/4/24e72db3-a8d9-4553-92fe-ba6e40c4f62e.jpg?1792637792&quot; alt=&quot;Energize&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Energize&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Return target creature an opponent controls to its owner&amp;#x27;s hand.&lt;br/&gt;Beam me up {3}{U} (You may cast this card from your graveyard for {3}{U} if you also return a creature you control to its owner&amp;#x27;s hand. Then exile this spell.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/56/energize?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/4/24e72db3-a8d9-4553-92fe-ba6e40c4f62e.jpg?1792637792" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Test of Courage [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/220/test-of-courage?utm_source=api</link>
+      <guid isPermaLink="false">101b2387-58a1-4ef9-8395-0024713e217b:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 08:58:23 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/9/291b9b6b-54bf-4e71-98f1-cb9301ea0727.jpg?1792637654&quot; alt=&quot;Test of Courage&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Test of Courage&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {U}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Choose one —&lt;br/&gt;• Alter the Past — Exile target card from a graveyard. You gain 2 life.&lt;br/&gt;• Obliterate the Transwarp Network — Destroy target artifact or enchantment with mana value 3 or less.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/220/test-of-courage?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/9/291b9b6b-54bf-4e71-98f1-cb9301ea0727.jpg?1792637654" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Death Is Irrelevant [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/102/death-is-irrelevant?utm_source=api</link>
+      <guid isPermaLink="false">aeec05f1-43ea-4012-82d8-cded5494535d:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 08:58:23 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/0/408cb5dd-1a79-47a9-98ea-41f3f4502c5e.jpg?1792637126&quot; alt=&quot;Death Is Irrelevant&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Death Is Irrelevant&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {6}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Artifact creatures you control have indestructible.&lt;br/&gt;At the beginning of your end step, assimilate target creature card from a graveyard. (Put it onto the battlefield under your control with a +1/+1 counter. It&amp;#x27;s a Borg artifact creature and loses all other creature types.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/102/death-is-irrelevant?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/0/408cb5dd-1a79-47a9-98ea-41f3f4502c5e.jpg?1792637126" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Antagonist Incorporator [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/3/antagonist-incorporator?utm_source=api</link>
+      <guid isPermaLink="false">6f0b814b-94e6-48f2-9ccf-c376ca03bba3:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 08:58:23 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/3/63918e59-0c03-4d98-9216-e58ee157b7ea.jpg?1792637081&quot; alt=&quot;Antagonist Incorporator&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Antagonist Incorporator&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact Creature — Borg&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Artifact creatures you control have &amp;quot;Whenever this creature deals combat damage to a player, you may pay {1}. If you do, create a 1/1 colorless Borg artifact creature token.&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/3/antagonist-incorporator?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/3/63918e59-0c03-4d98-9216-e58ee157b7ea.jpg?1792637081" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hologram Stalker [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/202/hologram-stalker?utm_source=api</link>
+      <guid isPermaLink="false">8f91e7aa-a2d4-42ed-a959-3acd621679a5:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 08:58:23 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/b/6bd8a87b-ca7a-4a15-b96f-1a673ee44f3e.jpg?1792637583&quot; alt=&quot;Hologram Stalker&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Hologram Stalker&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Hirogen Warrior&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;When this creature enters, return target permanent card from your graveyard to your hand.&lt;br/&gt;Whenever a card leaves your graveyard, create a 3/3 colorless Illusion artifact creature token. This ability triggers only once each turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/202/hologram-stalker?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/b/6bd8a87b-ca7a-4a15-b96f-1a673ee44f3e.jpg?1792637583" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Test of Conviction [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/39/test-of-conviction?utm_source=api</link>
+      <guid isPermaLink="false">beffaea5-beeb-4d4e-aca3-82c698caf6f8:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 08:58:23 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/3/837d7cec-f3f8-4555-86f2-c5ea1849d7d1.jpg?1792636634&quot; alt=&quot;Test of Conviction&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Test of Conviction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Choose one —&lt;br/&gt;• Battle Stations — Put a +1/+1 counter on each creature you control.&lt;br/&gt;• Begin Negotiations — Target opponent draws a card. You draw two cards.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/39/test-of-conviction?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/3/837d7cec-f3f8-4555-86f2-c5ea1849d7d1.jpg?1792636634" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Conquest Mission [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/342/conquest-mission?utm_source=api</link>
+      <guid isPermaLink="false">35906166-71d1-4089-bbe4-4055edb81fb0:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 08:58:23 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/e/be8d8f65-211e-47d7-973c-f44537b43826.jpg?1792636883&quot; alt=&quot;Conquest Mission&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Conquest Mission&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Whenever a nontoken artifact you control enters, put a quest counter on this enchantment. Create a 1/1 colorless Borg artifact creature token. If this enchantment has six or more quest counters on it, create two of those tokens instead.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/342/conquest-mission?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/e/be8d8f65-211e-47d7-973c-f44537b43826.jpg?1792636883" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Miles O'Brien, Transporter Ops [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/24/miles-obrien-transporter-ops?utm_source=api</link>
+      <guid isPermaLink="false">31e3f39f-8b18-4316-984f-4d57d2d480ca:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 08:58:23 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/4/e4f041b3-e785-45ba-9a7e-33878614d3b0.jpg?1792637029&quot; alt=&quot;Miles O&amp;#x27;Brien, Transporter Ops&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Miles O&amp;#x27;Brien, Transporter Ops&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Artificer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;When Miles O&amp;#x27;Brien enters, return up to one other target creature or artifact you control to its owner&amp;#x27;s hand.&lt;br/&gt;At the beginning of each end step, if a permanent was returned to your hand from the battlefield this turn, draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/24/miles-obrien-transporter-ops?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/4/e4f041b3-e785-45ba-9a7e-33878614d3b0.jpg?1792637029" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Dahar Master [Star Trek]</title>
       <link>https://scryfall.com/card/trk/146/dahar-master?utm_source=api</link>
@@ -7074,139 +7209,6 @@
 &lt;p&gt;Imprint - Whenever a player cards an instant or sorcery spell, exile it as it resolves.&lt;br/&gt;At the beginning of your upkeep, you may copy an imprinted card and cast the copy without paying its mana cost. It can&amp;#x27;t cause you to take extra turns. Then, if there are three or more cards imprinted on this artifact, sacrifice it and create a token that&amp;#x27;s a copy of Niv-Mizzet, Firemind.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/unk/RZ05p/niv-mizzets-diary?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/9/c/9c995cb6-89ed-43f0-8547-741e0afe8c77.jpg?1790762618" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Mysterious Hero [Unknown Event]</title>
-      <link>https://scryfall.com/card/unk/UU03e/mysterious-hero?utm_source=api</link>
-      <guid isPermaLink="false">94ca324e-fa68-490b-8dbe-543e3584f1b4:unk</guid>
-      <pubDate>Wed, 30 Sep 2026 14:17:40 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/f/9f3ab69c-1923-4dac-825b-83fa31ed54a5.jpg?1790758383&quot; alt=&quot;Mysterious Hero&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Mysterious Hero&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Hero&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Unknown Event&lt;/p&gt;
-&lt;p&gt;Super Secret Identity {2}{U} (Before the game begins, if your deck is sleeved, you may put another creature card on top of this one in the sleeve. Don&amp;#x27;t tell anyone! If this permanent is on the battlefield, you may pay {2}{U} to remove the card above it in the sleeve.)&lt;br/&gt;Hexproof&lt;br/&gt;Whenever this creature deals combat damage to a player, draw a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/unk/UU03e/mysterious-hero?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/f/9f3ab69c-1923-4dac-825b-83fa31ed54a5.jpg?1790758383" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>The Meld Hound [Unknown Event]</title>
-      <link>https://scryfall.com/card/unk/RZ06k/the-meld-hound?utm_source=api</link>
-      <guid isPermaLink="false">4ebbb36e-a6d9-4f6b-aeb6-6a7d0de9fa4e:unk</guid>
-      <pubDate>Wed, 30 Sep 2026 14:17:40 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/b/ab1a1322-1fe1-45e5-9a9d-b30267962cce.jpg?1790759487&quot; alt=&quot;The Meld Hound&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;The Meld Hound&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{U}{B}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Dog&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Unknown Event&lt;/p&gt;
-&lt;p&gt;Whenever you cast a creature spell, exile cards from the top of your library until you exile a creature card. It melds with that spell. You may give the combined creature spell a new name. (The combined creature spell has the abilities and creature types of both creatures, their combined powers and toughnesses, and so on.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/unk/RZ06k/the-meld-hound?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/b/ab1a1322-1fe1-45e5-9a9d-b30267962cce.jpg?1790759487" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>The Flavormancer [Unknown Event]</title>
-      <link>https://scryfall.com/card/unk/MZ01a/the-flavormancer?utm_source=api</link>
-      <guid isPermaLink="false">37d842ff-e0ec-400c-a8c8-3f238d9c02f1:unk</guid>
-      <pubDate>Wed, 30 Sep 2026 14:17:40 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/1/b18c0fd0-5aa3-4e9d-a363-54602423d59d.jpg?1790759565&quot; alt=&quot;The Flavormancer&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;The Flavormancer&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {W}{U}{B}{R}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Hero Villain&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Unknown Event&lt;/p&gt;
-&lt;p&gt;Before the game begins, if The Flavormancer is your commander, legendary creature and planeswalker cards in your deck that are flavorfully Heroes or Villains gain that creature type. (For example, Gideon becomes a Hero and Yawgmoth becomes a Villain. Yes, planeswalkers get creature types this way. Don&amp;#x27;t worry about it.)&lt;br/&gt;Once during each of your turns, you may cast a Hero or Villain spell from your hand without paying its mana cost.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/unk/MZ01a/the-flavormancer?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/1/b18c0fd0-5aa3-4e9d-a363-54602423d59d.jpg?1790759565" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Split into Three Parts [Unknown Event]</title>
-      <link>https://scryfall.com/card/unk/RU03f/split-into-three-parts?utm_source=api</link>
-      <guid isPermaLink="false">abe92306-e5a9-46c5-8af1-f1ecdced4428:unk</guid>
-      <pubDate>Wed, 30 Sep 2026 14:17:40 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/4/d498e579-9d3d-4cc9-bcd0-7d97be5cf9d6.jpg?1790758432&quot; alt=&quot;Split into Three Parts&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Split into Three Parts&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Unknown Event&lt;/p&gt;
-&lt;p&gt;Choose target spell or permanent. Exile it with two time counters on it. Create two tokens that are copies of it in exile, with three and four time counters on them, respectively. They all gain suspend.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/unk/RU03f/split-into-three-parts?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/4/d498e579-9d3d-4cc9-bcd0-7d97be5cf9d6.jpg?1790758432" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Robby, Another Dwarf [Unknown Event]</title>
-      <link>https://scryfall.com/card/unk/RW04g/robby-another-dwarf?utm_source=api</link>
-      <guid isPermaLink="false">91e01193-5f3e-40e0-b502-17c2df137321:unk</guid>
-      <pubDate>Wed, 30 Sep 2026 14:17:40 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/6/d67bb6e4-ab74-459e-b8cb-193fc0db22f4.jpg?1790758262&quot; alt=&quot;Robby, Another Dwarf&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Robby, Another Dwarf&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Dwarf Warrior&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Unknown Event&lt;/p&gt;
-&lt;p&gt;Dwarf creature spells, legendary creature spells, and Equipment spells you cast have squad 2. Tokens created this way aren&amp;#x27;t legendary. (As an additional cost to cast one of those spells, you may pay {2} any number of times. When that permanent enters, create that many tokens that are copies of it.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/unk/RW04g/robby-another-dwarf?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/6/d67bb6e4-ab74-459e-b8cb-193fc0db22f4.jpg?1790758262" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Forest [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2120/forest?utm_source=api</link>
-      <guid isPermaLink="false">b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6:sld</guid>
-      <pubDate>Sun, 27 Sep 2026 19:21:24 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/9/191c278a-cfcf-45e8-a2e6-403f71157f7a.jpg?1790512370&quot; alt=&quot;Forest&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Forest&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Basic Land — Forest&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;({T}: Add {G}.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2120/forest?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/1/9/191c278a-cfcf-45e8-a2e6-403f71157f7a.jpg?1790512370" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Mountain [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2119/mountain?utm_source=api</link>
-      <guid isPermaLink="false">a3fb7228-e76b-4e96-a40e-20b5fed75685:sld</guid>
-      <pubDate>Sun, 27 Sep 2026 19:21:24 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/3/935543cb-87f4-4568-8610-d7f776975666.jpg?1790512347&quot; alt=&quot;Mountain&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Mountain&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Basic Land — Mountain&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;({T}: Add {R}.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2119/mountain?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/3/935543cb-87f4-4568-8610-d7f776975666.jpg?1790512347" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Yennett, Cryptic Sovereign [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2121/yennett-cryptic-sovereign?utm_source=api</link>
-      <guid isPermaLink="false">4eec6838-3565-407f-8941-ce9421402f0b:sld</guid>
-      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/b/0ba9362f-eb35-4e72-8c51-7047c0a3f648.jpg?1790387379&quot; alt=&quot;Yennett, Cryptic Sovereign&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Yennett, Cryptic Sovereign&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{W}{U}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Sphinx&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Flying, vigilance, menace&lt;br/&gt;Whenever Yennett attacks, reveal the top card of your library. You may cast it without paying its mana cost if its mana value is odd. If you don&amp;#x27;t cast it, draw a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2121/yennett-cryptic-sovereign?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/0/b/0ba9362f-eb35-4e72-8c51-7047c0a3f648.jpg?1790387379" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Virtue of Persistence // Locthwain Scorn [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2129/virtue-of-persistence-locthwain-scorn?utm_source=api</link>
-      <guid isPermaLink="false">fae36da0-bf9c-484f-b2fe-dd8ab2effc5c:sld</guid>
-      <pubDate>Sat, 26 Sep 2026 08:51:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/e/0e48e154-a1e0-49c8-888a-a1f6b568aa39.jpg?1790387742&quot; alt=&quot;Virtue of Persistence // Locthwain Scorn&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Virtue of Persistence // Locthwain Scorn&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {5}{B}{B} // {1}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Enchantment // Sorcery — Adventure&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;At the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control.&lt;br/&gt;//&lt;br/&gt;Target creature gets -3/-3 until end of turn. You gain 2 life.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2129/virtue-of-persistence-locthwain-scorn?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/0/e/0e48e154-a1e0-49c8-888a-a1f6b568aa39.jpg?1790387742" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
