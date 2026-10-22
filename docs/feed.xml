@@ -5,9 +5,39 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 22 Oct 2026 08:58:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:47:22 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>&quot;ALL YOUR BASE ARE BELONG TO US&quot; [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/9/all-your-base-are-belong-to-us?utm_source=api</link>
+      <guid isPermaLink="false">85b67121-340f-4cff-a26d-2160aa923ec3:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 14:47:22 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/5/853bf74d-0b61-43df-9018-0b40b624a9d1.jpg?1792654741&quot; alt=&quot;&amp;quot;ALL YOUR BASE ARE BELONG TO US&amp;quot;&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;ALL YOUR BASE ARE BELONG TO US&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact Creature — Borg&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Artifacts creatures you control have vigilance.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/9/all-your-base-are-belong-to-us?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/5/853bf74d-0b61-43df-9018-0b40b624a9d1.jpg?1792654741" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Rise from the Tides [Friday Night Magic 2016]</title>
+      <link>https://scryfall.com/card/f16/10/de/den-fluten-entsteigen-(rise-from-the-tides)?utm_source=api</link>
+      <guid isPermaLink="false">390b862a-2a85-44bd-832c-f5bbd3eb4ea0:f16</guid>
+      <pubDate>Thu, 22 Oct 2026 14:47:22 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/1/01e2fff2-3670-41ad-92b3-7f4e31fd0137.jpg?1792656292&quot; alt=&quot;Rise from the Tides&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Rise from the Tides&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {5}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Friday Night Magic 2016&lt;/p&gt;
+&lt;p&gt;Create a tapped 2/2 black Zombie creature token for each instant and sorcery card in your graveyard.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/f16/10/de/den-fluten-entsteigen-(rise-from-the-tides)?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/1/01e2fff2-3670-41ad-92b3-7f4e31fd0137.jpg?1792656292" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>There's Coffee in that Nebula [Star Trek]</title>
       <link>https://scryfall.com/card/trk/369/theres-coffee-in-that-nebula?utm_source=api</link>
@@ -7179,36 +7209,6 @@
 &lt;p&gt;At the beginning of your upkeep, sacrifice this enchantment unless you sacrifice a Treasure token.&lt;br/&gt;Whenever you attack, target attacking creature you control fights target creature defending player controls.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/unk/UR11/cgi-fight-sequence?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/8/4/84c48d74-6ae4-4955-bd26-3db4884965a6.jpg?1790758718" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Tarelily, Lovestruck Archer [Unknown Event]</title>
-      <link>https://scryfall.com/card/unk/RZ03v/tarelily-lovestruck-archer?utm_source=api</link>
-      <guid isPermaLink="false">9f4cad96-079d-4791-9971-d7ebe43f5e04:unk</guid>
-      <pubDate>Wed, 30 Sep 2026 14:17:40 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/d/8d5af209-44ec-4ccd-b863-d77a346bf5b6.jpg?1790758875&quot; alt=&quot;Tarelily, Lovestruck Archer&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Tarelily, Lovestruck Archer&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{G}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Elf Archer&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Unknown Event&lt;/p&gt;
-&lt;p&gt;Elves and/or Dwarf spells you cast cost {1} less to cast.&lt;br/&gt;Soulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)&lt;br/&gt;As long as this creature is paired with another creature, both creatures have reach. If that creature is a Dwarf, both creatures have lifelink.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/unk/RZ03v/tarelily-lovestruck-archer?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/d/8d5af209-44ec-4ccd-b863-d77a346bf5b6.jpg?1790758875" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Niv-Mizzet's Diary [Unknown Event]</title>
-      <link>https://scryfall.com/card/unk/RZ05p/niv-mizzets-diary?utm_source=api</link>
-      <guid isPermaLink="false">25b8f23b-9bea-4912-bd0a-88a1f8390bf4:unk</guid>
-      <pubDate>Wed, 30 Sep 2026 14:17:40 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/c/9c995cb6-89ed-43f0-8547-741e0afe8c77.jpg?1790762618&quot; alt=&quot;Niv-Mizzet&amp;#x27;s Diary&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Niv-Mizzet&amp;#x27;s Diary&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{U}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact — Book&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Unknown Event&lt;/p&gt;
-&lt;p&gt;Imprint - Whenever a player cards an instant or sorcery spell, exile it as it resolves.&lt;br/&gt;At the beginning of your upkeep, you may copy an imprinted card and cast the copy without paying its mana cost. It can&amp;#x27;t cause you to take extra turns. Then, if there are three or more cards imprinted on this artifact, sacrifice it and create a token that&amp;#x27;s a copy of Niv-Mizzet, Firemind.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/unk/RZ05p/niv-mizzets-diary?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/9/c/9c995cb6-89ed-43f0-8547-741e0afe8c77.jpg?1790762618" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,61 @@
 [
   {
+    "id": "853bf74d-0b61-43df-9018-0b40b624a9d1",
+    "oracle_id": "85b67121-340f-4cff-a26d-2160aa923ec3",
+    "name": "\"ALL YOUR BASE ARE BELONG TO US\"",
+    "set": "trk",
+    "set_name": "Star Trek",
+    "mana_cost": "{W}",
+    "type_line": "Artifact Creature — Borg",
+    "oracle_text": "Artifacts creatures you control have vigilance.",
+    "rarity": "uncommon",
+    "released_at": "2026-11-13",
+    "discovered_at": "2026-10-22T14:47:22.318721+00:00",
+    "scryfall_uri": "https://scryfall.com/card/trk/9/all-your-base-are-belong-to-us?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/5/853bf74d-0b61-43df-9018-0b40b624a9d1.jpg?1792654741",
+      "normal": "https://cards.scryfall.io/normal/front/8/5/853bf74d-0b61-43df-9018-0b40b624a9d1.jpg?1792654741",
+      "large": "https://cards.scryfall.io/large/front/8/5/853bf74d-0b61-43df-9018-0b40b624a9d1.jpg?1792654741",
+      "png": "https://cards.scryfall.io/png/front/8/5/853bf74d-0b61-43df-9018-0b40b624a9d1.png?1792654741",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/5/853bf74d-0b61-43df-9018-0b40b624a9d1.jpg?1792654741",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/5/853bf74d-0b61-43df-9018-0b40b624a9d1.jpg?1792654741",
+      "thumb": "https://cards.scryfall.io/thumb/front/8/5/853bf74d-0b61-43df-9018-0b40b624a9d1.webp?1792654741",
+      "grid": "https://cards.scryfall.io/grid/front/8/5/853bf74d-0b61-43df-9018-0b40b624a9d1.webp?1792654741",
+      "display": "https://cards.scryfall.io/display/front/8/5/853bf74d-0b61-43df-9018-0b40b624a9d1.webp?1792654741",
+      "art": "https://cards.scryfall.io/art/front/8/5/853bf74d-0b61-43df-9018-0b40b624a9d1.webp?1792654741",
+      "crop": "https://cards.scryfall.io/crop/front/8/5/853bf74d-0b61-43df-9018-0b40b624a9d1.webp?1792654741",
+      "jpeg": "https://cards.scryfall.io/normal/front/8/5/853bf74d-0b61-43df-9018-0b40b624a9d1.jpg?1792654741"
+    }
+  },
+  {
+    "id": "01e2fff2-3670-41ad-92b3-7f4e31fd0137",
+    "oracle_id": "390b862a-2a85-44bd-832c-f5bbd3eb4ea0",
+    "name": "Rise from the Tides",
+    "set": "f16",
+    "set_name": "Friday Night Magic 2016",
+    "mana_cost": "{5}{U}",
+    "type_line": "Sorcery",
+    "oracle_text": "Create a tapped 2/2 black Zombie creature token for each instant and sorcery card in your graveyard.",
+    "rarity": "rare",
+    "released_at": "2016-01-01",
+    "discovered_at": "2026-10-22T14:47:22.318721+00:00",
+    "scryfall_uri": "https://scryfall.com/card/f16/10/de/den-fluten-entsteigen-(rise-from-the-tides)?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/0/1/01e2fff2-3670-41ad-92b3-7f4e31fd0137.jpg?1792656292",
+      "normal": "https://cards.scryfall.io/normal/front/0/1/01e2fff2-3670-41ad-92b3-7f4e31fd0137.jpg?1792656292",
+      "large": "https://cards.scryfall.io/large/front/0/1/01e2fff2-3670-41ad-92b3-7f4e31fd0137.jpg?1792656292",
+      "png": "https://cards.scryfall.io/png/front/0/1/01e2fff2-3670-41ad-92b3-7f4e31fd0137.png?1792656292",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/0/1/01e2fff2-3670-41ad-92b3-7f4e31fd0137.jpg?1792656292",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/0/1/01e2fff2-3670-41ad-92b3-7f4e31fd0137.jpg?1792656292",
+      "thumb": "https://cards.scryfall.io/thumb/front/0/1/01e2fff2-3670-41ad-92b3-7f4e31fd0137.webp?1792656292",
+      "grid": "https://cards.scryfall.io/grid/front/0/1/01e2fff2-3670-41ad-92b3-7f4e31fd0137.webp?1792656292",
+      "display": "https://cards.scryfall.io/display/front/0/1/01e2fff2-3670-41ad-92b3-7f4e31fd0137.webp?1792656292",
+      "art": "https://cards.scryfall.io/art/front/0/1/01e2fff2-3670-41ad-92b3-7f4e31fd0137.webp?1792656292",
+      "crop": "https://cards.scryfall.io/crop/front/0/1/01e2fff2-3670-41ad-92b3-7f4e31fd0137.webp?1792656292",
+      "jpeg": "https://cards.scryfall.io/normal/front/0/1/01e2fff2-3670-41ad-92b3-7f4e31fd0137.jpg?1792656292"
+    }
+  },
+  {
     "id": "07b3f211-1ff1-47c3-9063-9a1ac0fd814c",
     "oracle_id": "887614f9-f12f-47bc-ae56-1438cd7cad10",
     "name": "There's Coffee in that Nebula",
@@ -16727,60 +16783,6 @@
       "display": "https://cards.scryfall.io/display/front/8/4/84c48d74-6ae4-4955-bd26-3db4884965a6.webp?1790758718",
       "art": "https://cards.scryfall.io/art/front/8/4/84c48d74-6ae4-4955-bd26-3db4884965a6.webp?1790758718",
       "crop": "https://cards.scryfall.io/crop/front/8/4/84c48d74-6ae4-4955-bd26-3db4884965a6.webp?1790758718"
-    }
-  },
-  {
-    "id": "8d5af209-44ec-4ccd-b863-d77a346bf5b6",
-    "oracle_id": "9f4cad96-079d-4791-9971-d7ebe43f5e04",
-    "name": "Tarelily, Lovestruck Archer",
-    "set": "unk",
-    "set_name": "Unknown Event",
-    "mana_cost": "{1}{G}{W}",
-    "type_line": "Legendary Creature — Elf Archer",
-    "oracle_text": "Elves and/or Dwarf spells you cast cost {1} less to cast.\nSoulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)\nAs long as this creature is paired with another creature, both creatures have reach. If that creature is a Dwarf, both creatures have lifelink.",
-    "rarity": "rare",
-    "released_at": "2026-07-17",
-    "discovered_at": "2026-09-30T14:17:40.501161+00:00",
-    "scryfall_uri": "https://scryfall.com/card/unk/RZ03v/tarelily-lovestruck-archer?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/8/d/8d5af209-44ec-4ccd-b863-d77a346bf5b6.jpg?1790758875",
-      "normal": "https://cards.scryfall.io/normal/front/8/d/8d5af209-44ec-4ccd-b863-d77a346bf5b6.jpg?1790758875",
-      "large": "https://cards.scryfall.io/large/front/8/d/8d5af209-44ec-4ccd-b863-d77a346bf5b6.jpg?1790758875",
-      "png": "https://cards.scryfall.io/png/front/8/d/8d5af209-44ec-4ccd-b863-d77a346bf5b6.png?1790758875",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/8/d/8d5af209-44ec-4ccd-b863-d77a346bf5b6.jpg?1790758875",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/8/d/8d5af209-44ec-4ccd-b863-d77a346bf5b6.jpg?1790758875",
-      "thumb": "https://cards.scryfall.io/thumb/front/8/d/8d5af209-44ec-4ccd-b863-d77a346bf5b6.webp?1790758875",
-      "grid": "https://cards.scryfall.io/grid/front/8/d/8d5af209-44ec-4ccd-b863-d77a346bf5b6.webp?1790758875",
-      "display": "https://cards.scryfall.io/display/front/8/d/8d5af209-44ec-4ccd-b863-d77a346bf5b6.webp?1790758875",
-      "art": "https://cards.scryfall.io/art/front/8/d/8d5af209-44ec-4ccd-b863-d77a346bf5b6.webp?1790758875",
-      "crop": "https://cards.scryfall.io/crop/front/8/d/8d5af209-44ec-4ccd-b863-d77a346bf5b6.webp?1790758875"
-    }
-  },
-  {
-    "id": "9c995cb6-89ed-43f0-8547-741e0afe8c77",
-    "oracle_id": "25b8f23b-9bea-4912-bd0a-88a1f8390bf4",
-    "name": "Niv-Mizzet's Diary",
-    "set": "unk",
-    "set_name": "Unknown Event",
-    "mana_cost": "{3}{U}{R}",
-    "type_line": "Artifact — Book",
-    "oracle_text": "Imprint - Whenever a player cards an instant or sorcery spell, exile it as it resolves.\nAt the beginning of your upkeep, you may copy an imprinted card and cast the copy without paying its mana cost. It can't cause you to take extra turns. Then, if there are three or more cards imprinted on this artifact, sacrifice it and create a token that's a copy of Niv-Mizzet, Firemind.",
-    "rarity": "rare",
-    "released_at": "2026-07-17",
-    "discovered_at": "2026-09-30T14:17:40.501161+00:00",
-    "scryfall_uri": "https://scryfall.com/card/unk/RZ05p/niv-mizzets-diary?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/9/c/9c995cb6-89ed-43f0-8547-741e0afe8c77.jpg?1790762618",
-      "normal": "https://cards.scryfall.io/normal/front/9/c/9c995cb6-89ed-43f0-8547-741e0afe8c77.jpg?1790762618",
-      "large": "https://cards.scryfall.io/large/front/9/c/9c995cb6-89ed-43f0-8547-741e0afe8c77.jpg?1790762618",
-      "png": "https://cards.scryfall.io/png/front/9/c/9c995cb6-89ed-43f0-8547-741e0afe8c77.png?1790762618",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/9/c/9c995cb6-89ed-43f0-8547-741e0afe8c77.jpg?1790762618",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/9/c/9c995cb6-89ed-43f0-8547-741e0afe8c77.jpg?1790762618",
-      "thumb": "https://cards.scryfall.io/thumb/front/9/c/9c995cb6-89ed-43f0-8547-741e0afe8c77.webp?1790762618",
-      "grid": "https://cards.scryfall.io/grid/front/9/c/9c995cb6-89ed-43f0-8547-741e0afe8c77.webp?1790762618",
-      "display": "https://cards.scryfall.io/display/front/9/c/9c995cb6-89ed-43f0-8547-741e0afe8c77.webp?1790762618",
-      "art": "https://cards.scryfall.io/art/front/9/c/9c995cb6-89ed-43f0-8547-741e0afe8c77.webp?1790762618",
-      "crop": "https://cards.scryfall.io/crop/front/9/c/9c995cb6-89ed-43f0-8547-741e0afe8c77.webp?1790762618"
     }
   }
 ]
