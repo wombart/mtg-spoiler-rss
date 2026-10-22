@@ -5,9 +5,249 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 22 Oct 2026 14:47:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 19:35:45 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Dr. McCoy, Surly Surgeon [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/526/dr-mccoy-surly-surgeon?utm_source=api</link>
+      <guid isPermaLink="false">df8a0737-5841-4c17-b567-e9296541c3c9:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 19:35:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/0/00474b9c-620f-44dc-912f-5d1972a1eb22.jpg?1792668628&quot; alt=&quot;Dr. McCoy, Surly Surgeon&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Dr. McCoy, Surly Surgeon&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Doctor&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;When Dr. McCoy enters, put a +1/+1 counter on another target creature you control.&lt;br/&gt;If another creature you control with a +1/+1 counter on it would be destroyed, instead remove all +1/+1 counters from it and all damage already dealt to it is healed.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/526/dr-mccoy-surly-surgeon?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/0/00474b9c-620f-44dc-912f-5d1972a1eb22.jpg?1792668628" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Elim Garak, Simple Tailor [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/106/elim-garak-simple-tailor?utm_source=api</link>
+      <guid isPermaLink="false">c83465bd-f95f-4c57-b9ce-925a85b45276:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 19:35:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/1/113bd51a-dfbb-4106-adf3-e567057fcd06.jpg?1792668600&quot; alt=&quot;Elim Garak, Simple Tailor&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Elim Garak, Simple Tailor&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Cardassian Rogue&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Menace&lt;br/&gt;Whenever you face a dilemma, each opponent loses 2 life and you gain 2 life. (You face a dilemma as you choose one or more modes for a spell or ability.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/106/elim-garak-simple-tailor?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/1/113bd51a-dfbb-4106-adf3-e567057fcd06.jpg?1792668600" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Obsidian Order Operative [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/120/obsidian-order-operative?utm_source=api</link>
+      <guid isPermaLink="false">7145e1b7-b991-4651-b21d-0620cb017090:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 19:35:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/7/17a7b0a8-baaf-4e6a-8536-f511c796a713.jpg?1792672365&quot; alt=&quot;Obsidian Order Operative&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Obsidian Order Operative&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Cardassian Officer Spy&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Whenever you face a dilemma, each opponent loses 1 life and you gain 1 life. (You face a dilemma as you choose one or more modes for a spell or ability.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/120/obsidian-order-operative?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/7/17a7b0a8-baaf-4e6a-8536-f511c796a713.jpg?1792672365" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Storied Veteran [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/429/storied-veteran?utm_source=api</link>
+      <guid isPermaLink="false">b1012ac3-77f8-4384-b947-84c094d6b59e:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 19:35:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/2/32c2bfbf-e2ea-46c3-b369-1e203c8af716.jpg?1792682343&quot; alt=&quot;Storied Veteran&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Storied Veteran&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {B}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Klingon Advisor&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;This creature can&amp;#x27;t block.&lt;br/&gt;You may cast this card from your graveyard. If you do, it enters with a finality counter on it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/429/storied-veteran?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/2/32c2bfbf-e2ea-46c3-b369-1e203c8af716.jpg?1792682343" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Pet Sehlat [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/28/pet-sehlat?utm_source=api</link>
+      <guid isPermaLink="false">509f255f-c3ee-4836-a583-d018060d0c4d:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 19:35:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/7/477a6a46-7fda-4666-87d9-a35c953dd94d.jpg?1792672463&quot; alt=&quot;Pet Sehlat&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Pet Sehlat&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Bear&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;This creature can&amp;#x27;t attack alone.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/28/pet-sehlat?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/7/477a6a46-7fda-4666-87d9-a35c953dd94d.jpg?1792672463" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Interstellar Effigy [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/66/interstellar-effigy?utm_source=api</link>
+      <guid isPermaLink="false">76f52fad-8db2-42f0-8e12-f4341e4c8680:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 19:35:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/b/4b7d505f-2a6b-4525-87c7-19e06d49c9df.jpg?1792672545&quot; alt=&quot;Interstellar Effigy&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Interstellar Effigy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact Creature — Construct&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;When this creature enters, return target creature an opponent controls to its owner&amp;#x27;s hand.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/66/interstellar-effigy?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/b/4b7d505f-2a6b-4525-87c7-19e06d49c9df.jpg?1792672545" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>D'Ghor Bloodletter [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/101/dghor-bloodletter?utm_source=api</link>
+      <guid isPermaLink="false">ae5ee92a-5915-49ce-aa4c-611ab711b2ef:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 19:35:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/0/5075645d-ef69-4559-953e-c3140153bd75.jpg?1792671915&quot; alt=&quot;D&amp;#x27;Ghor Bloodletter&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;D&amp;#x27;Ghor Bloodletter&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Klingon Assassin&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;When this creature enters, choose one —&lt;br/&gt;• All other creatures get -1/-1 until end of turn.&lt;br/&gt;• Each player sacrifices a creature of their choice.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/101/dghor-bloodletter?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/0/5075645d-ef69-4559-953e-c3140153bd75.jpg?1792671915" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Georgiou, Terran Emperor [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/457/georgiou-terran-emperor?utm_source=api</link>
+      <guid isPermaLink="false">31932df4-0be8-45c4-8b22-84119d9c20ba:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 19:35:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/3/53401f53-aebe-4538-82be-9d6916c01c76.jpg?1792668844&quot; alt=&quot;Georgiou, Terran Emperor&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Georgiou, Terran Emperor&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Rogue Noble&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;You don&amp;#x27;t lose the game for having 0 or less life.&lt;br/&gt;At the beginning of your end step, you lose 3 life and draw a card. Then if your life total is 0 or less, create ten 1/1 red Officer creature tokens.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/457/georgiou-terran-emperor?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/3/53401f53-aebe-4538-82be-9d6916c01c76.jpg?1792668844" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Una Chin-Riley, Number One [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/42/una-chin-riley-number-one?utm_source=api</link>
+      <guid isPermaLink="false">0529c6fa-a35f-4d33-b274-93446ce68419:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 19:35:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/5/5585c90d-3fe7-41f4-9728-36b9410ecc53.jpg?1792668590&quot; alt=&quot;Una Chin-Riley, Number One&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Una Chin-Riley, Number One&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Illyrian Officer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Whenever you attack while creatures you control have total power 8 or greater, target attacking creature gets +2/+0 and gains first strike until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/42/una-chin-riley-number-one?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/5/5585c90d-3fe7-41f4-9728-36b9410ecc53.jpg?1792668590" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Suurok-Class Science Vessek [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/83/suurok-class-science-vessek?utm_source=api</link>
+      <guid isPermaLink="false">5d2016ed-3ea0-4938-b95e-ee582307e475:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 19:35:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/6/7608943e-329e-41f9-b098-a0a94b01e6a1.jpg?1792672672&quot; alt=&quot;Suurok-Class Science Vessek&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Suurok-Class Science Vessek&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact — Spacecraft&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;When this Spacecraft enters, draw a card.&lt;br/&gt;Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It&amp;#x27;s an artifact creature at 5+.)&lt;br/&gt;5+ | Flying&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/83/suurok-class-science-vessek?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/6/7608943e-329e-41f9-b098-a0a94b01e6a1.jpg?1792672672" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Excalbian Gamemaster [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/527/excalbian-gamemaster?utm_source=api</link>
+      <guid isPermaLink="false">f409e869-ea1a-4e08-b19e-949436d01cc1:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 19:35:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/1/91f96c5f-e3ce-4c94-9944-ce9b1b5a097a.jpg?1792682477&quot; alt=&quot;Excalbian Gamemaster&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Excalbian Gamemaster&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {5}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Excalbian&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Strange new worlds — When this creature enters, create X 1/1 red Officer creature tokens, where X is the number of differently named lands you control.&lt;br/&gt;Whenever this creature or another creature you control dies, put a +1/+1 counter on target creature you control.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/527/excalbian-gamemaster?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/1/91f96c5f-e3ce-4c94-9944-ce9b1b5a097a.jpg?1792682477" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Cetacean Ops [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/48/cetacean-ops?utm_source=api</link>
+      <guid isPermaLink="false">64e39ec9-358a-4aa0-a7e9-164e8aa0b236:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 19:35:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/8/a8dc7ecd-e6f0-4050-9d5b-8436f60a1395.jpg?1792672912&quot; alt=&quot;Cetacean Ops&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Cetacean Ops&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Whale Officer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)&lt;br/&gt;Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/48/cetacean-ops?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/8/a8dc7ecd-e6f0-4050-9d5b-8436f60a1395.jpg?1792672912" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Inner Light [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/241/the-inner-light?utm_source=api</link>
+      <guid isPermaLink="false">0de3aad2-5f4c-4437-b0b3-4b867309528d:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 19:35:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/f/af92a773-b237-4cd8-b50d-4f7c3b9290ed.jpg?1792672944&quot; alt=&quot;The Inner Light&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;The Inner Light&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{G}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Saga&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)&lt;br/&gt;I — Return target green or white creature card from your graveyard to the battlefield.&lt;br/&gt;II — Choose target creature. Whenever it deals combat damage to a player this turn, you draw that many cards.&lt;br/&gt;III — You gain life equal to the greatest power among creatures you control. Create a Treasure token.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/241/the-inner-light?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/f/af92a773-b237-4cd8-b50d-4f7c3b9290ed.jpg?1792672944" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Temporal Conqueror [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/219/temporal-conqueror?utm_source=api</link>
+      <guid isPermaLink="false">306002e6-d68d-47ad-879b-e6060efebeff:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 19:35:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/0/b0bb51a7-1ae2-45d0-8be9-5454a3c8f751.jpg?1792672799&quot; alt=&quot;Temporal Conqueror&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Temporal Conqueror&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Na&amp;#x27;kuhl Warrior&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;When this creature enters, mill three cards. Then return a land card from your graveyard to your hand. If you can&amp;#x27;t, create a Treasure token. (To mill three cards, put the top three cards from your library into your graveyard.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/219/temporal-conqueror?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/0/b0bb51a7-1ae2-45d0-8be9-5454a3c8f751.jpg?1792672799" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Blastoneuron [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/96/blastoneuron?utm_source=api</link>
+      <guid isPermaLink="false">87bcc935-e7e7-4e98-a23c-01c5a9b7cfcd:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 19:35:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/1/c1855a4c-c7d1-407c-b134-4c43968cbdd3.jpg?1792682370&quot; alt=&quot;Blastoneuron&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Blastoneuron&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Jellyfish Leech&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;When this creature enters, exile target creature card with mana value 3 or less from your graveyard. Create a token that&amp;#x27;s a copy of it. That token gains haste. Sacrifice it at the beginning of the next end step.&lt;br/&gt;Whenever one or more cards leave your graveyard, each opponent loses 1 life and you gain 1 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/96/blastoneuron?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/1/c1855a4c-c7d1-407c-b134-4c43968cbdd3.jpg?1792682370" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>All Good Things... [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/226/all-good-things?utm_source=api</link>
+      <guid isPermaLink="false">61dc9770-1e29-49fa-a31b-b63b5f0496fb:trk</guid>
+      <pubDate>Thu, 22 Oct 2026 19:35:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/e/fe5dda31-159c-49c7-962e-a04b771256ea.jpg?1792672267&quot; alt=&quot;All Good Things...&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;All Good Things...&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{G}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Saga&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)&lt;br/&gt;I, II, III — Draw two cards, then exile a card from your hand.&lt;br/&gt;IV — If all cards exiled with this Saga share a card type, you gain 10 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/226/all-good-things?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/e/fe5dda31-159c-49c7-962e-a04b771256ea.jpg?1792672267" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>&quot;ALL YOUR BASE ARE BELONG TO US&quot; [Star Trek]</title>
       <link>https://scryfall.com/card/trk/9/all-your-base-are-belong-to-us?utm_source=api</link>
@@ -6970,245 +7210,6 @@
 &lt;p&gt;{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/924/maze-of-ith?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/c/2/c21950b7-6aff-4e48-a109-a4b385930867.jpg?1790770373" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Trinisphere [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2838/trinisphere?utm_source=api</link>
-      <guid isPermaLink="false">69d994f2-b8f6-425f-9655-977c2144d40c:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/6/c61516fb-22e5-4145-84e0-f06a75fe0cf6.jpg?1790771565&quot; alt=&quot;Trinisphere&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Trinisphere&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;As long as this artifact is untapped, each spell that would cost less than three mana to cast costs three mana to cast. (Additional mana in the cost may be paid with any color of mana or colorless mana. For example, a spell that would cost {1}{B} to cast costs {2}{B} to cast instead.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2838/trinisphere?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/6/c61516fb-22e5-4145-84e0-f06a75fe0cf6.jpg?1790771565" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Goblin Rabblemaster [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2836/goblin-rabblemaster?utm_source=api</link>
-      <guid isPermaLink="false">24661b81-6bee-4ad8-b3ab-53cb65005c51:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/b/cba7f673-4dde-4165-80ef-be3ad967a6a6.jpg?1790771466&quot; alt=&quot;Goblin Rabblemaster&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Goblin Rabblemaster&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Goblin Warrior&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Other Goblin creatures you control attack each combat if able.&lt;br/&gt;At the beginning of combat on your turn, create a 1/1 red Goblin creature token with haste.&lt;br/&gt;Whenever this creature attacks, it gets +1/+0 until end of turn for each other attacking Goblin.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2836/goblin-rabblemaster?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/b/cba7f673-4dde-4165-80ef-be3ad967a6a6.jpg?1790771466" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Unbreakable Formation [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2827/unbreakable-formation?utm_source=api</link>
-      <guid isPermaLink="false">97435e03-2fff-4fe0-8fa9-69ab0a046a33:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/2/d2d31fdd-d921-4401-a662-279ebe46f84e.jpg?1790772576&quot; alt=&quot;Unbreakable Formation&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Unbreakable Formation&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Creatures you control gain indestructible until end of turn.&lt;br/&gt;Addendum — If you cast this spell during your main phase, put a +1/+1 counter on each of those creatures and they gain vigilance until end of turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2827/unbreakable-formation?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/2/d2d31fdd-d921-4401-a662-279ebe46f84e.jpg?1790772576" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Leaf-Crowned Elder [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2764/leaf-crowned-elder?utm_source=api</link>
-      <guid isPermaLink="false">9416fd24-15a2-46d0-8b5f-55f5e7b65465:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/e/ded711f9-1d2a-4147-81f7-ab827a108e4a.jpg?1790772834&quot; alt=&quot;Leaf-Crowned Elder&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Leaf-Crowned Elder&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Treefolk Shaman&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with this creature, you may reveal it. If you do, you may play that card without paying its mana cost.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2764/leaf-crowned-elder?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/e/ded711f9-1d2a-4147-81f7-ab827a108e4a.jpg?1790772834" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Ashnod's Altar [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/1442/ashnods-altar?utm_source=api</link>
-      <guid isPermaLink="false">4d18bcba-a346-445e-a182-6cc30b7e066d:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/3/f330d566-2503-4dbb-87e2-bdf1a4ee49ab.jpg?1790771511&quot; alt=&quot;Ashnod&amp;#x27;s Altar&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Ashnod&amp;#x27;s Altar&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Sacrifice a creature: Add {C}{C}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/1442/ashnods-altar?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/f/3/f330d566-2503-4dbb-87e2-bdf1a4ee49ab.jpg?1790771511" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Kami of the Crescent Moon [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2841/kami-of-the-crescent-moon?utm_source=api</link>
-      <guid isPermaLink="false">38cfe4a0-6ead-435b-9f86-928205c0a52c:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/6/f66e444b-e0b6-473f-b378-e63f1f772890.jpg?1790771774&quot; alt=&quot;Kami of the Crescent Moon&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Kami of the Crescent Moon&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {U}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Spirit&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;At the beginning of each player&amp;#x27;s draw step, that player draws an additional card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2841/kami-of-the-crescent-moon?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/f/6/f66e444b-e0b6-473f-b378-e63f1f772890.jpg?1790771774" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Tempt with Discovery [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2848/tempt-with-discovery?utm_source=api</link>
-      <guid isPermaLink="false">4baa6145-216e-476b-b178-aaaa1e633701:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/a/fa511f98-8ecb-464a-9498-a2d4d2f3007d.jpg?1790772278&quot; alt=&quot;Tempt with Discovery&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Tempt with Discovery&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Tempting offer — Search your library for a land card and put it onto the battlefield. Each opponent may search their library for a land card and put it onto the battlefield. For each opponent who searches a library this way, search your library for a land card and put it onto the battlefield. Then each player who searched a library this way shuffles.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2848/tempt-with-discovery?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/f/a/fa511f98-8ecb-464a-9498-a2d4d2f3007d.jpg?1790772278" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Vault of Whispers [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2885/vault-of-whispers?utm_source=api</link>
-      <guid isPermaLink="false">09496421-74e4-466a-9546-56f2a0c8eef4:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/d/fd36dbf1-cde7-43d8-b554-40b750b016f7.jpg?1790772786&quot; alt=&quot;Vault of Whispers&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Vault of Whispers&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Artifact Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;{T}: Add {B}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2885/vault-of-whispers?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/f/d/fd36dbf1-cde7-43d8-b554-40b750b016f7.jpg?1790772786" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>The Generational Historian [Unknown Event]</title>
-      <link>https://scryfall.com/card/unk/MG05/the-generational-historian?utm_source=api</link>
-      <guid isPermaLink="false">409fc553-a5e2-44fa-87eb-cd88eded5a75:unk</guid>
-      <pubDate>Wed, 30 Sep 2026 14:17:40 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/2/b2be17ee-af9f-4667-a05b-d4e71c959897.jpg?1790757982&quot; alt=&quot;The Generational Historian&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;The Generational Historian&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Druid&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Unknown Event&lt;/p&gt;
-&lt;p&gt;Before the game begins, if The Generational Historian is your commander, choose a year. Your deck can contain only cards released in that year. (Legal text, for once, is a great place to check. Specific versions matter.)&lt;br/&gt;Spells released in the chosen year cost {1} less to cast. If the chosen year is in the 1990s, they also cost {W}{U}{B}{R}{G} less to cast, reducing only the amount of colored mana you pay.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/unk/MG05/the-generational-historian?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/2/b2be17ee-af9f-4667-a05b-d4e71c959897.jpg?1790757982" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Bobby, Another Dwarf [Unknown Event]</title>
-      <link>https://scryfall.com/card/unk/RW04h/bobby-another-dwarf?utm_source=api</link>
-      <guid isPermaLink="false">069beed2-5139-49a2-b723-548fe44fa968:unk</guid>
-      <pubDate>Wed, 30 Sep 2026 14:17:40 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/f/0f9e1500-3d0a-4f8d-90ee-5cb9d569d01f.jpg?1790758312&quot; alt=&quot;Bobby, Another Dwarf&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Bobby, Another Dwarf&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Dwarf Warrior&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Unknown Event&lt;/p&gt;
-&lt;p&gt;Dwarf creature cards, legendary creature cards, and Equipment cards in your hand have sneak {2}. (You may cast a spell for its sneak cost if you also return an unblocked attacker you control to hand during the declare blockers step. Creatures with sneak enter tapped and attacking.)&lt;br/&gt;When an Equipment you control sneaks in, attach it to a creature you control.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/unk/RW04h/bobby-another-dwarf?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/0/f/0f9e1500-3d0a-4f8d-90ee-5cb9d569d01f.jpg?1790758312" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Wheel of Not Ideal [Unknown Event]</title>
-      <link>https://scryfall.com/card/unk/RZ05o/wheel-of-not-ideal?utm_source=api</link>
-      <guid isPermaLink="false">fe65db84-4a19-42e0-8ef8-993c240ae504:unk</guid>
-      <pubDate>Wed, 30 Sep 2026 14:17:40 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/e/2e587782-af02-4383-bda6-422e0d771704.jpg?1790758992&quot; alt=&quot;Wheel of Not Ideal&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Wheel of Not Ideal&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}{B}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Unknown Event&lt;/p&gt;
-&lt;p&gt;Each player discards their hand, passes their library to the player to their left, then draws seven cards. (You draw from your new library, the one passed to you. Please be careful with their cards.)&lt;br/&gt;Flashback {8}{R}{B}&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/unk/RZ05o/wheel-of-not-ideal?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/e/2e587782-af02-4383-bda6-422e0d771704.jpg?1790758992" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>I'm Going On An Adventure! [Unknown Event]</title>
-      <link>https://scryfall.com/card/unk/CW11a/im-going-on-an-adventure!?utm_source=api</link>
-      <guid isPermaLink="false">d00b7954-0efe-4f90-8268-556a02131b34:unk</guid>
-      <pubDate>Wed, 30 Sep 2026 14:17:40 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/7/471489b5-9b3b-4e96-ae4e-63e3f2caaedb.jpg?1790758201&quot; alt=&quot;I&amp;#x27;m Going On An Adventure!&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;I&amp;#x27;m Going On An Adventure!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {W}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Unknown Event&lt;/p&gt;
-&lt;p&gt;Exile target creature. It&amp;#x27;s on an adventure. When it enters from being on an adventure, it explores. (Its owner may cast it from exile. To have a creature you control explore, reveal the top card of your library. Put that card into your hand if it&amp;#x27;s a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)&lt;br/&gt;Flashback {4}{W}&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/unk/CW11a/im-going-on-an-adventure!?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/7/471489b5-9b3b-4e96-ae4e-63e3f2caaedb.jpg?1790758201" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>The Swamp Kitten [Unknown Event]</title>
-      <link>https://scryfall.com/card/unk/RB04i/the-swamp-kitten?utm_source=api</link>
-      <guid isPermaLink="false">eba38613-bb48-4d96-b1c8-c87f1a1f9446:unk</guid>
-      <pubDate>Wed, 30 Sep 2026 14:17:40 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/5/550107d4-05ff-49db-90db-e0dd357f7e0b.jpg?1790759727&quot; alt=&quot;The Swamp Kitten&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;The Swamp Kitten&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Cat&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Unknown Event&lt;/p&gt;
-&lt;p&gt;Land creatures and/or creatures you control with menace get +1/+1.&lt;br/&gt;At the beginning of combat on your turn, target Swamp you control becomes a 0/0 black land creature and gains menace. It&amp;#x27;s still a land. Put a +1/+1 counter on it. (It can&amp;#x27;t be blocked except by two or more creatures. It&amp;#x27;s dark and scary.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/unk/RB04i/the-swamp-kitten?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/5/5/550107d4-05ff-49db-90db-e0dd357f7e0b.jpg?1790759727" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>The Local Guides [Unknown Event]</title>
-      <link>https://scryfall.com/card/unk/RG03/the-local-guides?utm_source=api</link>
-      <guid isPermaLink="false">1c9af8a9-40be-4925-bf52-12e991a1be71:unk</guid>
-      <pubDate>Wed, 30 Sep 2026 14:17:40 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/a/7a08a1db-ec32-4783-baff-8fb09219f9ee.jpg?1790758750&quot; alt=&quot;The Local Guides&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;The Local Guides&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Advisor&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Unknown Event&lt;/p&gt;
-&lt;p&gt;You may look at the top card of your library any time.&lt;br/&gt;Whenever another creature you control enters, if the first letter of its name is found in the name of the city you&amp;#x27;re in, it explores. (Reveal the top card of your library. Put that card into your hand if it&amp;#x27;s a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/unk/RG03/the-local-guides?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/7/a/7a08a1db-ec32-4783-baff-8fb09219f9ee.jpg?1790758750" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Emerin, Shivan Angel [Unknown Event]</title>
-      <link>https://scryfall.com/card/unk/RZ06j/emerin-shivan-angel?utm_source=api</link>
-      <guid isPermaLink="false">626b0f06-60bb-4683-97c2-4732cf5d9c28:unk</guid>
-      <pubDate>Wed, 30 Sep 2026 14:17:40 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/0/80b21646-880a-4793-acb0-d959b8e7ab47.jpg?1790759442&quot; alt=&quot;Emerin, Shivan Angel&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Emerin, Shivan Angel&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}{R}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Angel Dragon&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Unknown Event&lt;/p&gt;
-&lt;p&gt;Angels and Dragons you control have flying, lifelink, ward 2, and &amp;quot;{R}: This creature gets +1/+0 until end of turn.&amp;quot;&lt;br/&gt;Whenever you sacrifice a Treasure, you gain 2 life.&lt;br/&gt;Whenever Emerin deals combat damage to a player while saddled, create two Treasure tokens.&lt;br/&gt;Saddle 4&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/unk/RZ06j/emerin-shivan-angel?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/0/80b21646-880a-4793-acb0-d959b8e7ab47.jpg?1790759442" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>CGI Fight Sequence [Unknown Event]</title>
-      <link>https://scryfall.com/card/unk/UR11/cgi-fight-sequence?utm_source=api</link>
-      <guid isPermaLink="false">14ddc8a6-479e-46db-804b-9849b309eb65:unk</guid>
-      <pubDate>Wed, 30 Sep 2026 14:17:40 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/4/84c48d74-6ae4-4955-bd26-3db4884965a6.jpg?1790758718&quot; alt=&quot;CGI Fight Sequence&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;CGI Fight Sequence&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {R}&lt;/p&gt;
-&lt;p&gt;Typ: Enchantment&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Unknown Event&lt;/p&gt;
-&lt;p&gt;At the beginning of your upkeep, sacrifice this enchantment unless you sacrifice a Treasure token.&lt;br/&gt;Whenever you attack, target attacking creature you control fights target creature defending player controls.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/unk/UR11/cgi-fight-sequence?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/8/4/84c48d74-6ae4-4955-bd26-3db4884965a6.jpg?1790758718" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
