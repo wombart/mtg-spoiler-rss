@@ -5,9 +5,54 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 22 Oct 2026 19:35:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 08:53:34 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Those Old Scientists [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/86/those-old-scientists?utm_source=api</link>
+      <guid isPermaLink="false">5ca4e8c4-8358-49be-bafb-85849bf9bd01:trk</guid>
+      <pubDate>Fri, 23 Oct 2026 08:53:34 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/4/44280b43-b07e-43a4-9ae3-2eac0baeb918.jpg?1792716961&quot; alt=&quot;Those Old Scientists&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Those Old Scientists&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment — Saga&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;(As this Saga enters and after your draw&lt;br/&gt;step, add a lore counter. Sacrifice after III.)&lt;br/&gt;I — Draw two cards, then discard two cards.&lt;br/&gt;II — Return up to one target artifact, instant, or sorcery card from your graveyard to your hand.&lt;br/&gt;III — Choose up to two target cards in graveyards. The owners of those cards shuffle them into their libraries.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/86/those-old-scientists?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/4/44280b43-b07e-43a4-9ae3-2eac0baeb918.jpg?1792716961" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ensign Pavel Chekov [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/409/ensign-pavel-chekov?utm_source=api</link>
+      <guid isPermaLink="false">7d7e232f-e4f9-41db-a2d9-cfe88721b7a9:trk</guid>
+      <pubDate>Fri, 23 Oct 2026 08:53:34 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/7/578709ac-771b-410b-bd71-ba4ab8d466a2.jpg?1792717131&quot; alt=&quot;Ensign Pavel Chekov&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Ensign Pavel Chekov&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Pilot&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Strange new worlds — When Ensign Chekov enters, each opponent exiles the top X cards of their library, where X is the number of differently named lands you control. For each opponent, choose a land card that player owns exiled this way. You may play the chosen cards for as long as they remain exiled.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/409/ensign-pavel-chekov?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/7/578709ac-771b-410b-bd71-ba4ab8d466a2.jpg?1792717131" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Type-2 Phaser [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/271/type-2-phaser?utm_source=api</link>
+      <guid isPermaLink="false">9d4d3682-e904-412d-b8ae-734962865dfb:trk</guid>
+      <pubDate>Fri, 23 Oct 2026 08:53:34 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/7/c704af22-7c42-45c7-b3a4-b414c4dd8e05.jpg?1792723068&quot; alt=&quot;Type-2 Phaser&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Type-2 Phaser&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact — Equipment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;When this Equipment enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it insteaad.)&lt;br/&gt;Equipped creature gets +3/+0.&lt;br/&gt;Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/271/type-2-phaser?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/7/c704af22-7c42-45c7-b3a4-b414c4dd8e05.jpg?1792723068" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Dr. McCoy, Surly Surgeon [Star Trek]</title>
       <link>https://scryfall.com/card/trk/526/dr-mccoy-surly-surgeon?utm_source=api</link>
@@ -7167,49 +7212,6 @@
 &lt;p&gt;{T}: Add {W}.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2883/ancient-den?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/b/d/bd07ecf4-c06f-493f-a31e-f4241bf128d2.jpg?1790772755" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Voldaren Pariah // Abolisher of Bloodlines [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/1441/voldaren-pariah-abolisher-of-bloodlines?utm_source=api</link>
-      <guid isPermaLink="false">4399c284-e3fe-46b1-aa1f-15a2846858f5:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.jpg?1790780979&quot; alt=&quot;Voldaren Pariah // Abolisher of Bloodlines&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Voldaren Pariah // Abolisher of Bloodlines&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Vampire Horror // Creature — Eldrazi Vampire&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Flying&lt;br/&gt;Sacrifice three other creatures: Transform this creature.&lt;br/&gt;Madness {B}{B}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)&lt;br/&gt;//&lt;br/&gt;Flying&lt;br/&gt;When this creature transforms into Abolisher of Bloodlines, target opponent sacrifices three creatures of their choice.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/1441/voldaren-pariah-abolisher-of-bloodlines?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.jpg?1790780979" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Timber Protector [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2765/timber-protector?utm_source=api</link>
-      <guid isPermaLink="false">9bc8a69b-6065-4ef7-a580-adb1e7c72ef4:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/1/c105f743-a369-47a1-87dc-c6f093cdeac3.jpg?1790772836&quot; alt=&quot;Timber Protector&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Timber Protector&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Treefolk Warrior&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Other Treefolk creatures you control get +1/+1.&lt;br/&gt;Other Treefolk and Forests you control have indestructible.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2765/timber-protector?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/1/c105f743-a369-47a1-87dc-c6f093cdeac3.jpg?1790772836" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Maze of Ith [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/924/maze-of-ith?utm_source=api</link>
-      <guid isPermaLink="false">38a12bd7-4394-44a8-91a0-6a4ff7fa4f71:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/2/c21950b7-6aff-4e48-a109-a4b385930867.jpg?1790770373&quot; alt=&quot;Maze of Ith&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Maze of Ith&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/924/maze-of-ith?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/2/c21950b7-6aff-4e48-a109-a4b385930867.jpg?1790770373" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

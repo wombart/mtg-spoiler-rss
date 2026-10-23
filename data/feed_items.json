@@ -1,5 +1,89 @@
 [
   {
+    "id": "44280b43-b07e-43a4-9ae3-2eac0baeb918",
+    "oracle_id": "5ca4e8c4-8358-49be-bafb-85849bf9bd01",
+    "name": "Those Old Scientists",
+    "set": "trk",
+    "set_name": "Star Trek",
+    "mana_cost": "{2}{U}",
+    "type_line": "Enchantment — Saga",
+    "oracle_text": "(As this Saga enters and after your draw\nstep, add a lore counter. Sacrifice after III.)\nI — Draw two cards, then discard two cards.\nII — Return up to one target artifact, instant, or sorcery card from your graveyard to your hand.\nIII — Choose up to two target cards in graveyards. The owners of those cards shuffle them into their libraries.",
+    "rarity": "uncommon",
+    "released_at": "2026-11-13",
+    "discovered_at": "2026-10-23T08:53:34.578292+00:00",
+    "scryfall_uri": "https://scryfall.com/card/trk/86/those-old-scientists?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/4/4/44280b43-b07e-43a4-9ae3-2eac0baeb918.jpg?1792716961",
+      "normal": "https://cards.scryfall.io/normal/front/4/4/44280b43-b07e-43a4-9ae3-2eac0baeb918.jpg?1792716961",
+      "large": "https://cards.scryfall.io/large/front/4/4/44280b43-b07e-43a4-9ae3-2eac0baeb918.jpg?1792716961",
+      "png": "https://cards.scryfall.io/png/front/4/4/44280b43-b07e-43a4-9ae3-2eac0baeb918.png?1792716961",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/4/4/44280b43-b07e-43a4-9ae3-2eac0baeb918.jpg?1792716961",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/4/4/44280b43-b07e-43a4-9ae3-2eac0baeb918.jpg?1792716961",
+      "thumb": "https://cards.scryfall.io/thumb/front/4/4/44280b43-b07e-43a4-9ae3-2eac0baeb918.webp?1792716961",
+      "grid": "https://cards.scryfall.io/grid/front/4/4/44280b43-b07e-43a4-9ae3-2eac0baeb918.webp?1792716961",
+      "display": "https://cards.scryfall.io/display/front/4/4/44280b43-b07e-43a4-9ae3-2eac0baeb918.webp?1792716961",
+      "art": "https://cards.scryfall.io/art/front/4/4/44280b43-b07e-43a4-9ae3-2eac0baeb918.webp?1792716961",
+      "crop": "https://cards.scryfall.io/crop/front/4/4/44280b43-b07e-43a4-9ae3-2eac0baeb918.webp?1792716961",
+      "jpeg": "https://cards.scryfall.io/normal/front/4/4/44280b43-b07e-43a4-9ae3-2eac0baeb918.jpg?1792716961"
+    }
+  },
+  {
+    "id": "578709ac-771b-410b-bd71-ba4ab8d466a2",
+    "oracle_id": "7d7e232f-e4f9-41db-a2d9-cfe88721b7a9",
+    "name": "Ensign Pavel Chekov",
+    "set": "trk",
+    "set_name": "Star Trek",
+    "mana_cost": "{3}{U}",
+    "type_line": "Legendary Creature — Human Pilot",
+    "oracle_text": "Strange new worlds — When Ensign Chekov enters, each opponent exiles the top X cards of their library, where X is the number of differently named lands you control. For each opponent, choose a land card that player owns exiled this way. You may play the chosen cards for as long as they remain exiled.",
+    "rarity": "uncommon",
+    "released_at": "2026-11-13",
+    "discovered_at": "2026-10-23T08:53:34.578292+00:00",
+    "scryfall_uri": "https://scryfall.com/card/trk/409/ensign-pavel-chekov?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/7/578709ac-771b-410b-bd71-ba4ab8d466a2.jpg?1792717131",
+      "normal": "https://cards.scryfall.io/normal/front/5/7/578709ac-771b-410b-bd71-ba4ab8d466a2.jpg?1792717131",
+      "large": "https://cards.scryfall.io/large/front/5/7/578709ac-771b-410b-bd71-ba4ab8d466a2.jpg?1792717131",
+      "png": "https://cards.scryfall.io/png/front/5/7/578709ac-771b-410b-bd71-ba4ab8d466a2.png?1792717131",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/7/578709ac-771b-410b-bd71-ba4ab8d466a2.jpg?1792717131",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/7/578709ac-771b-410b-bd71-ba4ab8d466a2.jpg?1792717131",
+      "thumb": "https://cards.scryfall.io/thumb/front/5/7/578709ac-771b-410b-bd71-ba4ab8d466a2.webp?1792717131",
+      "grid": "https://cards.scryfall.io/grid/front/5/7/578709ac-771b-410b-bd71-ba4ab8d466a2.webp?1792717131",
+      "display": "https://cards.scryfall.io/display/front/5/7/578709ac-771b-410b-bd71-ba4ab8d466a2.webp?1792717131",
+      "art": "https://cards.scryfall.io/art/front/5/7/578709ac-771b-410b-bd71-ba4ab8d466a2.webp?1792717131",
+      "crop": "https://cards.scryfall.io/crop/front/5/7/578709ac-771b-410b-bd71-ba4ab8d466a2.webp?1792717131",
+      "jpeg": "https://cards.scryfall.io/normal/front/5/7/578709ac-771b-410b-bd71-ba4ab8d466a2.jpg?1792717131"
+    }
+  },
+  {
+    "id": "c704af22-7c42-45c7-b3a4-b414c4dd8e05",
+    "oracle_id": "9d4d3682-e904-412d-b8ae-734962865dfb",
+    "name": "Type-2 Phaser",
+    "set": "trk",
+    "set_name": "Star Trek",
+    "mana_cost": "{2}",
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "When this Equipment enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it insteaad.)\nEquipped creature gets +3/+0.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rarity": "uncommon",
+    "released_at": "2026-11-13",
+    "discovered_at": "2026-10-23T08:53:34.578292+00:00",
+    "scryfall_uri": "https://scryfall.com/card/trk/271/type-2-phaser?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/c/7/c704af22-7c42-45c7-b3a4-b414c4dd8e05.jpg?1792723068",
+      "normal": "https://cards.scryfall.io/normal/front/c/7/c704af22-7c42-45c7-b3a4-b414c4dd8e05.jpg?1792723068",
+      "large": "https://cards.scryfall.io/large/front/c/7/c704af22-7c42-45c7-b3a4-b414c4dd8e05.jpg?1792723068",
+      "png": "https://cards.scryfall.io/png/front/c/7/c704af22-7c42-45c7-b3a4-b414c4dd8e05.png?1792723068",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/c/7/c704af22-7c42-45c7-b3a4-b414c4dd8e05.jpg?1792723068",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/c/7/c704af22-7c42-45c7-b3a4-b414c4dd8e05.jpg?1792723068",
+      "thumb": "https://cards.scryfall.io/thumb/front/c/7/c704af22-7c42-45c7-b3a4-b414c4dd8e05.webp?1792723068",
+      "grid": "https://cards.scryfall.io/grid/front/c/7/c704af22-7c42-45c7-b3a4-b414c4dd8e05.webp?1792723068",
+      "display": "https://cards.scryfall.io/display/front/c/7/c704af22-7c42-45c7-b3a4-b414c4dd8e05.webp?1792723068",
+      "art": "https://cards.scryfall.io/art/front/c/7/c704af22-7c42-45c7-b3a4-b414c4dd8e05.webp?1792723068",
+      "crop": "https://cards.scryfall.io/crop/front/c/7/c704af22-7c42-45c7-b3a4-b414c4dd8e05.webp?1792723068",
+      "jpeg": "https://cards.scryfall.io/normal/front/c/7/c704af22-7c42-45c7-b3a4-b414c4dd8e05.jpg?1792723068"
+    }
+  },
+  {
     "id": "00474b9c-620f-44dc-912f-5d1972a1eb22",
     "oracle_id": "df8a0737-5841-4c17-b567-e9296541c3c9",
     "name": "Dr. McCoy, Surly Surgeon",
@@ -16695,110 +16779,6 @@
       "display": "https://cards.scryfall.io/display/front/b/d/bd07ecf4-c06f-493f-a31e-f4241bf128d2.webp?1790772755",
       "art": "https://cards.scryfall.io/art/front/b/d/bd07ecf4-c06f-493f-a31e-f4241bf128d2.webp?1790772755",
       "crop": "https://cards.scryfall.io/crop/front/b/d/bd07ecf4-c06f-493f-a31e-f4241bf128d2.webp?1790772755"
-    }
-  },
-  {
-    "id": "c08e90df-9268-4cfb-af03-25c249e3d129",
-    "oracle_id": "4399c284-e3fe-46b1-aa1f-15a2846858f5",
-    "name": "Voldaren Pariah // Abolisher of Bloodlines",
-    "set": "sld",
-    "set_name": "Secret Lair Drop",
-    "type_line": "Creature — Vampire Horror // Creature — Eldrazi Vampire",
-    "rarity": "rare",
-    "released_at": "2026-10-12",
-    "discovered_at": "2026-09-30T20:21:55.983184+00:00",
-    "scryfall_uri": "https://scryfall.com/card/sld/1441/voldaren-pariah-abolisher-of-bloodlines?utm_source=api",
-    "card_faces": [
-      {
-        "name": "Voldaren Pariah",
-        "oracle_text": "Flying\nSacrifice three other creatures: Transform this creature.\nMadness {B}{B}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
-        "mana_cost": "{3}{B}{B}",
-        "image_uris": {
-          "small": "https://cards.scryfall.io/small/front/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.jpg?1790780979",
-          "normal": "https://cards.scryfall.io/normal/front/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.jpg?1790780979",
-          "large": "https://cards.scryfall.io/large/front/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.jpg?1790780979",
-          "png": "https://cards.scryfall.io/png/front/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.png?1790780979",
-          "art_crop": "https://cards.scryfall.io/art_crop/front/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.jpg?1790780979",
-          "border_crop": "https://cards.scryfall.io/border_crop/front/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.jpg?1790780979",
-          "thumb": "https://cards.scryfall.io/thumb/front/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.webp?1790780979",
-          "grid": "https://cards.scryfall.io/grid/front/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.webp?1790780979",
-          "display": "https://cards.scryfall.io/display/front/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.webp?1790780979",
-          "art": "https://cards.scryfall.io/art/front/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.webp?1790780979",
-          "crop": "https://cards.scryfall.io/crop/front/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.webp?1790780979"
-        }
-      },
-      {
-        "name": "Abolisher of Bloodlines",
-        "oracle_text": "Flying\nWhen this creature transforms into Abolisher of Bloodlines, target opponent sacrifices three creatures of their choice.",
-        "mana_cost": "",
-        "image_uris": {
-          "small": "https://cards.scryfall.io/small/back/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.jpg?1790780979",
-          "normal": "https://cards.scryfall.io/normal/back/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.jpg?1790780979",
-          "large": "https://cards.scryfall.io/large/back/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.jpg?1790780979",
-          "png": "https://cards.scryfall.io/png/back/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.png?1790780979",
-          "art_crop": "https://cards.scryfall.io/art_crop/back/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.jpg?1790780979",
-          "border_crop": "https://cards.scryfall.io/border_crop/back/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.jpg?1790780979",
-          "thumb": "https://cards.scryfall.io/thumb/back/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.webp?1790780979",
-          "grid": "https://cards.scryfall.io/grid/back/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.webp?1790780979",
-          "display": "https://cards.scryfall.io/display/back/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.webp?1790780979",
-          "art": "https://cards.scryfall.io/art/back/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.webp?1790780979",
-          "crop": "https://cards.scryfall.io/crop/back/c/0/c08e90df-9268-4cfb-af03-25c249e3d129.webp?1790780979"
-        }
-      }
-    ]
-  },
-  {
-    "id": "c105f743-a369-47a1-87dc-c6f093cdeac3",
-    "oracle_id": "9bc8a69b-6065-4ef7-a580-adb1e7c72ef4",
-    "name": "Timber Protector",
-    "set": "sld",
-    "set_name": "Secret Lair Drop",
-    "mana_cost": "{4}{G}",
-    "type_line": "Creature — Treefolk Warrior",
-    "oracle_text": "Other Treefolk creatures you control get +1/+1.\nOther Treefolk and Forests you control have indestructible.",
-    "rarity": "rare",
-    "released_at": "2026-10-12",
-    "discovered_at": "2026-09-30T20:21:55.983184+00:00",
-    "scryfall_uri": "https://scryfall.com/card/sld/2765/timber-protector?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/c/1/c105f743-a369-47a1-87dc-c6f093cdeac3.jpg?1790772836",
-      "normal": "https://cards.scryfall.io/normal/front/c/1/c105f743-a369-47a1-87dc-c6f093cdeac3.jpg?1790772836",
-      "large": "https://cards.scryfall.io/large/front/c/1/c105f743-a369-47a1-87dc-c6f093cdeac3.jpg?1790772836",
-      "png": "https://cards.scryfall.io/png/front/c/1/c105f743-a369-47a1-87dc-c6f093cdeac3.png?1790772836",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/c/1/c105f743-a369-47a1-87dc-c6f093cdeac3.jpg?1790772836",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/c/1/c105f743-a369-47a1-87dc-c6f093cdeac3.jpg?1790772836",
-      "thumb": "https://cards.scryfall.io/thumb/front/c/1/c105f743-a369-47a1-87dc-c6f093cdeac3.webp?1790772836",
-      "grid": "https://cards.scryfall.io/grid/front/c/1/c105f743-a369-47a1-87dc-c6f093cdeac3.webp?1790772836",
-      "display": "https://cards.scryfall.io/display/front/c/1/c105f743-a369-47a1-87dc-c6f093cdeac3.webp?1790772836",
-      "art": "https://cards.scryfall.io/art/front/c/1/c105f743-a369-47a1-87dc-c6f093cdeac3.webp?1790772836",
-      "crop": "https://cards.scryfall.io/crop/front/c/1/c105f743-a369-47a1-87dc-c6f093cdeac3.webp?1790772836"
-    }
-  },
-  {
-    "id": "c21950b7-6aff-4e48-a109-a4b385930867",
-    "oracle_id": "38a12bd7-4394-44a8-91a0-6a4ff7fa4f71",
-    "name": "Maze of Ith",
-    "set": "sld",
-    "set_name": "Secret Lair Drop",
-    "mana_cost": "",
-    "type_line": "Land",
-    "oracle_text": "{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.",
-    "rarity": "rare",
-    "released_at": "2026-10-12",
-    "discovered_at": "2026-09-30T20:21:55.983184+00:00",
-    "scryfall_uri": "https://scryfall.com/card/sld/924/maze-of-ith?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/c/2/c21950b7-6aff-4e48-a109-a4b385930867.jpg?1790770373",
-      "normal": "https://cards.scryfall.io/normal/front/c/2/c21950b7-6aff-4e48-a109-a4b385930867.jpg?1790770373",
-      "large": "https://cards.scryfall.io/large/front/c/2/c21950b7-6aff-4e48-a109-a4b385930867.jpg?1790770373",
-      "png": "https://cards.scryfall.io/png/front/c/2/c21950b7-6aff-4e48-a109-a4b385930867.png?1790770373",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/c/2/c21950b7-6aff-4e48-a109-a4b385930867.jpg?1790770373",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/c/2/c21950b7-6aff-4e48-a109-a4b385930867.jpg?1790770373",
-      "thumb": "https://cards.scryfall.io/thumb/front/c/2/c21950b7-6aff-4e48-a109-a4b385930867.webp?1790770373",
-      "grid": "https://cards.scryfall.io/grid/front/c/2/c21950b7-6aff-4e48-a109-a4b385930867.webp?1790770373",
-      "display": "https://cards.scryfall.io/display/front/c/2/c21950b7-6aff-4e48-a109-a4b385930867.webp?1790770373",
-      "art": "https://cards.scryfall.io/art/front/c/2/c21950b7-6aff-4e48-a109-a4b385930867.webp?1790770373",
-      "crop": "https://cards.scryfall.io/crop/front/c/2/c21950b7-6aff-4e48-a109-a4b385930867.webp?1790770373"
     }
   }
 ]
