@@ -1,5 +1,61 @@
 [
   {
+    "id": "aa54f607-8735-4082-93cd-519509a744c2",
+    "oracle_id": "774dce79-67e0-4820-8013-c7a7347993ce",
+    "name": "Cathar Commando",
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "mana_cost": "{1}{W}",
+    "type_line": "Creature — Human Soldier",
+    "oracle_text": "Flash\n{1}, Sacrifice this creature: Destroy target artifact or enchantment.",
+    "rarity": "rare",
+    "released_at": "2026-10-19",
+    "discovered_at": "2026-10-24T19:53:31.432069+00:00",
+    "scryfall_uri": "https://scryfall.com/card/sld/7132/cathar-commando?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/a/a/aa54f607-8735-4082-93cd-519509a744c2.jpg?1792855546",
+      "normal": "https://cards.scryfall.io/normal/front/a/a/aa54f607-8735-4082-93cd-519509a744c2.jpg?1792855546",
+      "large": "https://cards.scryfall.io/large/front/a/a/aa54f607-8735-4082-93cd-519509a744c2.jpg?1792855546",
+      "png": "https://cards.scryfall.io/png/front/a/a/aa54f607-8735-4082-93cd-519509a744c2.png?1792855546",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/a/a/aa54f607-8735-4082-93cd-519509a744c2.jpg?1792855546",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/a/a/aa54f607-8735-4082-93cd-519509a744c2.jpg?1792855546",
+      "thumb": "https://cards.scryfall.io/thumb/front/a/a/aa54f607-8735-4082-93cd-519509a744c2.webp?1792855546",
+      "grid": "https://cards.scryfall.io/grid/front/a/a/aa54f607-8735-4082-93cd-519509a744c2.webp?1792855546",
+      "display": "https://cards.scryfall.io/display/front/a/a/aa54f607-8735-4082-93cd-519509a744c2.webp?1792855546",
+      "art": "https://cards.scryfall.io/art/front/a/a/aa54f607-8735-4082-93cd-519509a744c2.webp?1792855546",
+      "crop": "https://cards.scryfall.io/crop/front/a/a/aa54f607-8735-4082-93cd-519509a744c2.webp?1792855546",
+      "jpeg": "https://cards.scryfall.io/normal/front/a/a/aa54f607-8735-4082-93cd-519509a744c2.jpg?1792855546"
+    }
+  },
+  {
+    "id": "d7fe9333-bcb4-4897-a537-3fa237ebc06c",
+    "oracle_id": "393e5331-4456-4ba3-b410-bb630bb053db",
+    "name": "Knight of the Reliquary",
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "mana_cost": "{1}{G}{W}",
+    "type_line": "Creature — Human Knight",
+    "oracle_text": "This creature gets +1/+1 for each land card in your graveyard.\n{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle.",
+    "rarity": "rare",
+    "released_at": "2026-10-19",
+    "discovered_at": "2026-10-24T19:53:31.432069+00:00",
+    "scryfall_uri": "https://scryfall.com/card/sld/7154/knight-of-the-reliquary?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/d/7/d7fe9333-bcb4-4897-a537-3fa237ebc06c.jpg?1792855425",
+      "normal": "https://cards.scryfall.io/normal/front/d/7/d7fe9333-bcb4-4897-a537-3fa237ebc06c.jpg?1792855425",
+      "large": "https://cards.scryfall.io/large/front/d/7/d7fe9333-bcb4-4897-a537-3fa237ebc06c.jpg?1792855425",
+      "png": "https://cards.scryfall.io/png/front/d/7/d7fe9333-bcb4-4897-a537-3fa237ebc06c.png?1792855425",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/d/7/d7fe9333-bcb4-4897-a537-3fa237ebc06c.jpg?1792855425",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/d/7/d7fe9333-bcb4-4897-a537-3fa237ebc06c.jpg?1792855425",
+      "thumb": "https://cards.scryfall.io/thumb/front/d/7/d7fe9333-bcb4-4897-a537-3fa237ebc06c.webp?1792855425",
+      "grid": "https://cards.scryfall.io/grid/front/d/7/d7fe9333-bcb4-4897-a537-3fa237ebc06c.webp?1792855425",
+      "display": "https://cards.scryfall.io/display/front/d/7/d7fe9333-bcb4-4897-a537-3fa237ebc06c.webp?1792855425",
+      "art": "https://cards.scryfall.io/art/front/d/7/d7fe9333-bcb4-4897-a537-3fa237ebc06c.webp?1792855425",
+      "crop": "https://cards.scryfall.io/crop/front/d/7/d7fe9333-bcb4-4897-a537-3fa237ebc06c.webp?1792855425",
+      "jpeg": "https://cards.scryfall.io/normal/front/d/7/d7fe9333-bcb4-4897-a537-3fa237ebc06c.jpg?1792855425"
+    }
+  },
+  {
     "id": "142b8804-3bfd-4735-998f-3592b10deb80",
     "oracle_id": "e6973668-4ea7-4920-82a5-73abfc1c9fd5",
     "name": "Subcommander T'Pol",
@@ -16742,60 +16798,6 @@
       "display": "https://cards.scryfall.io/display/front/6/6/66019fe0-db0a-45c7-8f1d-34206f708482.webp?1790772770",
       "art": "https://cards.scryfall.io/art/front/6/6/66019fe0-db0a-45c7-8f1d-34206f708482.webp?1790772770",
       "crop": "https://cards.scryfall.io/crop/front/6/6/66019fe0-db0a-45c7-8f1d-34206f708482.webp?1790772770"
-    }
-  },
-  {
-    "id": "68c0c7a5-da01-46d9-99f1-6f48cee7b8c1",
-    "oracle_id": "a46d96d9-8e59-4777-8208-7730b9e33240",
-    "name": "Doran, the Siege Tower",
-    "set": "sld",
-    "set_name": "Secret Lair Drop",
-    "mana_cost": "{W}{B}{G}",
-    "type_line": "Legendary Creature — Treefolk Shaman",
-    "oracle_text": "Each creature assigns combat damage equal to its toughness rather than its power.",
-    "rarity": "rare",
-    "released_at": "2026-10-12",
-    "discovered_at": "2026-09-30T20:21:55.983184+00:00",
-    "scryfall_uri": "https://scryfall.com/card/sld/2767/doran-the-siege-tower?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/6/8/68c0c7a5-da01-46d9-99f1-6f48cee7b8c1.jpg?1790772840",
-      "normal": "https://cards.scryfall.io/normal/front/6/8/68c0c7a5-da01-46d9-99f1-6f48cee7b8c1.jpg?1790772840",
-      "large": "https://cards.scryfall.io/large/front/6/8/68c0c7a5-da01-46d9-99f1-6f48cee7b8c1.jpg?1790772840",
-      "png": "https://cards.scryfall.io/png/front/6/8/68c0c7a5-da01-46d9-99f1-6f48cee7b8c1.png?1790772840",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/6/8/68c0c7a5-da01-46d9-99f1-6f48cee7b8c1.jpg?1790772840",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/6/8/68c0c7a5-da01-46d9-99f1-6f48cee7b8c1.jpg?1790772840",
-      "thumb": "https://cards.scryfall.io/thumb/front/6/8/68c0c7a5-da01-46d9-99f1-6f48cee7b8c1.webp?1790772840",
-      "grid": "https://cards.scryfall.io/grid/front/6/8/68c0c7a5-da01-46d9-99f1-6f48cee7b8c1.webp?1790772840",
-      "display": "https://cards.scryfall.io/display/front/6/8/68c0c7a5-da01-46d9-99f1-6f48cee7b8c1.webp?1790772840",
-      "art": "https://cards.scryfall.io/art/front/6/8/68c0c7a5-da01-46d9-99f1-6f48cee7b8c1.webp?1790772840",
-      "crop": "https://cards.scryfall.io/crop/front/6/8/68c0c7a5-da01-46d9-99f1-6f48cee7b8c1.webp?1790772840"
-    }
-  },
-  {
-    "id": "6c156edc-bc88-431c-901b-fda8d4804d20",
-    "oracle_id": "8ddfc283-c9b4-41a5-af88-cf0068e986cc",
-    "name": "Swan Song",
-    "set": "sld",
-    "set_name": "Secret Lair Drop",
-    "mana_cost": "{U}",
-    "type_line": "Instant",
-    "oracle_text": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying.",
-    "rarity": "rare",
-    "released_at": "2026-10-12",
-    "discovered_at": "2026-09-30T20:21:55.983184+00:00",
-    "scryfall_uri": "https://scryfall.com/card/sld/2829/swan-song?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/6/c/6c156edc-bc88-431c-901b-fda8d4804d20.jpg?1790780833",
-      "normal": "https://cards.scryfall.io/normal/front/6/c/6c156edc-bc88-431c-901b-fda8d4804d20.jpg?1790780833",
-      "large": "https://cards.scryfall.io/large/front/6/c/6c156edc-bc88-431c-901b-fda8d4804d20.jpg?1790780833",
-      "png": "https://cards.scryfall.io/png/front/6/c/6c156edc-bc88-431c-901b-fda8d4804d20.png?1790780833",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/6/c/6c156edc-bc88-431c-901b-fda8d4804d20.jpg?1790780833",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/6/c/6c156edc-bc88-431c-901b-fda8d4804d20.jpg?1790780833",
-      "thumb": "https://cards.scryfall.io/thumb/front/6/c/6c156edc-bc88-431c-901b-fda8d4804d20.webp?1790780833",
-      "grid": "https://cards.scryfall.io/grid/front/6/c/6c156edc-bc88-431c-901b-fda8d4804d20.webp?1790780833",
-      "display": "https://cards.scryfall.io/display/front/6/c/6c156edc-bc88-431c-901b-fda8d4804d20.webp?1790780833",
-      "art": "https://cards.scryfall.io/art/front/6/c/6c156edc-bc88-431c-901b-fda8d4804d20.webp?1790780833",
-      "crop": "https://cards.scryfall.io/crop/front/6/c/6c156edc-bc88-431c-901b-fda8d4804d20.webp?1790780833"
     }
   }
 ]

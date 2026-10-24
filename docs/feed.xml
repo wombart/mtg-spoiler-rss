@@ -5,9 +5,39 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 24 Oct 2026 08:27:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 19:53:31 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Cathar Commando [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/7132/cathar-commando?utm_source=api</link>
+      <guid isPermaLink="false">774dce79-67e0-4820-8013-c7a7347993ce:sld</guid>
+      <pubDate>Sat, 24 Oct 2026 19:53:31 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/a/aa54f607-8735-4082-93cd-519509a744c2.jpg?1792855546&quot; alt=&quot;Cathar Commando&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Cathar Commando&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Human Soldier&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Flash&lt;br/&gt;{1}, Sacrifice this creature: Destroy target artifact or enchantment.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/7132/cathar-commando?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/a/aa54f607-8735-4082-93cd-519509a744c2.jpg?1792855546" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Knight of the Reliquary [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/7154/knight-of-the-reliquary?utm_source=api</link>
+      <guid isPermaLink="false">393e5331-4456-4ba3-b410-bb630bb053db:sld</guid>
+      <pubDate>Sat, 24 Oct 2026 19:53:31 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/7/d7fe9333-bcb4-4897-a537-3fa237ebc06c.jpg?1792855425&quot; alt=&quot;Knight of the Reliquary&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Knight of the Reliquary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{G}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Human Knight&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;This creature gets +1/+1 for each land card in your graveyard.&lt;br/&gt;{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/7154/knight-of-the-reliquary?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/7/d7fe9333-bcb4-4897-a537-3fa237ebc06c.jpg?1792855425" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Subcommander T'Pol [Star Trek]</title>
       <link>https://scryfall.com/card/trk/453/subcommander-tpol?utm_source=api</link>
@@ -7184,36 +7214,6 @@
 &lt;p&gt;{T}: Add {R}.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2886/great-furnace?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/6/6/66019fe0-db0a-45c7-8f1d-34206f708482.jpg?1790772770" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Doran, the Siege Tower [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2767/doran-the-siege-tower?utm_source=api</link>
-      <guid isPermaLink="false">a46d96d9-8e59-4777-8208-7730b9e33240:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/8/68c0c7a5-da01-46d9-99f1-6f48cee7b8c1.jpg?1790772840&quot; alt=&quot;Doran, the Siege Tower&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Doran, the Siege Tower&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {W}{B}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Treefolk Shaman&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Each creature assigns combat damage equal to its toughness rather than its power.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2767/doran-the-siege-tower?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/6/8/68c0c7a5-da01-46d9-99f1-6f48cee7b8c1.jpg?1790772840" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Swan Song [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2829/swan-song?utm_source=api</link>
-      <guid isPermaLink="false">8ddfc283-c9b4-41a5-af88-cf0068e986cc:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/c/6c156edc-bc88-431c-901b-fda8d4804d20.jpg?1790780833&quot; alt=&quot;Swan Song&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Swan Song&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {U}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2829/swan-song?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/6/c/6c156edc-bc88-431c-901b-fda8d4804d20.jpg?1790780833" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
