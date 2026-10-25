@@ -5,9 +5,114 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 24 Oct 2026 19:53:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 07:02:06 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Lwaxana Troi, Charming Guest [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/157/lwaxana-troi-charming-guest?utm_source=api</link>
+      <guid isPermaLink="false">e56472ec-6ae8-48b2-a4ce-0ed154161c06:trk</guid>
+      <pubDate>Sun, 25 Oct 2026 07:02:06 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/9/19bf2f2f-4be2-4958-bfab-eb46c9ca1995.jpg?1792892849&quot; alt=&quot;Lwaxana Troi, Charming Guest&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Lwaxana Troi, Charming Guest&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Betazoid Advisor&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;You may choose not to untap Lwaxana Troi during your untap step.&lt;br/&gt;{2}, {T}: Choose another target creature you control. For as long as Lwaxana Troi remains tapped, if a triggered ability of that creature triggers, that ability triggers an additional time.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/157/lwaxana-troi-charming-guest?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/9/19bf2f2f-4be2-4958-bfab-eb46c9ca1995.jpg?1792892849" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Infinite Diversity [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/153/infinite-diversity?utm_source=api</link>
+      <guid isPermaLink="false">c7d8ed66-d66e-42fd-9c3e-8c2d8194e009:trk</guid>
+      <pubDate>Sun, 25 Oct 2026 07:02:06 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/3/33ade614-3593-4055-8ecc-2d9e4858ba19.jpg?1792892312&quot; alt=&quot;Infinite Diversity&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Infinite Diversity&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {7}{R}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Federation — Exile target instant or sorcery card from your graveyard. Copy that card X times, where X is the number of creature types among non-Borg creatures you control. You may cast the copies without paying their mana costs. Exile Infinite Diversity.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/153/infinite-diversity?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/3/33ade614-3593-4055-8ecc-2d9e4858ba19.jpg?1792892312" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Erica Ortegas, Plucky Pilot [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/149/erica-ortegas-plucky-pilot?utm_source=api</link>
+      <guid isPermaLink="false">8b2514e5-4124-4f6c-b6b7-24c0ab3d3971:trk</guid>
+      <pubDate>Sun, 25 Oct 2026 07:02:06 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/6/3667eb41-598e-4543-97ed-6da961f8b567.jpg?1792892279&quot; alt=&quot;Erica Ortegas, Plucky Pilot&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Erica Ortegas, Plucky Pilot&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Pilot&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Haste&lt;br/&gt;Whenever Erica Ortegas becomes tapped, you may put a land card from your hand onto the battlefield. If you do, return a land you control to its owner&amp;#x27;s hand at the beginning of the next end step.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/149/erica-ortegas-plucky-pilot?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/6/3667eb41-598e-4543-97ed-6da961f8b567.jpg?1792892279" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Branching Timeline [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/185/branching-timeline?utm_source=api</link>
+      <guid isPermaLink="false">6e13c619-706d-4c77-bc7d-187df0fd054a:trk</guid>
+      <pubDate>Sun, 25 Oct 2026 07:02:06 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/a/4a2231ff-677d-4041-9413-b8d683846920.jpg?1792892092&quot; alt=&quot;Branching Timeline&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Branching Timeline&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {6}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Strange new worlds — Reveal the top X cards of your library, where X is the number of differently named lands you control. Put all permanent cards revealed this way onto the battlefield tapped and the rest on the bottom of your library in a random order.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/185/branching-timeline?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/a/4a2231ff-677d-4041-9413-b8d683846920.jpg?1792892092" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Jadzia Dax, Living Legacy [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/352/jadzia-dax-living-legacy?utm_source=api</link>
+      <guid isPermaLink="false">67601646-f906-4824-9269-3cf89766d25f:trk</guid>
+      <pubDate>Sun, 25 Oct 2026 07:02:06 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/e/6eff742c-9b8a-4458-976e-577d34e9c1d8.jpg?1792891932&quot; alt=&quot;Jadzia Dax, Living Legacy&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Jadzia Dax, Living Legacy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Trill Scientist&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;At the beginning of your first main phase, put a +1/+1 counter on Jadzia Dax, then add an amount of {G} equal to the number of counters on her.&lt;br/&gt;Transfer Symbiont — {2}{G}, Discard this card: Put two +1/+1 counters on target creature.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/352/jadzia-dax-living-legacy?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/e/6eff742c-9b8a-4458-976e-577d34e9c1d8.jpg?1792891932" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Test of Priorities [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/85/test-of-priorities?utm_source=api</link>
+      <guid isPermaLink="false">cd24de4f-ce88-4fbb-9e8d-93ea7c260b4c:trk</guid>
+      <pubDate>Sun, 25 Oct 2026 07:02:06 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/9/89e3ec23-e4dc-4d58-aeda-9f73ed4504a5.jpg?1792892187&quot; alt=&quot;Test of Priorities&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Test of Priorities&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Choose one —&lt;br/&gt;• Power to Engines — Surveil 2, then draw a card.&lt;br/&gt;• Power to Life Support — Exile target creature you control. Return that card to the battlefield under its owner&amp;#x27;s control at the beginning of the next end step.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/85/test-of-priorities?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/9/89e3ec23-e4dc-4d58-aeda-9f73ed4504a5.jpg?1792892187" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Stalwart Shield-Bearers [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/7148/stalwart-shield-bearers?utm_source=api</link>
+      <guid isPermaLink="false">55aafc25-76c5-4621-941b-754bd8f13e64:sld</guid>
+      <pubDate>Sun, 25 Oct 2026 07:02:06 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/8/8832ab43-317f-46a8-b391-2c6c42d342cc.jpg?1792893215&quot; alt=&quot;Stalwart Shield-Bearers&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Stalwart Shield-Bearers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Human Soldier&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Defender&lt;br/&gt;Other creatures you control with defender get +0/+2.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/7148/stalwart-shield-bearers?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/8/8832ab43-317f-46a8-b391-2c6c42d342cc.jpg?1792893215" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Cathar Commando [Secret Lair Drop]</title>
       <link>https://scryfall.com/card/sld/7132/cathar-commando?utm_source=api</link>
@@ -7112,108 +7217,6 @@
 &lt;p&gt;Shuffle your library. As many times as you choose, you may exile the top card of your library. If the total mana value of the cards exiled this way is 13 or less, you may cast any number of spells from among those cards without paying their mana costs.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2835/dance-with-calamity?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/2/e/2e7c316c-1b1a-444b-9784-2c542ffa4921.jpg?1790771436" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Leveler [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2849/leveler?utm_source=api</link>
-      <guid isPermaLink="false">ba1d34ab-7529-4f47-a5e7-7d8f66d7b901:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/4/3461dfd9-a905-4635-af31-e692c01195ed.jpg?1790772313&quot; alt=&quot;Leveler&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Leveler&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {5}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact Creature — Juggernaut&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;When this creature enters, exile all cards from your library.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2849/leveler?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/3/4/3461dfd9-a905-4635-af31-e692c01195ed.jpg?1790772313" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Claim the Firstborn [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2837/claim-the-firstborn?utm_source=api</link>
-      <guid isPermaLink="false">9bb82829-05e8-4cdd-91e4-b837a620bfc8:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/0/40be25fe-0b66-4b1e-ade0-8283f633fa8e.jpg?1790771512&quot; alt=&quot;Claim the Firstborn&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Claim the Firstborn&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {R}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Gain control of target creature with mana value 3 or less until end of turn. Untap that creature. It gains haste until end of turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2837/claim-the-firstborn?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/0/40be25fe-0b66-4b1e-ade0-8283f633fa8e.jpg?1790771512" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Thran Temporal Gateway [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2850/thran-temporal-gateway?utm_source=api</link>
-      <guid isPermaLink="false">36282c29-a44b-4156-9441-03aa4bf386a8:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/e/4efb3f89-94db-4d9e-ae16-af56e9f38e8d.jpg?1790772361&quot; alt=&quot;Thran Temporal Gateway&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Thran Temporal Gateway&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;{4}, {T}: You may put a historic permanent card from your hand onto the battlefield. (Artifacts, legendaries, and Sagas are historic.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2850/thran-temporal-gateway?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/e/4efb3f89-94db-4d9e-ae16-af56e9f38e8d.jpg?1790772361" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Seat of the Synod [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2884/seat-of-the-synod?utm_source=api</link>
-      <guid isPermaLink="false">39451b4d-cd7a-40da-b457-cb51b609173f:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/0/50f0c34d-2106-446e-96fe-a50d124fff5a.jpg?1790772775&quot; alt=&quot;Seat of the Synod&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Seat of the Synod&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Artifact Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;{T}: Add {U}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2884/seat-of-the-synod?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/5/0/50f0c34d-2106-446e-96fe-a50d124fff5a.jpg?1790772775" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Tree of Tales [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2887/tree-of-tales?utm_source=api</link>
-      <guid isPermaLink="false">8b4aa971-b919-4750-8388-33d4f42c9280:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/6/562af1c7-cdcb-4856-99d1-a17387f30864.jpg?1790772782&quot; alt=&quot;Tree of Tales&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Tree of Tales&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Artifact Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;{T}: Add {G}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2887/tree-of-tales?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/5/6/562af1c7-cdcb-4856-99d1-a17387f30864.jpg?1790772782" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Delayed Blast Fireball [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2847/delayed-blast-fireball?utm_source=api</link>
-      <guid isPermaLink="false">99915b5a-5092-4900-8824-6de2aab1b2c1:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/3/6374caa7-9c19-495b-9167-6adbf8c16332.jpg?1790772248&quot; alt=&quot;Delayed Blast Fireball&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Delayed Blast Fireball&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{R}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Delayed Blast Fireball deals 2 damage to each opponent and each creature they control. If this spell was cast from exile, it deals 5 damage to each opponent and each creature they control instead.&lt;br/&gt;Foretell {4}{R}{R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2847/delayed-blast-fireball?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/6/3/6374caa7-9c19-495b-9167-6adbf8c16332.jpg?1790772248" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Great Furnace [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2886/great-furnace?utm_source=api</link>
-      <guid isPermaLink="false">f4819061-b0b5-48ab-af7b-6525c3d2eab7:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/6/66019fe0-db0a-45c7-8f1d-34206f708482.jpg?1790772770&quot; alt=&quot;Great Furnace&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Great Furnace&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Artifact Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;{T}: Add {R}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2886/great-furnace?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/6/6/66019fe0-db0a-45c7-8f1d-34206f708482.jpg?1790772770" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
