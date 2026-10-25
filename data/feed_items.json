@@ -1,5 +1,33 @@
 [
   {
+    "id": "b45ddbca-b89d-4552-b870-839aa281e113",
+    "oracle_id": "adbef171-3640-4f77-8c92-b50c109ca303",
+    "name": "Geordi La Forge, Innovator",
+    "set": "trc",
+    "set_name": "Star Trek Commander",
+    "mana_cost": "{2}{U}",
+    "type_line": "Legendary Creature — Human Artificer",
+    "oracle_text": "Geordi La Forge can't be blocked if you control a Spacecraft.\nWhenever Geordi La Forge deals combat damage to a player, draw a card.",
+    "rarity": "rare",
+    "released_at": "2026-11-13",
+    "discovered_at": "2026-10-25T20:03:12.011846+00:00",
+    "scryfall_uri": "https://scryfall.com/card/trc/42/geordi-la-forge-innovator?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/b/4/b45ddbca-b89d-4552-b870-839aa281e113.jpg?1792940969",
+      "normal": "https://cards.scryfall.io/normal/front/b/4/b45ddbca-b89d-4552-b870-839aa281e113.jpg?1792940969",
+      "large": "https://cards.scryfall.io/large/front/b/4/b45ddbca-b89d-4552-b870-839aa281e113.jpg?1792940969",
+      "png": "https://cards.scryfall.io/png/front/b/4/b45ddbca-b89d-4552-b870-839aa281e113.png?1792940969",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/b/4/b45ddbca-b89d-4552-b870-839aa281e113.jpg?1792940969",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/b/4/b45ddbca-b89d-4552-b870-839aa281e113.jpg?1792940969",
+      "thumb": "https://cards.scryfall.io/thumb/front/b/4/b45ddbca-b89d-4552-b870-839aa281e113.webp?1792940969",
+      "grid": "https://cards.scryfall.io/grid/front/b/4/b45ddbca-b89d-4552-b870-839aa281e113.webp?1792940969",
+      "display": "https://cards.scryfall.io/display/front/b/4/b45ddbca-b89d-4552-b870-839aa281e113.webp?1792940969",
+      "art": "https://cards.scryfall.io/art/front/b/4/b45ddbca-b89d-4552-b870-839aa281e113.webp?1792940969",
+      "crop": "https://cards.scryfall.io/crop/front/b/4/b45ddbca-b89d-4552-b870-839aa281e113.webp?1792940969",
+      "jpeg": "https://cards.scryfall.io/normal/front/b/4/b45ddbca-b89d-4552-b870-839aa281e113.jpg?1792940969"
+    }
+  },
+  {
     "id": "19bf2f2f-4be2-4958-bfab-eb46c9ca1995",
     "oracle_id": "e56472ec-6ae8-48b2-a4ce-0ed154161c06",
     "name": "Lwaxana Troi, Charming Guest",
@@ -16778,33 +16806,6 @@
       "display": "https://cards.scryfall.io/display/front/2/b/2b1d2e44-fdf6-456c-93a2-eb3e898380d9.webp?1790772509",
       "art": "https://cards.scryfall.io/art/front/2/b/2b1d2e44-fdf6-456c-93a2-eb3e898380d9.webp?1790772509",
       "crop": "https://cards.scryfall.io/crop/front/2/b/2b1d2e44-fdf6-456c-93a2-eb3e898380d9.webp?1790772509"
-    }
-  },
-  {
-    "id": "2e7c316c-1b1a-444b-9784-2c542ffa4921",
-    "oracle_id": "615b4189-e800-408b-99e0-71ae7089b937",
-    "name": "Dance with Calamity",
-    "set": "sld",
-    "set_name": "Secret Lair Drop",
-    "mana_cost": "{7}{R}",
-    "type_line": "Sorcery",
-    "oracle_text": "Shuffle your library. As many times as you choose, you may exile the top card of your library. If the total mana value of the cards exiled this way is 13 or less, you may cast any number of spells from among those cards without paying their mana costs.",
-    "rarity": "rare",
-    "released_at": "2026-10-12",
-    "discovered_at": "2026-09-30T20:21:55.983184+00:00",
-    "scryfall_uri": "https://scryfall.com/card/sld/2835/dance-with-calamity?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/2/e/2e7c316c-1b1a-444b-9784-2c542ffa4921.jpg?1790771436",
-      "normal": "https://cards.scryfall.io/normal/front/2/e/2e7c316c-1b1a-444b-9784-2c542ffa4921.jpg?1790771436",
-      "large": "https://cards.scryfall.io/large/front/2/e/2e7c316c-1b1a-444b-9784-2c542ffa4921.jpg?1790771436",
-      "png": "https://cards.scryfall.io/png/front/2/e/2e7c316c-1b1a-444b-9784-2c542ffa4921.png?1790771436",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/2/e/2e7c316c-1b1a-444b-9784-2c542ffa4921.jpg?1790771436",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/2/e/2e7c316c-1b1a-444b-9784-2c542ffa4921.jpg?1790771436",
-      "thumb": "https://cards.scryfall.io/thumb/front/2/e/2e7c316c-1b1a-444b-9784-2c542ffa4921.webp?1790771436",
-      "grid": "https://cards.scryfall.io/grid/front/2/e/2e7c316c-1b1a-444b-9784-2c542ffa4921.webp?1790771436",
-      "display": "https://cards.scryfall.io/display/front/2/e/2e7c316c-1b1a-444b-9784-2c542ffa4921.webp?1790771436",
-      "art": "https://cards.scryfall.io/art/front/2/e/2e7c316c-1b1a-444b-9784-2c542ffa4921.webp?1790771436",
-      "crop": "https://cards.scryfall.io/crop/front/2/e/2e7c316c-1b1a-444b-9784-2c542ffa4921.webp?1790771436"
     }
   }
 ]

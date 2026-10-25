@@ -5,9 +5,24 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Sun, 25 Oct 2026 07:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 20:03:12 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Geordi La Forge, Innovator [Star Trek Commander]</title>
+      <link>https://scryfall.com/card/trc/42/geordi-la-forge-innovator?utm_source=api</link>
+      <guid isPermaLink="false">adbef171-3640-4f77-8c92-b50c109ca303:trc</guid>
+      <pubDate>Sun, 25 Oct 2026 20:03:12 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/4/b45ddbca-b89d-4552-b870-839aa281e113.jpg?1792940969&quot; alt=&quot;Geordi La Forge, Innovator&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Geordi La Forge, Innovator&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Artificer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
+&lt;p&gt;Geordi La Forge can&amp;#x27;t be blocked if you control a Spacecraft.&lt;br/&gt;Whenever Geordi La Forge deals combat damage to a player, draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/42/geordi-la-forge-innovator?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/4/b45ddbca-b89d-4552-b870-839aa281e113.jpg?1792940969" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Lwaxana Troi, Charming Guest [Star Trek]</title>
       <link>https://scryfall.com/card/trk/157/lwaxana-troi-charming-guest?utm_source=api</link>
@@ -7202,21 +7217,6 @@
 &lt;p&gt;Menace&lt;br/&gt;When God-Eternal Bontu enters, sacrifice any number of other permanents, then draw that many cards.&lt;br/&gt;When God-Eternal Bontu dies or is put into exile from the battlefield, you may put her into her owner&amp;#x27;s library third from the top.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2592/god-eternal-bontu?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/2/b/2b1d2e44-fdf6-456c-93a2-eb3e898380d9.jpg?1790772509" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Dance with Calamity [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2835/dance-with-calamity?utm_source=api</link>
-      <guid isPermaLink="false">615b4189-e800-408b-99e0-71ae7089b937:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/e/2e7c316c-1b1a-444b-9784-2c542ffa4921.jpg?1790771436&quot; alt=&quot;Dance with Calamity&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Dance with Calamity&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {7}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Shuffle your library. As many times as you choose, you may exile the top card of your library. If the total mana value of the cards exiled this way is 13 or less, you may cast any number of spells from among those cards without paying their mana costs.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2835/dance-with-calamity?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/e/2e7c316c-1b1a-444b-9784-2c542ffa4921.jpg?1790771436" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
