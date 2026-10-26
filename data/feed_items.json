@@ -1,5 +1,33 @@
 [
   {
+    "id": "89c84eca-f9e5-4b20-bee0-70baac2638d2",
+    "oracle_id": "1bcc8ca6-5fd0-4fc9-8f0c-f81d8abf9249",
+    "name": "Calix, Guided by Fate",
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "mana_cost": "{1}{G}{W}",
+    "type_line": "Legendary Enchantment Creature — Human Druid",
+    "oracle_text": "Constellation — Whenever Calix or another enchantment you control enters, put a +1/+1 counter on target creature.\nWhenever Calix or an enchanted creature you control deals combat damage to a player, you may create a token that's a copy of a nonlegendary enchantment you control. Do this only once each turn.",
+    "rarity": "mythic",
+    "released_at": "2026-10-19",
+    "discovered_at": "2026-10-26T07:08:34.183951+00:00",
+    "scryfall_uri": "https://scryfall.com/card/sld/7151/calix-guided-by-fate?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/9/89c84eca-f9e5-4b20-bee0-70baac2638d2.jpg?1792977323",
+      "normal": "https://cards.scryfall.io/normal/front/8/9/89c84eca-f9e5-4b20-bee0-70baac2638d2.jpg?1792977323",
+      "large": "https://cards.scryfall.io/large/front/8/9/89c84eca-f9e5-4b20-bee0-70baac2638d2.jpg?1792977323",
+      "png": "https://cards.scryfall.io/png/front/8/9/89c84eca-f9e5-4b20-bee0-70baac2638d2.png?1792977323",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/9/89c84eca-f9e5-4b20-bee0-70baac2638d2.jpg?1792977323",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/9/89c84eca-f9e5-4b20-bee0-70baac2638d2.jpg?1792977323",
+      "thumb": "https://cards.scryfall.io/thumb/front/8/9/89c84eca-f9e5-4b20-bee0-70baac2638d2.webp?1792977323",
+      "grid": "https://cards.scryfall.io/grid/front/8/9/89c84eca-f9e5-4b20-bee0-70baac2638d2.webp?1792977323",
+      "display": "https://cards.scryfall.io/display/front/8/9/89c84eca-f9e5-4b20-bee0-70baac2638d2.webp?1792977323",
+      "art": "https://cards.scryfall.io/art/front/8/9/89c84eca-f9e5-4b20-bee0-70baac2638d2.webp?1792977323",
+      "crop": "https://cards.scryfall.io/crop/front/8/9/89c84eca-f9e5-4b20-bee0-70baac2638d2.webp?1792977323",
+      "jpeg": "https://cards.scryfall.io/normal/front/8/9/89c84eca-f9e5-4b20-bee0-70baac2638d2.jpg?1792977323"
+    }
+  },
+  {
     "id": "b45ddbca-b89d-4552-b870-839aa281e113",
     "oracle_id": "adbef171-3640-4f77-8c92-b50c109ca303",
     "name": "Geordi La Forge, Innovator",
@@ -16779,33 +16807,6 @@
       "display": "https://cards.scryfall.io/display/front/2/2/2282ba49-2220-4a6c-bf11-273ecaf6712b.webp?1790771836",
       "art": "https://cards.scryfall.io/art/front/2/2/2282ba49-2220-4a6c-bf11-273ecaf6712b.webp?1790771836",
       "crop": "https://cards.scryfall.io/crop/front/2/2/2282ba49-2220-4a6c-bf11-273ecaf6712b.webp?1790771836"
-    }
-  },
-  {
-    "id": "2b1d2e44-fdf6-456c-93a2-eb3e898380d9",
-    "oracle_id": "183891b0-b5ec-47f4-8d09-b9d3cfc4e7f1",
-    "name": "God-Eternal Bontu",
-    "set": "sld",
-    "set_name": "Secret Lair Drop",
-    "mana_cost": "{3}{B}{B}",
-    "type_line": "Legendary Creature — Zombie God",
-    "oracle_text": "Menace\nWhen God-Eternal Bontu enters, sacrifice any number of other permanents, then draw that many cards.\nWhen God-Eternal Bontu dies or is put into exile from the battlefield, you may put her into her owner's library third from the top.",
-    "rarity": "mythic",
-    "released_at": "2026-10-12",
-    "discovered_at": "2026-09-30T20:21:55.983184+00:00",
-    "scryfall_uri": "https://scryfall.com/card/sld/2592/god-eternal-bontu?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/2/b/2b1d2e44-fdf6-456c-93a2-eb3e898380d9.jpg?1790772509",
-      "normal": "https://cards.scryfall.io/normal/front/2/b/2b1d2e44-fdf6-456c-93a2-eb3e898380d9.jpg?1790772509",
-      "large": "https://cards.scryfall.io/large/front/2/b/2b1d2e44-fdf6-456c-93a2-eb3e898380d9.jpg?1790772509",
-      "png": "https://cards.scryfall.io/png/front/2/b/2b1d2e44-fdf6-456c-93a2-eb3e898380d9.png?1790772509",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/2/b/2b1d2e44-fdf6-456c-93a2-eb3e898380d9.jpg?1790772509",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/2/b/2b1d2e44-fdf6-456c-93a2-eb3e898380d9.jpg?1790772509",
-      "thumb": "https://cards.scryfall.io/thumb/front/2/b/2b1d2e44-fdf6-456c-93a2-eb3e898380d9.webp?1790772509",
-      "grid": "https://cards.scryfall.io/grid/front/2/b/2b1d2e44-fdf6-456c-93a2-eb3e898380d9.webp?1790772509",
-      "display": "https://cards.scryfall.io/display/front/2/b/2b1d2e44-fdf6-456c-93a2-eb3e898380d9.webp?1790772509",
-      "art": "https://cards.scryfall.io/art/front/2/b/2b1d2e44-fdf6-456c-93a2-eb3e898380d9.webp?1790772509",
-      "crop": "https://cards.scryfall.io/crop/front/2/b/2b1d2e44-fdf6-456c-93a2-eb3e898380d9.webp?1790772509"
     }
   }
 ]
