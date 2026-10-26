@@ -5,9 +5,54 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 26 Oct 2026 07:08:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:37:06 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Overflow Submatrix [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/377/overflow-submatrix?utm_source=api</link>
+      <guid isPermaLink="false">523c244b-7292-40c7-8b12-27106fffe63f:trk</guid>
+      <pubDate>Mon, 26 Oct 2026 14:37:06 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/3/33af9300-c477-4b47-9501-ebe03aa5a806.jpg?1792990870&quot; alt=&quot;Overflow Submatrix&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Overflow Submatrix&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact Creature — Borg&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Once during each of your turns, you may cast an artifact creature spell from your graveyard. If you cast a spell this way, that artifact creature enters with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/377/overflow-submatrix?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/3/33af9300-c477-4b47-9501-ebe03aa5a806.jpg?1792990870" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Assembly Specialist [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/4/assembly-specialist?utm_source=api</link>
+      <guid isPermaLink="false">deb26a1b-2b83-4da2-a2e5-31c17a57eb1e:trk</guid>
+      <pubDate>Mon, 26 Oct 2026 14:37:06 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/4/a4d339a5-198c-49bd-845e-2632476746e0.jpg?1793001065&quot; alt=&quot;Assembly Specialist&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Assembly Specialist&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact Creature — Borg&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;When this creature enters, create a 1/1 colorless Borg artifact creature token.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/4/assembly-specialist?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/4/a4d339a5-198c-49bd-845e-2632476746e0.jpg?1793001065" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sylvia Tilly, Joy of Discovery [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/217/sylvia-tilly-joy-of-discovery?utm_source=api</link>
+      <guid isPermaLink="false">d4c1dbc8-23d8-49e0-bc2d-d005e9215172:trk</guid>
+      <pubDate>Mon, 26 Oct 2026 14:37:06 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/e/fe6e03b5-cd96-430b-9c74-96eca0212a81.jpg?1792989779&quot; alt=&quot;Sylvia Tilly, Joy of Discovery&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Sylvia Tilly, Joy of Discovery&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Scientist Artificer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;When Sylvia Tilly enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)&lt;br/&gt;At the beginning of combat on your turn, you may pay {1} and exile a card from your graveyard. When you do, put a +1/+1 counter on target creature.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/217/sylvia-tilly-joy-of-discovery?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/e/fe6e03b5-cd96-430b-9c74-96eca0212a81.jpg?1792989779" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Calix, Guided by Fate [Secret Lair Drop]</title>
       <link>https://scryfall.com/card/sld/7151/calix-guided-by-fate?utm_source=api</link>
@@ -7173,50 +7218,6 @@
 &lt;p&gt;When this creature enters, you may search your library for a Treefolk or Forest card, reveal it, then shuffle and put that card on top.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2766/treefolk-harbinger?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/1/4/14a91f59-cab6-473b-943c-6a59ad31139a.jpg?1790772838" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Bloodsoaked Champion [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/1440/bloodsoaked-champion?utm_source=api</link>
-      <guid isPermaLink="false">cad09970-14c8-4d80-82fe-6c855efb0191:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/c/1ca6ea13-b393-4d35-a2c8-3b1c560561b2.jpg?1790771540&quot; alt=&quot;Bloodsoaked Champion&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Bloodsoaked Champion&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {B}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Human Warrior&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;This creature can&amp;#x27;t block.&lt;br/&gt;Raid — {1}{B}: Return this card from your graveyard to the battlefield. Activate only if you attacked this turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/1440/bloodsoaked-champion?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/1/c/1ca6ea13-b393-4d35-a2c8-3b1c560561b2.jpg?1790771540" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Cabal Stronghold [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/1443/cabal-stronghold?utm_source=api</link>
-      <guid isPermaLink="false">066cd584-773c-4623-be53-8f6feda5a26a:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/c/1cb24ee5-cea5-4eba-a049-d9dc817a88a3.jpg?1790771472&quot; alt=&quot;Cabal Stronghold&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Cabal Stronghold&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{3}, {T}: Add {B} for each basic Swamp you control.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/1443/cabal-stronghold?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/1/c/1cb24ee5-cea5-4eba-a049-d9dc817a88a3.jpg?1790771472" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Shigeki, Jukai Visionary [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2843/shigeki-jukai-visionary?utm_source=api</link>
-      <guid isPermaLink="false">cbad3570-5417-42e6-b3ef-f42194098314:sld</guid>
-      <pubDate>Wed, 30 Sep 2026 20:21:55 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/2/2282ba49-2220-4a6c-bf11-273ecaf6712b.jpg?1790771836&quot; alt=&quot;Shigeki, Jukai Visionary&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Shigeki, Jukai Visionary&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Enchantment Creature — Snake Druid&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;{1}{G}, {T}, Return Shigeki to its owner&amp;#x27;s hand: Reveal the top four cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest into your graveyard.&lt;br/&gt;Channel — {X}{X}{G}{G}, Discard this card: Return X target nonlegendary cards from your graveyard to your hand.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2843/shigeki-jukai-visionary?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/2/2282ba49-2220-4a6c-bf11-273ecaf6712b.jpg?1790771836" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
