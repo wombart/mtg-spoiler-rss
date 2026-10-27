@@ -5,9 +5,99 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 27 Oct 2026 19:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 23:17:08 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Starfleet Spanner Jockey [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/81/starfleet-spanner-jockey?utm_source=api</link>
+      <guid isPermaLink="false">d41ff489-7d74-4b06-b3a1-638f3e3303d1:trk</guid>
+      <pubDate>Tue, 27 Oct 2026 23:17:08 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/6/16bc9660-2bef-4926-b0e6-f49b22817bea.jpg?1793115698&quot; alt=&quot;Starfleet Spanner Jockey&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Starfleet Spanner Jockey&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Human Artificer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Defender&lt;br/&gt;As long as you&amp;#x27;ve cast a noncreature spell this turn, this creature can attack as though it didn&amp;#x27;t have defender.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/81/starfleet-spanner-jockey?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/1/6/16bc9660-2bef-4926-b0e6-f49b22817bea.jpg?1793115698" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Dathon, His Heart Open [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/388/dathon-his-heart-open?utm_source=api</link>
+      <guid isPermaLink="false">8de259a9-99d0-4f07-8dbc-f065e3af352b:trk</guid>
+      <pubDate>Tue, 27 Oct 2026 23:17:08 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/1/51602acb-62f6-4d38-8a0e-f73497c8f512.jpg?1793115729&quot; alt=&quot;Dathon, His Heart Open&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Dathon, His Heart Open&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {G}{U}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Tamarian Officer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Whenever you cast an enchantment spell, draw a card. If it&amp;#x27;s a Saga spell, Dathon deals 2 damage to each opponent.&lt;br/&gt;{2}: Choose a counter on target enchantment you control. Put another counter of that kind on it. Activate only as a sorcery.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/388/dathon-his-heart-open?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/1/51602acb-62f6-4d38-8a0e-f73497c8f512.jpg?1793115729" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Class-F Shuttlecraft [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/259/class-f-shuttlecraft?utm_source=api</link>
+      <guid isPermaLink="false">4ccc91f2-4d6e-4d64-b438-3d8b4361040a:trk</guid>
+      <pubDate>Tue, 27 Oct 2026 23:17:08 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/5/55e0a183-4145-472f-8bed-a1f247febe06.jpg?1793115647&quot; alt=&quot;Class-F Shuttlecraft&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Class-F Shuttlecraft&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact — Spacecraft&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;{T}: Add one mana of any color.&lt;br/&gt;Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It&amp;#x27;s an artifact creature at 6+.)&lt;br/&gt;6+ | Flying, vigilance&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/259/class-f-shuttlecraft?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/5/55e0a183-4145-472f-8bed-a1f247febe06.jpg?1793115647" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Suus Mahna Practitioner [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/84/suus-mahna-practitioner?utm_source=api</link>
+      <guid isPermaLink="false">e7d22ef6-a926-4964-bfd6-f7345b20e74e:trk</guid>
+      <pubDate>Tue, 27 Oct 2026 23:17:08 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/b/cb204e41-06a9-4ad2-81f2-a4d62f771cfa.jpg?1793115599&quot; alt=&quot;Suus Mahna Practitioner&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Suus Mahna Practitioner&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Vulcan Officer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Strange new worlds — {4}{U}, {T}: Tap target creature. This ability costs {X} less to activate, where X is the number of differently named lands you control.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/84/suus-mahna-practitioner?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/c/b/cb204e41-06a9-4ad2-81f2-a4d62f771cfa.jpg?1793115599" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Genesis Effect [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/151/genesis-effect?utm_source=api</link>
+      <guid isPermaLink="false">ec763f36-3504-4bfe-8481-1a7d0bff8d8e:trk</guid>
+      <pubDate>Tue, 27 Oct 2026 23:17:08 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/0/f0996bab-c2e4-4483-a76e-1355c81f1577.jpg?1793115537&quot; alt=&quot;Genesis Effect&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Genesis Effect&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Genesis Effect deals 6 damage to target creature. Destroy target land you control. Create a tapped Planet land token named New Planet with &amp;quot;{T}: Add one mana of any color.&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/151/genesis-effect?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/0/f0996bab-c2e4-4483-a76e-1355c81f1577.jpg?1793115537" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Andromedan Automatons [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/2/andromedan-automatons?utm_source=api</link>
+      <guid isPermaLink="false">2da322e6-a8e2-4d7a-bd34-54a3dfa85940:trk</guid>
+      <pubDate>Tue, 27 Oct 2026 23:17:08 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/c/fc386662-0fe3-432f-85a8-9a06e1274245.jpg?1793115658&quot; alt=&quot;Andromedan Automatons&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Andromedan Automatons&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact Creature — Android&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;When this creature enters, you may search your library for any number of cards named Andromedan Automatons, reveal them, put them into your hand, then shuffle.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/2/andromedan-automatons?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/c/fc386662-0fe3-432f-85a8-9a06e1274245.jpg?1793115658" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Supreme Verdict [Star Trek Commander]</title>
       <link>https://scryfall.com/card/trc/480/supreme-verdict?utm_source=api</link>
@@ -7118,95 +7208,6 @@
 &lt;p&gt;Destroy target creature. A creature destroyed this way can&amp;#x27;t be regenerated.&lt;br/&gt;Overload {2}{W}{W} (You may cast this spell for its overload cost. If you do, change &amp;quot;target&amp;quot; in its text to &amp;quot;each.&amp;quot;)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/74/damn?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/f/6/f6eed11d-5f22-45dd-a966-f61813dcc40e.jpg?1792155853" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Timber Protector [Secret Lair Countdown]</title>
-      <link>https://scryfall.com/card/slc/57/timber-protector?utm_source=api</link>
-      <guid isPermaLink="false">9bc8a69b-6065-4ef7-a580-adb1e7c72ef4:slc</guid>
-      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/a/fa791e67-05ff-4d54-b1e5-72edc6531e3b.jpg?1792154045&quot; alt=&quot;Timber Protector&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Timber Protector&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Treefolk Warrior&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
-&lt;p&gt;Other Treefolk creatures you control get +1/+1.&lt;br/&gt;Other Treefolk and Forests you control have indestructible.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/57/timber-protector?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/f/a/fa791e67-05ff-4d54-b1e5-72edc6531e3b.jpg?1792154045" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Venom, Eddie Brock [Media and Collaboration Promos]</title>
-      <link>https://scryfall.com/card/pmei/2026-28/venom-eddie-brock?utm_source=api</link>
-      <guid isPermaLink="false">9132d7e6-7190-45e1-9c57-8fe2e5d0f2f2:pmei</guid>
-      <pubDate>Thu, 15 Oct 2026 17:55:33 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/2/529d3638-7045-4c66-a606-4cbae2382f8c.jpg?1792062011&quot; alt=&quot;Venom, Eddie Brock&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Venom, Eddie Brock&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}{B}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Symbiote Villain&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Media and Collaboration Promos&lt;/p&gt;
-&lt;p&gt;Menace (This creature can&amp;#x27;t be blocked except by two or more creatures.)&lt;br/&gt;Whenever another creature dies, put a +1/+1 counter on Venom. If that creature was a Villain, draw a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pmei/2026-28/venom-eddie-brock?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/5/2/529d3638-7045-4c66-a606-4cbae2382f8c.jpg?1792062011" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Villainous Hideout [Media and Collaboration Promos]</title>
-      <link>https://scryfall.com/card/pmei/2026-29/villainous-hideout?utm_source=api</link>
-      <guid isPermaLink="false">cd2888aa-71f3-47ee-ba33-7bb95d5bc836:pmei</guid>
-      <pubDate>Thu, 15 Oct 2026 17:55:33 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/c/dc904edb-acab-4ad4-9ff3-c44d91fd3d72.jpg?1792061981&quot; alt=&quot;Villainous Hideout&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Villainous Hideout&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Media and Collaboration Promos&lt;/p&gt;
-&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}: Add one mana of any color. Spend this mana only to cast a Villain spell or to activate an ability of a Villain source.&lt;br/&gt;{3}, {T}: Target Villain you control connives. Activate only as a sorcery. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pmei/2026-29/villainous-hideout?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/c/dc904edb-acab-4ad4-9ff3-c44d91fd3d72.jpg?1792061981" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Mind Stone [Media and Collaboration Promos]</title>
-      <link>https://scryfall.com/card/pmei/2026-27/mind-stone?utm_source=api</link>
-      <guid isPermaLink="false">c97361b5-af16-4a7b-af85-a429dbaf4ad2:pmei</guid>
-      <pubDate>Thu, 15 Oct 2026 17:55:33 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/6/562d9f6f-1ce1-46d6-8f5a-bfb1b83429ab.jpg?1792062072&quot; alt=&quot;Mind Stone&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Mind Stone&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Media and Collaboration Promos&lt;/p&gt;
-&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{1}, {T}, Sacrifice this artifact: Draw a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pmei/2026-27/mind-stone?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/5/6/562d9f6f-1ce1-46d6-8f5a-bfb1b83429ab.jpg?1792062072" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Attrition [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2709/attrition?utm_source=api</link>
-      <guid isPermaLink="false">a85ee0cf-39ce-49f2-874a-f6f54ca1775f:sld</guid>
-      <pubDate>Tue, 13 Oct 2026 22:00:38 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/8/4840345d-9fc2-4bcc-ac7f-fc452fc1f334.jpg?1791898832&quot; alt=&quot;Attrition&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Attrition&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{B}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Enchantment&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;{B}, Sacrifice a creature: Destroy target nonblack creature.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2709/attrition?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/8/4840345d-9fc2-4bcc-ac7f-fc452fc1f334.jpg?1791898832" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Tribute to the World Tree [Secret Lair Drop]</title>
-      <link>https://scryfall.com/card/sld/2708/tribute-to-the-world-tree?utm_source=api</link>
-      <guid isPermaLink="false">72deedab-7c17-4505-aeca-4bc8596d80a5:sld</guid>
-      <pubDate>Tue, 13 Oct 2026 22:00:38 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/f/4f80e176-9106-42ce-be93-a63a9a80faef.jpg?1791899255&quot; alt=&quot;Tribute to the World Tree&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Tribute to the World Tree&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {G}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Enchantment&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
-&lt;p&gt;Whenever a creature you control enters, draw a card if its power is 3 or greater. Otherwise, put two +1/+1 counters on it.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2708/tribute-to-the-world-tree?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/f/4f80e176-9106-42ce-be93-a63a9a80faef.jpg?1791899255" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
