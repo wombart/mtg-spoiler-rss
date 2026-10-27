@@ -5,9 +5,114 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 26 Oct 2026 20:47:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:54:01 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Hologram Janeway [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/21/hologram-janeway?utm_source=api</link>
+      <guid isPermaLink="false">b572be16-ad13-4f9f-bcf6-085f81e5292c:trk</guid>
+      <pubDate>Tue, 27 Oct 2026 06:54:01 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/2/02d29047-a7b8-43fb-8b90-b35ba34da5f9.jpg?1793066109&quot; alt=&quot;Hologram Janeway&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Hologram Janeway&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Artifact Creature — Illusion Officer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Whenever you attack while creatures you control have total power 8 or greater, put a +1/+1 counter on target creature.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/21/hologram-janeway?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/2/02d29047-a7b8-43fb-8b90-b35ba34da5f9.jpg?1793066109" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Enterprise NX-01 [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/58/enterprise-nx-01?utm_source=api</link>
+      <guid isPermaLink="false">947729a8-f8b0-4e08-9a87-6602af0e3c0a:trk</guid>
+      <pubDate>Tue, 27 Oct 2026 06:54:01 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/8/385638fe-cafb-4541-ba37-19bc57520c48.jpg?1793065984&quot; alt=&quot;Enterprise NX-01&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Enterprise NX-01&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Artifact — Spacecraft&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;When Enterprise NX-01 enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)&lt;br/&gt;Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It&amp;#x27;s an artifact creature at 6+.)&lt;br/&gt;6+ | Flying, vigilance&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/58/enterprise-nx-01?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/8/385638fe-cafb-4541-ba37-19bc57520c48.jpg?1793065984" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Tasha Yar, Out of Time [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/176/tasha-yar-out-of-time?utm_source=api</link>
+      <guid isPermaLink="false">1a9607a2-58cb-4bb8-b454-4813528221f8:trk</guid>
+      <pubDate>Tue, 27 Oct 2026 06:54:01 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/f/5f6cbe6c-5cd8-4eec-82b7-25d5bf5641c0.jpg?1793065876&quot; alt=&quot;Tasha Yar, Out of Time&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Tasha Yar, Out of Time&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Officer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Haste&lt;br/&gt;When Tasha Yar dies, exile the top card of your library. Until the end of your next turn, you may play that card.&lt;br/&gt;{2}{R}, Exile this card from your graveyard: Create a token that&amp;#x27;s a copy of this card. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/176/tasha-yar-out-of-time?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/f/5f6cbe6c-5cd8-4eec-82b7-25d5bf5641c0.jpg?1793065876" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Gabriel Lorca, Mirror Menace [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/108/gabriel-lorca-mirror-menace?utm_source=api</link>
+      <guid isPermaLink="false">6349eecb-dabd-4dcb-a8fb-c8ee66f61461:trk</guid>
+      <pubDate>Tue, 27 Oct 2026 06:54:01 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/9/a98d0f01-8e5e-4ff1-88e5-684b8f4c015c.jpg?1793066472&quot; alt=&quot;Gabriel Lorca, Mirror Menace&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Gabriel Lorca, Mirror Menace&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Rogue Officer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Menace&lt;br/&gt;Whenever you face a dilemma, you may pay {B}. If you do, return this card from your graveyard to your hand. (You face a dilemma as you choose one or more modes for a spell or ability.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/108/gabriel-lorca-mirror-menace?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/9/a98d0f01-8e5e-4ff1-88e5-684b8f4c015c.jpg?1793066472" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>&quot;The Guy Who Simulates Stuff When You Say 'Computer, Simulate This'&quot; [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/201/the-guy-who-simulates-stuff-when-you-say-computer-simulate-this?utm_source=api</link>
+      <guid isPermaLink="false">0d830d0c-3339-49cc-8527-4f4edf787925:trk</guid>
+      <pubDate>Tue, 27 Oct 2026 06:54:01 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/c/acfaf5f3-a4f5-418a-a29a-211b33bf18ee.jpg?1793066373&quot; alt=&quot;&amp;quot;The Guy Who Simulates Stuff When You Say &amp;#x27;Computer, Simulate This&amp;#x27;&amp;quot;&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;The Guy Who Simulates Stuff When You Say &amp;#x27;Computer, Simulate This&amp;#x27;&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Human Artificer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;When this creature enters, create a 3/3 colorless Illusion artifact creature token.&lt;br/&gt;If one or more tokens would be created under your control, that many 3/3 colorless Illusion artifact creature tokens are created instead.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/201/the-guy-who-simulates-stuff-when-you-say-computer-simulate-this?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/c/acfaf5f3-a4f5-418a-a29a-211b33bf18ee.jpg?1793066373" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>U.S.S. Excelsior, Cutting Edge [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/44/uss-excelsior-cutting-edge?utm_source=api</link>
+      <guid isPermaLink="false">9f4ae54b-f77d-43df-87d5-792ac0905058:trk</guid>
+      <pubDate>Tue, 27 Oct 2026 06:54:01 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/e/de62b452-3780-4eeb-8163-f44176495615.jpg?1793066012&quot; alt=&quot;U.S.S. Excelsior, Cutting Edge&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;U.S.S. Excelsior, Cutting Edge&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Artifact — Spacecraft&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;When U.S.S. Excelsior enters, destroy target tapped creature an opponent controls.&lt;br/&gt;Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It&amp;#x27;s an artifact creature at 8+.)&lt;br/&gt;8+ | Flying&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/44/uss-excelsior-cutting-edge?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/e/de62b452-3780-4eeb-8163-f44176495615.jpg?1793066012" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Targ Wrangler [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/175/targ-wrangler?utm_source=api</link>
+      <guid isPermaLink="false">a066eeb1-61fc-448b-bbab-650d672652ad:trk</guid>
+      <pubDate>Tue, 27 Oct 2026 06:54:01 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/a/eabc4252-cf58-48c3-9483-7862450e03d0.jpg?1793065814&quot; alt=&quot;Targ Wrangler&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Targ Wrangler&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Klingon Warrior&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Menace (This creature can&amp;#x27;t be blocked except by two or more creatures.)&lt;br/&gt;At the beginning of your end step, if this creature attacked this turn, sacrifice a nonland permanent.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/175/targ-wrangler?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/a/eabc4252-cf58-48c3-9483-7862450e03d0.jpg?1793065814" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Vivien Reid [Wizards Play Network 2027]</title>
       <link>https://scryfall.com/card/pw27/1/vivien-reid?utm_source=api</link>
@@ -7095,111 +7200,6 @@
 &lt;p&gt;Artifact creatures you control have vigilance.&lt;br/&gt;Whenever you cast a noncreature spell, create a 1/1 colorless Sculpture Treasure artifact creature token with &amp;quot;{T}, Sacrifice this token: Add one mana of any color.&amp;quot;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pfra/277p/vraska-soul-of-stone?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/1/d/1d504bb1-d8ed-4be5-be36-3f071c2f88bc.jpg?1791171113" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Kindred Judgment [Reality Fracture Promos]</title>
-      <link>https://scryfall.com/card/pfra/13p/kindred-judgment?utm_source=api</link>
-      <guid isPermaLink="false">b5dce42a-a769-4d7d-b29e-8722f79d4092:pfra</guid>
-      <pubDate>Mon, 05 Oct 2026 07:46:11 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/1/d/1d95514a-5838-4a08-987b-609355b6497c.jpg?1791169895&quot; alt=&quot;Kindred Judgment&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Kindred Judgment&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {5}{W}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Promos&lt;/p&gt;
-&lt;p&gt;Choose a creature type. Destroy all creatures that aren&amp;#x27;t of the chosen type.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pfra/13p/kindred-judgment?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/1/d/1d95514a-5838-4a08-987b-609355b6497c.jpg?1791169895" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Curse-Marred Demon [Reality Fracture Promos]</title>
-      <link>https://scryfall.com/card/pfra/79p/curse-marred-demon?utm_source=api</link>
-      <guid isPermaLink="false">f30a084c-5705-40f5-8e0d-2083d33973c7:pfra</guid>
-      <pubDate>Mon, 05 Oct 2026 07:46:11 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/0/20e84ef6-d340-4584-977e-92bf2754388b.jpg?1791170284&quot; alt=&quot;Curse-Marred Demon&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Curse-Marred Demon&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{R}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Demon&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Promos&lt;/p&gt;
-&lt;p&gt;Flying, trample&lt;br/&gt;When this creature enters, search your library for a card, put it into your hand, shuffle, then discard a card at random.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pfra/79p/curse-marred-demon?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/0/20e84ef6-d340-4584-977e-92bf2754388b.jpg?1791170284" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Esoteric Duplicator [The Big Score Promos]</title>
-      <link>https://scryfall.com/card/pbig/5p/esoteric-duplicator?utm_source=api</link>
-      <guid isPermaLink="false">0752fe67-9b8a-42c0-90e3-087d426b2f3b:pbig</guid>
-      <pubDate>Mon, 05 Oct 2026 07:46:11 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/2/2253aa1b-0fc1-47f9-9454-81f2c9e89f33.jpg?1791154209&quot; alt=&quot;Esoteric Duplicator&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Esoteric Duplicator&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact — Clue&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: The Big Score Promos&lt;/p&gt;
-&lt;p&gt;Whenever you sacrifice this artifact or another artifact, you may pay {2}. If you do, at the beginning of the next end step, create a token that&amp;#x27;s a copy of that artifact.&lt;br/&gt;{2}, Sacrifice this artifact: Draw a card.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pbig/5p/esoteric-duplicator?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/2/2253aa1b-0fc1-47f9-9454-81f2c9e89f33.jpg?1791154209" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Master of Barbs [Reality Fracture Promos]</title>
-      <link>https://scryfall.com/card/pfra/88p/master-of-barbs?utm_source=api</link>
-      <guid isPermaLink="false">e8c36337-135c-460d-a1da-cc01743dda71:pfra</guid>
-      <pubDate>Mon, 05 Oct 2026 07:46:11 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/2/2256823c-2b25-4865-865d-e2ff27f71b16.jpg?1791170348&quot; alt=&quot;Master of Barbs&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Master of Barbs&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Lizard Bard&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Promos&lt;/p&gt;
-&lt;p&gt;Menace&lt;br/&gt;Whenever one or more opponents are dealt noncombat damage, creatures you control get +1/+0 until end of turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pfra/88p/master-of-barbs?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/2/2256823c-2b25-4865-865d-e2ff27f71b16.jpg?1791170348" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Guiding Hydra [Reality Fracture Promos]</title>
-      <link>https://scryfall.com/card/pfra/11p/guiding-hydra?utm_source=api</link>
-      <guid isPermaLink="false">24f1445c-16c9-45c0-be56-0266e6c78cdb:pfra</guid>
-      <pubDate>Mon, 05 Oct 2026 07:46:11 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/5/25065b92-a1e7-4d8a-bfbc-3c4a2ab6c874.jpg?1791169890&quot; alt=&quot;Guiding Hydra&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Guiding Hydra&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {X}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Hydra Horror&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Promos&lt;/p&gt;
-&lt;p&gt;This creature enters with X +1/+1 counters on it.&lt;br/&gt;At the beginning of combat on your turn, you may remove a +1/+1 counter from this creature. If you do, put a +1/+1 counter on each other creature you control.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pfra/11p/guiding-hydra?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/5/25065b92-a1e7-4d8a-bfbc-3c4a2ab6c874.jpg?1791169890" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Tenured Tethermage [Reality Fracture Promos]</title>
-      <link>https://scryfall.com/card/pfra/154p/tenured-tethermage?utm_source=api</link>
-      <guid isPermaLink="false">571cb06d-55b5-46e4-9678-1f74aca73068:pfra</guid>
-      <pubDate>Mon, 05 Oct 2026 07:46:11 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/c/2cb06a4f-d39c-4d35-b338-b44bc36aaf09.jpg?1791170728&quot; alt=&quot;Tenured Tethermage&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Tenured Tethermage&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{R}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Human Artificer&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Promos&lt;/p&gt;
-&lt;p&gt;When this creature enters, you may sacrifice a land. If you do, create two tapped Heartwood tokens. (They&amp;#x27;re red and green artifacts with &amp;quot;{T}: Add {R} or {G}.&amp;quot;)&lt;br/&gt;Tap two untapped artifacts you control: Put two +1/+1 counters on this creature.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pfra/154p/tenured-tethermage?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/c/2cb06a4f-d39c-4d35-b338-b44bc36aaf09.jpg?1791170728" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Verdant Kraken [Reality Fracture Promos]</title>
-      <link>https://scryfall.com/card/pfra/118p/verdant-kraken?utm_source=api</link>
-      <guid isPermaLink="false">83c61083-b357-4775-a855-5a9013cc2bdf:pfra</guid>
-      <pubDate>Mon, 05 Oct 2026 07:46:11 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/2/3209ea5d-cb05-4221-be7d-78a858edb88b.jpg?1791170589&quot; alt=&quot;Verdant Kraken&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Verdant Kraken&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}{G}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Plant Kraken&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Promos&lt;/p&gt;
-&lt;p&gt;At the beginning of each player&amp;#x27;s upkeep, you create a 3/3 green Forest Tentacle land creature token. (It has &amp;quot;{T}: Add {G}.&amp;quot; It&amp;#x27;s affected by summoning sickness until your next turn.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pfra/118p/verdant-kraken?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/3/2/3209ea5d-cb05-4221-be7d-78a858edb88b.jpg?1791170589" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
