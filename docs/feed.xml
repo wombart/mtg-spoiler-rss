@@ -5,9 +5,99 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 27 Oct 2026 23:17:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:04:45 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>&quot;Assault on Area 51&quot; [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/136/assault-on-area-51?utm_source=api</link>
+      <guid isPermaLink="false">eae07535-487b-48ac-b99e-b4b62286254c:trk</guid>
+      <pubDate>Wed, 28 Oct 2026 10:04:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/5/059e3331-43bc-43a8-90e9-86fef37e032a.jpg?1793165482&quot; alt=&quot;&amp;quot;Assault on Area 51&amp;quot;&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;Assault on Area 51&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Whenever a creature dies, put a quest counter on this enchantment and target opponent loses 1 life. If there are 7 or more quest counters on this enchantment, that player loses 2 life instead.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/136/assault-on-area-51?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/5/059e3331-43bc-43a8-90e9-86fef37e032a.jpg?1793165482" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Saru, Unthreatened [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/212/saru-unthreatened?utm_source=api</link>
+      <guid isPermaLink="false">b6a21e53-6f62-4874-b9cc-84ae177a0da6:trk</guid>
+      <pubDate>Wed, 28 Oct 2026 10:04:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/4/445de44d-8af9-4ea3-b165-9e8eb8939820.jpg?1793160135&quot; alt=&quot;Saru, Unthreatened&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Saru, Unthreatened&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Kelpien Officer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Flash&lt;br/&gt;When Saru enters, another target creature you control gains hexproof until end of turn. (It can&amp;#x27;t be the target of spells or abilities your opponents control.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/212/saru-unthreatened?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/4/445de44d-8af9-4ea3-b165-9e8eb8939820.jpg?1793160135" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Dr. Leonard &quot;Bones&quot; McCoy [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/558/dr-leonard-bones-mccoy?utm_source=api</link>
+      <guid isPermaLink="false">0157faee-f307-43c0-b308-bbf36ce02e32:trk</guid>
+      <pubDate>Wed, 28 Oct 2026 10:04:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/6/66d618ab-1be6-4049-a384-d50c4bb39c33.jpg?1793160485&quot; alt=&quot;Dr. Leonard &amp;quot;Bones&amp;quot; McCoy&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Dr. Leonard &amp;quot;Bones&amp;quot; McCoy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Human Doctor&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Flash&lt;br/&gt;When Dr. McCoy enters, choose one —&lt;br/&gt;• Return target non-Doctor permanent card from your graveyard to your hand.&lt;br/&gt;• Choose up to one other target creature. When it dies this turn, return that card to the battlefield under its owner&amp;#x27;s control with a +1/+1 counter on it at the beginning of the next end step.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/558/dr-leonard-bones-mccoy?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/6/66d618ab-1be6-4049-a384-d50c4bb39c33.jpg?1793160485" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Culber and Stamets, Star-Crossed [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/191/culber-and-stamets-star-crossed?utm_source=api</link>
+      <guid isPermaLink="false">5b8e8ef2-2f04-4485-ae12-08f52dac81a2:trk</guid>
+      <pubDate>Wed, 28 Oct 2026 10:04:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/6/962752f7-5c94-41e4-ab7d-3e8741c7a502.jpg?1793161524&quot; alt=&quot;Culber and Stamets, Star-Crossed&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Culber and Stamets, Star-Crossed&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature Human Doctor Artificer&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;When Culber and Stamets enter, choose one —&lt;br/&gt;• Put a +1/+1 counter on target creature.&lt;br/&gt;• Add two mana of any one color.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/191/culber-and-stamets-star-crossed?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/6/962752f7-5c94-41e4-ab7d-3e8741c7a502.jpg?1793161524" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sarcophagus, Ship of the Dead [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/170/sarcophagus-ship-of-the-dead?utm_source=api</link>
+      <guid isPermaLink="false">22b86863-c992-405b-949a-bdf8859884ef:trk</guid>
+      <pubDate>Wed, 28 Oct 2026 10:04:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/5/b5ea32b5-aa58-4f87-ac2e-4e3b8dd4a752.jpg?1793160219&quot; alt=&quot;Sarcophagus, Ship of the Dead&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Sarcophagus, Ship of the Dead&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {2}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Artifact — Spacecraft&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Other creatures you control get +1/+0.&lt;br/&gt;Whenever a creature dies, if Sarcophagus isn&amp;#x27;t a creature, put a charge counter on it.&lt;br/&gt;Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It&amp;#x27;s an artifact creature at 10+.)&lt;br/&gt;10+ | Flying&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/170/sarcophagus-ship-of-the-dead?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/5/b5ea32b5-aa58-4f87-ac2e-4e3b8dd4a752.jpg?1793160219" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Return of the Wildspeaker [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/921/return-of-the-wildspeaker?utm_source=api</link>
+      <guid isPermaLink="false">2b76f9e9-cd28-4eaf-8674-215c34263f96:sld</guid>
+      <pubDate>Wed, 28 Oct 2026 10:04:45 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/9/9909f625-93fc-40e0-afcd-9c231a473d5b.jpg?1793161562&quot; alt=&quot;Return of the Wildspeaker&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Return of the Wildspeaker&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Choose one —&lt;br/&gt;• Draw cards equal to the greatest power among non-Human creatures you control.&lt;br/&gt;• Non-Human creatures you control get +3/+3 until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/921/return-of-the-wildspeaker?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/9/9909f625-93fc-40e0-afcd-9c231a473d5b.jpg?1793161562" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Starfleet Spanner Jockey [Star Trek]</title>
       <link>https://scryfall.com/card/trk/81/starfleet-spanner-jockey?utm_source=api</link>
@@ -7118,96 +7208,6 @@
 &lt;p&gt;If you control a Swamp, you may pay 4 life rather than pay this spell&amp;#x27;s mana cost.&lt;br/&gt;Destroy target nonblack creature. It can&amp;#x27;t be regenerated.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/79/snuff-out?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/c/2/c2074fd8-a351-4af0-b8b3-0c31898d9fa0.jpg?1792156216" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Titanic Ultimatum [Secret Lair Countdown]</title>
-      <link>https://scryfall.com/card/slc/80/titanic-ultimatum?utm_source=api</link>
-      <guid isPermaLink="false">0cd28580-d718-4d0b-96e3-a836c2911c27:slc</guid>
-      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/3/d3c8b53d-3a0f-4d94-8a27-8bc99626e403.jpg?1792156316&quot; alt=&quot;Titanic Ultimatum&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Titanic Ultimatum&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {R}{R}{G}{G}{G}{W}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
-&lt;p&gt;Until end of turn, creatures you control get +5/+5 and gain first strike, trample, and lifelink.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/80/titanic-ultimatum?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/3/d3c8b53d-3a0f-4d94-8a27-8bc99626e403.jpg?1792156316" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Fighter Class [Secret Lair Countdown]</title>
-      <link>https://scryfall.com/card/slc/67/fighter-class?utm_source=api</link>
-      <guid isPermaLink="false">8a280ba8-6b7b-46dd-9c2b-6d0027cfff30:slc</guid>
-      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/6/d617fd56-b594-4baf-a4c2-318724044a52.jpg?1792155068&quot; alt=&quot;Fighter Class&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Fighter Class&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {R}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Enchantment — Class&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
-&lt;p&gt;(Gain the next level as a sorcery to add its ability.)&lt;br/&gt;When this Class enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.&lt;br/&gt;{1}{R}{W}: Level 2&lt;br/&gt;Equip abilities you activate cost {2} less to activate.&lt;br/&gt;{3}{R}{W}: Level 3&lt;br/&gt;Whenever a creature you control attacks, up to one target creature blocks it this combat if able.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/67/fighter-class?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/6/d617fd56-b594-4baf-a4c2-318724044a52.jpg?1792155068" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Doctor Strange, Master of Magic [Secret Lair Countdown]</title>
-      <link>https://scryfall.com/card/slc/63/doctor-strange-master-of-magic?utm_source=api</link>
-      <guid isPermaLink="false">554ac5df-b49c-4041-963d-408160f59fc1:slc</guid>
-      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/c/dce65d5f-6fd4-469f-97fd-636be341d793.jpg?1792154594&quot; alt=&quot;Doctor Strange, Master of Magic&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Doctor Strange, Master of Magic&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{W}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Sorcerer Hero&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
-&lt;p&gt;Flying, vigilance, prowess&lt;br/&gt;{T}: Draw a card. Activate only if you&amp;#x27;ve cast a noncreature spell this turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/63/doctor-strange-master-of-magic?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/c/dce65d5f-6fd4-469f-97fd-636be341d793.jpg?1792154594" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Opposition Agent [Secret Lair Countdown]</title>
-      <link>https://scryfall.com/card/slc/81/opposition-agent?utm_source=api</link>
-      <guid isPermaLink="false">1f438b8f-fe23-4f3b-ab2e-f6c33676c462:slc</guid>
-      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/8/e8960592-350c-4a4e-b897-5fcc4508b5a9.jpg?1792156361&quot; alt=&quot;Opposition Agent&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Opposition Agent&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Human Rogue&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
-&lt;p&gt;Flash&lt;br/&gt;You control your opponents while they&amp;#x27;re searching their libraries.&lt;br/&gt;While an opponent is searching their library, they exile each card they find. You may play those cards for as long as they remain exiled, and you may spend mana as though it were mana of any color to cast them.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/81/opposition-agent?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/e/8/e8960592-350c-4a4e-b897-5fcc4508b5a9.jpg?1792156361" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Biorhythm [Secret Lair Countdown]</title>
-      <link>https://scryfall.com/card/slc/58/biorhythm?utm_source=api</link>
-      <guid isPermaLink="false">447de961-106c-4189-83ce-ca63d487e1cd:slc</guid>
-      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/2/f29d10ee-4d7c-450f-90f2-4ff1f28271f8.jpg?1792154142&quot; alt=&quot;Biorhythm&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Biorhythm&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {6}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
-&lt;p&gt;Each player&amp;#x27;s life total becomes the number of creatures they control.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/58/biorhythm?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/f/2/f29d10ee-4d7c-450f-90f2-4ff1f28271f8.jpg?1792154142" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Damn [Secret Lair Countdown]</title>
-      <link>https://scryfall.com/card/slc/74/damn?utm_source=api</link>
-      <guid isPermaLink="false">b01d61cc-9844-4191-86a0-f2db6d42d6e5:slc</guid>
-      <pubDate>Fri, 16 Oct 2026 19:04:58 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/6/f6eed11d-5f22-45dd-a966-f61813dcc40e.jpg?1792155853&quot; alt=&quot;Damn&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Damn&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {B}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Secret Lair Countdown&lt;/p&gt;
-&lt;p&gt;Destroy target creature. A creature destroyed this way can&amp;#x27;t be regenerated.&lt;br/&gt;Overload {2}{W}{W} (You may cast this spell for its overload cost. If you do, change &amp;quot;target&amp;quot; in its text to &amp;quot;each.&amp;quot;)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slc/74/damn?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/f/6/f6eed11d-5f22-45dd-a966-f61813dcc40e.jpg?1792155853" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
