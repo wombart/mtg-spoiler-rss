@@ -5,9 +5,67 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 28 Oct 2026 21:56:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:43:33 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Rok-Tahk, Budding Scientist [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/472/rok-tahk-budding-scientist?utm_source=api</link>
+      <guid isPermaLink="false">ef919269-043f-45ab-a5da-403cdaa4da23:trk</guid>
+      <pubDate>Thu, 29 Oct 2026 07:43:33 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/3/5354636f-a324-401b-bece-85b1c4760c07.jpg?1793240448&quot; alt=&quot;Rok-Tahk, Budding Scientist&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Rok-Tahk, Budding Scientist&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Brikar Scientist&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Creatures you control have &amp;quot;{T}: Add {G}{G}.&amp;quot;&lt;br/&gt;When Rok-Tahk enters, create Murf, a legendary 0/1 green Ooze Slug creature token with indestructible.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/472/rok-tahk-budding-scientist?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/3/5354636f-a324-401b-bece-85b1c4760c07.jpg?1793240448" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Artificial Anomaly [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/276/artificial-anomaly?utm_source=api</link>
+      <guid isPermaLink="false">7e550295-eaf4-4962-bc52-261d7c2d71ae:trk</guid>
+      <pubDate>Thu, 29 Oct 2026 07:43:33 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/d/7dfead74-0625-4f6a-b66b-6d5d363a387c.jpg?1793240155&quot; alt=&quot;Artificial Anomaly&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Artificial Anomaly&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{3}{B}, {T}, Sacrifice this land: Each opponent loses 2 life and you gain 2 life. Create a tapped Planet land token named New Planet with &amp;quot;{T}: Add one mana of any color.&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/276/artificial-anomaly?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/d/7dfead74-0625-4f6a-b66b-6d5d363a387c.jpg?1793240155" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ni'Var Science Academy [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/333/nivar-science-academy?utm_source=api</link>
+      <guid isPermaLink="false">45bf09bb-4141-4166-bdae-6dac39e7f316:trk</guid>
+      <pubDate>Thu, 29 Oct 2026 07:43:33 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/6/86ba5cb2-f124-4947-9780-43fc24f37699.jpg?1793240351&quot; alt=&quot;Ni&amp;#x27;Var Science Academy&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Ni&amp;#x27;Var Science Academy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;This land enters tapped unless you control two or more other lands.&lt;br/&gt;When this land enters untapped, choose one —&lt;br/&gt;• Target creature gains flying until end of turn.&lt;br/&gt;• Surveil 1.&lt;br/&gt;{T}: Add {U}.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/333/nivar-science-academy?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/6/86ba5cb2-f124-4947-9780-43fc24f37699.jpg?1793240351" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Species 8472 [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/214/species-8472?utm_source=api</link>
+      <guid isPermaLink="false">645a5619-d0b2-4153-aae0-ca2adc6f5e3d:trk</guid>
+      <pubDate>Thu, 29 Oct 2026 07:43:33 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/3/b3d74723-4c9e-4fe7-8276-05d5f1b7ba0c.jpg?1793240501&quot; alt=&quot;Species 8472&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Species 8472&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{G}{G}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Insect Beast&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;Strange new worlds — When this creature enters, you gain life equal to the number of differently named lands you control.&lt;br/&gt;This creature can&amp;#x27;t be blocked by artifact creatures.&lt;br/&gt;This creature can&amp;#x27;t be the target of abilities from artifact sources your opponents control.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/214/species-8472?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/3/b3d74723-4c9e-4fe7-8276-05d5f1b7ba0c.jpg?1793240501" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Vault of Champions [Star Trek Commander]</title>
       <link>https://scryfall.com/card/trc/576/vault-of-champions?utm_source=api</link>
@@ -7333,58 +7391,6 @@
 &lt;p&gt;Set: Reality Fracture Art Series&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/afra/18/identity-echo-identity-echo?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/6/3/63313caa-ce41-40c1-81d2-e4c75d2cf47a.jpg?1792282539" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Omnipresence // Omnipresence [Reality Fracture Art Series]</title>
-      <link>https://scryfall.com/card/afra/21/omnipresence-omnipresence?utm_source=api</link>
-      <guid isPermaLink="false">5124e945-86ab-4cc0-9328-713fa20fc95b:afra</guid>
-      <pubDate>Sun, 18 Oct 2026 06:40:48 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/1/71201d3b-5734-416d-aea4-b8ed221c483b.jpg?1792282834&quot; alt=&quot;Omnipresence // Omnipresence&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Omnipresence // Omnipresence&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Card // Card&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Art Series&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/afra/21/omnipresence-omnipresence?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/7/1/71201d3b-5734-416d-aea4-b8ed221c483b.jpg?1792282834" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Rise of the Deathbringer // Rise of the Deathbringer [Reality Fracture Art Series]</title>
-      <link>https://scryfall.com/card/afra/36/rise-of-the-deathbringer-rise-of-the-deathbringer?utm_source=api</link>
-      <guid isPermaLink="false">b21033f8-6924-487b-987f-02a774966826:afra</guid>
-      <pubDate>Sun, 18 Oct 2026 06:40:48 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/a/7a0c03dc-4347-4a11-a48d-d93fe0192160.jpg?1792282995&quot; alt=&quot;Rise of the Deathbringer // Rise of the Deathbringer&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Rise of the Deathbringer // Rise of the Deathbringer&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Card // Card&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Art Series&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/afra/36/rise-of-the-deathbringer-rise-of-the-deathbringer?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/7/a/7a0c03dc-4347-4a11-a48d-d93fe0192160.jpg?1792282995" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Kindred Judgment // Kindred Judgment [Reality Fracture Art Series]</title>
-      <link>https://scryfall.com/card/afra/3/kindred-judgment-kindred-judgment?utm_source=api</link>
-      <guid isPermaLink="false">18d24534-33aa-4ddf-931e-fc79dcec14dc:afra</guid>
-      <pubDate>Sun, 18 Oct 2026 06:40:48 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/d/7d213bcb-450a-465d-89c6-d4af1e19ee32.jpg?1792282859&quot; alt=&quot;Kindred Judgment // Kindred Judgment&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Kindred Judgment // Kindred Judgment&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Card // Card&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Art Series&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/afra/3/kindred-judgment-kindred-judgment?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/7/d/7d213bcb-450a-465d-89c6-d4af1e19ee32.jpg?1792282859" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Tam, the Possibility // Tam, the Possibility [Reality Fracture Art Series]</title>
-      <link>https://scryfall.com/card/afra/34/tam-the-possibility-tam-the-possibility?utm_source=api</link>
-      <guid isPermaLink="false">d5f7b263-4df5-4499-8104-50d26b363ecf:afra</guid>
-      <pubDate>Sun, 18 Oct 2026 06:40:48 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/f/7f5f156c-54ad-4911-afb6-59f571f9e33b.jpg?1792282746&quot; alt=&quot;Tam, the Possibility // Tam, the Possibility&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Tam, the Possibility // Tam, the Possibility&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Card // Card&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Reality Fracture Art Series&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/afra/34/tam-the-possibility-tam-the-possibility?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/7/f/7f5f156c-54ad-4911-afb6-59f571f9e33b.jpg?1792282746" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
