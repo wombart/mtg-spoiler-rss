@@ -5,9 +5,52 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 29 Oct 2026 20:42:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 14:37:56 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>U.S.S. Cerritos, Following Up [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/272/uss-cerritos-following-up?utm_source=api</link>
+      <guid isPermaLink="false">472eac8f-2b82-4fa9-a40c-af11ec40f19e:trk</guid>
+      <pubDate>Fri, 30 Oct 2026 14:37:56 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/6/76bf7521-5024-4fdc-9ea1-5e10f2647efb.jpg?1793339522&quot; alt=&quot;U.S.S. Cerritos, Following Up&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;U.S.S. Cerritos, Following Up&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {5}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Artifact — Spacecraft&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;When U.S.S. Cerritos enters, create two 1/1 red Officer creature tokens.&lt;br/&gt;Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It&amp;#x27;s an artifact creature at 6+.)&lt;br/&gt;6+ | Flying&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/272/uss-cerritos-following-up?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/6/76bf7521-5024-4fdc-9ea1-5e10f2647efb.jpg?1793339522" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Temporal Anomaly [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/302/temporal-anomaly?utm_source=api</link>
+      <guid isPermaLink="false">cf0d1859-699e-47d4-bc91-7c5ff61fabe9:trk</guid>
+      <pubDate>Fri, 30 Oct 2026 14:37:56 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/2/d2000219-0a57-48e6-ab0f-d5ad0fb7bcf6.jpg?1793339811&quot; alt=&quot;Temporal Anomaly&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Temporal Anomaly&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{3}{G}, {T}, Sacrifice this land: Mill four cards. You may put a permanent card from among them into your hand. Create a tapped Planet land token named New Planet with &amp;quot;{T}: Add one mana of any color.&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/302/temporal-anomaly?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/2/d2000219-0a57-48e6-ab0f-d5ad0fb7bcf6.jpg?1793339811" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Gaseous Anomaly [Star Trek]</title>
+      <link>https://scryfall.com/card/trk/284/gaseous-anomaly?utm_source=api</link>
+      <guid isPermaLink="false">1fb736bf-c9bd-45ab-86ce-7f138f1724b2:trk</guid>
+      <pubDate>Fri, 30 Oct 2026 14:37:56 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/6/e6974579-7e88-4d7f-9b05-93d08167cb17.jpg?1793339386&quot; alt=&quot;Gaseous Anomaly&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Gaseous Anomaly&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Star Trek&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{5}{U}, {T}, Sacrifice this land: Draw two cards. Create a tapped Planet land token named New Planet with &amp;quot;{T}: Add one mana of any color.&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/284/gaseous-anomaly?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/6/e6974579-7e88-4d7f-9b05-93d08167cb17.jpg?1793339386" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Mutavault [Star Trek Commander]</title>
       <link>https://scryfall.com/card/trc/542/mutavault?utm_source=api</link>
@@ -7379,51 +7422,6 @@
 &lt;p&gt;Whenever another historic permanent you control with mana value 3 or greater enters, draw a card. (Artifacts, legendaries, and Sagas are historic.)&lt;br/&gt;Seek out — Whenever you draw your second card each turn, put a +1/+1 counter on up to one other target creature and two charge counters on up to one target Spacecraft.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/7/jean-luc-picard-luminary?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/3/2/3221fc7e-2eed-4517-a785-3e3a1748450f.jpg?1792507948" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Koloth, Tribble Hunter [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/72/koloth-tribble-hunter?utm_source=api</link>
-      <guid isPermaLink="false">01b7ced9-5dcb-45ce-bcda-ffdc1afefb2a:trc</guid>
-      <pubDate>Tue, 20 Oct 2026 22:45:18 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/3/33bfbd68-fc0f-41ce-b033-975fe9ba960a.jpg?1792507974&quot; alt=&quot;Koloth, Tribble Hunter&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Koloth, Tribble Hunter&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Klingon Warrior Officer&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;At the beginning of your end step, each player creates two 1/1 white Tribble creature tokens with &amp;quot;This token can&amp;#x27;t block.&amp;quot;&lt;br/&gt;All Tribbles get +1/+0 and are goaded. (They attack each combat if able and attack a player other than you if able.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/72/koloth-tribble-hunter?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/3/3/33bfbd68-fc0f-41ce-b033-975fe9ba960a.jpg?1792507974" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Lt. Cmdr. Geordi La Forge [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/70/lt-cmdr-geordi-la-forge?utm_source=api</link>
-      <guid isPermaLink="false">cb3b4cfe-fd8d-4a26-905e-8ccd30f033a3:trk</guid>
-      <pubDate>Tue, 20 Oct 2026 22:45:18 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/a/3a558d82-7efd-49b3-9f7b-ace639b44a35.jpg?1792508185&quot; alt=&quot;Lt. Cmdr. Geordi La Forge&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Lt. Cmdr. Geordi La Forge&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Artificer&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;If you would put one or more charge counters on an artifact you control, put twice that many charge counters on that artifact instead.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/70/lt-cmdr-geordi-la-forge?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/3/a/3a558d82-7efd-49b3-9f7b-ace639b44a35.jpg?1792508185" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Tricorder [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/270/tricorder?utm_source=api</link>
-      <guid isPermaLink="false">1385679f-bdcd-4d7e-8266-1df0e36cc2da:trk</guid>
-      <pubDate>Tue, 20 Oct 2026 22:45:18 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/c/3c872f02-80ac-49e3-a777-3526d35ad7cc.jpg?1792508457&quot; alt=&quot;Tricorder&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Tricorder&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact — Equipment&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;Equipped creature gets +1/+1.&lt;br/&gt;Whenever equipped creature attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)&lt;br/&gt;Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/270/tricorder?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/3/c/3c872f02-80ac-49e3-a777-3526d35ad7cc.jpg?1792508457" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
