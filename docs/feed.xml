@@ -5,9 +5,82 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Fri, 30 Oct 2026 20:19:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 17:24:42 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Elemental [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2906/elemental?utm_source=api</link>
+      <guid isPermaLink="false">1a6c2152-71ca-46be-ab83-c84633442257:sld</guid>
+      <pubDate>Tue, 03 Nov 2026 17:24:42 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/0/40116092-622d-4dbb-9f32-6ccebbd9559b.jpg?1793708206&quot; alt=&quot;Elemental&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Elemental&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Elemental&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2906/elemental?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/4/0/40116092-622d-4dbb-9f32-6ccebbd9559b.jpg?1793708206" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Balefire Dragon [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2902/balefire-dragon?utm_source=api</link>
+      <guid isPermaLink="false">3d783beb-9ca6-4681-9276-fc3ad13b993f:sld</guid>
+      <pubDate>Tue, 03 Nov 2026 17:24:42 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/0/805d68e6-3f52-4288-9b0a-8be506cc619e.jpg?1793708260&quot; alt=&quot;Balefire Dragon&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Balefire Dragon&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {5}{R}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Dragon&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;Whenever this creature deals combat damage to a player, it deals that much damage to each creature that player controls.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2902/balefire-dragon?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/0/805d68e6-3f52-4288-9b0a-8be506cc619e.jpg?1793708260" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Big Score [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2903/big-score?utm_source=api</link>
+      <guid isPermaLink="false">a5cbd257-c836-493e-bb1a-76242619dea2:sld</guid>
+      <pubDate>Tue, 03 Nov 2026 17:24:42 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/4/843795d1-8f12-43af-bac6-319fbdaa0b18.jpg?1793708020&quot; alt=&quot;Big Score&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Big Score&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;As an additional cost to cast this spell, discard a card.&lt;br/&gt;Draw two cards and create two Treasure tokens. (They&amp;#x27;re artifacts with &amp;quot;{T}, Sacrifice this token: Add one mana of any color.&amp;quot;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2903/big-score?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/4/843795d1-8f12-43af-bac6-319fbdaa0b18.jpg?1793708020" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sword of Truth and Justice [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2905/sword-of-truth-and-justice?utm_source=api</link>
+      <guid isPermaLink="false">7a8baaf9-e21f-41a0-9f15-80764f6e5e68:sld</guid>
+      <pubDate>Tue, 03 Nov 2026 17:24:42 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/9/a9ea2959-27c3-46d4-875f-1605acefa082.jpg?1793708117&quot; alt=&quot;Sword of Truth and Justice&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Sword of Truth and Justice&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact — Equipment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Equipped creature gets +2/+2 and has protection from white and from blue.&lt;br/&gt;Whenever equipped creature deals combat damage to a player, put a +1/+1 counter on a creature you control, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)&lt;br/&gt;Equip {2}&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2905/sword-of-truth-and-justice?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/a/9/a9ea2959-27c3-46d4-875f-1605acefa082.jpg?1793708117" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Young Pyromancer [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2904/young-pyromancer?utm_source=api</link>
+      <guid isPermaLink="false">5fac139a-07d3-4e6c-98e3-d98b199f7a6f:sld</guid>
+      <pubDate>Tue, 03 Nov 2026 17:24:42 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/c/bc846a79-9ff9-41ca-8c5b-07509e9b1047.jpg?1793708074&quot; alt=&quot;Young Pyromancer&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Young Pyromancer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Human Shaman&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Whenever you cast an instant or sorcery spell, create a 1/1 red Elemental creature token.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2904/young-pyromancer?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/c/bc846a79-9ff9-41ca-8c5b-07509e9b1047.jpg?1793708074" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Officer [Star Trek Tokens]</title>
       <link>https://scryfall.com/card/ttrk/15/officer?utm_source=api</link>
@@ -7201,78 +7274,6 @@
 &lt;p&gt;As this artifact enters, choose a creature type.&lt;br/&gt;Whenever you cast a spell of the chosen type, put a charge counter on this artifact.&lt;br/&gt;Creatures you control of the chosen type get +1/+1 for each charge counter on this artifact.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/489/door-of-destinies?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/e/5/e571a82f-812d-4eaf-bf87-9179018d0faf.jpg?1793021145" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Isolated Chapel [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/539/isolated-chapel?utm_source=api</link>
-      <guid isPermaLink="false">7e5d9efe-48a9-434b-bb09-056e0e09cc9a:trc</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/9/e992b8e8-1d0c-4c44-b413-10d6596c9b23.jpg?1793021328&quot; alt=&quot;Isolated Chapel&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Isolated Chapel&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;This land enters tapped unless you control a Plains or a Swamp.&lt;br/&gt;{T}: Add {W} or {B}.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/539/isolated-chapel?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/e/9/e992b8e8-1d0c-4c44-b413-10d6596c9b23.jpg?1793021328" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Korok, Liberated Rage [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/22/korok-liberated-rage?utm_source=api</link>
-      <guid isPermaLink="false">2f0bad22-a3f5-4b2b-96bf-ff1473e2262d:trc</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/b/eb2c613d-2159-4c41-b6f7-0e102fc1a5c5.jpg?1793020858&quot; alt=&quot;Korok, Liberated Rage&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Korok, Liberated Rage&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Artifact Creature — Klingon Borg&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;Battlefront — Whenever Korok attacks, creatures you control get +X/+X until end of turn, where X is the number of opponents you attacked this turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/22/korok-liberated-rage?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/e/b/eb2c613d-2159-4c41-b6f7-0e102fc1a5c5.jpg?1793020858" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Subspace Anomaly [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/300/subspace-anomaly?utm_source=api</link>
-      <guid isPermaLink="false">1a28a83a-de27-4aaa-b35f-1e7075fc1e43:trk</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/d/ed62600f-84ae-421e-970a-fd0682c8f280.jpg?1793013621&quot; alt=&quot;Subspace Anomaly&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Subspace Anomaly&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{4}{W}, {T}, Sacrifice this land: Create two 1/1 red Officer creature tokens. Create a tapped Planet land token named New Planet with &amp;quot;{T}: Add one mana of any color.&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/300/subspace-anomaly?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/e/d/ed62600f-84ae-421e-970a-fd0682c8f280.jpg?1793013621" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Irrigated Farmland [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/538/irrigated-farmland?utm_source=api</link>
-      <guid isPermaLink="false">406eabe2-df62-49e2-bb39-c0227509d875:trc</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/9/f94855f6-9aa8-4635-a1c1-8713f9d7aa13.jpg?1793021319&quot; alt=&quot;Irrigated Farmland&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Irrigated Farmland&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land — Plains Island&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;({T}: Add {W} or {U}.)&lt;br/&gt;This land enters tapped.&lt;br/&gt;Cycling {2} ({2}, Discard this card: Draw a card.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/538/irrigated-farmland?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/f/9/f94855f6-9aa8-4635-a1c1-8713f9d7aa13.jpg?1793021319" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Everflowing Chalice [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/490/everflowing-chalice?utm_source=api</link>
-      <guid isPermaLink="false">0a79237e-0811-4a8a-bd4d-db3ca91bff22:trc</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/a/fa293bcc-39aa-4642-8e34-6e4fbb30f962.jpg?1793021160&quot; alt=&quot;Everflowing Chalice&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Everflowing Chalice&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {0}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;Multikicker {2} (You may pay an additional {2} any number of times as you cast this spell.)&lt;br/&gt;This artifact enters with a charge counter on it for each time it was kicked.&lt;br/&gt;{T}: Add {C} for each charge counter on this artifact.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/490/everflowing-chalice?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/f/a/fa293bcc-39aa-4642-8e34-6e4fbb30f962.jpg?1793021160" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
