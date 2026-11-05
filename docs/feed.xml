@@ -5,9 +5,69 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Tue, 03 Nov 2026 17:24:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 00:34:28 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Mind Twist [Arena New Player Experience]</title>
+      <link>https://scryfall.com/card/ana/41/mind-twist?utm_source=api</link>
+      <guid isPermaLink="false">78f9c223-9982-4282-a496-a6f892f0a5bf:ana</guid>
+      <pubDate>Thu, 05 Nov 2026 00:34:28 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/8/e82486f1-7c76-4586-afd9-1f009347d357.jpg?1793801819&quot; alt=&quot;Mind Twist&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Mind Twist&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {X}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Arena New Player Experience&lt;/p&gt;
+&lt;p&gt;Target player discards X cards at random.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/ana/41/mind-twist?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/8/e82486f1-7c76-4586-afd9-1f009347d357.jpg?1793801819" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Echo of Eons [Arena New Player Experience]</title>
+      <link>https://scryfall.com/card/ana/39/echo-of-eons?utm_source=api</link>
+      <guid isPermaLink="false">23d3e5fe-3f82-44cf-91a1-6646a12a0255:ana</guid>
+      <pubDate>Thu, 05 Nov 2026 00:34:28 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/6/d61a19a2-d714-4d1b-a3ab-8b406d772213.jpg?1793801585&quot; alt=&quot;Echo of Eons&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Echo of Eons&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{U}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Arena New Player Experience&lt;/p&gt;
+&lt;p&gt;Each player shuffles their hand and graveyard into their library, then draws seven cards.&lt;br/&gt;Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/ana/39/echo-of-eons?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/6/d61a19a2-d714-4d1b-a3ab-8b406d772213.jpg?1793801585" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Dismember [Arena New Player Experience]</title>
+      <link>https://scryfall.com/card/ana/40/dismember?utm_source=api</link>
+      <guid isPermaLink="false">fd74f8eb-0253-42dd-8277-186d4934da38:ana</guid>
+      <pubDate>Thu, 05 Nov 2026 00:34:28 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/6/26021cb7-b2e8-41dd-8af0-0c9b3baffde0.jpg?1793801685&quot; alt=&quot;Dismember&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Dismember&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{B/P}{B/P}&lt;/p&gt;
+&lt;p&gt;Typ: Instant&lt;/p&gt;
+&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
+&lt;p&gt;Set: Arena New Player Experience&lt;/p&gt;
+&lt;p&gt;({B/P} can be paid with either {B} or 2 life.)&lt;br/&gt;Target creature gets -5/-5 until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/ana/40/dismember?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/6/26021cb7-b2e8-41dd-8af0-0c9b3baffde0.jpg?1793801685" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Winds of Abandon [Arena New Player Experience]</title>
+      <link>https://scryfall.com/card/ana/42/winds-of-abandon?utm_source=api</link>
+      <guid isPermaLink="false">499a4715-6776-461b-bee4-22ed172d455e:ana</guid>
+      <pubDate>Thu, 05 Nov 2026 00:34:28 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/9/e/9e4fb93f-0fcb-4053-ab55-7334a417427c.jpg?1793802054&quot; alt=&quot;Winds of Abandon&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Winds of Abandon&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Arena New Player Experience&lt;/p&gt;
+&lt;p&gt;Exile target creature you don&amp;#x27;t control. For each creature exiled this way, its controller searches their library for a basic land card. Those players put those cards onto the battlefield tapped, then shuffle.&lt;br/&gt;Overload {4}{W}{W} (You may cast this spell for its overload cost. If you do, change &amp;quot;target&amp;quot; in its text to &amp;quot;each.&amp;quot;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/ana/42/winds-of-abandon?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/9/e/9e4fb93f-0fcb-4053-ab55-7334a417427c.jpg?1793802054" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Elemental [Secret Lair Drop]</title>
       <link>https://scryfall.com/card/sld/2906/elemental?utm_source=api</link>
@@ -7214,66 +7274,6 @@
 &lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}: Add {U} or {B}. This land deals 1 damage to you.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/575/underground-river?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/e/0/e0747d8a-c878-496f-bdb0-0dddae536e7c.jpg?1793021401" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Skullclamp [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/498/skullclamp?utm_source=api</link>
-      <guid isPermaLink="false">65986c1b-8e51-4604-b685-d82fa7d1263a:trc</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/1/e1da8b79-249b-439a-a0ad-c8784bd716df.jpg?1793021175&quot; alt=&quot;Skullclamp&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Skullclamp&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact — Equipment&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;Equipped creature gets +1/-1.&lt;br/&gt;Whenever equipped creature dies, draw two cards.&lt;br/&gt;Equip {1}&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/498/skullclamp?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/e/1/e1da8b79-249b-439a-a0ad-c8784bd716df.jpg?1793021175" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Tell Me What You See [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/132/tell-me-what-you-see?utm_source=api</link>
-      <guid isPermaLink="false">abfdfae5-61aa-42d6-9c8e-83fda59de233:trk</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/3/e339c8fb-26d2-4514-aeb7-014274df0c9c.jpg?1793013584&quot; alt=&quot;Tell Me What You See&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Tell Me What You See&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {1}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Enchantment&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;When this enchantment enters, target opponent may have you draw a card. If they don&amp;#x27;t, they lose 4 life and you surveil 1.&lt;br/&gt;Whenever you face a dilemma, you may return this enchantment to its owner&amp;#x27;s hand. (You face a dilemma as you choose one or more modes for a spell or ability.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/132/tell-me-what-you-see?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/e/3/e339c8fb-26d2-4514-aeb7-014274df0c9c.jpg?1793013584" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Darksteel Plate [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/488/darksteel-plate?utm_source=api</link>
-      <guid isPermaLink="false">b5b4cf54-ed5e-42d0-9d98-5fec76b0b0b8:trc</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/3/e3fb0104-3a31-41fd-be98-af4656b43f8c.jpg?1793021143&quot; alt=&quot;Darksteel Plate&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Darksteel Plate&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact — Equipment&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;Indestructible&lt;br/&gt;Equipped creature has indestructible.&lt;br/&gt;Equip {2}&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/488/darksteel-plate?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/e/3/e3fb0104-3a31-41fd-be98-af4656b43f8c.jpg?1793021143" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Door of Destinies [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/489/door-of-destinies?utm_source=api</link>
-      <guid isPermaLink="false">9b6d3dcf-aa5a-4516-bd48-a0723e86bfd1:trc</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/5/e571a82f-812d-4eaf-bf87-9179018d0faf.jpg?1793021145&quot; alt=&quot;Door of Destinies&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Door of Destinies&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;As this artifact enters, choose a creature type.&lt;br/&gt;Whenever you cast a spell of the chosen type, put a charge counter on this artifact.&lt;br/&gt;Creatures you control of the chosen type get +1/+1 for each charge counter on this artifact.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/489/door-of-destinies?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/e/5/e571a82f-812d-4eaf-bf87-9179018d0faf.jpg?1793021145" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
