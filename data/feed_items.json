@@ -1,5 +1,455 @@
 [
   {
+    "id": "35306f70-ec13-469a-9954-0d90b8b8b687",
+    "name": "Eerie Interlude // Eerie Interlude",
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "rarity": "common",
+    "released_at": "2026-11-13",
+    "discovered_at": "2026-11-06T11:38:58.376372+00:00",
+    "scryfall_uri": "https://scryfall.com/card/sld/2744/eerie-interlude-eerie-interlude?utm_source=api",
+    "card_faces": [
+      {
+        "name": "Eerie Interlude",
+        "oracle_text": "Exile any number of target creatures you control. Return those cards to the battlefield under their owner's control at the beginning of the next end step.",
+        "mana_cost": "{2}{W}",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.jpg?1793956065",
+          "normal": "https://cards.scryfall.io/normal/front/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.jpg?1793956065",
+          "large": "https://cards.scryfall.io/large/front/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.jpg?1793956065",
+          "png": "https://cards.scryfall.io/png/front/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.png?1793956065",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.jpg?1793956065",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.jpg?1793956065",
+          "thumb": "https://cards.scryfall.io/thumb/front/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.webp?1793956065",
+          "grid": "https://cards.scryfall.io/grid/front/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.webp?1793956065",
+          "display": "https://cards.scryfall.io/display/front/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.webp?1793956065",
+          "art": "https://cards.scryfall.io/art/front/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.webp?1793956065",
+          "crop": "https://cards.scryfall.io/crop/front/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.webp?1793956065",
+          "jpeg": "https://cards.scryfall.io/normal/front/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.jpg?1793956065"
+        }
+      },
+      {
+        "name": "Eerie Interlude",
+        "oracle_text": "Exile any number of target creatures you control. Return those cards to the battlefield under their owner's control at the beginning of the next end step.",
+        "mana_cost": "{2}{W}",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.jpg?1793956065",
+          "normal": "https://cards.scryfall.io/normal/back/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.jpg?1793956065",
+          "large": "https://cards.scryfall.io/large/back/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.jpg?1793956065",
+          "png": "https://cards.scryfall.io/png/back/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.png?1793956065",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.jpg?1793956065",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.jpg?1793956065",
+          "thumb": "https://cards.scryfall.io/thumb/back/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.webp?1793956065",
+          "grid": "https://cards.scryfall.io/grid/back/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.webp?1793956065",
+          "display": "https://cards.scryfall.io/display/back/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.webp?1793956065",
+          "art": "https://cards.scryfall.io/art/back/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.webp?1793956065",
+          "crop": "https://cards.scryfall.io/crop/back/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.webp?1793956065",
+          "jpeg": "https://cards.scryfall.io/normal/back/3/5/35306f70-ec13-469a-9954-0d90b8b8b687.jpg?1793956065"
+        }
+      }
+    ]
+  },
+  {
+    "id": "37f88e40-2856-41ed-ad38-bef2ce8c46b5",
+    "name": "Relentless Assault // Relentless Assault",
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "rarity": "common",
+    "released_at": "2026-11-13",
+    "discovered_at": "2026-11-06T11:38:58.376372+00:00",
+    "scryfall_uri": "https://scryfall.com/card/sld/2735/relentless-assault-relentless-assault?utm_source=api",
+    "card_faces": [
+      {
+        "name": "Relentless Assault",
+        "oracle_text": "Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.",
+        "mana_cost": "{2}{R}{R}",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.jpg?1793956132",
+          "normal": "https://cards.scryfall.io/normal/front/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.jpg?1793956132",
+          "large": "https://cards.scryfall.io/large/front/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.jpg?1793956132",
+          "png": "https://cards.scryfall.io/png/front/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.png?1793956132",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.jpg?1793956132",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.jpg?1793956132",
+          "thumb": "https://cards.scryfall.io/thumb/front/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.webp?1793956132",
+          "grid": "https://cards.scryfall.io/grid/front/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.webp?1793956132",
+          "display": "https://cards.scryfall.io/display/front/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.webp?1793956132",
+          "art": "https://cards.scryfall.io/art/front/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.webp?1793956132",
+          "crop": "https://cards.scryfall.io/crop/front/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.webp?1793956132",
+          "jpeg": "https://cards.scryfall.io/normal/front/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.jpg?1793956132"
+        }
+      },
+      {
+        "name": "Relentless Assault",
+        "oracle_text": "Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.",
+        "mana_cost": "{2}{R}{R}",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.jpg?1793956132",
+          "normal": "https://cards.scryfall.io/normal/back/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.jpg?1793956132",
+          "large": "https://cards.scryfall.io/large/back/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.jpg?1793956132",
+          "png": "https://cards.scryfall.io/png/back/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.png?1793956132",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.jpg?1793956132",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.jpg?1793956132",
+          "thumb": "https://cards.scryfall.io/thumb/back/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.webp?1793956132",
+          "grid": "https://cards.scryfall.io/grid/back/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.webp?1793956132",
+          "display": "https://cards.scryfall.io/display/back/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.webp?1793956132",
+          "art": "https://cards.scryfall.io/art/back/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.webp?1793956132",
+          "crop": "https://cards.scryfall.io/crop/back/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.webp?1793956132",
+          "jpeg": "https://cards.scryfall.io/normal/back/3/7/37f88e40-2856-41ed-ad38-bef2ce8c46b5.jpg?1793956132"
+        }
+      }
+    ]
+  },
+  {
+    "id": "4e5db87d-b0bf-49cf-a30e-3375ea6d4cda",
+    "name": "War's Toll // War's Toll",
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "rarity": "common",
+    "released_at": "2026-11-13",
+    "discovered_at": "2026-11-06T11:38:58.376372+00:00",
+    "scryfall_uri": "https://scryfall.com/card/sld/2737/wars-toll-wars-toll?utm_source=api",
+    "card_faces": [
+      {
+        "name": "War's Toll",
+        "oracle_text": "Whenever an opponent taps a land for mana, tap all lands that player controls.\nIf a creature an opponent controls attacks, all creatures that opponent controls attack if able.",
+        "mana_cost": "{3}{R}",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.jpg?1793955798",
+          "normal": "https://cards.scryfall.io/normal/front/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.jpg?1793955798",
+          "large": "https://cards.scryfall.io/large/front/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.jpg?1793955798",
+          "png": "https://cards.scryfall.io/png/front/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.png?1793955798",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.jpg?1793955798",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.jpg?1793955798",
+          "thumb": "https://cards.scryfall.io/thumb/front/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.webp?1793955798",
+          "grid": "https://cards.scryfall.io/grid/front/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.webp?1793955798",
+          "display": "https://cards.scryfall.io/display/front/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.webp?1793955798",
+          "art": "https://cards.scryfall.io/art/front/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.webp?1793955798",
+          "crop": "https://cards.scryfall.io/crop/front/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.webp?1793955798",
+          "jpeg": "https://cards.scryfall.io/normal/front/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.jpg?1793955798"
+        }
+      },
+      {
+        "name": "War's Toll",
+        "oracle_text": "Whenever an opponent taps a land for mana, tap all lands that player controls.\nIf a creature an opponent controls attacks, all creatures that opponent controls attack if able.",
+        "mana_cost": "{3}{R}",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.jpg?1793955798",
+          "normal": "https://cards.scryfall.io/normal/back/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.jpg?1793955798",
+          "large": "https://cards.scryfall.io/large/back/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.jpg?1793955798",
+          "png": "https://cards.scryfall.io/png/back/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.png?1793955798",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.jpg?1793955798",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.jpg?1793955798",
+          "thumb": "https://cards.scryfall.io/thumb/back/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.webp?1793955798",
+          "grid": "https://cards.scryfall.io/grid/back/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.webp?1793955798",
+          "display": "https://cards.scryfall.io/display/back/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.webp?1793955798",
+          "art": "https://cards.scryfall.io/art/back/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.webp?1793955798",
+          "crop": "https://cards.scryfall.io/crop/back/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.webp?1793955798",
+          "jpeg": "https://cards.scryfall.io/normal/back/4/e/4e5db87d-b0bf-49cf-a30e-3375ea6d4cda.jpg?1793955798"
+        }
+      }
+    ]
+  },
+  {
+    "id": "a4e971ed-f532-4f4b-a5ad-d08ff214fa9a",
+    "name": "Essence Flux // Essence Flux",
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "rarity": "common",
+    "released_at": "2026-11-13",
+    "discovered_at": "2026-11-06T11:38:58.376372+00:00",
+    "scryfall_uri": "https://scryfall.com/card/sld/2746/essence-flux-essence-flux?utm_source=api",
+    "card_faces": [
+      {
+        "name": "Essence Flux",
+        "oracle_text": "Exile target creature you control, then return that card to the battlefield under its owner's control. If it's a Spirit, put a +1/+1 counter on it.",
+        "mana_cost": "{U}",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.jpg?1793956115",
+          "normal": "https://cards.scryfall.io/normal/front/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.jpg?1793956115",
+          "large": "https://cards.scryfall.io/large/front/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.jpg?1793956115",
+          "png": "https://cards.scryfall.io/png/front/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.png?1793956115",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.jpg?1793956115",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.jpg?1793956115",
+          "thumb": "https://cards.scryfall.io/thumb/front/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.webp?1793956115",
+          "grid": "https://cards.scryfall.io/grid/front/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.webp?1793956115",
+          "display": "https://cards.scryfall.io/display/front/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.webp?1793956115",
+          "art": "https://cards.scryfall.io/art/front/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.webp?1793956115",
+          "crop": "https://cards.scryfall.io/crop/front/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.webp?1793956115",
+          "jpeg": "https://cards.scryfall.io/normal/front/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.jpg?1793956115"
+        }
+      },
+      {
+        "name": "Essence Flux",
+        "oracle_text": "Exile target creature you control, then return that card to the battlefield under its owner's control. If it's a Spirit, put a +1/+1 counter on it.",
+        "mana_cost": "{U}",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.jpg?1793956115",
+          "normal": "https://cards.scryfall.io/normal/back/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.jpg?1793956115",
+          "large": "https://cards.scryfall.io/large/back/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.jpg?1793956115",
+          "png": "https://cards.scryfall.io/png/back/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.png?1793956115",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.jpg?1793956115",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.jpg?1793956115",
+          "thumb": "https://cards.scryfall.io/thumb/back/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.webp?1793956115",
+          "grid": "https://cards.scryfall.io/grid/back/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.webp?1793956115",
+          "display": "https://cards.scryfall.io/display/back/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.webp?1793956115",
+          "art": "https://cards.scryfall.io/art/back/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.webp?1793956115",
+          "crop": "https://cards.scryfall.io/crop/back/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.webp?1793956115",
+          "jpeg": "https://cards.scryfall.io/normal/back/a/4/a4e971ed-f532-4f4b-a5ad-d08ff214fa9a.jpg?1793956115"
+        }
+      }
+    ]
+  },
+  {
+    "id": "d98867cd-da4c-423f-bfc5-5b2902b0aeaf",
+    "name": "Seething Song // Seething Song",
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "rarity": "common",
+    "released_at": "2026-11-13",
+    "discovered_at": "2026-11-06T11:38:58.376372+00:00",
+    "scryfall_uri": "https://scryfall.com/card/sld/2736/seething-song-seething-song?utm_source=api",
+    "card_faces": [
+      {
+        "name": "Seething Song",
+        "oracle_text": "Add {R}{R}{R}{R}{R}.",
+        "mana_cost": "{2}{R}",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.jpg?1793956150",
+          "normal": "https://cards.scryfall.io/normal/front/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.jpg?1793956150",
+          "large": "https://cards.scryfall.io/large/front/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.jpg?1793956150",
+          "png": "https://cards.scryfall.io/png/front/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.png?1793956150",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.jpg?1793956150",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.jpg?1793956150",
+          "thumb": "https://cards.scryfall.io/thumb/front/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.webp?1793956150",
+          "grid": "https://cards.scryfall.io/grid/front/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.webp?1793956150",
+          "display": "https://cards.scryfall.io/display/front/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.webp?1793956150",
+          "art": "https://cards.scryfall.io/art/front/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.webp?1793956150",
+          "crop": "https://cards.scryfall.io/crop/front/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.webp?1793956150",
+          "jpeg": "https://cards.scryfall.io/normal/front/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.jpg?1793956150"
+        }
+      },
+      {
+        "name": "Seething Song",
+        "oracle_text": "Add {R}{R}{R}{R}{R}.",
+        "mana_cost": "{2}{R}",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.jpg?1793956150",
+          "normal": "https://cards.scryfall.io/normal/back/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.jpg?1793956150",
+          "large": "https://cards.scryfall.io/large/back/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.jpg?1793956150",
+          "png": "https://cards.scryfall.io/png/back/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.png?1793956150",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.jpg?1793956150",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.jpg?1793956150",
+          "thumb": "https://cards.scryfall.io/thumb/back/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.webp?1793956150",
+          "grid": "https://cards.scryfall.io/grid/back/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.webp?1793956150",
+          "display": "https://cards.scryfall.io/display/back/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.webp?1793956150",
+          "art": "https://cards.scryfall.io/art/back/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.webp?1793956150",
+          "crop": "https://cards.scryfall.io/crop/back/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.webp?1793956150",
+          "jpeg": "https://cards.scryfall.io/normal/back/d/9/d98867cd-da4c-423f-bfc5-5b2902b0aeaf.jpg?1793956150"
+        }
+      }
+    ]
+  },
+  {
+    "id": "dc791c6a-331a-44f6-ab40-7a1ff9673170",
+    "name": "Conjurer's Closet // Conjurer's Closet",
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "rarity": "common",
+    "released_at": "2026-11-13",
+    "discovered_at": "2026-11-06T11:38:58.376372+00:00",
+    "scryfall_uri": "https://scryfall.com/card/sld/2747/conjurers-closet-conjurers-closet?utm_source=api",
+    "card_faces": [
+      {
+        "name": "Conjurer's Closet",
+        "oracle_text": "At the beginning of your end step, you may exile target creature you control, then return that card to the battlefield under your control.",
+        "mana_cost": "{5}",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.jpg?1793956081",
+          "normal": "https://cards.scryfall.io/normal/front/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.jpg?1793956081",
+          "large": "https://cards.scryfall.io/large/front/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.jpg?1793956081",
+          "png": "https://cards.scryfall.io/png/front/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.png?1793956081",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.jpg?1793956081",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.jpg?1793956081",
+          "thumb": "https://cards.scryfall.io/thumb/front/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.webp?1793956081",
+          "grid": "https://cards.scryfall.io/grid/front/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.webp?1793956081",
+          "display": "https://cards.scryfall.io/display/front/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.webp?1793956081",
+          "art": "https://cards.scryfall.io/art/front/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.webp?1793956081",
+          "crop": "https://cards.scryfall.io/crop/front/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.webp?1793956081",
+          "jpeg": "https://cards.scryfall.io/normal/front/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.jpg?1793956081"
+        }
+      },
+      {
+        "name": "Conjurer's Closet",
+        "oracle_text": "At the beginning of your end step, you may exile target creature you control, then return that card to the battlefield under your control.",
+        "mana_cost": "{5}",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.jpg?1793956081",
+          "normal": "https://cards.scryfall.io/normal/back/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.jpg?1793956081",
+          "large": "https://cards.scryfall.io/large/back/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.jpg?1793956081",
+          "png": "https://cards.scryfall.io/png/back/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.png?1793956081",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.jpg?1793956081",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.jpg?1793956081",
+          "thumb": "https://cards.scryfall.io/thumb/back/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.webp?1793956081",
+          "grid": "https://cards.scryfall.io/grid/back/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.webp?1793956081",
+          "display": "https://cards.scryfall.io/display/back/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.webp?1793956081",
+          "art": "https://cards.scryfall.io/art/back/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.webp?1793956081",
+          "crop": "https://cards.scryfall.io/crop/back/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.webp?1793956081",
+          "jpeg": "https://cards.scryfall.io/normal/back/d/c/dc791c6a-331a-44f6-ab40-7a1ff9673170.jpg?1793956081"
+        }
+      }
+    ]
+  },
+  {
+    "id": "dca9d627-caae-4c59-89c2-efb8702e9a51",
+    "name": "Momentary Blink // Momentary Blink",
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "rarity": "common",
+    "released_at": "2026-11-13",
+    "discovered_at": "2026-11-06T11:38:58.376372+00:00",
+    "scryfall_uri": "https://scryfall.com/card/sld/2745/momentary-blink-momentary-blink?utm_source=api",
+    "card_faces": [
+      {
+        "name": "Momentary Blink",
+        "oracle_text": "Exile target creature you control, then return it to the battlefield under its owner's control.\nFlashback {3}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "mana_cost": "{1}{W}",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.jpg?1793956098",
+          "normal": "https://cards.scryfall.io/normal/front/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.jpg?1793956098",
+          "large": "https://cards.scryfall.io/large/front/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.jpg?1793956098",
+          "png": "https://cards.scryfall.io/png/front/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.png?1793956098",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.jpg?1793956098",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.jpg?1793956098",
+          "thumb": "https://cards.scryfall.io/thumb/front/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.webp?1793956098",
+          "grid": "https://cards.scryfall.io/grid/front/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.webp?1793956098",
+          "display": "https://cards.scryfall.io/display/front/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.webp?1793956098",
+          "art": "https://cards.scryfall.io/art/front/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.webp?1793956098",
+          "crop": "https://cards.scryfall.io/crop/front/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.webp?1793956098",
+          "jpeg": "https://cards.scryfall.io/normal/front/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.jpg?1793956098"
+        }
+      },
+      {
+        "name": "Momentary Blink",
+        "oracle_text": "Exile target creature you control, then return it to the battlefield under its owner's control.\nFlashback {3}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "mana_cost": "{1}{W}",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.jpg?1793956098",
+          "normal": "https://cards.scryfall.io/normal/back/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.jpg?1793956098",
+          "large": "https://cards.scryfall.io/large/back/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.jpg?1793956098",
+          "png": "https://cards.scryfall.io/png/back/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.png?1793956098",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.jpg?1793956098",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.jpg?1793956098",
+          "thumb": "https://cards.scryfall.io/thumb/back/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.webp?1793956098",
+          "grid": "https://cards.scryfall.io/grid/back/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.webp?1793956098",
+          "display": "https://cards.scryfall.io/display/back/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.webp?1793956098",
+          "art": "https://cards.scryfall.io/art/back/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.webp?1793956098",
+          "crop": "https://cards.scryfall.io/crop/back/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.webp?1793956098",
+          "jpeg": "https://cards.scryfall.io/normal/back/d/c/dca9d627-caae-4c59-89c2-efb8702e9a51.jpg?1793956098"
+        }
+      }
+    ]
+  },
+  {
+    "id": "e547e0fe-b274-4609-a596-d64c9dc46c1c",
+    "name": "Warstorm Surge // Warstorm Surge",
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "rarity": "common",
+    "released_at": "2026-11-13",
+    "discovered_at": "2026-11-06T11:38:58.376372+00:00",
+    "scryfall_uri": "https://scryfall.com/card/sld/2738/warstorm-surge-warstorm-surge?utm_source=api",
+    "card_faces": [
+      {
+        "name": "Warstorm Surge",
+        "oracle_text": "Whenever a creature you control enters, it deals damage equal to its power to any target.",
+        "mana_cost": "{5}{R}",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.jpg?1793956048",
+          "normal": "https://cards.scryfall.io/normal/front/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.jpg?1793956048",
+          "large": "https://cards.scryfall.io/large/front/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.jpg?1793956048",
+          "png": "https://cards.scryfall.io/png/front/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.png?1793956048",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.jpg?1793956048",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.jpg?1793956048",
+          "thumb": "https://cards.scryfall.io/thumb/front/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.webp?1793956048",
+          "grid": "https://cards.scryfall.io/grid/front/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.webp?1793956048",
+          "display": "https://cards.scryfall.io/display/front/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.webp?1793956048",
+          "art": "https://cards.scryfall.io/art/front/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.webp?1793956048",
+          "crop": "https://cards.scryfall.io/crop/front/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.webp?1793956048",
+          "jpeg": "https://cards.scryfall.io/normal/front/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.jpg?1793956048"
+        }
+      },
+      {
+        "name": "Warstorm Surge",
+        "oracle_text": "Whenever a creature you control enters, it deals damage equal to its power to any target.",
+        "mana_cost": "{5}{R}",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.jpg?1793956048",
+          "normal": "https://cards.scryfall.io/normal/back/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.jpg?1793956048",
+          "large": "https://cards.scryfall.io/large/back/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.jpg?1793956048",
+          "png": "https://cards.scryfall.io/png/back/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.png?1793956048",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.jpg?1793956048",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.jpg?1793956048",
+          "thumb": "https://cards.scryfall.io/thumb/back/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.webp?1793956048",
+          "grid": "https://cards.scryfall.io/grid/back/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.webp?1793956048",
+          "display": "https://cards.scryfall.io/display/back/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.webp?1793956048",
+          "art": "https://cards.scryfall.io/art/back/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.webp?1793956048",
+          "crop": "https://cards.scryfall.io/crop/back/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.webp?1793956048",
+          "jpeg": "https://cards.scryfall.io/normal/back/e/5/e547e0fe-b274-4609-a596-d64c9dc46c1c.jpg?1793956048"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ec1503bc-b144-4a63-8144-afa3140685db",
+    "name": "Demand Answers // Demand Answers",
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "rarity": "common",
+    "released_at": "2026-11-13",
+    "discovered_at": "2026-11-06T11:38:58.376372+00:00",
+    "scryfall_uri": "https://scryfall.com/card/sld/2734/demand-answers-demand-answers?utm_source=api",
+    "card_faces": [
+      {
+        "name": "Demand Answers",
+        "oracle_text": "As an additional cost to cast this spell, sacrifice an artifact or discard a card.\nDraw two cards.",
+        "mana_cost": "{1}{R}",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/e/c/ec1503bc-b144-4a63-8144-afa3140685db.jpg?1793956032",
+          "normal": "https://cards.scryfall.io/normal/front/e/c/ec1503bc-b144-4a63-8144-afa3140685db.jpg?1793956032",
+          "large": "https://cards.scryfall.io/large/front/e/c/ec1503bc-b144-4a63-8144-afa3140685db.jpg?1793956032",
+          "png": "https://cards.scryfall.io/png/front/e/c/ec1503bc-b144-4a63-8144-afa3140685db.png?1793956032",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/e/c/ec1503bc-b144-4a63-8144-afa3140685db.jpg?1793956032",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/e/c/ec1503bc-b144-4a63-8144-afa3140685db.jpg?1793956032",
+          "thumb": "https://cards.scryfall.io/thumb/front/e/c/ec1503bc-b144-4a63-8144-afa3140685db.webp?1793956032",
+          "grid": "https://cards.scryfall.io/grid/front/e/c/ec1503bc-b144-4a63-8144-afa3140685db.webp?1793956032",
+          "display": "https://cards.scryfall.io/display/front/e/c/ec1503bc-b144-4a63-8144-afa3140685db.webp?1793956032",
+          "art": "https://cards.scryfall.io/art/front/e/c/ec1503bc-b144-4a63-8144-afa3140685db.webp?1793956032",
+          "crop": "https://cards.scryfall.io/crop/front/e/c/ec1503bc-b144-4a63-8144-afa3140685db.webp?1793956032",
+          "jpeg": "https://cards.scryfall.io/normal/front/e/c/ec1503bc-b144-4a63-8144-afa3140685db.jpg?1793956032"
+        }
+      },
+      {
+        "name": "Demand Answers",
+        "oracle_text": "As an additional cost to cast this spell, sacrifice an artifact or discard a card.\nDraw two cards.",
+        "mana_cost": "{1}{R}",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/e/c/ec1503bc-b144-4a63-8144-afa3140685db.jpg?1793956032",
+          "normal": "https://cards.scryfall.io/normal/back/e/c/ec1503bc-b144-4a63-8144-afa3140685db.jpg?1793956032",
+          "large": "https://cards.scryfall.io/large/back/e/c/ec1503bc-b144-4a63-8144-afa3140685db.jpg?1793956032",
+          "png": "https://cards.scryfall.io/png/back/e/c/ec1503bc-b144-4a63-8144-afa3140685db.png?1793956032",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/e/c/ec1503bc-b144-4a63-8144-afa3140685db.jpg?1793956032",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/e/c/ec1503bc-b144-4a63-8144-afa3140685db.jpg?1793956032",
+          "thumb": "https://cards.scryfall.io/thumb/back/e/c/ec1503bc-b144-4a63-8144-afa3140685db.webp?1793956032",
+          "grid": "https://cards.scryfall.io/grid/back/e/c/ec1503bc-b144-4a63-8144-afa3140685db.webp?1793956032",
+          "display": "https://cards.scryfall.io/display/back/e/c/ec1503bc-b144-4a63-8144-afa3140685db.webp?1793956032",
+          "art": "https://cards.scryfall.io/art/back/e/c/ec1503bc-b144-4a63-8144-afa3140685db.webp?1793956032",
+          "crop": "https://cards.scryfall.io/crop/back/e/c/ec1503bc-b144-4a63-8144-afa3140685db.webp?1793956032",
+          "jpeg": "https://cards.scryfall.io/normal/back/e/c/ec1503bc-b144-4a63-8144-afa3140685db.jpg?1793956032"
+        }
+      }
+    ]
+  },
+  {
     "id": "e82486f1-7c76-4586-afd9-1f009347d357",
     "oracle_id": "78f9c223-9982-4282-a496-a6f892f0a5bf",
     "name": "Mind Twist",
@@ -15257,258 +15707,6 @@
       "art": "https://cards.scryfall.io/art/front/c/c/cc2d2abf-6f6b-48ee-842c-dfeda8b44b6d.webp?1793020972",
       "crop": "https://cards.scryfall.io/crop/front/c/c/cc2d2abf-6f6b-48ee-842c-dfeda8b44b6d.webp?1793020972",
       "jpeg": "https://cards.scryfall.io/normal/front/c/c/cc2d2abf-6f6b-48ee-842c-dfeda8b44b6d.jpg?1793020972"
-    }
-  },
-  {
-    "id": "cdb88301-f421-4411-be3a-bdfc83906c17",
-    "oracle_id": "caafecc0-adfa-478c-8a9d-234d4069300b",
-    "name": "Co-Option Adjutant",
-    "set": "trc",
-    "set_name": "Star Trek Commander",
-    "mana_cost": "{3}{U}",
-    "type_line": "Artifact Creature — Borg",
-    "oracle_text": "Artifact creatures you control have \"Whenever this creature deals combat damage to a player, draw a card.\"",
-    "rarity": "rare",
-    "released_at": "2026-11-13",
-    "discovered_at": "2026-10-26T20:47:30.004671+00:00",
-    "scryfall_uri": "https://scryfall.com/card/trc/39/co-option-adjutant?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/c/d/cdb88301-f421-4411-be3a-bdfc83906c17.jpg?1793020914",
-      "normal": "https://cards.scryfall.io/normal/front/c/d/cdb88301-f421-4411-be3a-bdfc83906c17.jpg?1793020914",
-      "large": "https://cards.scryfall.io/large/front/c/d/cdb88301-f421-4411-be3a-bdfc83906c17.jpg?1793020914",
-      "png": "https://cards.scryfall.io/png/front/c/d/cdb88301-f421-4411-be3a-bdfc83906c17.png?1793020914",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/c/d/cdb88301-f421-4411-be3a-bdfc83906c17.jpg?1793020914",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/c/d/cdb88301-f421-4411-be3a-bdfc83906c17.jpg?1793020914",
-      "thumb": "https://cards.scryfall.io/thumb/front/c/d/cdb88301-f421-4411-be3a-bdfc83906c17.webp?1793020914",
-      "grid": "https://cards.scryfall.io/grid/front/c/d/cdb88301-f421-4411-be3a-bdfc83906c17.webp?1793020914",
-      "display": "https://cards.scryfall.io/display/front/c/d/cdb88301-f421-4411-be3a-bdfc83906c17.webp?1793020914",
-      "art": "https://cards.scryfall.io/art/front/c/d/cdb88301-f421-4411-be3a-bdfc83906c17.webp?1793020914",
-      "crop": "https://cards.scryfall.io/crop/front/c/d/cdb88301-f421-4411-be3a-bdfc83906c17.webp?1793020914",
-      "jpeg": "https://cards.scryfall.io/normal/front/c/d/cdb88301-f421-4411-be3a-bdfc83906c17.jpg?1793020914"
-    }
-  },
-  {
-    "id": "cdc3f611-5aaf-4e12-8751-adb815aa23f8",
-    "oracle_id": "cce9bbff-82dc-4b2f-addd-d6715588de20",
-    "name": "Thoughtcast",
-    "set": "trc",
-    "set_name": "Star Trek Commander",
-    "mana_cost": "{4}{U}",
-    "type_line": "Sorcery",
-    "oracle_text": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nDraw two cards.",
-    "rarity": "common",
-    "released_at": "2026-11-13",
-    "discovered_at": "2026-10-26T20:47:30.004671+00:00",
-    "scryfall_uri": "https://scryfall.com/card/trc/444/thoughtcast?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/c/d/cdc3f611-5aaf-4e12-8751-adb815aa23f8.jpg?1793021092",
-      "normal": "https://cards.scryfall.io/normal/front/c/d/cdc3f611-5aaf-4e12-8751-adb815aa23f8.jpg?1793021092",
-      "large": "https://cards.scryfall.io/large/front/c/d/cdc3f611-5aaf-4e12-8751-adb815aa23f8.jpg?1793021092",
-      "png": "https://cards.scryfall.io/png/front/c/d/cdc3f611-5aaf-4e12-8751-adb815aa23f8.png?1793021092",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/c/d/cdc3f611-5aaf-4e12-8751-adb815aa23f8.jpg?1793021092",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/c/d/cdc3f611-5aaf-4e12-8751-adb815aa23f8.jpg?1793021092",
-      "thumb": "https://cards.scryfall.io/thumb/front/c/d/cdc3f611-5aaf-4e12-8751-adb815aa23f8.webp?1793021092",
-      "grid": "https://cards.scryfall.io/grid/front/c/d/cdc3f611-5aaf-4e12-8751-adb815aa23f8.webp?1793021092",
-      "display": "https://cards.scryfall.io/display/front/c/d/cdc3f611-5aaf-4e12-8751-adb815aa23f8.webp?1793021092",
-      "art": "https://cards.scryfall.io/art/front/c/d/cdc3f611-5aaf-4e12-8751-adb815aa23f8.webp?1793021092",
-      "crop": "https://cards.scryfall.io/crop/front/c/d/cdc3f611-5aaf-4e12-8751-adb815aa23f8.webp?1793021092",
-      "jpeg": "https://cards.scryfall.io/normal/front/c/d/cdc3f611-5aaf-4e12-8751-adb815aa23f8.jpg?1793021092"
-    }
-  },
-  {
-    "id": "cfe118f0-f727-41a6-aaaf-9638fe1dad49",
-    "oracle_id": "776341cb-d2ec-423f-9250-92dc8bd8d503",
-    "name": "Bitter Triumph",
-    "set": "trc",
-    "set_name": "Star Trek Commander",
-    "mana_cost": "{1}{B}",
-    "type_line": "Instant",
-    "oracle_text": "As an additional cost to cast this spell, discard a card or pay 3 life.\nDestroy target creature or planeswalker.",
-    "rarity": "uncommon",
-    "released_at": "2026-11-13",
-    "discovered_at": "2026-10-26T20:47:30.004671+00:00",
-    "scryfall_uri": "https://scryfall.com/card/trc/445/bitter-triumph?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/c/f/cfe118f0-f727-41a6-aaaf-9638fe1dad49.jpg?1793021093",
-      "normal": "https://cards.scryfall.io/normal/front/c/f/cfe118f0-f727-41a6-aaaf-9638fe1dad49.jpg?1793021093",
-      "large": "https://cards.scryfall.io/large/front/c/f/cfe118f0-f727-41a6-aaaf-9638fe1dad49.jpg?1793021093",
-      "png": "https://cards.scryfall.io/png/front/c/f/cfe118f0-f727-41a6-aaaf-9638fe1dad49.png?1793021093",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/c/f/cfe118f0-f727-41a6-aaaf-9638fe1dad49.jpg?1793021093",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/c/f/cfe118f0-f727-41a6-aaaf-9638fe1dad49.jpg?1793021093",
-      "thumb": "https://cards.scryfall.io/thumb/front/c/f/cfe118f0-f727-41a6-aaaf-9638fe1dad49.webp?1793021093",
-      "grid": "https://cards.scryfall.io/grid/front/c/f/cfe118f0-f727-41a6-aaaf-9638fe1dad49.webp?1793021093",
-      "display": "https://cards.scryfall.io/display/front/c/f/cfe118f0-f727-41a6-aaaf-9638fe1dad49.webp?1793021093",
-      "art": "https://cards.scryfall.io/art/front/c/f/cfe118f0-f727-41a6-aaaf-9638fe1dad49.webp?1793021093",
-      "crop": "https://cards.scryfall.io/crop/front/c/f/cfe118f0-f727-41a6-aaaf-9638fe1dad49.webp?1793021093",
-      "jpeg": "https://cards.scryfall.io/normal/front/c/f/cfe118f0-f727-41a6-aaaf-9638fe1dad49.jpg?1793021093"
-    }
-  },
-  {
-    "id": "d0e3ff04-aa5b-4d6d-b06e-b4679f7938b8",
-    "oracle_id": "a3da7d5b-2c2b-45fe-b9c5-413b8c8fc0a2",
-    "name": "Academy Ruins",
-    "set": "trc",
-    "set_name": "Star Trek Commander",
-    "mana_cost": "",
-    "type_line": "Legendary Land",
-    "oracle_text": "{T}: Add {C}.\n{1}{U}, {T}: Put target artifact card from your graveyard on top of your library.",
-    "rarity": "rare",
-    "released_at": "2026-11-13",
-    "discovered_at": "2026-10-26T20:47:30.004671+00:00",
-    "scryfall_uri": "https://scryfall.com/card/trc/512/academy-ruins?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/d/0/d0e3ff04-aa5b-4d6d-b06e-b4679f7938b8.jpg?1793021243",
-      "normal": "https://cards.scryfall.io/normal/front/d/0/d0e3ff04-aa5b-4d6d-b06e-b4679f7938b8.jpg?1793021243",
-      "large": "https://cards.scryfall.io/large/front/d/0/d0e3ff04-aa5b-4d6d-b06e-b4679f7938b8.jpg?1793021243",
-      "png": "https://cards.scryfall.io/png/front/d/0/d0e3ff04-aa5b-4d6d-b06e-b4679f7938b8.png?1793021243",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/d/0/d0e3ff04-aa5b-4d6d-b06e-b4679f7938b8.jpg?1793021243",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/d/0/d0e3ff04-aa5b-4d6d-b06e-b4679f7938b8.jpg?1793021243",
-      "thumb": "https://cards.scryfall.io/thumb/front/d/0/d0e3ff04-aa5b-4d6d-b06e-b4679f7938b8.webp?1793021243",
-      "grid": "https://cards.scryfall.io/grid/front/d/0/d0e3ff04-aa5b-4d6d-b06e-b4679f7938b8.webp?1793021243",
-      "display": "https://cards.scryfall.io/display/front/d/0/d0e3ff04-aa5b-4d6d-b06e-b4679f7938b8.webp?1793021243",
-      "art": "https://cards.scryfall.io/art/front/d/0/d0e3ff04-aa5b-4d6d-b06e-b4679f7938b8.webp?1793021243",
-      "crop": "https://cards.scryfall.io/crop/front/d/0/d0e3ff04-aa5b-4d6d-b06e-b4679f7938b8.webp?1793021243",
-      "jpeg": "https://cards.scryfall.io/normal/front/d/0/d0e3ff04-aa5b-4d6d-b06e-b4679f7938b8.jpg?1793021243"
-    }
-  },
-  {
-    "id": "d306154a-7adb-4b35-b0cf-9c8d2fc1f72f",
-    "oracle_id": "027dd013-baa7-4111-b3c9-f4d1414e9c45",
-    "name": "Glacial Fortress",
-    "set": "trc",
-    "set_name": "Star Trek Commander",
-    "mana_cost": "",
-    "type_line": "Land",
-    "oracle_text": "This land enters tapped unless you control a Plains or an Island.\n{T}: Add {W} or {U}.",
-    "rarity": "rare",
-    "released_at": "2026-11-13",
-    "discovered_at": "2026-10-26T20:47:30.004671+00:00",
-    "scryfall_uri": "https://scryfall.com/card/trc/535/glacial-fortress?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/d/3/d306154a-7adb-4b35-b0cf-9c8d2fc1f72f.jpg?1793021313",
-      "normal": "https://cards.scryfall.io/normal/front/d/3/d306154a-7adb-4b35-b0cf-9c8d2fc1f72f.jpg?1793021313",
-      "large": "https://cards.scryfall.io/large/front/d/3/d306154a-7adb-4b35-b0cf-9c8d2fc1f72f.jpg?1793021313",
-      "png": "https://cards.scryfall.io/png/front/d/3/d306154a-7adb-4b35-b0cf-9c8d2fc1f72f.png?1793021313",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/d/3/d306154a-7adb-4b35-b0cf-9c8d2fc1f72f.jpg?1793021313",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/d/3/d306154a-7adb-4b35-b0cf-9c8d2fc1f72f.jpg?1793021313",
-      "thumb": "https://cards.scryfall.io/thumb/front/d/3/d306154a-7adb-4b35-b0cf-9c8d2fc1f72f.webp?1793021313",
-      "grid": "https://cards.scryfall.io/grid/front/d/3/d306154a-7adb-4b35-b0cf-9c8d2fc1f72f.webp?1793021313",
-      "display": "https://cards.scryfall.io/display/front/d/3/d306154a-7adb-4b35-b0cf-9c8d2fc1f72f.webp?1793021313",
-      "art": "https://cards.scryfall.io/art/front/d/3/d306154a-7adb-4b35-b0cf-9c8d2fc1f72f.webp?1793021313",
-      "crop": "https://cards.scryfall.io/crop/front/d/3/d306154a-7adb-4b35-b0cf-9c8d2fc1f72f.webp?1793021313",
-      "jpeg": "https://cards.scryfall.io/normal/front/d/3/d306154a-7adb-4b35-b0cf-9c8d2fc1f72f.jpg?1793021313"
-    }
-  },
-  {
-    "id": "d46d512e-b4c1-42df-9945-c5ba4e2d339f",
-    "oracle_id": "58e9f5db-c369-42c6-a26d-fc31e25d5f83",
-    "name": "Emergency Regeneration",
-    "set": "trc",
-    "set_name": "Star Trek Commander",
-    "mana_cost": "{1}{W}",
-    "type_line": "Instant",
-    "oracle_text": "Artifacts you control gain hexproof and indestructible until end of turn.",
-    "rarity": "rare",
-    "released_at": "2026-11-13",
-    "discovered_at": "2026-10-26T20:47:30.004671+00:00",
-    "scryfall_uri": "https://scryfall.com/card/trc/14/emergency-regeneration?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/d/4/d46d512e-b4c1-42df-9945-c5ba4e2d339f.jpg?1793020844",
-      "normal": "https://cards.scryfall.io/normal/front/d/4/d46d512e-b4c1-42df-9945-c5ba4e2d339f.jpg?1793020844",
-      "large": "https://cards.scryfall.io/large/front/d/4/d46d512e-b4c1-42df-9945-c5ba4e2d339f.jpg?1793020844",
-      "png": "https://cards.scryfall.io/png/front/d/4/d46d512e-b4c1-42df-9945-c5ba4e2d339f.png?1793020844",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/d/4/d46d512e-b4c1-42df-9945-c5ba4e2d339f.jpg?1793020844",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/d/4/d46d512e-b4c1-42df-9945-c5ba4e2d339f.jpg?1793020844",
-      "thumb": "https://cards.scryfall.io/thumb/front/d/4/d46d512e-b4c1-42df-9945-c5ba4e2d339f.webp?1793020844",
-      "grid": "https://cards.scryfall.io/grid/front/d/4/d46d512e-b4c1-42df-9945-c5ba4e2d339f.webp?1793020844",
-      "display": "https://cards.scryfall.io/display/front/d/4/d46d512e-b4c1-42df-9945-c5ba4e2d339f.webp?1793020844",
-      "art": "https://cards.scryfall.io/art/front/d/4/d46d512e-b4c1-42df-9945-c5ba4e2d339f.webp?1793020844",
-      "crop": "https://cards.scryfall.io/crop/front/d/4/d46d512e-b4c1-42df-9945-c5ba4e2d339f.webp?1793020844",
-      "jpeg": "https://cards.scryfall.io/normal/front/d/4/d46d512e-b4c1-42df-9945-c5ba4e2d339f.jpg?1793020844"
-    }
-  },
-  {
-    "id": "d4985fcd-d9d4-418c-a7ca-20233fcfa2b5",
-    "oracle_id": "76f335d0-7f71-4b1a-b60d-73de954cbe2c",
-    "name": "Skycloud Expanse",
-    "set": "trc",
-    "set_name": "Star Trek Commander",
-    "mana_cost": "",
-    "type_line": "Land",
-    "oracle_text": "{1}, {T}: Add {W}{U}.",
-    "rarity": "rare",
-    "released_at": "2026-11-13",
-    "discovered_at": "2026-10-26T20:47:30.004671+00:00",
-    "scryfall_uri": "https://scryfall.com/card/trc/559/skycloud-expanse?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/d/4/d4985fcd-d9d4-418c-a7ca-20233fcfa2b5.jpg?1793021374",
-      "normal": "https://cards.scryfall.io/normal/front/d/4/d4985fcd-d9d4-418c-a7ca-20233fcfa2b5.jpg?1793021374",
-      "large": "https://cards.scryfall.io/large/front/d/4/d4985fcd-d9d4-418c-a7ca-20233fcfa2b5.jpg?1793021374",
-      "png": "https://cards.scryfall.io/png/front/d/4/d4985fcd-d9d4-418c-a7ca-20233fcfa2b5.png?1793021374",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/d/4/d4985fcd-d9d4-418c-a7ca-20233fcfa2b5.jpg?1793021374",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/d/4/d4985fcd-d9d4-418c-a7ca-20233fcfa2b5.jpg?1793021374",
-      "thumb": "https://cards.scryfall.io/thumb/front/d/4/d4985fcd-d9d4-418c-a7ca-20233fcfa2b5.webp?1793021374",
-      "grid": "https://cards.scryfall.io/grid/front/d/4/d4985fcd-d9d4-418c-a7ca-20233fcfa2b5.webp?1793021374",
-      "display": "https://cards.scryfall.io/display/front/d/4/d4985fcd-d9d4-418c-a7ca-20233fcfa2b5.webp?1793021374",
-      "art": "https://cards.scryfall.io/art/front/d/4/d4985fcd-d9d4-418c-a7ca-20233fcfa2b5.webp?1793021374",
-      "crop": "https://cards.scryfall.io/crop/front/d/4/d4985fcd-d9d4-418c-a7ca-20233fcfa2b5.webp?1793021374",
-      "jpeg": "https://cards.scryfall.io/normal/front/d/4/d4985fcd-d9d4-418c-a7ca-20233fcfa2b5.jpg?1793021374"
-    }
-  },
-  {
-    "id": "dd3d841f-9bac-4b4d-bf21-2dfadd1397fc",
-    "oracle_id": "5330e24a-8568-446e-840a-594cd08bd1bc",
-    "name": "Prairie Stream",
-    "set": "trc",
-    "set_name": "Star Trek Commander",
-    "mana_cost": "",
-    "type_line": "Land — Plains Island",
-    "oracle_text": "({T}: Add {W} or {U}.)\nThis land enters tapped unless you control two or more basic lands.",
-    "rarity": "rare",
-    "released_at": "2026-11-13",
-    "discovered_at": "2026-10-26T20:47:30.004671+00:00",
-    "scryfall_uri": "https://scryfall.com/card/trc/548/prairie-stream?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/d/d/dd3d841f-9bac-4b4d-bf21-2dfadd1397fc.jpg?1793021358",
-      "normal": "https://cards.scryfall.io/normal/front/d/d/dd3d841f-9bac-4b4d-bf21-2dfadd1397fc.jpg?1793021358",
-      "large": "https://cards.scryfall.io/large/front/d/d/dd3d841f-9bac-4b4d-bf21-2dfadd1397fc.jpg?1793021358",
-      "png": "https://cards.scryfall.io/png/front/d/d/dd3d841f-9bac-4b4d-bf21-2dfadd1397fc.png?1793021358",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/d/d/dd3d841f-9bac-4b4d-bf21-2dfadd1397fc.jpg?1793021358",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/d/d/dd3d841f-9bac-4b4d-bf21-2dfadd1397fc.jpg?1793021358",
-      "thumb": "https://cards.scryfall.io/thumb/front/d/d/dd3d841f-9bac-4b4d-bf21-2dfadd1397fc.webp?1793021358",
-      "grid": "https://cards.scryfall.io/grid/front/d/d/dd3d841f-9bac-4b4d-bf21-2dfadd1397fc.webp?1793021358",
-      "display": "https://cards.scryfall.io/display/front/d/d/dd3d841f-9bac-4b4d-bf21-2dfadd1397fc.webp?1793021358",
-      "art": "https://cards.scryfall.io/art/front/d/d/dd3d841f-9bac-4b4d-bf21-2dfadd1397fc.webp?1793021358",
-      "crop": "https://cards.scryfall.io/crop/front/d/d/dd3d841f-9bac-4b4d-bf21-2dfadd1397fc.webp?1793021358",
-      "jpeg": "https://cards.scryfall.io/normal/front/d/d/dd3d841f-9bac-4b4d-bf21-2dfadd1397fc.jpg?1793021358"
-    }
-  },
-  {
-    "id": "e0747d8a-c878-496f-bdb0-0dddae536e7c",
-    "oracle_id": "857febd9-cdd7-4f8e-a852-d88084b0cfbc",
-    "name": "Underground River",
-    "set": "trc",
-    "set_name": "Star Trek Commander",
-    "mana_cost": "",
-    "type_line": "Land",
-    "oracle_text": "{T}: Add {C}.\n{T}: Add {U} or {B}. This land deals 1 damage to you.",
-    "rarity": "rare",
-    "released_at": "2026-11-13",
-    "discovered_at": "2026-10-26T20:47:30.004671+00:00",
-    "scryfall_uri": "https://scryfall.com/card/trc/575/underground-river?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/e/0/e0747d8a-c878-496f-bdb0-0dddae536e7c.jpg?1793021401",
-      "normal": "https://cards.scryfall.io/normal/front/e/0/e0747d8a-c878-496f-bdb0-0dddae536e7c.jpg?1793021401",
-      "large": "https://cards.scryfall.io/large/front/e/0/e0747d8a-c878-496f-bdb0-0dddae536e7c.jpg?1793021401",
-      "png": "https://cards.scryfall.io/png/front/e/0/e0747d8a-c878-496f-bdb0-0dddae536e7c.png?1793021401",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/e/0/e0747d8a-c878-496f-bdb0-0dddae536e7c.jpg?1793021401",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/e/0/e0747d8a-c878-496f-bdb0-0dddae536e7c.jpg?1793021401",
-      "thumb": "https://cards.scryfall.io/thumb/front/e/0/e0747d8a-c878-496f-bdb0-0dddae536e7c.webp?1793021401",
-      "grid": "https://cards.scryfall.io/grid/front/e/0/e0747d8a-c878-496f-bdb0-0dddae536e7c.webp?1793021401",
-      "display": "https://cards.scryfall.io/display/front/e/0/e0747d8a-c878-496f-bdb0-0dddae536e7c.webp?1793021401",
-      "art": "https://cards.scryfall.io/art/front/e/0/e0747d8a-c878-496f-bdb0-0dddae536e7c.webp?1793021401",
-      "crop": "https://cards.scryfall.io/crop/front/e/0/e0747d8a-c878-496f-bdb0-0dddae536e7c.webp?1793021401",
-      "jpeg": "https://cards.scryfall.io/normal/front/e/0/e0747d8a-c878-496f-bdb0-0dddae536e7c.jpg?1793021401"
     }
   }
 ]
