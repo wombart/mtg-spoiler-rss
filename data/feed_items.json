@@ -1,5 +1,33 @@
 [
   {
+    "id": "bd579278-3e3e-4a3b-bc46-5dd4ba0a932c",
+    "oracle_id": "6257c2fd-005f-41e3-8a72-af76df1eb134",
+    "name": "Terminate",
+    "set": "slc",
+    "set_name": "Secret Lair Countdown",
+    "mana_cost": "{B}{R}",
+    "type_line": "Instant",
+    "oracle_text": "Destroy target creature. It can't be regenerated.",
+    "rarity": "rare",
+    "released_at": "2026-11-02",
+    "discovered_at": "2026-11-07T21:07:58.746603+00:00",
+    "scryfall_uri": "https://scryfall.com/card/slc/84/terminate?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/b/d/bd579278-3e3e-4a3b-bc46-5dd4ba0a932c.jpg?1794057533",
+      "normal": "https://cards.scryfall.io/normal/front/b/d/bd579278-3e3e-4a3b-bc46-5dd4ba0a932c.jpg?1794057533",
+      "large": "https://cards.scryfall.io/large/front/b/d/bd579278-3e3e-4a3b-bc46-5dd4ba0a932c.jpg?1794057533",
+      "png": "https://cards.scryfall.io/png/front/b/d/bd579278-3e3e-4a3b-bc46-5dd4ba0a932c.png?1794057533",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/b/d/bd579278-3e3e-4a3b-bc46-5dd4ba0a932c.jpg?1794057533",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/b/d/bd579278-3e3e-4a3b-bc46-5dd4ba0a932c.jpg?1794057533",
+      "thumb": "https://cards.scryfall.io/thumb/front/b/d/bd579278-3e3e-4a3b-bc46-5dd4ba0a932c.webp?1794057533",
+      "grid": "https://cards.scryfall.io/grid/front/b/d/bd579278-3e3e-4a3b-bc46-5dd4ba0a932c.webp?1794057533",
+      "display": "https://cards.scryfall.io/display/front/b/d/bd579278-3e3e-4a3b-bc46-5dd4ba0a932c.webp?1794057533",
+      "art": "https://cards.scryfall.io/art/front/b/d/bd579278-3e3e-4a3b-bc46-5dd4ba0a932c.webp?1794057533",
+      "crop": "https://cards.scryfall.io/crop/front/b/d/bd579278-3e3e-4a3b-bc46-5dd4ba0a932c.webp?1794057533",
+      "jpeg": "https://cards.scryfall.io/normal/front/b/d/bd579278-3e3e-4a3b-bc46-5dd4ba0a932c.jpg?1794057533"
+    }
+  },
+  {
     "id": "35306f70-ec13-469a-9954-0d90b8b8b687",
     "name": "Eerie Interlude // Eerie Interlude",
     "set": "sld",
@@ -15679,34 +15707,6 @@
       "art": "https://cards.scryfall.io/art/front/c/9/c91ec9e3-abd5-4c23-b342-0c6a12cc970a.webp?1793020884",
       "crop": "https://cards.scryfall.io/crop/front/c/9/c91ec9e3-abd5-4c23-b342-0c6a12cc970a.webp?1793020884",
       "jpeg": "https://cards.scryfall.io/normal/front/c/9/c91ec9e3-abd5-4c23-b342-0c6a12cc970a.jpg?1793020884"
-    }
-  },
-  {
-    "id": "cc2d2abf-6f6b-48ee-842c-dfeda8b44b6d",
-    "oracle_id": "24964ce8-1eec-49b3-9db1-b895bc686ec5",
-    "name": "Extraction Integrant",
-    "set": "trc",
-    "set_name": "Star Trek Commander",
-    "mana_cost": "{1}{B}",
-    "type_line": "Artifact Creature — Borg",
-    "oracle_text": "Artifact creatures you control have menace and \"Whenever a creature blocks this creature, that creature gets -1/-1 until end of turn.\"",
-    "rarity": "rare",
-    "released_at": "2026-11-13",
-    "discovered_at": "2026-10-26T20:47:30.004671+00:00",
-    "scryfall_uri": "https://scryfall.com/card/trc/59/extraction-integrant?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/c/c/cc2d2abf-6f6b-48ee-842c-dfeda8b44b6d.jpg?1793020972",
-      "normal": "https://cards.scryfall.io/normal/front/c/c/cc2d2abf-6f6b-48ee-842c-dfeda8b44b6d.jpg?1793020972",
-      "large": "https://cards.scryfall.io/large/front/c/c/cc2d2abf-6f6b-48ee-842c-dfeda8b44b6d.jpg?1793020972",
-      "png": "https://cards.scryfall.io/png/front/c/c/cc2d2abf-6f6b-48ee-842c-dfeda8b44b6d.png?1793020972",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/c/c/cc2d2abf-6f6b-48ee-842c-dfeda8b44b6d.jpg?1793020972",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/c/c/cc2d2abf-6f6b-48ee-842c-dfeda8b44b6d.jpg?1793020972",
-      "thumb": "https://cards.scryfall.io/thumb/front/c/c/cc2d2abf-6f6b-48ee-842c-dfeda8b44b6d.webp?1793020972",
-      "grid": "https://cards.scryfall.io/grid/front/c/c/cc2d2abf-6f6b-48ee-842c-dfeda8b44b6d.webp?1793020972",
-      "display": "https://cards.scryfall.io/display/front/c/c/cc2d2abf-6f6b-48ee-842c-dfeda8b44b6d.webp?1793020972",
-      "art": "https://cards.scryfall.io/art/front/c/c/cc2d2abf-6f6b-48ee-842c-dfeda8b44b6d.webp?1793020972",
-      "crop": "https://cards.scryfall.io/crop/front/c/c/cc2d2abf-6f6b-48ee-842c-dfeda8b44b6d.webp?1793020972",
-      "jpeg": "https://cards.scryfall.io/normal/front/c/c/cc2d2abf-6f6b-48ee-842c-dfeda8b44b6d.jpg?1793020972"
     }
   }
 ]
