@@ -1,5 +1,33 @@
 [
   {
+    "id": "b3368fee-37e8-48ac-92d8-b1edcdfe97d6",
+    "oracle_id": "cb5ca670-a50e-4c73-879a-8dc0aa2cbd9f",
+    "name": "Double-Faced Substitute Card",
+    "set": "smsh",
+    "set_name": "Marvel Super Heroes Substitue Cards",
+    "mana_cost": "",
+    "type_line": "Card",
+    "oracle_text": "(You can use this card to represent a double-faced card.)",
+    "rarity": "common",
+    "released_at": "2026-06-26",
+    "discovered_at": "2026-11-08T08:08:29.069087+00:00",
+    "scryfall_uri": "https://scryfall.com/card/smsh/1/double-faced-substitute-card?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/b/3/b3368fee-37e8-48ac-92d8-b1edcdfe97d6.jpg?1794098709",
+      "normal": "https://cards.scryfall.io/normal/front/b/3/b3368fee-37e8-48ac-92d8-b1edcdfe97d6.jpg?1794098709",
+      "large": "https://cards.scryfall.io/large/front/b/3/b3368fee-37e8-48ac-92d8-b1edcdfe97d6.jpg?1794098709",
+      "png": "https://cards.scryfall.io/png/front/b/3/b3368fee-37e8-48ac-92d8-b1edcdfe97d6.png?1794098709",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/b/3/b3368fee-37e8-48ac-92d8-b1edcdfe97d6.jpg?1794098709",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/b/3/b3368fee-37e8-48ac-92d8-b1edcdfe97d6.jpg?1794098709",
+      "thumb": "https://cards.scryfall.io/thumb/front/b/3/b3368fee-37e8-48ac-92d8-b1edcdfe97d6.webp?1794098709",
+      "grid": "https://cards.scryfall.io/grid/front/b/3/b3368fee-37e8-48ac-92d8-b1edcdfe97d6.webp?1794098709",
+      "display": "https://cards.scryfall.io/display/front/b/3/b3368fee-37e8-48ac-92d8-b1edcdfe97d6.webp?1794098709",
+      "art": "https://cards.scryfall.io/art/front/b/3/b3368fee-37e8-48ac-92d8-b1edcdfe97d6.webp?1794098709",
+      "crop": "https://cards.scryfall.io/crop/front/b/3/b3368fee-37e8-48ac-92d8-b1edcdfe97d6.webp?1794098709",
+      "jpeg": "https://cards.scryfall.io/normal/front/b/3/b3368fee-37e8-48ac-92d8-b1edcdfe97d6.jpg?1794098709"
+    }
+  },
+  {
     "id": "bd579278-3e3e-4a3b-bc46-5dd4ba0a932c",
     "oracle_id": "6257c2fd-005f-41e3-8a72-af76df1eb134",
     "name": "Terminate",
@@ -15679,34 +15707,6 @@
       "art": "https://cards.scryfall.io/art/front/c/8/c84f49bb-3780-4f92-8db2-b27605ceefed.webp?1793021355",
       "crop": "https://cards.scryfall.io/crop/front/c/8/c84f49bb-3780-4f92-8db2-b27605ceefed.webp?1793021355",
       "jpeg": "https://cards.scryfall.io/normal/front/c/8/c84f49bb-3780-4f92-8db2-b27605ceefed.jpg?1793021355"
-    }
-  },
-  {
-    "id": "c91ec9e3-abd5-4c23-b342-0c6a12cc970a",
-    "oracle_id": "ff2ab17e-185b-4782-a4e2-e8ace40ef1bb",
-    "name": "Type-03 Borg Vessel",
-    "set": "trc",
-    "set_name": "Star Trek Commander",
-    "mana_cost": "{3}{W}",
-    "type_line": "Artifact — Spacecraft",
-    "oracle_text": "Artifact spells you cast cost {1} less to cast.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)\n7+ | Flying\nWhenever you cast a spell, create a 1/1 colorless Borg artifact creature token.",
-    "rarity": "rare",
-    "released_at": "2026-11-13",
-    "discovered_at": "2026-10-26T20:47:30.004671+00:00",
-    "scryfall_uri": "https://scryfall.com/card/trc/33/type-03-borg-vessel?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/c/9/c91ec9e3-abd5-4c23-b342-0c6a12cc970a.jpg?1793020884",
-      "normal": "https://cards.scryfall.io/normal/front/c/9/c91ec9e3-abd5-4c23-b342-0c6a12cc970a.jpg?1793020884",
-      "large": "https://cards.scryfall.io/large/front/c/9/c91ec9e3-abd5-4c23-b342-0c6a12cc970a.jpg?1793020884",
-      "png": "https://cards.scryfall.io/png/front/c/9/c91ec9e3-abd5-4c23-b342-0c6a12cc970a.png?1793020884",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/c/9/c91ec9e3-abd5-4c23-b342-0c6a12cc970a.jpg?1793020884",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/c/9/c91ec9e3-abd5-4c23-b342-0c6a12cc970a.jpg?1793020884",
-      "thumb": "https://cards.scryfall.io/thumb/front/c/9/c91ec9e3-abd5-4c23-b342-0c6a12cc970a.webp?1793020884",
-      "grid": "https://cards.scryfall.io/grid/front/c/9/c91ec9e3-abd5-4c23-b342-0c6a12cc970a.webp?1793020884",
-      "display": "https://cards.scryfall.io/display/front/c/9/c91ec9e3-abd5-4c23-b342-0c6a12cc970a.webp?1793020884",
-      "art": "https://cards.scryfall.io/art/front/c/9/c91ec9e3-abd5-4c23-b342-0c6a12cc970a.webp?1793020884",
-      "crop": "https://cards.scryfall.io/crop/front/c/9/c91ec9e3-abd5-4c23-b342-0c6a12cc970a.webp?1793020884",
-      "jpeg": "https://cards.scryfall.io/normal/front/c/9/c91ec9e3-abd5-4c23-b342-0c6a12cc970a.jpg?1793020884"
     }
   }
 ]

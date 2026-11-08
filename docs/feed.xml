@@ -5,9 +5,23 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 07 Nov 2026 21:07:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 08:08:29 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Double-Faced Substitute Card [Marvel Super Heroes Substitue Cards]</title>
+      <link>https://scryfall.com/card/smsh/1/double-faced-substitute-card?utm_source=api</link>
+      <guid isPermaLink="false">cb5ca670-a50e-4c73-879a-8dc0aa2cbd9f:smsh</guid>
+      <pubDate>Sun, 08 Nov 2026 08:08:29 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/3/b3368fee-37e8-48ac-92d8-b1edcdfe97d6.jpg?1794098709&quot; alt=&quot;Double-Faced Substitute Card&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Double-Faced Substitute Card&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Card&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Marvel Super Heroes Substitue Cards&lt;/p&gt;
+&lt;p&gt;(You can use this card to represent a double-faced card.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/smsh/1/double-faced-substitute-card?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/b/3/b3368fee-37e8-48ac-92d8-b1edcdfe97d6.jpg?1794098709" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Terminate [Secret Lair Countdown]</title>
       <link>https://scryfall.com/card/slc/84/terminate?utm_source=api</link>
@@ -7246,21 +7260,6 @@
 &lt;p&gt;{T}: Add {C}.&lt;br/&gt;{4}, {T}: Target creature can&amp;#x27;t be blocked this turn.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/552/rogues-passage?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/c/8/c84f49bb-3780-4f92-8db2-b27605ceefed.jpg?1793021355" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Type-03 Borg Vessel [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/33/type-03-borg-vessel?utm_source=api</link>
-      <guid isPermaLink="false">ff2ab17e-185b-4782-a4e2-e8ace40ef1bb:trc</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/9/c91ec9e3-abd5-4c23-b342-0c6a12cc970a.jpg?1793020884&quot; alt=&quot;Type-03 Borg Vessel&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Type-03 Borg Vessel&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact — Spacecraft&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;Artifact spells you cast cost {1} less to cast.&lt;br/&gt;Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It&amp;#x27;s an artifact creature at 7+.)&lt;br/&gt;7+ | Flying&lt;br/&gt;Whenever you cast a spell, create a 1/1 colorless Borg artifact creature token.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/33/type-03-borg-vessel?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/9/c91ec9e3-abd5-4c23-b342-0c6a12cc970a.jpg?1793020884" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
