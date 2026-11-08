@@ -5,9 +5,22 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Sun, 08 Nov 2026 08:08:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 21:24:22 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Phyrexian Minion [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2446/phyrexian-minion?utm_source=api</link>
+      <guid isPermaLink="false">6488080c-132c-4c5e-8ea2-1b689c519d83:sld</guid>
+      <pubDate>Sun, 08 Nov 2026 21:24:22 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/8/f85b3716-0352-4401-afae-e5927f2acae0.jpg?1794152464&quot; alt=&quot;Phyrexian Minion&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Phyrexian Minion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Token Creature — Phyrexian Minion&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2446/phyrexian-minion?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/8/f85b3716-0352-4401-afae-e5927f2acae0.jpg?1794152464" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Double-Faced Substitute Card [Marvel Super Heroes Substitue Cards]</title>
       <link>https://scryfall.com/card/smsh/1/double-faced-substitute-card?utm_source=api</link>
@@ -7246,20 +7259,6 @@
 &lt;p&gt;Menace&lt;br/&gt;At the beginning of your end step, target opponent discards two cards.&lt;br/&gt;{2}{B}, Discard this card: Target creature gets -4/-4 until end of turn.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/91/armus-skin-of-evil?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/c/3/c3ba1e0d-5e3d-4fa7-9b58-5b90944b43c5.jpg?1793013559" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Rogue's Passage [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/552/rogues-passage?utm_source=api</link>
-      <guid isPermaLink="false">f29dc596-2121-4421-8463-15f6c2e8b9b3:trc</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/8/c84f49bb-3780-4f92-8db2-b27605ceefed.jpg?1793021355&quot; alt=&quot;Rogue&amp;#x27;s Passage&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Rogue&amp;#x27;s Passage&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{4}, {T}: Target creature can&amp;#x27;t be blocked this turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/552/rogues-passage?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/8/c84f49bb-3780-4f92-8db2-b27605ceefed.jpg?1793021355" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

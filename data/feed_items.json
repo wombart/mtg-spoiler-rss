@@ -1,5 +1,33 @@
 [
   {
+    "id": "f85b3716-0352-4401-afae-e5927f2acae0",
+    "oracle_id": "6488080c-132c-4c5e-8ea2-1b689c519d83",
+    "name": "Phyrexian Minion",
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "mana_cost": "",
+    "type_line": "Token Creature — Phyrexian Minion",
+    "oracle_text": "",
+    "rarity": "common",
+    "released_at": "2026-08-04",
+    "discovered_at": "2026-11-08T21:24:22.566973+00:00",
+    "scryfall_uri": "https://scryfall.com/card/sld/2446/phyrexian-minion?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/8/f85b3716-0352-4401-afae-e5927f2acae0.jpg?1794152464",
+      "normal": "https://cards.scryfall.io/normal/front/f/8/f85b3716-0352-4401-afae-e5927f2acae0.jpg?1794152464",
+      "large": "https://cards.scryfall.io/large/front/f/8/f85b3716-0352-4401-afae-e5927f2acae0.jpg?1794152464",
+      "png": "https://cards.scryfall.io/png/front/f/8/f85b3716-0352-4401-afae-e5927f2acae0.png?1794152464",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/8/f85b3716-0352-4401-afae-e5927f2acae0.jpg?1794152464",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/8/f85b3716-0352-4401-afae-e5927f2acae0.jpg?1794152464",
+      "thumb": "https://cards.scryfall.io/thumb/front/f/8/f85b3716-0352-4401-afae-e5927f2acae0.webp?1794152464",
+      "grid": "https://cards.scryfall.io/grid/front/f/8/f85b3716-0352-4401-afae-e5927f2acae0.webp?1794152464",
+      "display": "https://cards.scryfall.io/display/front/f/8/f85b3716-0352-4401-afae-e5927f2acae0.webp?1794152464",
+      "art": "https://cards.scryfall.io/art/front/f/8/f85b3716-0352-4401-afae-e5927f2acae0.webp?1794152464",
+      "crop": "https://cards.scryfall.io/crop/front/f/8/f85b3716-0352-4401-afae-e5927f2acae0.webp?1794152464",
+      "jpeg": "https://cards.scryfall.io/normal/front/f/8/f85b3716-0352-4401-afae-e5927f2acae0.jpg?1794152464"
+    }
+  },
+  {
     "id": "b3368fee-37e8-48ac-92d8-b1edcdfe97d6",
     "oracle_id": "cb5ca670-a50e-4c73-879a-8dc0aa2cbd9f",
     "name": "Double-Faced Substitute Card",
@@ -15679,34 +15707,6 @@
       "art": "https://cards.scryfall.io/art/front/c/3/c3ba1e0d-5e3d-4fa7-9b58-5b90944b43c5.webp?1793013559",
       "crop": "https://cards.scryfall.io/crop/front/c/3/c3ba1e0d-5e3d-4fa7-9b58-5b90944b43c5.webp?1793013559",
       "jpeg": "https://cards.scryfall.io/normal/front/c/3/c3ba1e0d-5e3d-4fa7-9b58-5b90944b43c5.jpg?1793013559"
-    }
-  },
-  {
-    "id": "c84f49bb-3780-4f92-8db2-b27605ceefed",
-    "oracle_id": "f29dc596-2121-4421-8463-15f6c2e8b9b3",
-    "name": "Rogue's Passage",
-    "set": "trc",
-    "set_name": "Star Trek Commander",
-    "mana_cost": "",
-    "type_line": "Land",
-    "oracle_text": "{T}: Add {C}.\n{4}, {T}: Target creature can't be blocked this turn.",
-    "rarity": "uncommon",
-    "released_at": "2026-11-13",
-    "discovered_at": "2026-10-26T20:47:30.004671+00:00",
-    "scryfall_uri": "https://scryfall.com/card/trc/552/rogues-passage?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/c/8/c84f49bb-3780-4f92-8db2-b27605ceefed.jpg?1793021355",
-      "normal": "https://cards.scryfall.io/normal/front/c/8/c84f49bb-3780-4f92-8db2-b27605ceefed.jpg?1793021355",
-      "large": "https://cards.scryfall.io/large/front/c/8/c84f49bb-3780-4f92-8db2-b27605ceefed.jpg?1793021355",
-      "png": "https://cards.scryfall.io/png/front/c/8/c84f49bb-3780-4f92-8db2-b27605ceefed.png?1793021355",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/c/8/c84f49bb-3780-4f92-8db2-b27605ceefed.jpg?1793021355",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/c/8/c84f49bb-3780-4f92-8db2-b27605ceefed.jpg?1793021355",
-      "thumb": "https://cards.scryfall.io/thumb/front/c/8/c84f49bb-3780-4f92-8db2-b27605ceefed.webp?1793021355",
-      "grid": "https://cards.scryfall.io/grid/front/c/8/c84f49bb-3780-4f92-8db2-b27605ceefed.webp?1793021355",
-      "display": "https://cards.scryfall.io/display/front/c/8/c84f49bb-3780-4f92-8db2-b27605ceefed.webp?1793021355",
-      "art": "https://cards.scryfall.io/art/front/c/8/c84f49bb-3780-4f92-8db2-b27605ceefed.webp?1793021355",
-      "crop": "https://cards.scryfall.io/crop/front/c/8/c84f49bb-3780-4f92-8db2-b27605ceefed.webp?1793021355",
-      "jpeg": "https://cards.scryfall.io/normal/front/c/8/c84f49bb-3780-4f92-8db2-b27605ceefed.jpg?1793021355"
     }
   }
 ]
