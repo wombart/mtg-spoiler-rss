@@ -5,9 +5,114 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Sun, 08 Nov 2026 21:24:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 20:14:04 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>K'rrik, Son of Yawgmoth [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2732/krrik-son-of-yawgmoth?utm_source=api</link>
+      <guid isPermaLink="false">cbe3a4e7-5dbe-4f58-8ee6-a1762b65acfd:sld</guid>
+      <pubDate>Mon, 09 Nov 2026 20:14:04 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/d/2d2426be-f50f-4ebc-b341-10397a173e10.jpg?1794223165&quot; alt=&quot;K&amp;#x27;rrik, Son of Yawgmoth&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;K&amp;#x27;rrik, Son of Yawgmoth&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{B/P}{B/P}{B/P}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Phyrexian Horror Minion&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;({B/P} can be paid with either {B} or 2 life.)&lt;br/&gt;Lifelink&lt;br/&gt;For each {B} in a cost, you may pay 2 life rather than pay that mana.&lt;br/&gt;Whenever you cast a black spell, put a +1/+1 counter on K&amp;#x27;rrik.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2732/krrik-son-of-yawgmoth?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/d/2d2426be-f50f-4ebc-b341-10397a173e10.jpg?1794223165" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Elas il-Kor, Sadistic Pilgrim [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2733/elas-il-kor-sadistic-pilgrim?utm_source=api</link>
+      <guid isPermaLink="false">a4d33e21-d3fe-4d5b-903c-b75e859d6f7f:sld</guid>
+      <pubDate>Mon, 09 Nov 2026 20:14:04 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/a/3a7491e3-e5c1-4835-af19-7e81ee6b60f8.jpg?1794223208&quot; alt=&quot;Elas il-Kor, Sadistic Pilgrim&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Elas il-Kor, Sadistic Pilgrim&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {W}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Phyrexian Kor Cleric&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Deathtouch&lt;br/&gt;Whenever another creature you control enters, you gain 1 life.&lt;br/&gt;Whenever another creature you control dies, each opponent loses 1 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2733/elas-il-kor-sadistic-pilgrim?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/a/3a7491e3-e5c1-4835-af19-7e81ee6b60f8.jpg?1794223208" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Gix, Yawgmoth Praetor [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2731/gix-yawgmoth-praetor?utm_source=api</link>
+      <guid isPermaLink="false">928d977e-cff0-4e0e-83bb-16d73a754f35:sld</guid>
+      <pubDate>Mon, 09 Nov 2026 20:14:04 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/8/9/896212fe-98ed-4981-8305-915c793bef8c.jpg?1794223126&quot; alt=&quot;Gix, Yawgmoth Praetor&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Gix, Yawgmoth Praetor&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Legendary Creature — Phyrexian Praetor&lt;/p&gt;
+&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Whenever a creature deals combat damage to one of your opponents, its controller may pay 1 life. If they do, they draw a card.&lt;br/&gt;{4}{B}{B}{B}, Discard X cards: Exile the top X cards of target opponent&amp;#x27;s library. You may play lands and cast spells from among cards exiled this way without paying their mana costs.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2731/gix-yawgmoth-praetor?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/8/9/896212fe-98ed-4981-8305-915c793bef8c.jpg?1794223126" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hive Mind [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2730/hive-mind?utm_source=api</link>
+      <guid isPermaLink="false">f97e405d-4c24-4d4d-9e19-e349c073113c:sld</guid>
+      <pubDate>Mon, 09 Nov 2026 20:14:04 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/6/e6a5103d-104c-45d0-a726-faad354934c4.jpg?1794223079&quot; alt=&quot;Hive Mind&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Hive Mind&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {5}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Enchantment&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Whenever a player casts an instant or sorcery spell, each other player copies that spell. Each of those players may choose new targets for their copy.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2730/hive-mind?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/6/e6a5103d-104c-45d0-a726-faad354934c4.jpg?1794223079" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Suture Priest [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/2729/suture-priest?utm_source=api</link>
+      <guid isPermaLink="false">c4d36522-3ace-4bfb-bf2d-1a366f458698:sld</guid>
+      <pubDate>Mon, 09 Nov 2026 20:14:04 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/b/ebcb7b63-dc3a-4b3a-867c-cdb23e6f43ca.jpg?1794222987&quot; alt=&quot;Suture Priest&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Suture Priest&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{W}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Phyrexian Cleric&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Whenever another creature you control enters, you may gain 1 life.&lt;br/&gt;Whenever a creature an opponent controls enters, you may have that player lose 1 life.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/2729/suture-priest?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/b/ebcb7b63-dc3a-4b3a-867c-cdb23e6f43ca.jpg?1794222987" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Rune-Scarred Demon [Media and Collaboration Promos]</title>
+      <link>https://scryfall.com/card/pmei/2026-31/rune-scarred-demon?utm_source=api</link>
+      <guid isPermaLink="false">14aefe99-fb60-4f1c-a71f-7ffbe94c8b13:pmei</guid>
+      <pubDate>Mon, 09 Nov 2026 20:14:04 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/1/f11f8ba8-d516-491a-9138-4b3638b0ad62.jpg?1794210026&quot; alt=&quot;Rune-Scarred Demon&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Rune-Scarred Demon&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {5}{B}{B}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Demon&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Media and Collaboration Promos&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;When this creature enters, search your library for a card, put it into your hand, then shuffle.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pmei/2026-31/rune-scarred-demon?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/1/f11f8ba8-d516-491a-9138-4b3638b0ad62.jpg?1794210026" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Archmage of Runes [Media and Collaboration Promos]</title>
+      <link>https://scryfall.com/card/pmei/2026-30/archmage-of-runes?utm_source=api</link>
+      <guid isPermaLink="false">28045b32-4c1a-40e5-a15d-524d0f8fe6ec:pmei</guid>
+      <pubDate>Mon, 09 Nov 2026 20:14:04 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/f/b/fb754457-7411-4e12-98a1-a3775a854bec.jpg?1794210033&quot; alt=&quot;Archmage of Runes&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Archmage of Runes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {3}{U}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Giant Wizard&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Media and Collaboration Promos&lt;/p&gt;
+&lt;p&gt;Instant and sorcery spells you cast cost {1} less to cast.&lt;br/&gt;Whenever you cast an instant or sorcery spell, draw a card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pmei/2026-30/archmage-of-runes?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/f/b/fb754457-7411-4e12-98a1-a3775a854bec.jpg?1794210033" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Phyrexian Minion [Secret Lair Drop]</title>
       <link>https://scryfall.com/card/sld/2446/phyrexian-minion?utm_source=api</link>
@@ -7158,107 +7263,6 @@
 &lt;p&gt;Choose one. If you control a commander as you cast this spell, you may choose both instead.&lt;br/&gt;• Create a 1/1 colorless Borg artifact creature token for each attacking creature.&lt;br/&gt;• Draw a card for each attacking creature.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/90/collective-override?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/a/1/a16b9be3-5c17-4f63-9355-8fec2ce803e1.jpg?1793020985" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Command Tower [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/521/command-tower?utm_source=api</link>
-      <guid isPermaLink="false">0895c9b7-ae7d-4bb3-af17-3b75deb50a25:trc</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/7/a73297d2-580c-4174-a427-265f6916d09f.jpg?1793021256&quot; alt=&quot;Command Tower&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Command Tower&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;{T}: Add one mana of any color in your commander&amp;#x27;s color identity.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/521/command-tower?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/7/a73297d2-580c-4174-a427-265f6916d09f.jpg?1793021256" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Contaminated Landscape [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/522/contaminated-landscape?utm_source=api</link>
-      <guid isPermaLink="false">28196fd9-00c9-4cd0-b603-0eec8511ec79:trc</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/9/a91fa6ef-3ee8-4de0-ae90-97c3eb2cea6d.jpg?1793021267&quot; alt=&quot;Contaminated Landscape&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Contaminated Landscape&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Common&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}, Sacrifice this land: Search your library for a basic Plains, Island, or Swamp card, put it onto the battlefield tapped, then shuffle.&lt;br/&gt;Cycling {W}{U}{B} ({W}{U}{B}, Discard this card: Draw a card.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/522/contaminated-landscape?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/9/a91fa6ef-3ee8-4de0-ae90-97c3eb2cea6d.jpg?1793021267" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Seven of Nine, Tertiary Adjunct [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/50/seven-of-nine-tertiary-adjunct?utm_source=api</link>
-      <guid isPermaLink="false">22c3b484-0f96-4051-807c-fc0fcb7cd1a8:trc</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/a/aa3e71b7-c8f1-4fc2-ab75-36f120763f4a.jpg?1793020929&quot; alt=&quot;Seven of Nine, Tertiary Adjunct&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Seven of Nine, Tertiary Adjunct&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Artifact Creature — Borg&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;That Is Irrelevant — {T}: Draw a card, then discard a card. When you discard a nonland card this way, put two charge counters on up to one target artifact.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/50/seven-of-nine-tertiary-adjunct?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/a/aa3e71b7-c8f1-4fc2-ab75-36f120763f4a.jpg?1793020929" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Umbral Expanse [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/574/umbral-expanse?utm_source=api</link>
-      <guid isPermaLink="false">5a1dfc60-645d-4bc0-8883-e06ed9c80706:trc</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/e/aed490b7-471c-48ae-bfe0-d07721e26ef8.jpg?1793021406&quot; alt=&quot;Umbral Expanse&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Umbral Expanse&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land — Plains Swamp&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;({T}: Add {W} or {B}.)&lt;br/&gt;This land enters tapped.&lt;br/&gt;Cycling {2} ({2}, Discard this card: Draw a card.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/574/umbral-expanse?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/e/aed490b7-471c-48ae-bfe0-d07721e26ef8.jpg?1793021406" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Sunken Hollow [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/564/sunken-hollow?utm_source=api</link>
-      <guid isPermaLink="false">cd2c90ac-2b04-461c-92f3-939871b6b6a3:trc</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/a/f/af0eb74d-c203-42ea-a24f-c70429b3e4c3.jpg?1793021388&quot; alt=&quot;Sunken Hollow&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Sunken Hollow&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land — Island Swamp&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;({T}: Add {U} or {B}.)&lt;br/&gt;This land enters tapped unless you control two or more basic lands.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/564/sunken-hollow?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/a/f/af0eb74d-c203-42ea-a24f-c70429b3e4c3.jpg?1793021388" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Deliver from Chaos [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/93/deliver-from-chaos?utm_source=api</link>
-      <guid isPermaLink="false">edea104c-b563-4fae-9e74-82164a8e090b:trc</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/b/e/be626968-2f2d-4126-b686-f1567f1ca0dc.jpg?1793020997&quot; alt=&quot;Deliver from Chaos&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Deliver from Chaos&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{W}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;Exile target artifact or creature. Create X 1/1 colorless Borg artifact creature tokens, where X is that permanent&amp;#x27;s mana value.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/93/deliver-from-chaos?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/b/e/be626968-2f2d-4126-b686-f1567f1ca0dc.jpg?1793020997" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Armus, Skin of Evil [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/91/armus-skin-of-evil?utm_source=api</link>
-      <guid isPermaLink="false">42c77c4d-90bb-45d6-a9e0-36704b5a2b11:trk</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/c/3/c3ba1e0d-5e3d-4fa7-9b58-5b90944b43c5.jpg?1793013559&quot; alt=&quot;Armus, Skin of Evil&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Armus, Skin of Evil&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {5}{B}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Ooze Horror&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;Menace&lt;br/&gt;At the beginning of your end step, target opponent discards two cards.&lt;br/&gt;{2}{B}, Discard this card: Target creature gets -4/-4 until end of turn.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/91/armus-skin-of-evil?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/c/3/c3ba1e0d-5e3d-4fa7-9b58-5b90944b43c5.jpg?1793013559" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
