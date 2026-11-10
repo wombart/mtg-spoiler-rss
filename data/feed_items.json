@@ -1,5 +1,33 @@
 [
   {
+    "id": "ea297883-13fe-4ff5-8ba1-6f11a8139ce4",
+    "oracle_id": "9fcb920c-b8d7-4a79-a335-f63050182cca",
+    "name": "Call of the Ring",
+    "set": "pmei",
+    "set_name": "Media and Collaboration Promos",
+    "mana_cost": "{1}{B}",
+    "type_line": "Enchantment",
+    "oracle_text": "At the beginning of your upkeep, the Ring tempts you.\nWhenever you choose a creature as your Ring-bearer, you may pay 2 life. If you do, draw a card.",
+    "rarity": "rare",
+    "released_at": "2026-10-31",
+    "discovered_at": "2026-11-10T11:54:03.063986+00:00",
+    "scryfall_uri": "https://scryfall.com/card/pmei/2026-32/call-of-the-ring?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/e/a/ea297883-13fe-4ff5-8ba1-6f11a8139ce4.jpg?1794276064",
+      "normal": "https://cards.scryfall.io/normal/front/e/a/ea297883-13fe-4ff5-8ba1-6f11a8139ce4.jpg?1794276064",
+      "large": "https://cards.scryfall.io/large/front/e/a/ea297883-13fe-4ff5-8ba1-6f11a8139ce4.jpg?1794276064",
+      "png": "https://cards.scryfall.io/png/front/e/a/ea297883-13fe-4ff5-8ba1-6f11a8139ce4.png?1794276064",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/e/a/ea297883-13fe-4ff5-8ba1-6f11a8139ce4.jpg?1794276064",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/e/a/ea297883-13fe-4ff5-8ba1-6f11a8139ce4.jpg?1794276064",
+      "thumb": "https://cards.scryfall.io/thumb/front/e/a/ea297883-13fe-4ff5-8ba1-6f11a8139ce4.webp?1794276064",
+      "grid": "https://cards.scryfall.io/grid/front/e/a/ea297883-13fe-4ff5-8ba1-6f11a8139ce4.webp?1794276064",
+      "display": "https://cards.scryfall.io/display/front/e/a/ea297883-13fe-4ff5-8ba1-6f11a8139ce4.webp?1794276064",
+      "art": "https://cards.scryfall.io/art/front/e/a/ea297883-13fe-4ff5-8ba1-6f11a8139ce4.webp?1794276064",
+      "crop": "https://cards.scryfall.io/crop/front/e/a/ea297883-13fe-4ff5-8ba1-6f11a8139ce4.webp?1794276064",
+      "jpeg": "https://cards.scryfall.io/normal/front/e/a/ea297883-13fe-4ff5-8ba1-6f11a8139ce4.jpg?1794276064"
+    }
+  },
+  {
     "id": "2d2426be-f50f-4ebc-b341-10397a173e10",
     "oracle_id": "cbe3a4e7-5dbe-4f58-8ee6-a1762b65acfd",
     "name": "K'rrik, Son of Yawgmoth",
@@ -15679,34 +15707,6 @@
       "art": "https://cards.scryfall.io/art/front/a/1/a145fe99-1cca-45c6-aa7e-ec5d8a7bcd13.webp?1793021131",
       "crop": "https://cards.scryfall.io/crop/front/a/1/a145fe99-1cca-45c6-aa7e-ec5d8a7bcd13.webp?1793021131",
       "jpeg": "https://cards.scryfall.io/normal/front/a/1/a145fe99-1cca-45c6-aa7e-ec5d8a7bcd13.jpg?1793021131"
-    }
-  },
-  {
-    "id": "a16b9be3-5c17-4f63-9355-8fec2ce803e1",
-    "oracle_id": "75af4154-d873-45d0-9ff2-c977169012a3",
-    "name": "Collective Override",
-    "set": "trc",
-    "set_name": "Star Trek Commander",
-    "mana_cost": "{2}{W}{U}",
-    "type_line": "Instant",
-    "oracle_text": "Choose one. If you control a commander as you cast this spell, you may choose both instead.\n• Create a 1/1 colorless Borg artifact creature token for each attacking creature.\n• Draw a card for each attacking creature.",
-    "rarity": "rare",
-    "released_at": "2026-11-13",
-    "discovered_at": "2026-10-26T20:47:30.004671+00:00",
-    "scryfall_uri": "https://scryfall.com/card/trc/90/collective-override?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/a/1/a16b9be3-5c17-4f63-9355-8fec2ce803e1.jpg?1793020985",
-      "normal": "https://cards.scryfall.io/normal/front/a/1/a16b9be3-5c17-4f63-9355-8fec2ce803e1.jpg?1793020985",
-      "large": "https://cards.scryfall.io/large/front/a/1/a16b9be3-5c17-4f63-9355-8fec2ce803e1.jpg?1793020985",
-      "png": "https://cards.scryfall.io/png/front/a/1/a16b9be3-5c17-4f63-9355-8fec2ce803e1.png?1793020985",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/a/1/a16b9be3-5c17-4f63-9355-8fec2ce803e1.jpg?1793020985",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/a/1/a16b9be3-5c17-4f63-9355-8fec2ce803e1.jpg?1793020985",
-      "thumb": "https://cards.scryfall.io/thumb/front/a/1/a16b9be3-5c17-4f63-9355-8fec2ce803e1.webp?1793020985",
-      "grid": "https://cards.scryfall.io/grid/front/a/1/a16b9be3-5c17-4f63-9355-8fec2ce803e1.webp?1793020985",
-      "display": "https://cards.scryfall.io/display/front/a/1/a16b9be3-5c17-4f63-9355-8fec2ce803e1.webp?1793020985",
-      "art": "https://cards.scryfall.io/art/front/a/1/a16b9be3-5c17-4f63-9355-8fec2ce803e1.webp?1793020985",
-      "crop": "https://cards.scryfall.io/crop/front/a/1/a16b9be3-5c17-4f63-9355-8fec2ce803e1.webp?1793020985",
-      "jpeg": "https://cards.scryfall.io/normal/front/a/1/a16b9be3-5c17-4f63-9355-8fec2ce803e1.jpg?1793020985"
     }
   }
 ]
