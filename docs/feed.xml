@@ -5,9 +5,79 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Thu, 12 Nov 2026 14:02:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 21:57:16 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Mountain [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/375/mountain?utm_source=api</link>
+      <guid isPermaLink="false">a3fb7228-e76b-4e96-a40e-20b5fed75685:slz</guid>
+      <pubDate>Thu, 12 Nov 2026 21:57:16 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/c/3caf869c-7f93-48d2-8e97-b56c3398ee11.jpg?1794475805&quot; alt=&quot;Mountain&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Mountain&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Basic Land — Mountain&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;({T}: Add {R}.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/375/mountain?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/3/c/3caf869c-7f93-48d2-8e97-b56c3398ee11.jpg?1794475805" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Island [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/369/island?utm_source=api</link>
+      <guid isPermaLink="false">b2c6aa39-2d2a-459c-a555-fb48ba993373:slz</guid>
+      <pubDate>Thu, 12 Nov 2026 21:57:16 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/6/667f769e-3330-4ffd-a909-23a35d9dff7f.jpg?1794475742&quot; alt=&quot;Island&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Island&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Basic Land — Island&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;({T}: Add {U}.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/369/island?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/6/667f769e-3330-4ffd-a909-23a35d9dff7f.jpg?1794475742" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Wastes [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/364/wastes?utm_source=api</link>
+      <guid isPermaLink="false">05d24b0c-904a-46b6-b42a-96a4d91a0dd4:slz</guid>
+      <pubDate>Thu, 12 Nov 2026 21:57:16 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/6/f/6f514fff-594e-4577-973b-adc53e5ea045.jpg?1794475583&quot; alt=&quot;Wastes&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Wastes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Basic Land&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;{T}: Add {C}.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/364/wastes?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/6/f/6f514fff-594e-4577-973b-adc53e5ea045.jpg?1794475583" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Plains [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/365/plains?utm_source=api</link>
+      <guid isPermaLink="false">bc71ebf6-2056-41f7-be35-b2e5c34afa99:slz</guid>
+      <pubDate>Thu, 12 Nov 2026 21:57:16 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/0/70b9088a-8657-488d-afb5-499a880bc650.jpg?1794475651&quot; alt=&quot;Plains&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Plains&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Basic Land — Plains&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;({T}: Add {W}.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/365/plains?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/0/70b9088a-8657-488d-afb5-499a880bc650.jpg?1794475651" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Swamp [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/372/swamp?utm_source=api</link>
+      <guid isPermaLink="false">56719f6a-1a6c-4c0a-8d21-18f7d7350b68:slz</guid>
+      <pubDate>Thu, 12 Nov 2026 21:57:16 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/9/d9ffaff7-6310-43ee-8cb0-dc4287d3c93d.jpg?1794475767&quot; alt=&quot;Swamp&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Swamp&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Basic Land — Swamp&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;({T}: Add {B}.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/372/swamp?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/d/9/d9ffaff7-6310-43ee-8cb0-dc4287d3c93d.jpg?1794475767" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Emrakul, the Exigent Doom [Reality Fracture]</title>
       <link>https://scryfall.com/card/fra/413/ja/emrakul-the-exigent-doom?utm_source=api</link>
@@ -7201,80 +7271,6 @@
 &lt;p&gt;{T}: Add {C}.&lt;br/&gt;{T}, Pay 1 life: Add one mana of any color. Activate only if you control an artifact.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/562/spire-of-industry?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/2/7/279ab812-7f19-40e5-be14-ef52dea233f3.jpg?1793021379" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Borg Incursion [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/12/borg-incursion?utm_source=api</link>
-      <guid isPermaLink="false">f00dfc16-c253-4483-94fb-3c2beabd5820:trc</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/b/2b7eed2d-8baa-4be2-a392-e218baaedd50.jpg?1793020848&quot; alt=&quot;Borg Incursion&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Borg Incursion&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Instant&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;Create two 1/1 colorless Borg artifact creature tokens, then artifact creatures you control gain protection from the color of your choice until end of turn. (They can&amp;#x27;t be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/12/borg-incursion?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/b/2b7eed2d-8baa-4be2-a392-e218baaedd50.jpg?1793020848" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Grand Nagus Zek [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/458/grand-nagus-zek?utm_source=api</link>
-      <guid isPermaLink="false">654ce8c5-b329-4046-9728-7fa276bc8695:trk</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/d/2d1651f5-7bc9-4d65-9387-f4646a04e816.jpg?1793013668&quot; alt=&quot;Grand Nagus Zek&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Grand Nagus Zek&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{B}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Ferengi Noble&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;Grand Nagus Zek gets +1/+1 for each Treasure you control.&lt;br/&gt;Whenever another creature dies, create a Treasure token. This ability triggers only once each turn. (It&amp;#x27;s an artifact with &amp;quot;{T}, Sacrifice this token: Add one mana of any color.&amp;quot;)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/458/grand-nagus-zek?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/d/2d1651f5-7bc9-4d65-9387-f4646a04e816.jpg?1793013668" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Spatial Anomaly [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/296/spatial-anomaly?utm_source=api</link>
-      <guid isPermaLink="false">a4f31512-a91c-42e0-9929-5069386c3c71:trk</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/f/2f683f37-4291-410d-b179-ed6139c06877.jpg?1793013619&quot; alt=&quot;Spatial Anomaly&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Spatial Anomaly&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Typ: Land&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;{T}: Add {C}.&lt;br/&gt;{4}{R}, {T}, Sacrifice this land: It deals 2 damage to target creature. Create a tapped Planet land token named New Planet with &amp;quot;{T}: Add one mana of any color.&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/296/spatial-anomaly?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/f/2f683f37-4291-410d-b179-ed6139c06877.jpg?1793013619" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Rules of Acquisition [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/78/rules-of-acquisition?utm_source=api</link>
-      <guid isPermaLink="false">5068eba6-ccf0-45f2-b0db-40f787ee3308:trk</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/0/307c36ec-6fa1-4d4b-afcd-c3c83b876ee8.jpg?1793013546&quot; alt=&quot;Rules of Acquisition&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Rules of Acquisition&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{U}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Sorcery&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;Choose one —&lt;br/&gt;• Follow the 3rd Rule — Gain control of target nonland permanent an opponent controls. That opponent draws three cards.&lt;br/&gt;• Follow the 98th Rule — Target opponent gains control of target nonland permanent you control. If they do, you draw three cards.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/78/rules-of-acquisition?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/3/0/307c36ec-6fa1-4d4b-afcd-c3c83b876ee8.jpg?1793013546" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Astral Cornucopia [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/486/astral-cornucopia?utm_source=api</link>
-      <guid isPermaLink="false">1bc42024-52da-4d93-8b47-544f0a4a72a1:trc</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/3/1/31f19637-c75e-4bcf-b7b7-5da3284d240d.jpg?1793021124&quot; alt=&quot;Astral Cornucopia&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Astral Cornucopia&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {X}{X}{X}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;This artifact enters with X charge counters on it.&lt;br/&gt;{T}: Choose a color. Add one mana of that color for each charge counter on this artifact.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/486/astral-cornucopia?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/3/1/31f19637-c75e-4bcf-b7b7-5da3284d240d.jpg?1793021124" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
