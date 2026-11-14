@@ -5,9 +5,24 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 14 Nov 2026 08:11:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 21:43:01 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Harbinger of the Seas [Spotlight Series]</title>
+      <link>https://scryfall.com/card/pspl/15/harbinger-of-the-seas?utm_source=api</link>
+      <guid isPermaLink="false">84910453-e5dc-4bff-8554-86a5f4ab2746:pspl</guid>
+      <pubDate>Sat, 14 Nov 2026 21:43:01 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/d/ed972d36-1567-4b59-a628-20c650b46482.jpg?1794667152&quot; alt=&quot;Harbinger of the Seas&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Harbinger of the Seas&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {1}{U}{U}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Merfolk Wizard&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Spotlight Series&lt;/p&gt;
+&lt;p&gt;Nonbasic lands are Islands.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pspl/15/harbinger-of-the-seas?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/d/ed972d36-1567-4b59-a628-20c650b46482.jpg?1794667152" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Path of the Pyromancer [Secret Lair Drop]</title>
       <link>https://scryfall.com/card/sld/7207/path-of-the-pyromancer?utm_source=api</link>
@@ -7258,21 +7273,6 @@
 &lt;p&gt;When this creature enters, create a 3/3 colorless Illusion artifact creature token.&lt;br/&gt;If one or more tokens would be created under your control, that many 3/3 colorless Illusion artifact creature tokens are created instead.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/201/the-guy-who-simulates-stuff-when-you-say-computer-simulate-this?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/a/c/acfaf5f3-a4f5-418a-a29a-211b33bf18ee.jpg?1793066373" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>U.S.S. Excelsior, Cutting Edge [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/44/uss-excelsior-cutting-edge?utm_source=api</link>
-      <guid isPermaLink="false">9f4ae54b-f77d-43df-87d5-792ac0905058:trk</guid>
-      <pubDate>Tue, 27 Oct 2026 06:54:01 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/d/e/de62b452-3780-4eeb-8163-f44176495615.jpg?1793066012&quot; alt=&quot;U.S.S. Excelsior, Cutting Edge&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;U.S.S. Excelsior, Cutting Edge&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{W}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Artifact — Spacecraft&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;When U.S.S. Excelsior enters, destroy target tapped creature an opponent controls.&lt;br/&gt;Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It&amp;#x27;s an artifact creature at 8+.)&lt;br/&gt;8+ | Flying&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/44/uss-excelsior-cutting-edge?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/d/e/de62b452-3780-4eeb-8163-f44176495615.jpg?1793066012" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
