@@ -5,9 +5,53 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 14 Nov 2026 00:30:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 08:11:16 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Path of the Pyromancer [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/7207/path-of-the-pyromancer?utm_source=api</link>
+      <guid isPermaLink="false">b908fad9-25a6-441b-bba8-0d7fc12ee2dc:sld</guid>
+      <pubDate>Sat, 14 Nov 2026 08:11:16 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/5/e564a5b3-92f3-4ca4-b9c3-4adf7264f752.jpg?1794625323&quot; alt=&quot;Path of the Pyromancer&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Path of the Pyromancer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Sorcery&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Discard all the cards in your hand. Add {R} for each card discarded this way, then draw that many cards plus one.&lt;br/&gt;Will of the Planeswalkers — Starting with you, each player votes for planeswalk or chaos. If planeswalk gets more votes, planeswalk. If chaos gets more votes or the vote is tied, chaos ensues.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/7207/path-of-the-pyromancer?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/e/5/e564a5b3-92f3-4ca4-b9c3-4adf7264f752.jpg?1794625323" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Forest [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/379/forest?utm_source=api</link>
+      <guid isPermaLink="false">b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6:slz</guid>
+      <pubDate>Sat, 14 Nov 2026 08:11:16 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/8/28c348e8-9f4c-4af3-b24d-b39908e6894f.jpg?1794625087&quot; alt=&quot;Forest&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Forest&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typ: Basic Land — Forest&lt;/p&gt;
+&lt;p&gt;Seltenheit: Common&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;({T}: Add {G}.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/379/forest?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/2/8/28c348e8-9f4c-4af3-b24d-b39908e6894f.jpg?1794625087" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Shivan Dragon [The Zeta Set]</title>
+      <link>https://scryfall.com/card/slz/380/shivan-dragon?utm_source=api</link>
+      <guid isPermaLink="false">711eea87-0fa3-46e0-a42b-fa5a86455f04:slz</guid>
+      <pubDate>Sat, 14 Nov 2026 08:11:16 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/7/6/760d746c-fe1b-4a75-8c71-4fe9966ec9ea.jpg?1794625158&quot; alt=&quot;Shivan Dragon&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Shivan Dragon&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {4}{R}{R}&lt;/p&gt;
+&lt;p&gt;Typ: Creature — Dragon&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: The Zeta Set&lt;/p&gt;
+&lt;p&gt;Flying&lt;br/&gt;{R}: This creature gets +1/+0 until end of turn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/slz/380/shivan-dragon?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/7/6/760d746c-fe1b-4a75-8c71-4fe9966ec9ea.jpg?1794625158" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Unexpected Windfall [Wizards Play Network 2027]</title>
       <link>https://scryfall.com/card/pw27/3/unexpected-windfall?utm_source=api</link>
@@ -7229,51 +7273,6 @@
 &lt;p&gt;When U.S.S. Excelsior enters, destroy target tapped creature an opponent controls.&lt;br/&gt;Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It&amp;#x27;s an artifact creature at 8+.)&lt;br/&gt;8+ | Flying&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/44/uss-excelsior-cutting-edge?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/d/e/de62b452-3780-4eeb-8163-f44176495615.jpg?1793066012" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Targ Wrangler [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/175/targ-wrangler?utm_source=api</link>
-      <guid isPermaLink="false">a066eeb1-61fc-448b-bbab-650d672652ad:trk</guid>
-      <pubDate>Tue, 27 Oct 2026 06:54:01 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/e/a/eabc4252-cf58-48c3-9483-7862450e03d0.jpg?1793065814&quot; alt=&quot;Targ Wrangler&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Targ Wrangler&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{R}&lt;/p&gt;
-&lt;p&gt;Typ: Creature — Klingon Warrior&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;Menace (This creature can&amp;#x27;t be blocked except by two or more creatures.)&lt;br/&gt;At the beginning of your end step, if this creature attacked this turn, sacrifice a nonland permanent.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/175/targ-wrangler?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/e/a/eabc4252-cf58-48c3-9483-7862450e03d0.jpg?1793065814" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Vivien Reid [Wizards Play Network 2027]</title>
-      <link>https://scryfall.com/card/pw27/1/vivien-reid?utm_source=api</link>
-      <guid isPermaLink="false">b5f20a6d-8c3e-452f-9d98-4886f0fa052a:pw27</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/3/23656d2c-b8c1-4859-8b81-4422bba40d14.jpg?1793014469&quot; alt=&quot;Vivien Reid&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Vivien Reid&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {3}{G}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Planeswalker — Vivien&lt;/p&gt;
-&lt;p&gt;Seltenheit: Mythic&lt;/p&gt;
-&lt;p&gt;Set: Wizards Play Network 2027&lt;/p&gt;
-&lt;p&gt;+1: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.&lt;br/&gt;−3: Destroy target artifact, enchantment, or creature with flying.&lt;br/&gt;−8: You get an emblem with &amp;quot;Creatures you control get +2/+2 and have vigilance, trample, and indestructible.&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/pw27/1/vivien-reid?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/3/23656d2c-b8c1-4859-8b81-4422bba40d14.jpg?1793014469" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Borg Scout Sphere [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/36/borg-scout-sphere?utm_source=api</link>
-      <guid isPermaLink="false">4cfb6f06-137c-4b41-97ef-6710e899473b:trc</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:30 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/8/0813b13e-06a3-403b-ac00-6d6edd74935d.jpg?1793020906&quot; alt=&quot;Borg Scout Sphere&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Borg Scout Sphere&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Artifact — Spacecraft&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;When this Spacecraft enters, draw a card.&lt;br/&gt;Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It&amp;#x27;s an artifact creature at 6+.)&lt;br/&gt;6+ | Artifact creatures you control have flying.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/36/borg-scout-sphere?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/0/8/0813b13e-06a3-403b-ac00-6d6edd74935d.jpg?1793020906" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
