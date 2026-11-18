@@ -72,3 +72,18 @@ jobs:
         if: steps.generate.outputs.feed_changed == 'true' || github.event_name != 'schedule' || inputs.force_commit
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Send Pushover notification on failure
+        if: failure()
+        env:
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+        run: |
+          curl --fail --silent --show-error \
+            -F "token=$PUSHOVER_TOKEN" \
+            -F "user=$PUSHOVER_USER" \
+            -F "title=MTG Spoiler RSS Feed failed" \
+            -F "message=Workflow '${{ github.workflow }}' failed in repository '${{ github.repository }}'." \
+            -F "url=${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
+            -F "url_title=Open failed GitHub Action" \
+            https://api.pushover.net/1/messages.json
