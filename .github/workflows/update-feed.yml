@@ -72,7 +72,22 @@ jobs:
         if: steps.generate.outputs.feed_changed == 'true' || github.event_name != 'schedule' || inputs.force_commit
         id: deployment
         uses: actions/deploy-pages@v4
-
+        
+      - name: Send Pushover notification when feed changed
+        if: steps.generate.outputs.feed_changed == 'true' && success()
+        env:
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+        run: |
+          curl --fail --silent --show-error \
+            -F "token=$PUSHOVER_TOKEN" \
+            -F "user=$PUSHOVER_USER" \
+            -F "title=New MTG spoilers available" \
+            -F "message=New cards have been added to the MTG Spoiler RSS Feed." \
+            -F "url=${{ steps.pages.outputs.base_url }}/feed.xml" \
+            -F "url_title=Open RSS Feed" \
+            https://api.pushover.net/1/messages.json
+            
       - name: Send Pushover notification on failure
         if: failure()
         env:
@@ -82,8 +97,12 @@ jobs:
           curl --fail --silent --show-error \
             -F "token=$PUSHOVER_TOKEN" \
             -F "user=$PUSHOVER_USER" \
+            -F "priority=1" \
             -F "title=MTG Spoiler RSS Feed failed" \
-            -F "message=Workflow '${{ github.workflow }}' failed in repository '${{ github.repository }}'." \
+            -F "message=Repository: ${{ github.repository }}
+          Workflow: ${{ github.workflow }}
+          Run: #${{ github.run_number }}
+          Trigger: ${{ github.event_name }}" \
             -F "url=${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
             -F "url_title=Open failed GitHub Action" \
             https://api.pushover.net/1/messages.json
