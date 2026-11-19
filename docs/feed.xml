@@ -5,9 +5,24 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Wed, 18 Nov 2026 22:44:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 14:45:16 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Ornithopter [Secret Lair Drop]</title>
+      <link>https://scryfall.com/card/sld/7212/ornithopter?utm_source=api</link>
+      <guid isPermaLink="false">a3a98bc9-caa0-49b7-951c-fe4e4f54e4ba:sld</guid>
+      <pubDate>Thu, 19 Nov 2026 14:45:16 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/0/1/0196e010-71e1-4066-bec8-194830961916.jpg?1795054899&quot; alt=&quot;Ornithopter&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Ornithopter&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {0}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact Creature — Thopter&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Secret Lair Drop&lt;/p&gt;
+&lt;p&gt;Flying&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sld/7212/ornithopter?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/0/1/0196e010-71e1-4066-bec8-194830961916.jpg?1795054899" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Hedge Shredder [Secret Lair Drop]</title>
       <link>https://scryfall.com/card/sld/2928/hedge-shredder?utm_source=api</link>
@@ -7266,21 +7281,6 @@
 &lt;p&gt;({T}: Add {R} or {W}.)&lt;br/&gt;This land enters tapped unless you control two or more basic lands.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/549/radiant-summit?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/2/5/25df36fa-faf2-462f-ac65-1d597ae0d124.jpg?1793112039" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Kes, Evolving Telepath [Star Trek Commander]</title>
-      <link>https://scryfall.com/card/trc/45/kes-evolving-telepath?utm_source=api</link>
-      <guid isPermaLink="false">714dcaf0-442b-4849-917a-7e6af2ea0210:trc</guid>
-      <pubDate>Tue, 27 Oct 2026 19:02:24 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/2/8/282b02ed-9bfb-4490-947f-f0cc10d50b7f.jpg?1793111727&quot; alt=&quot;Kes, Evolving Telepath&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;Kes, Evolving Telepath&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {4}{U}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Ocampa Advisor&lt;/p&gt;
-&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
-&lt;p&gt;Set: Star Trek Commander&lt;/p&gt;
-&lt;p&gt;At the beginning of your end step, put a time counter on Kes, then draw X cards, where X is the number of time counters on her. Then if she has nine or more time counters on her, sacrifice her.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trc/45/kes-evolving-telepath?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/2/8/282b02ed-9bfb-4490-947f-f0cc10d50b7f.jpg?1793111727" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

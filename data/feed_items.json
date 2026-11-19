@@ -1,5 +1,33 @@
 [
   {
+    "id": "0196e010-71e1-4066-bec8-194830961916",
+    "oracle_id": "a3a98bc9-caa0-49b7-951c-fe4e4f54e4ba",
+    "name": "Ornithopter",
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "mana_cost": "{0}",
+    "type_line": "Artifact Creature — Thopter",
+    "oracle_text": "Flying",
+    "rarity": "rare",
+    "released_at": "2026-11-30",
+    "discovered_at": "2026-11-19T14:45:16.742714+00:00",
+    "scryfall_uri": "https://scryfall.com/card/sld/7212/ornithopter?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/0/1/0196e010-71e1-4066-bec8-194830961916.jpg?1795054899",
+      "normal": "https://cards.scryfall.io/normal/front/0/1/0196e010-71e1-4066-bec8-194830961916.jpg?1795054899",
+      "large": "https://cards.scryfall.io/large/front/0/1/0196e010-71e1-4066-bec8-194830961916.jpg?1795054899",
+      "png": "https://cards.scryfall.io/png/front/0/1/0196e010-71e1-4066-bec8-194830961916.png?1795054899",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/0/1/0196e010-71e1-4066-bec8-194830961916.jpg?1795054899",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/0/1/0196e010-71e1-4066-bec8-194830961916.jpg?1795054899",
+      "thumb": "https://cards.scryfall.io/thumb/front/0/1/0196e010-71e1-4066-bec8-194830961916.webp?1795054899",
+      "grid": "https://cards.scryfall.io/grid/front/0/1/0196e010-71e1-4066-bec8-194830961916.webp?1795054899",
+      "display": "https://cards.scryfall.io/display/front/0/1/0196e010-71e1-4066-bec8-194830961916.webp?1795054899",
+      "art": "https://cards.scryfall.io/art/front/0/1/0196e010-71e1-4066-bec8-194830961916.webp?1795054899",
+      "crop": "https://cards.scryfall.io/crop/front/0/1/0196e010-71e1-4066-bec8-194830961916.webp?1795054899",
+      "jpeg": "https://cards.scryfall.io/normal/front/0/1/0196e010-71e1-4066-bec8-194830961916.jpg?1795054899"
+    }
+  },
+  {
     "id": "12a7bad9-af0a-42ec-baed-db13ddf9312a",
     "oracle_id": "f22665cd-4710-48df-83c1-3c9081097cb5",
     "name": "Hedge Shredder",
@@ -15690,34 +15718,6 @@
       "art": "https://cards.scryfall.io/art/front/2/5/25df36fa-faf2-462f-ac65-1d597ae0d124.webp?1793112039",
       "crop": "https://cards.scryfall.io/crop/front/2/5/25df36fa-faf2-462f-ac65-1d597ae0d124.webp?1793112039",
       "jpeg": "https://cards.scryfall.io/normal/front/2/5/25df36fa-faf2-462f-ac65-1d597ae0d124.jpg?1793112039"
-    }
-  },
-  {
-    "id": "282b02ed-9bfb-4490-947f-f0cc10d50b7f",
-    "oracle_id": "714dcaf0-442b-4849-917a-7e6af2ea0210",
-    "name": "Kes, Evolving Telepath",
-    "set": "trc",
-    "set_name": "Star Trek Commander",
-    "mana_cost": "{4}{U}",
-    "type_line": "Legendary Creature — Ocampa Advisor",
-    "oracle_text": "At the beginning of your end step, put a time counter on Kes, then draw X cards, where X is the number of time counters on her. Then if she has nine or more time counters on her, sacrifice her.",
-    "rarity": "rare",
-    "released_at": "2026-11-13",
-    "discovered_at": "2026-10-27T19:02:24.668940+00:00",
-    "scryfall_uri": "https://scryfall.com/card/trc/45/kes-evolving-telepath?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/2/8/282b02ed-9bfb-4490-947f-f0cc10d50b7f.jpg?1793111727",
-      "normal": "https://cards.scryfall.io/normal/front/2/8/282b02ed-9bfb-4490-947f-f0cc10d50b7f.jpg?1793111727",
-      "large": "https://cards.scryfall.io/large/front/2/8/282b02ed-9bfb-4490-947f-f0cc10d50b7f.jpg?1793111727",
-      "png": "https://cards.scryfall.io/png/front/2/8/282b02ed-9bfb-4490-947f-f0cc10d50b7f.png?1793111727",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/2/8/282b02ed-9bfb-4490-947f-f0cc10d50b7f.jpg?1793111727",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/2/8/282b02ed-9bfb-4490-947f-f0cc10d50b7f.jpg?1793111727",
-      "thumb": "https://cards.scryfall.io/thumb/front/2/8/282b02ed-9bfb-4490-947f-f0cc10d50b7f.webp?1793111727",
-      "grid": "https://cards.scryfall.io/grid/front/2/8/282b02ed-9bfb-4490-947f-f0cc10d50b7f.webp?1793111727",
-      "display": "https://cards.scryfall.io/display/front/2/8/282b02ed-9bfb-4490-947f-f0cc10d50b7f.webp?1793111727",
-      "art": "https://cards.scryfall.io/art/front/2/8/282b02ed-9bfb-4490-947f-f0cc10d50b7f.webp?1793111727",
-      "crop": "https://cards.scryfall.io/crop/front/2/8/282b02ed-9bfb-4490-947f-f0cc10d50b7f.webp?1793111727",
-      "jpeg": "https://cards.scryfall.io/normal/front/2/8/282b02ed-9bfb-4490-947f-f0cc10d50b7f.jpg?1793111727"
     }
   }
 ]
