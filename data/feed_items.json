@@ -1,5 +1,33 @@
 [
   {
+    "id": "4bb4b584-ee8f-442e-b0ff-8cc945debe73",
+    "oracle_id": "1d95ad32-768f-40a1-a461-e0562326b2b7",
+    "name": "Bonescythe Sliver",
+    "set": "pdp14",
+    "set_name": "Duels of the Planeswalkers 2014 Promos",
+    "mana_cost": "{3}{W}",
+    "type_line": "Creature — Sliver",
+    "oracle_text": "Sliver creatures you control have double strike. (They deal both first-strike and regular combat damage.)",
+    "rarity": "rare",
+    "released_at": "2013-01-01",
+    "discovered_at": "2026-11-20T22:25:02.621604+00:00",
+    "scryfall_uri": "https://scryfall.com/card/pdp14/1/de/knochensensenremasuri-(bonescythe-sliver)?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/4/b/4bb4b584-ee8f-442e-b0ff-8cc945debe73.jpg?1795184839",
+      "normal": "https://cards.scryfall.io/normal/front/4/b/4bb4b584-ee8f-442e-b0ff-8cc945debe73.jpg?1795184839",
+      "large": "https://cards.scryfall.io/large/front/4/b/4bb4b584-ee8f-442e-b0ff-8cc945debe73.jpg?1795184839",
+      "png": "https://cards.scryfall.io/png/front/4/b/4bb4b584-ee8f-442e-b0ff-8cc945debe73.png?1795184839",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/4/b/4bb4b584-ee8f-442e-b0ff-8cc945debe73.jpg?1795184839",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/4/b/4bb4b584-ee8f-442e-b0ff-8cc945debe73.jpg?1795184839",
+      "thumb": "https://cards.scryfall.io/thumb/front/4/b/4bb4b584-ee8f-442e-b0ff-8cc945debe73.webp?1795184839",
+      "grid": "https://cards.scryfall.io/grid/front/4/b/4bb4b584-ee8f-442e-b0ff-8cc945debe73.webp?1795184839",
+      "display": "https://cards.scryfall.io/display/front/4/b/4bb4b584-ee8f-442e-b0ff-8cc945debe73.webp?1795184839",
+      "art": "https://cards.scryfall.io/art/front/4/b/4bb4b584-ee8f-442e-b0ff-8cc945debe73.webp?1795184839",
+      "crop": "https://cards.scryfall.io/crop/front/4/b/4bb4b584-ee8f-442e-b0ff-8cc945debe73.webp?1795184839",
+      "jpeg": "https://cards.scryfall.io/normal/front/4/b/4bb4b584-ee8f-442e-b0ff-8cc945debe73.jpg?1795184839"
+    }
+  },
+  {
     "id": "0196e010-71e1-4066-bec8-194830961916",
     "oracle_id": "a3a98bc9-caa0-49b7-951c-fe4e4f54e4ba",
     "name": "Ornithopter",
@@ -15690,34 +15718,6 @@
       "art": "https://cards.scryfall.io/art/front/2/0/20a62007-baf3-4e1b-80e1-71b7a7efd13f.webp?1793111826",
       "crop": "https://cards.scryfall.io/crop/front/2/0/20a62007-baf3-4e1b-80e1-71b7a7efd13f.webp?1793111826",
       "jpeg": "https://cards.scryfall.io/normal/front/2/0/20a62007-baf3-4e1b-80e1-71b7a7efd13f.jpg?1793111826"
-    }
-  },
-  {
-    "id": "25df36fa-faf2-462f-ac65-1d597ae0d124",
-    "oracle_id": "5dd0cc44-4647-4857-ad3b-22494099d08a",
-    "name": "Radiant Summit",
-    "set": "trc",
-    "set_name": "Star Trek Commander",
-    "mana_cost": "",
-    "type_line": "Land — Mountain Plains",
-    "oracle_text": "({T}: Add {R} or {W}.)\nThis land enters tapped unless you control two or more basic lands.",
-    "rarity": "rare",
-    "released_at": "2026-11-13",
-    "discovered_at": "2026-10-27T19:02:24.668940+00:00",
-    "scryfall_uri": "https://scryfall.com/card/trc/549/radiant-summit?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/2/5/25df36fa-faf2-462f-ac65-1d597ae0d124.jpg?1793112039",
-      "normal": "https://cards.scryfall.io/normal/front/2/5/25df36fa-faf2-462f-ac65-1d597ae0d124.jpg?1793112039",
-      "large": "https://cards.scryfall.io/large/front/2/5/25df36fa-faf2-462f-ac65-1d597ae0d124.jpg?1793112039",
-      "png": "https://cards.scryfall.io/png/front/2/5/25df36fa-faf2-462f-ac65-1d597ae0d124.png?1793112039",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/2/5/25df36fa-faf2-462f-ac65-1d597ae0d124.jpg?1793112039",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/2/5/25df36fa-faf2-462f-ac65-1d597ae0d124.jpg?1793112039",
-      "thumb": "https://cards.scryfall.io/thumb/front/2/5/25df36fa-faf2-462f-ac65-1d597ae0d124.webp?1793112039",
-      "grid": "https://cards.scryfall.io/grid/front/2/5/25df36fa-faf2-462f-ac65-1d597ae0d124.webp?1793112039",
-      "display": "https://cards.scryfall.io/display/front/2/5/25df36fa-faf2-462f-ac65-1d597ae0d124.webp?1793112039",
-      "art": "https://cards.scryfall.io/art/front/2/5/25df36fa-faf2-462f-ac65-1d597ae0d124.webp?1793112039",
-      "crop": "https://cards.scryfall.io/crop/front/2/5/25df36fa-faf2-462f-ac65-1d597ae0d124.webp?1793112039",
-      "jpeg": "https://cards.scryfall.io/normal/front/2/5/25df36fa-faf2-462f-ac65-1d597ae0d124.jpg?1793112039"
     }
   }
 ]
