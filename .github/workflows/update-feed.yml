@@ -91,11 +91,15 @@ jobs:
         uses: actions/deploy-pages@v4
 
       - name: Send Pushover notification when feed changed
-        if: steps.generate.outputs.feed_changed == 'true' && success() && secrets.PUSHOVER_TOKEN != '' && secrets.PUSHOVER_USER != ''
+        if: steps.generate.outputs.feed_changed == 'true' && success()
         env:
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
           PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
         run: |
+          if [ -z "$PUSHOVER_TOKEN" ] || [ -z "$PUSHOVER_USER" ]; then
+            echo "Pushover secrets are not configured; skipping notification."
+            exit 0
+          fi
           curl --fail --silent --show-error \
             -F "token=$PUSHOVER_TOKEN" \
             -F "user=$PUSHOVER_USER" \
@@ -106,11 +110,15 @@ jobs:
             https://api.pushover.net/1/messages.json
 
       - name: Send Pushover notification on failure
-        if: failure() && secrets.PUSHOVER_TOKEN != '' && secrets.PUSHOVER_USER != ''
+        if: failure()
         env:
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
           PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
         run: |
+          if [ -z "$PUSHOVER_TOKEN" ] || [ -z "$PUSHOVER_USER" ]; then
+            echo "Pushover secrets are not configured; skipping notification."
+            exit 0
+          fi
           curl --fail --silent --show-error \
             -F "token=$PUSHOVER_TOKEN" \
             -F "user=$PUSHOVER_USER" \
