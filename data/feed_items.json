@@ -1,5 +1,33 @@
 [
   {
+    "id": "5cc4a798-de44-4760-8270-d1e73c10d536",
+    "oracle_id": "280d7480-88d6-4783-a6d2-ba45ee8b03b6",
+    "name": "Sharp Eraser",
+    "set": "unk",
+    "set_name": "Unknown Event",
+    "mana_cost": "{6}",
+    "type_line": "Artifact",
+    "oracle_text": "{2}, {T}: Reveal cards from the top of your library until you reveal a nonland card. You may erase any number of words on that card such that the remaining text makes sense. Then you may cast the revised card without paying its mana cost. Put the rest on the bottom of your library in a random order. (You can't erase symbols or this text using another Sharp Eraser. I see what you're thinking. Stop it! Shoo!)",
+    "rarity": "rare",
+    "released_at": "2026-05-01",
+    "discovered_at": "2026-11-25T00:11:46.657705+00:00",
+    "scryfall_uri": "https://scryfall.com/card/unk/20260535/sharp-eraser?utm_source=api",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/5/c/5cc4a798-de44-4760-8270-d1e73c10d536.jpg?1795533643",
+      "normal": "https://cards.scryfall.io/normal/front/5/c/5cc4a798-de44-4760-8270-d1e73c10d536.jpg?1795533643",
+      "large": "https://cards.scryfall.io/large/front/5/c/5cc4a798-de44-4760-8270-d1e73c10d536.jpg?1795533643",
+      "png": "https://cards.scryfall.io/png/front/5/c/5cc4a798-de44-4760-8270-d1e73c10d536.png?1795533643",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/c/5cc4a798-de44-4760-8270-d1e73c10d536.jpg?1795533643",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/5/c/5cc4a798-de44-4760-8270-d1e73c10d536.jpg?1795533643",
+      "thumb": "https://cards.scryfall.io/thumb/front/5/c/5cc4a798-de44-4760-8270-d1e73c10d536.webp?1795533643",
+      "grid": "https://cards.scryfall.io/grid/front/5/c/5cc4a798-de44-4760-8270-d1e73c10d536.webp?1795533643",
+      "display": "https://cards.scryfall.io/display/front/5/c/5cc4a798-de44-4760-8270-d1e73c10d536.webp?1795533643",
+      "art": "https://cards.scryfall.io/art/front/5/c/5cc4a798-de44-4760-8270-d1e73c10d536.webp?1795533643",
+      "crop": "https://cards.scryfall.io/crop/front/5/c/5cc4a798-de44-4760-8270-d1e73c10d536.webp?1795533643",
+      "jpeg": "https://cards.scryfall.io/normal/front/5/c/5cc4a798-de44-4760-8270-d1e73c10d536.jpg?1795533643"
+    }
+  },
+  {
     "id": "0a43387d-2e2e-4dea-b4ed-2c5b108f93e4",
     "oracle_id": "208c0d17-de21-4441-bdf0-0c4554db02c7",
     "name": "Phoenix Nest",
@@ -15690,34 +15718,6 @@
       "art": "https://cards.scryfall.io/art/front/4/2/426bd73c-67d2-4f9a-8fd9-214ccacb1d7d.webp?1793187341",
       "crop": "https://cards.scryfall.io/crop/front/4/2/426bd73c-67d2-4f9a-8fd9-214ccacb1d7d.webp?1793187341",
       "jpeg": "https://cards.scryfall.io/normal/front/4/2/426bd73c-67d2-4f9a-8fd9-214ccacb1d7d.jpg?1793187341"
-    }
-  },
-  {
-    "id": "43091ed3-a412-48b4-8794-62c0a279e4b2",
-    "oracle_id": "15885e58-76a9-49fa-ae67-a0482aacd81c",
-    "name": "David and Carol Marcus, Creators",
-    "set": "trk",
-    "set_name": "Star Trek",
-    "mana_cost": "{2}{G}",
-    "type_line": "Legendary Creature — Human Scientist",
-    "oracle_text": "When David and Carol Marcus enter, create a tapped Planet land token named New Planet with \"{T}: Add one mana of any color.\"",
-    "rarity": "uncommon",
-    "released_at": "2026-11-13",
-    "discovered_at": "2026-10-28T17:28:29.821356+00:00",
-    "scryfall_uri": "https://scryfall.com/card/trk/420/david-and-carol-marcus-creators?utm_source=api",
-    "image_uris": {
-      "small": "https://cards.scryfall.io/small/front/4/3/43091ed3-a412-48b4-8794-62c0a279e4b2.jpg?1793188053",
-      "normal": "https://cards.scryfall.io/normal/front/4/3/43091ed3-a412-48b4-8794-62c0a279e4b2.jpg?1793188053",
-      "large": "https://cards.scryfall.io/large/front/4/3/43091ed3-a412-48b4-8794-62c0a279e4b2.jpg?1793188053",
-      "png": "https://cards.scryfall.io/png/front/4/3/43091ed3-a412-48b4-8794-62c0a279e4b2.png?1793188053",
-      "art_crop": "https://cards.scryfall.io/art_crop/front/4/3/43091ed3-a412-48b4-8794-62c0a279e4b2.jpg?1793188053",
-      "border_crop": "https://cards.scryfall.io/border_crop/front/4/3/43091ed3-a412-48b4-8794-62c0a279e4b2.jpg?1793188053",
-      "thumb": "https://cards.scryfall.io/thumb/front/4/3/43091ed3-a412-48b4-8794-62c0a279e4b2.webp?1793188053",
-      "grid": "https://cards.scryfall.io/grid/front/4/3/43091ed3-a412-48b4-8794-62c0a279e4b2.webp?1793188053",
-      "display": "https://cards.scryfall.io/display/front/4/3/43091ed3-a412-48b4-8794-62c0a279e4b2.webp?1793188053",
-      "art": "https://cards.scryfall.io/art/front/4/3/43091ed3-a412-48b4-8794-62c0a279e4b2.webp?1793188053",
-      "crop": "https://cards.scryfall.io/crop/front/4/3/43091ed3-a412-48b4-8794-62c0a279e4b2.webp?1793188053",
-      "jpeg": "https://cards.scryfall.io/normal/front/4/3/43091ed3-a412-48b4-8794-62c0a279e4b2.jpg?1793188053"
     }
   }
 ]

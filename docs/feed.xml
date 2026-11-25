@@ -5,9 +5,24 @@
     <link>https://scryfall.com</link>
     <description>Automatisch generierter RSS Feed für neu gespoilerte und veröffentlichte Magic: The Gathering Karten via Scryfall.</description>
     <language>de-de</language>
-    <lastBuildDate>Sat, 21 Nov 2026 20:16:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 00:11:46 +0000</lastBuildDate>
     <ttl>120</ttl>
     <atom:link rel="self" type="application/rss+xml" href="https://wombart.github.io/mtg-spoiler-rss/feed.xml"/>
+    <item>
+      <title>Sharp Eraser [Unknown Event]</title>
+      <link>https://scryfall.com/card/unk/20260535/sharp-eraser?utm_source=api</link>
+      <guid isPermaLink="false">280d7480-88d6-4783-a6d2-ba45ee8b03b6:unk</guid>
+      <pubDate>Wed, 25 Nov 2026 00:11:46 +0000</pubDate>
+      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/5/c/5cc4a798-de44-4760-8270-d1e73c10d536.jpg?1795533643&quot; alt=&quot;Sharp Eraser&quot; style=&quot;max-width:300px&quot;/&gt;
+&lt;p&gt;&lt;strong&gt;Sharp Eraser&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Manakosten: {6}&lt;/p&gt;
+&lt;p&gt;Typ: Artifact&lt;/p&gt;
+&lt;p&gt;Seltenheit: Rare&lt;/p&gt;
+&lt;p&gt;Set: Unknown Event&lt;/p&gt;
+&lt;p&gt;{2}, {T}: Reveal cards from the top of your library until you reveal a nonland card. You may erase any number of words on that card such that the remaining text makes sense. Then you may cast the revised card without paying its mana cost. Put the rest on the bottom of your library in a random order. (You can&amp;#x27;t erase symbols or this text using another Sharp Eraser. I see what you&amp;#x27;re thinking. Stop it! Shoo!)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/unk/20260535/sharp-eraser?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://cards.scryfall.io/normal/front/5/c/5cc4a798-de44-4760-8270-d1e73c10d536.jpg?1795533643" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Phoenix Nest [Black Lotus Unknown Planechase]</title>
       <link>https://scryfall.com/card/ounk/20261109/phoenix-nest?utm_source=api</link>
@@ -7208,21 +7223,6 @@
 &lt;p&gt;If an opponent would mill one or more cards, they mill twice that many cards instead. (To mill a card, a player puts the top card of their library into their graveyard.)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/sds/8/bruvac-the-grandiloquent?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
       <enclosure url="https://cards.scryfall.io/normal/front/4/2/426bd73c-67d2-4f9a-8fd9-214ccacb1d7d.jpg?1793187341" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>David and Carol Marcus, Creators [Star Trek]</title>
-      <link>https://scryfall.com/card/trk/420/david-and-carol-marcus-creators?utm_source=api</link>
-      <guid isPermaLink="false">15885e58-76a9-49fa-ae67-a0482aacd81c:trk</guid>
-      <pubDate>Wed, 28 Oct 2026 17:28:29 +0000</pubDate>
-      <description>&lt;img src=&quot;https://cards.scryfall.io/normal/front/4/3/43091ed3-a412-48b4-8794-62c0a279e4b2.jpg?1793188053&quot; alt=&quot;David and Carol Marcus, Creators&quot; style=&quot;max-width:300px&quot;/&gt;
-&lt;p&gt;&lt;strong&gt;David and Carol Marcus, Creators&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Manakosten: {2}{G}&lt;/p&gt;
-&lt;p&gt;Typ: Legendary Creature — Human Scientist&lt;/p&gt;
-&lt;p&gt;Seltenheit: Uncommon&lt;/p&gt;
-&lt;p&gt;Set: Star Trek&lt;/p&gt;
-&lt;p&gt;When David and Carol Marcus enter, create a tapped Planet land token named New Planet with &amp;quot;{T}: Add one mana of any color.&amp;quot;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://scryfall.com/card/trk/420/david-and-carol-marcus-creators?utm_source=api&quot;&gt;Auf Scryfall ansehen&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://cards.scryfall.io/normal/front/4/3/43091ed3-a412-48b4-8794-62c0a279e4b2.jpg?1793188053" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
