@@ -101,7 +101,10 @@ ein leerer Commit wird nicht erstellt. Regressionstests laufen vor jeder Erzeugu
 Der Job bricht nach 15 Minuten ab und versucht den Push bis zu dreimal, jeweils
 nach einem Rebase, damit ein paralleler Lauf seine Arbeit nicht verliert. Pushover-
 Benachrichtigungen werden nur gesendet, wenn `PUSHOVER_USER` und `PUSHOVER_TOKEN`
-gesetzt sind; die Erfolgsmeldung nennt die Anzahl neuer Karten.
+gesetzt sind. Die Erfolgsmeldung nennt die Gesamtzahl neuer Karten und ihre
+Verteilung auf die Editionen: die fünf größten Editionen werden einzeln genannt,
+der Rest als `+N more sets (X cards)` zusammengefasst. Der Text wird vom Generator
+gebaut und bleibt innerhalb von Pushovers Limit von 1024 Zeichen.
 
 ### 4. Feed URL ermitteln
 

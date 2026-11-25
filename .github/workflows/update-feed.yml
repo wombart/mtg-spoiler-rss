@@ -95,18 +95,21 @@ jobs:
         env:
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
           PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_TITLE: ${{ steps.generate.outputs.notification_title }}
+          PUSHOVER_MESSAGE: ${{ steps.generate.outputs.notification_message }}
+          FEED_LINK: ${{ steps.pages.outputs.base_url }}/feed.xml
         run: |
           if [ -z "$PUSHOVER_TOKEN" ] || [ -z "$PUSHOVER_USER" ]; then
             echo "Pushover secrets are not configured; skipping notification."
             exit 0
           fi
           curl --fail --silent --show-error \
-            -F "token=$PUSHOVER_TOKEN" \
-            -F "user=$PUSHOVER_USER" \
-            -F "title=New MTG spoilers available" \
-            -F "message=${{ steps.generate.outputs.new_card_count }} new card(s) added to the MTG Spoiler RSS Feed." \
-            -F "url=${{ steps.pages.outputs.base_url }}/feed.xml" \
-            -F "url_title=Open RSS Feed" \
+            --form-string "token=$PUSHOVER_TOKEN" \
+            --form-string "user=$PUSHOVER_USER" \
+            --form-string "title=$PUSHOVER_TITLE" \
+            --form-string "message=$PUSHOVER_MESSAGE" \
+            --form-string "url=$FEED_LINK" \
+            --form-string "url_title=Open RSS Feed" \
             https://api.pushover.net/1/messages.json
 
       - name: Send Pushover notification on failure

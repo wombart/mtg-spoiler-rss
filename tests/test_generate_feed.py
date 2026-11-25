@@ -74,6 +74,9 @@ class FeedTests(unittest.TestCase):
             self.assertEqual(feed.main(), 0)
         return fetch
 
+    def output_lines(self):
+        return (self.root / "outputs").read_text(encoding="utf-8").splitlines()
+
     def test_guids_follow_oracle_and_set_identity(self):
         first = make_card()
         other_set = make_card(id="other", set="xyz")
@@ -216,8 +219,10 @@ class FeedTests(unittest.TestCase):
         self.run_generator({"old": {}, "new": {}}, [make_card(set="plst")])
         self.assertIn("new", feed.load_known_print_ids())
         self.assertEqual(feed.OUTPUT_FILE.read_bytes(), before)
-        self.assertEqual((self.root / "outputs").read_text().splitlines()[-4:], [
-            "new_cards=false", "new_card_count=0", "feed_changed=false", "state_changed=true",
+        self.assertEqual(self.output_lines()[-6:], [
+            "new_cards=false", "new_card_count=0", "notification_title=MTG feed updated",
+            "notification_message=Feed updated — no new cards detected.",
+            "feed_changed=false", "state_changed=true",
         ])
 
     def test_unchanged_run_preserves_dates_and_file_contents(self):
@@ -229,8 +234,10 @@ class FeedTests(unittest.TestCase):
         fetch = self.run_generator(manifest, [])
         fetch.assert_not_called()
         self.assertEqual(before, {path: (path.read_bytes(), path.stat().st_mtime_ns) for path in paths})
-        self.assertEqual((self.root / "outputs").read_text().splitlines()[-4:], [
-            "new_cards=false", "new_card_count=0", "feed_changed=false", "state_changed=false",
+        self.assertEqual(self.output_lines()[-6:], [
+            "new_cards=false", "new_card_count=0", "notification_title=MTG feed updated",
+            "notification_message=Feed updated — no new cards detected.",
+            "feed_changed=false", "state_changed=false",
         ])
 
     def test_rebuild_migrates_legacy_dates_and_deduplicates_without_network(self):
@@ -429,16 +436,89 @@ class FeedTests(unittest.TestCase):
             "oracle:abc",
         )
 
+    def test_notification_lists_top_sets_by_count(self):
+        cards = [make_card(set_name="Small")] + [make_card(set_name="Large")] * 3 + [make_card(set_name="Medium")] * 2
+        self.assertEqual(
+            feed.notification_message(cards),
+            "6 new cards: 3× Large, 2× Medium, 1× Small",
+        )
+
+    def test_notification_limits_to_top_five_sets(self):
+        cards = []
+        for index in range(8):
+            cards += [make_card(set_name=f"Set {index}")] * (8 - index)
+        message = feed.notification_message(cards)
+        self.assertTrue(message.startswith("36 new cards: 8× Set 0, 7× Set 1"), message)
+        self.assertEqual(message.count("×"), feed.NOTIFICATION_TOP_SETS)
+        self.assertIn("+3 more sets (6 cards)", message)
+
+    def test_notification_aggregates_by_set_name(self):
+        cards = [
+            make_card(set="aaa", set_name="Shared Set"),
+            make_card(set="bbb", set_name="Shared Set"),
+            make_card(set="ccc", set_name=None),
+        ]
+        self.assertEqual(feed.summarize_new_cards(cards), [("Shared Set", 2), ("ccc", 1)])
+        self.assertEqual(feed.set_label(make_card(set_name=" Name\n\twith   spaces ")), "Name with spaces")
+        self.assertEqual(feed.set_label({"set": "xyz"}), "xyz")
+        self.assertEqual(feed.set_label({}), "Unknown set")
+
+    def test_notification_title_and_message_are_singular_for_one_card(self):
+        cards = [make_card(set_name="Foundations")]
+        self.assertEqual(feed.notification_title(cards), "1 new MTG spoiler")
+        self.assertEqual(feed.notification_message(cards), "1 new card: 1× Foundations")
+
+    def test_notification_without_new_cards(self):
+        self.assertEqual(feed.notification_title([]), "MTG feed updated")
+        self.assertEqual(feed.notification_message([]), "Feed updated — no new cards detected.")
+
+    def test_notification_sanitizes_set_names_and_stays_within_limits(self):
+        cards = [make_card(set_name="Line\nbreak\tand  tabs")] * 2
+        message = feed.notification_message(cards)
+        self.assertNotIn("\n", message)
+        self.assertIn("2× Line break and tabs", message)
+
+        many = [make_card(set_name="X" * 400 + str(index)) for index in range(5)]
+        self.assertLessEqual(len(feed.notification_message(many)), feed.PUSHOVER_MESSAGE_LIMIT)
+
+        self.assertEqual(feed.notification_message([make_card(set_name="Y" * 1100)]), "1 new card.")
+        self.assertLessEqual(len(feed.notification_title([{}] * 300)), feed.PUSHOVER_TITLE_LIMIT)
+
+    def test_main_writes_notification_outputs(self):
+        feed.save_known_print_ids({"old"})
+        manifest = {"old": {}, "a": {}, "b": {}, "c": {}}
+        cards = [
+            make_card(id="a", oracle_id="a", set_name="Big Set"),
+            make_card(id="b", oracle_id="b", set_name="Big Set"),
+            make_card(id="c", oracle_id="c", set_name="Small Set"),
+        ]
+        self.run_generator(manifest, cards)
+        outputs = dict(line.split("=", 1) for line in self.output_lines())
+        self.assertEqual(outputs["new_card_count"], "3")
+        self.assertEqual(outputs["notification_title"], "3 new MTG spoilers")
+        self.assertEqual(outputs["notification_message"], "3 new cards: 2× Big Set, 1× Small Set")
+
 
 class WorkflowTests(unittest.TestCase):
+    def workflow_text(self) -> str:
+        return (REPO_ROOT / ".github" / "workflows" / "update-feed.yml").read_text(encoding="utf-8")
+
     def test_step_conditions_avoid_the_secrets_context(self):
-        text = (REPO_ROOT / ".github" / "workflows" / "update-feed.yml").read_text(encoding="utf-8")
+        text = self.workflow_text()
         conditions = [line.strip() for line in text.splitlines() if line.strip().startswith("if:")]
         self.assertTrue(conditions)
         for condition in conditions:
             self.assertNotIn("secrets.", condition, condition)
         self.assertIn('[ -z "$PUSHOVER_TOKEN" ]', text)
         self.assertIn('[ -z "$PUSHOVER_USER" ]', text)
+
+    def test_notification_step_uses_env_indirection(self):
+        blocks = self.workflow_text().split("\n      - name: ")
+        notification = next(block for block in blocks if block.startswith("Send Pushover notification when feed changed"))
+        run_block = notification.split("run: |", 1)[1]
+        self.assertNotIn("${{", run_block)
+        self.assertIn('--form-string "message=$PUSHOVER_MESSAGE"', run_block)
+        self.assertIn("PUSHOVER_MESSAGE: ${{ steps.generate.outputs.notification_message }}", notification)
 
 
 if __name__ == "__main__":

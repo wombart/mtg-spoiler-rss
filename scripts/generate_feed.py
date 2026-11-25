@@ -39,6 +39,10 @@ EXCLUDED_SET_CODES = {"plst", "unk", "ounk", "punk", "atrk", "atrc"}  # The List
 MAX_FEED_ENTRIES = 500
 MAX_NEW_PRINTS_PER_RUN = 500  # API work per run, independent of the feed size
 KEPT_IMAGE_KEYS = ("normal", "small")  # image URLs persisted in feed_items.json
+# Pushover limits: https://pushover.net/api#limits
+PUSHOVER_MESSAGE_LIMIT = 1024
+PUSHOVER_TITLE_LIMIT = 250
+NOTIFICATION_TOP_SETS = 5  # sets named in the notification, the rest is summarised
 DATA_FILE = Path(__file__).parent.parent / "data" / "known_cards.json"
 KNOWN_PRINT_IDS_FILE = Path(__file__).parent.parent / "data" / "known_print_ids.json"
 FEED_ITEMS_FILE = Path(__file__).parent.parent / "data" / "feed_items.json"
@@ -444,6 +448,61 @@ def select_new_cards_for_feed(hydrated_cards: list[dict], known_cards: dict) -> 
     return new_cards
 
 
+def set_label(card: dict) -> str:
+    """Human readable set name; GitHub step outputs are line based, so flatten whitespace."""
+    label = card.get("set_name") or card.get("set") or "Unknown set"
+    return " ".join(str(label).split())
+
+
+def summarize_new_cards(cards: list[dict]) -> list[tuple[str, int]]:
+    """Card counts per set name, largest set first, ties alphabetically."""
+    counts: dict[str, int] = {}
+    for card in cards:
+        label = set_label(card)
+        counts[label] = counts.get(label, 0) + 1
+    return sorted(counts.items(), key=lambda item: (-item[1], item[0]))
+
+
+def _truncate(text: str, limit: int) -> str:
+    return text if len(text) <= limit else text[:limit - 1].rstrip() + "…"
+
+
+def notification_message(new_cards: list[dict]) -> str:
+    """Single line summary of the new cards, within the Pushover message limit."""
+    total = len(new_cards)
+    if not total:
+        return "Feed updated — no new cards detected."
+
+    sets = summarize_new_cards(new_cards)
+    noun = "card" if total == 1 else "cards"
+
+    def render(entries: tuple[tuple[str, int], ...]) -> str:
+        parts = [f"{count}× {label}" for label, count in entries]
+        rest = sets[len(entries):]
+        if rest:
+            rest_cards = sum(count for _, count in rest)
+            part_suffix = "s" if len(rest) > 1 else ""
+            card_suffix = "s" if rest_cards > 1 else ""
+            parts.append(f"+{len(rest)} more set{part_suffix} ({rest_cards} card{card_suffix})")
+        return f"{total} new {noun}: " + ", ".join(parts)
+
+    entries = tuple(sets[:NOTIFICATION_TOP_SETS])
+    while True:
+        message = render(entries) if entries else f"{total} new {noun}."
+        if len(message) <= PUSHOVER_MESSAGE_LIMIT or not entries:
+            break
+        entries = entries[:-1]
+    return _truncate(message, PUSHOVER_MESSAGE_LIMIT)
+
+
+def notification_title(new_cards: list[dict]) -> str:
+    total = len(new_cards)
+    if not total:
+        return "MTG feed updated"
+    noun = "spoiler" if total == 1 else "spoilers"
+    return _truncate(f"{total} new MTG {noun}", PUSHOVER_TITLE_LIMIT)
+
+
 def normalize_feed_items(items: list[dict], known_cards: dict) -> list[dict]:
     now_iso = datetime.now(timezone.utc).isoformat()
     unique_items = {}
@@ -525,6 +584,8 @@ def main(*, rebuild_only: bool = False) -> int:
 
     set_github_output("new_cards", "true" if new_cards else "false")
     set_github_output("new_card_count", str(len(new_cards)))
+    set_github_output("notification_title", notification_title(new_cards))
+    set_github_output("notification_message", notification_message(new_cards))
     set_github_output("feed_changed", "true" if feed_changed else "false")
     set_github_output("state_changed", "true" if items_changed or cards_changed or ids_changed else "false")
     print(f"Done: {len(new_cards)} new card(s) added.")

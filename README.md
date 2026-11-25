@@ -118,7 +118,10 @@ empty commit is not created. Regression tests run before each generation. The
 job times out after 15 minutes, and the push is attempted up to three times, each
 attempt preceded by a rebase, so a concurrent run does not lose its work. Pushover
 notifications are skipped unless `PUSHOVER_USER` and `PUSHOVER_TOKEN` are both
-configured, and the success notification includes the number of new cards.
+configured. The success notification names the total number of new cards and how
+they split across sets: the five largest sets are listed, the rest is summarised as
+`+N more sets (X cards)`. The text is built by the generator and kept within
+Pushover's 1024 character message limit.
 
 ### 4. Determine the feed URL
 
