@@ -4,13 +4,27 @@ import os
 import tempfile
 import unittest
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
+from html import unescape
 from html.parser import HTMLParser
 from pathlib import Path
-from unittest.mock import patch
+from unittest.mock import MagicMock, patch
 from xml.etree import ElementTree
 import urllib.error
 
 from scripts import generate_feed as feed
+
+REPO_ROOT = Path(__file__).resolve().parent.parent
+
+
+def make_response(payload: bytes):
+    response = MagicMock()
+    response.__enter__.return_value.read.return_value = payload
+    return response
+
+
+def http_error(code: int, headers: dict | None = None) -> urllib.error.HTTPError:
+    return urllib.error.HTTPError("https://example.invalid", code, f"HTTP {code}", headers or {}, None)
 
 
 def make_card(**changes):
@@ -310,6 +324,121 @@ class FeedTests(unittest.TestCase):
             feed.write_text_if_changed(target, "new")
         self.assertEqual(target.read_text(), "old")
         self.assertEqual(list(self.root.iterdir()), [target])
+
+    def test_rate_limit_is_retried_and_honours_retry_after(self):
+        limited = http_error(429, {"Retry-After": "1"})
+        with patch.object(feed.urllib.request, "urlopen", side_effect=[limited, make_response(b'{"ok": true}')]), \
+                patch.object(feed.time, "sleep") as sleep, contextlib.redirect_stderr(io.StringIO()):
+            self.assertEqual(feed.fetch_json("https://example.invalid"), {"ok": True})
+        sleep.assert_called_once()
+        self.assertGreaterEqual(sleep.call_args.args[0], 31)
+
+    def test_transient_failures_are_retried(self):
+        for failure in (http_error(503), urllib.error.URLError("offline")):
+            with self.subTest(failure=repr(failure)):
+                with patch.object(feed.urllib.request, "urlopen", side_effect=[failure, make_response(b'{"ok": true}')]), \
+                        patch.object(feed.time, "sleep") as sleep, contextlib.redirect_stderr(io.StringIO()):
+                    self.assertEqual(feed.fetch_json("https://example.invalid"), {"ok": True})
+                sleep.assert_called_once()
+
+    def test_client_errors_are_not_retried(self):
+        with patch.object(feed.urllib.request, "urlopen", side_effect=http_error(400)), \
+                patch.object(feed.time, "sleep") as sleep:
+            with self.assertRaises(urllib.error.HTTPError):
+                feed.fetch_json("https://example.invalid")
+        sleep.assert_not_called()
+
+    def test_invalid_manifest_json_fails_without_touching_state(self):
+        feed.save_known_print_ids({"old"})
+        with patch.object(feed.urllib.request, "urlopen", return_value=make_response(b"{not json")), \
+                contextlib.redirect_stdout(io.StringIO()), contextlib.redirect_stderr(io.StringIO()):
+            self.assertEqual(feed.main(), 1)
+        self.assertEqual(feed.load_known_print_ids(), {"old"})
+        self.assertFalse(feed.OUTPUT_FILE.exists())
+
+    def test_manifest_stops_on_repeated_next_page(self):
+        repeated = "https://api.scryfall.com/cards/manifest?page=2"
+        pages = [
+            {"data": [{"id": "first"}], "next_page": repeated},
+            {"data": [{"id": "second"}], "next_page": repeated},
+        ]
+        with patch.object(feed, "fetch_json", side_effect=pages) as fetch, \
+                patch.object(feed.time, "sleep"), contextlib.redirect_stdout(io.StringIO()):
+            self.assertEqual(list(feed.fetch_manifest_entries()), ["first", "second"])
+        self.assertEqual(fetch.call_count, 2)
+
+    def test_card_without_images_has_no_media(self):
+        item = ElementTree.fromstring(ElementTree.tostring(feed.build_rss_item(make_card(image_uris=None))))
+        self.assertIsNone(item.find("enclosure"))
+        self.assertNotIn("<img", item.findtext("description"))
+
+    def test_invalid_discovery_timestamp_falls_back_to_now(self):
+        item = feed.build_rss_item(make_card(discovered_at="not-a-date"))
+        published = parsedate_to_datetime(item.findtext("pubDate"))
+        self.assertLess(abs((datetime.now(timezone.utc) - published).total_seconds()), 120)
+
+    def test_feed_document_is_well_formed_and_not_double_escaped(self):
+        card = make_card(name="Adventurer's Map")
+        xml_text = feed.build_rss_feed([feed.build_rss_item(card)], datetime.now(timezone.utc))
+        self.assertTrue(xml_text.startswith('<?xml version="1.0"?>'))
+        root = ElementTree.fromstring(xml_text)
+        self.assertEqual(len(root.findall("./channel")), 1)
+        description = root.find("./channel/item/description").text
+        self.assertNotIn("&amp;#x27;", description)
+        self.assertIn("Adventurer's Map", unescape(description))
+
+    def test_all_failed_collection_batches_abort_the_run(self):
+        feed.save_known_print_ids({"old"})
+        with patch.object(feed, "fetch_manifest_entries", return_value={"old": {}, "new": {}}), \
+                patch.object(feed, "fetch_json", side_effect=http_error(400)), \
+                contextlib.redirect_stdout(io.StringIO()), contextlib.redirect_stderr(io.StringIO()):
+            self.assertEqual(feed.main(), 1)
+        self.assertEqual(feed.load_known_print_ids(), {"old"})
+        self.assertFalse(feed.OUTPUT_FILE.exists())
+        self.assertEqual(feed.load_known_cards(), {})
+
+    def test_multiface_oracle_text_is_joined(self):
+        card = make_card(card_faces=[{"oracle_text": "Front text"}, {"oracle_text": "Back text"}])
+        self.assertEqual(feed.card_oracle_text(card), "Front text\n//\nBack text")
+
+    def test_write_text_if_changed_creates_directories_and_reports_changes(self):
+        target = self.root / "nested" / "deeper" / "state.json"
+        self.assertTrue(feed.write_text_if_changed(target, "content"))
+        self.assertEqual(target.read_text(encoding="utf-8"), "content")
+        self.assertFalse(feed.write_text_if_changed(target, "content"))
+
+    def test_github_output_is_optional(self):
+        with patch.dict(os.environ, {"GITHUB_OUTPUT": ""}):
+            self.assertIsNone(feed.set_github_output("new_cards", "false"))
+
+    def test_empty_excluded_sets_override_excludes_nothing(self):
+        with patch.dict(os.environ, {"EXCLUDED_SETS": ""}):
+            self.assertEqual(feed.excluded_set_codes(), set())
+            self.assertTrue(feed.is_feed_eligible(make_card(set="plst")))
+
+    def test_published_entries_in_excluded_sets_are_retained(self):
+        feed.save_known_print_ids({"old"})
+        feed.save_feed_items([make_card(id="kept", oracle_id="kept", set="plst")])
+        self.run_generator({"old": {}}, [])
+        self.assertEqual([card["set"] for card in feed.load_feed_items()], ["plst"])
+
+    def test_manifest_key_falls_back_to_print_id(self):
+        self.assertEqual(feed.manifest_dedup_key({"id": "print", "set_code": "abc"}), "print:abc")
+        self.assertEqual(
+            feed.manifest_dedup_key({"id": "print", "oracle_id": "oracle", "set_code": "abc"}),
+            "oracle:abc",
+        )
+
+
+class WorkflowTests(unittest.TestCase):
+    def test_step_conditions_avoid_the_secrets_context(self):
+        text = (REPO_ROOT / ".github" / "workflows" / "update-feed.yml").read_text(encoding="utf-8")
+        conditions = [line.strip() for line in text.splitlines() if line.strip().startswith("if:")]
+        self.assertTrue(conditions)
+        for condition in conditions:
+            self.assertNotIn("secrets.", condition, condition)
+        self.assertIn('[ -z "$PUSHOVER_TOKEN" ]', text)
+        self.assertIn('[ -z "$PUSHOVER_USER" ]', text)
 
 
 if __name__ == "__main__":
