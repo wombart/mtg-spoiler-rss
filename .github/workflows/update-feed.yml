@@ -81,7 +81,9 @@ jobs:
 
       - name: Upload Pages artifact
         if: steps.generate.outputs.feed_changed == 'true' || github.event_name != 'schedule' || inputs.force_commit
-        uses: actions/upload-pages-artifact@v5
+        # v5 pulls in upload-artifact@v7, which uploads to Actions blob storage; deploy-pages@v5
+        # still lists artifacts through the classic API and finds none. Keep v4 (upload-artifact@v4).
+        uses: actions/upload-pages-artifact@v4
         with:
           path: docs/
 
