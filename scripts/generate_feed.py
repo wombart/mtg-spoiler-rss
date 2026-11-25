@@ -8,6 +8,9 @@ relying on a rolling date-window search. New prints are tracked per
 (oracle_id, set) via data/known_cards.json, so a reprint in a new set is
 treated as a new feed entry, while duplicate variants within the same set
 are not.
+
+Excluded sets and already-known (oracle_id, set) combinations are filtered
+from the manifest itself, so they never cost a /cards/collection request.
 """
 
 import argparse
@@ -20,10 +23,9 @@ from datetime import datetime, timezone
 from email.utils import format_datetime, parsedate_to_datetime
 from html import escape
 from pathlib import Path
-from xml.etree.ElementTree import Element, SubElement, fromstring, tostring, ParseError
-from xml.dom import minidom
-import urllib.request
+from xml.etree.ElementTree import Element, SubElement, ParseError, fromstring, indent, tostring
 import urllib.error
+import urllib.request
 
 # --- Configuration ---
 SCRYFALL_MANIFEST_URL = "https://api.scryfall.com/cards/manifest"
@@ -32,9 +34,11 @@ SCRYFALL_COLLECTION_URL = "https://api.scryfall.com/cards/collection"
 MANIFEST_MIN_INTERVAL = 6.0   # /cards/manifest: 10/minute
 COLLECTION_MIN_INTERVAL = 0.5  # /cards/collection: 2/second
 COLLECTION_BATCH_SIZE = 75    # max identifiers per /cards/collection request
-# Sets that only contain reprints and are not interesting as "new cards"
-EXCLUDED_SET_CODES = {"plst"}  # "The List"
+# Set codes that never count as "new cards"; overridable via EXCLUDED_SETS.
+EXCLUDED_SET_CODES = {"plst", "unk", "ounk", "punk", "atrk", "atrc"}  # The List, Un-Sets, Art Series
 MAX_FEED_ENTRIES = 500
+MAX_NEW_PRINTS_PER_RUN = 500  # API work per run, independent of the feed size
+KEPT_IMAGE_KEYS = ("normal", "small")  # image URLs persisted in feed_items.json
 DATA_FILE = Path(__file__).parent.parent / "data" / "known_cards.json"
 KNOWN_PRINT_IDS_FILE = Path(__file__).parent.parent / "data" / "known_print_ids.json"
 FEED_ITEMS_FILE = Path(__file__).parent.parent / "data" / "feed_items.json"
@@ -45,7 +49,7 @@ FEED_DESCRIPTION = (
     "veröffentlichte Magic: The Gathering Karten via Scryfall."
 )
 FEED_LINK = "https://scryfall.com"
-FEED_LANGUAGE = "de-de"
+FEED_LANGUAGE = "de-DE"
 
 
 def fetch_json(url: str, *, method: str = "GET", body: dict | None = None, max_retries: int = 3) -> dict:
@@ -68,6 +72,8 @@ def fetch_json(url: str, *, method: str = "GET", body: dict | None = None, max_r
                 return json.loads(resp.read().decode("utf-8"))
         except urllib.error.HTTPError as e:
             if e.code == 429:
+                if attempt >= max_retries:
+                    raise
                 wait = 30
                 retry_after = e.headers.get("Retry-After") if e.headers else None
                 if retry_after:
@@ -75,10 +81,9 @@ def fetch_json(url: str, *, method: str = "GET", body: dict | None = None, max_r
                         wait = max(wait, int(retry_after))
                     except ValueError:
                         pass
+                wait += attempt
                 print(f"  Rate limited (429). Waiting {wait}s...", file=sys.stderr)
                 time.sleep(wait)
-                if attempt >= max_retries:
-                    raise
                 continue
             if 500 <= e.code < 600 and attempt < max_retries:
                 wait = 2 ** attempt
@@ -131,7 +136,7 @@ def load_known_print_ids() -> set[str] | None:
 
 
 def save_known_print_ids(ids: set[str]) -> bool:
-    return write_text_if_changed(KNOWN_PRINT_IDS_FILE, json.dumps(sorted(ids)))
+    return write_text_if_changed(KNOWN_PRINT_IDS_FILE, json.dumps(sorted(ids), separators=(",", ":")))
 
 
 def load_feed_items() -> list[dict]:
@@ -145,15 +150,45 @@ def save_feed_items(items: list[dict]) -> bool:
     return write_text_if_changed(FEED_ITEMS_FILE, json.dumps(items, indent=2, ensure_ascii=False))
 
 
+def _image_url(images: dict) -> str | None:
+    return images.get("normal") or images.get("large") or images.get("small") or images.get("png")
+
+
+def card_image_urls(card: dict) -> list[str]:
+    """Front image first, then the remaining faces of multi-faced cards."""
+    urls: list[str] = []
+    front = _image_url(card.get("image_uris") or {})
+    if front:
+        urls.append(front)
+    for face in card.get("card_faces") or []:
+        url = _image_url(face.get("image_uris") or {})
+        if url and url not in urls:
+            urls.append(url)
+    return urls
+
+
 def card_image_url(card: dict) -> str | None:
-    images = card.get("image_uris", {})
-    if images:
-        return images.get("normal") or images.get("large") or images.get("small")
-    faces = card.get("card_faces", [])
-    if faces:
-        face_images = faces[0].get("image_uris", {})
-        return face_images.get("normal") or face_images.get("large")
-    return None
+    urls = card_image_urls(card)
+    return urls[0] if urls else None
+
+
+def image_content_type(url: str) -> str:
+    suffix = url.split("?")[0].rsplit(".", 1)[-1].lower()
+    return {
+        "png": "image/png",
+        "webp": "image/webp",
+        "jpg": "image/jpeg",
+        "jpeg": "image/jpeg",
+    }.get(suffix, "image/jpeg")
+
+
+def card_mana_cost(card: dict) -> str:
+    """Multi-faced cards carry the cost on each face instead of the card itself."""
+    cost = card.get("mana_cost")
+    if cost:
+        return cost
+    faces = card.get("card_faces") or []
+    return " // ".join(face["mana_cost"] for face in faces if face.get("mana_cost"))
 
 
 def card_oracle_text(card: dict) -> str:
@@ -174,14 +209,14 @@ def card_sort_date(card: dict) -> str:
 def build_rss_item(card: dict) -> Element:
     item = Element("item")
 
-    name        = card.get("name", "Unknown Card")
+    name         = card.get("name", "Unknown Card")
     scryfall_uri = card.get("scryfall_uri", "https://scryfall.com")
-    set_name    = card.get("set_name", "")
-    mana_cost   = card.get("mana_cost", "")
-    type_line   = card.get("type_line", "")
-    oracle_text = card_oracle_text(card)
-    rarity      = card.get("rarity", "").capitalize()
-    image_url   = card_image_url(card)
+    set_name     = card.get("set_name", "")
+    mana_cost    = card_mana_cost(card)
+    type_line    = card.get("type_line", "")
+    oracle_text  = card_oracle_text(card)
+    rarity       = card.get("rarity", "").capitalize()
+    image_urls   = card_image_urls(card)
 
     pub_date_str = card_sort_date(card)
     try:
@@ -202,8 +237,9 @@ def build_rss_item(card: dict) -> Element:
     SubElement(item, "pubDate").text = format_datetime(pub_dt)
 
     desc_parts = []
-    if image_url:
-        desc_parts.append(f'<img src="{escape(image_url)}" alt="{escape(name)}" style="max-width:300px"/>')
+    for index, image_url in enumerate(image_urls):
+        alt = name if index == 0 else f"{name} (Rückseite)"
+        desc_parts.append(f'<img src="{escape(image_url)}" alt="{escape(alt)}" style="max-width:300px"/>')
     desc_parts.append(f"<p><strong>{escape(name)}</strong></p>")
     if mana_cost:
         desc_parts.append(f"<p>Manakosten: {escape(mana_cost)}</p>")
@@ -218,8 +254,11 @@ def build_rss_item(card: dict) -> Element:
     desc_parts.append(f'<p><a href="{escape(scryfall_uri)}">Auf Scryfall ansehen</a></p>')
 
     SubElement(item, "description").text = "\n".join(desc_parts)
-    if image_url:
-        SubElement(item, "enclosure", url=image_url, type="image/jpeg", length="0")
+    if image_urls:
+        SubElement(
+            item, "enclosure",
+            url=image_urls[0], type=image_content_type(image_urls[0]), length="0",
+        )
 
     return item
 
@@ -246,8 +285,8 @@ def build_rss_feed(items: list[Element], build_time: datetime) -> str:
     for item in items:
         channel.append(item)
 
-    raw = tostring(rss, encoding="unicode")
-    return minidom.parseString(raw).toprettyxml(indent="  ", encoding=None)
+    indent(rss, space="  ")
+    return '<?xml version="1.0"?>\n' + tostring(rss, encoding="unicode") + "\n"
 
 
 def fetch_manifest_entries() -> dict[str, dict]:
@@ -266,7 +305,9 @@ def fetch_manifest_entries() -> dict[str, dict]:
     entries: dict[str, dict] = {}
     url = f"{SCRYFALL_MANIFEST_URL}?order=released"
     page = 1
-    while url:
+    seen_urls: set[str] = set()
+    while url and url not in seen_urls:
+        seen_urls.add(url)
         print(f"  Manifest page {page}...")
         data = fetch_json(url)
         batch = data.get("data", [])
@@ -282,25 +323,48 @@ def fetch_manifest_entries() -> dict[str, dict]:
 
 
 def hydrate_cards(ids: list[str]) -> list[dict]:
-    """Fetch full Card objects for the given Scryfall IDs via POST /cards/collection."""
+    """Fetch full Card objects for the given Scryfall IDs via POST /cards/collection.
+
+    A failing batch is skipped and its IDs stay unresolved, so they are retried on
+    the next run instead of aborting the whole run.
+    """
     cards: list[dict] = []
+    first_error: Exception | None = None
+    batches = failures = 0
     for i in range(0, len(ids), COLLECTION_BATCH_SIZE):
         batch = ids[i:i + COLLECTION_BATCH_SIZE]
         body = {"identifiers": [{"id": card_id} for card_id in batch]}
         print(f"  Hydrating {i + len(batch)}/{len(ids)} card(s)...")
-        data = fetch_json(SCRYFALL_COLLECTION_URL, method="POST", body=body)
+        batches += 1
+        try:
+            data = fetch_json(SCRYFALL_COLLECTION_URL, method="POST", body=body)
+        except (urllib.error.URLError, OSError, ValueError) as error:
+            failures += 1
+            first_error = first_error or error
+            print(f"  Warning: batch failed ({error}); keeping {len(batch)} ID(s) pending.", file=sys.stderr)
+            continue
         cards.extend(data.get("data", []))
         not_found = data.get("not_found", [])
         if not_found:
             print(f"  Warning: {len(not_found)} identifier(s) not found.", file=sys.stderr)
         if i + COLLECTION_BATCH_SIZE < len(ids):
             time.sleep(COLLECTION_MIN_INTERVAL)
+    if batches and failures == batches and first_error is not None:
+        raise first_error
     return cards
+
+
+def excluded_set_codes() -> set[str]:
+    """Excluded sets from the defaults, overridable with EXCLUDED_SETS=a,b,c."""
+    override = os.environ.get("EXCLUDED_SETS")
+    if override is None:
+        return set(EXCLUDED_SET_CODES)
+    return {code.strip().lower() for code in override.split(",") if code.strip()}
 
 
 def is_feed_eligible(card: dict) -> bool:
     """Filters out cards that aren't interesting "new card" spoilers."""
-    if card.get("set") in EXCLUDED_SET_CODES:
+    if card.get("set") in excluded_set_codes():
         return False
     return True
 
@@ -310,6 +374,17 @@ def feed_dedup_key(card: dict) -> str:
     return f"{card.get('oracle_id') or card.get('id')}:{card.get('set')}"
 
 
+def manifest_dedup_key(entry: dict) -> str:
+    """Same identity as feed_dedup_key(), for lightweight /cards/manifest entries."""
+    return f"{entry.get('oracle_id') or entry.get('id')}:{entry.get('set_code')}"
+
+
+def trim_image_uris(images: dict) -> dict:
+    """Keep only the image variants the feed renders, so feed_items.json stays small."""
+    kept = {key: images[key] for key in KEPT_IMAGE_KEYS if images.get(key)}
+    return kept or dict(images)
+
+
 def trim_card_for_storage(card: dict) -> dict:
     """Keep only the fields build_rss_item() needs, to keep feed_items.json small."""
     keep_keys = (
@@ -317,11 +392,17 @@ def trim_card_for_storage(card: dict) -> dict:
         "oracle_text", "rarity", "released_at", "discovered_at", "scryfall_uri", "image_uris",
     )
     trimmed = {k: card[k] for k in keep_keys if k in card}
+    if trimmed.get("image_uris"):
+        trimmed["image_uris"] = trim_image_uris(trimmed["image_uris"])
     if "card_faces" in card:
         face_keys = ("name", "oracle_text", "mana_cost", "image_uris")
-        trimmed["card_faces"] = [
-            {k: face[k] for k in face_keys if k in face} for face in card["card_faces"]
-        ]
+        faces = []
+        for face in card["card_faces"]:
+            trimmed_face = {k: face[k] for k in face_keys if k in face}
+            if trimmed_face.get("image_uris"):
+                trimmed_face["image_uris"] = trim_image_uris(trimmed_face["image_uris"])
+            faces.append(trimmed_face)
+        trimmed["card_faces"] = faces
     return trimmed
 
 
@@ -397,11 +478,30 @@ def main(*, rebuild_only: bool = False) -> int:
             manifest_entries = fetch_manifest_entries()
             current_print_ids = set(manifest_entries)
             previous_ids = known_print_ids or set()
-            candidate_ids = [identifier for identifier in manifest_entries if identifier not in previous_ids]
-            selected_ids = candidate_ids[:MAX_FEED_ENTRIES]
-            print(f"Processing {len(selected_ids)} of {len(candidate_ids)} candidate print(s).")
+            excluded_sets = excluded_set_codes()
+            candidate_ids: list[str] = []
+            treated_ids: set[str] = set()
+            pending_keys: set[str] = set()
+            for identifier, entry in manifest_entries.items():
+                if identifier in previous_ids:
+                    continue
+                if entry.get("set_code") in excluded_sets:
+                    treated_ids.add(identifier)
+                    continue
+                key = manifest_dedup_key(entry) if entry.get("oracle_id") and entry.get("set_code") else None
+                if key is not None and (key in known_cards or key in pending_keys):
+                    treated_ids.add(identifier)
+                    continue
+                if key is not None:
+                    pending_keys.add(key)
+                candidate_ids.append(identifier)
+            selected_ids = candidate_ids[:MAX_NEW_PRINTS_PER_RUN]
+            print(
+                f"Processing {len(selected_ids)} of {len(candidate_ids)} candidate print(s), "
+                f"{len(treated_ids)} skipped without hydration."
+            )
             hydrated = hydrate_cards(selected_ids)
-        except (urllib.error.URLError, OSError) as error:
+        except (urllib.error.URLError, OSError, ValueError) as error:
             print(f"Fatal: could not fetch cards: {error}", file=sys.stderr)
             set_github_output("new_cards", "false")
             return 1
@@ -410,7 +510,7 @@ def main(*, rebuild_only: bool = False) -> int:
         if is_bootstrap:
             processed_print_ids = (current_print_ids - set(selected_ids)) | resolved_ids
         else:
-            processed_print_ids = (previous_ids & current_print_ids) | resolved_ids
+            processed_print_ids = (previous_ids & current_print_ids) | resolved_ids | treated_ids
         new_cards = select_new_cards_for_feed(
             [card for card in hydrated if card["id"] in resolved_ids], known_cards
         )
@@ -424,6 +524,7 @@ def main(*, rebuild_only: bool = False) -> int:
         ids_changed = save_known_print_ids(processed_print_ids)
 
     set_github_output("new_cards", "true" if new_cards else "false")
+    set_github_output("new_card_count", str(len(new_cards)))
     set_github_output("feed_changed", "true" if feed_changed else "false")
     set_github_output("state_changed", "true" if items_changed or cards_changed or ids_changed else "false")
     print(f"Done: {len(new_cards)} new card(s) added.")

@@ -19,19 +19,36 @@ nichts durch ein abgelaufenes Zeitfenster oder Preview-Datums-Eigenheiten
 verloren gehen kann – ein Kartendruck gilt als neu, sobald seine ID zum
 ersten Mal im Katalog auftaucht.
 
-Nicht auflösbare IDs werden in späteren Läufen erneut angefragt. Pro Lauf werden
-höchstens 500 neue Print-IDs verarbeitet. Größere Rückstände verteilen sich auf
-mehrere Läufe, damit Einträge nicht schon vor ihrer ersten Ausgabe verschwinden.
-Beim ersten Lauf ohne Baseline werden nur die ersten 500 Prints des nach
-Veröffentlichung absteigend sortierten Manifests für den Start-Feed berücksichtigt;
-der Rest bildet den historischen Ausgangsbestand. Filter und Varianten können
-dazu führen, dass der Start-Feed weniger als 500 Einträge enthält.
+Nicht auflösbare IDs werden in späteren Läufen erneut angefragt. Ein fehlgeschlagener
+Batch von `/cards/collection`-Requests wird übersprungen, statt den Lauf abzubrechen;
+seine IDs bleiben ausstehend und werden im nächsten Lauf erneut versucht. Pro Lauf
+werden höchstens `MAX_NEW_PRINTS_PER_RUN` (500) neue Print-IDs aufgelöst. Größere
+Rückstände verteilen sich auf mehrere Läufe, damit Einträge nicht schon vor ihrer
+ersten Ausgabe verschwinden. Beim ersten Lauf ohne Baseline werden nur die ersten
+500 Prints des nach Veröffentlichung absteigend sortierten Manifests für den
+Start-Feed berücksichtigt; der Rest bildet den historischen Ausgangsbestand.
+Filter und Varianten können dazu führen, dass der Start-Feed weniger als 500
+Einträge enthält.
+
+Ausgeschlossene Sets und bereits bekannte `(oracle_id, set)`-Kombinationen werden
+schon beim Durchlaufen des Manifests verworfen, bevor eine Karte aufgelöst wird.
+Manifest-Einträge enthalten `set_code` und `oracle_id`, daher kostet nur der erste
+Print einer wirklich neuen Karte einen `/cards/collection`-Request. Die
+übersprungenen Print-IDs landen in der Baseline und werden nicht erneut betrachtet.
 
 Karten werden pro `(oracle_id, set)`-Kombination getrackt (`data/known_cards.json`):
 ein Nachdruck in einem neuen Set erzeugt also einen neuen Feed-Eintrag,
 mehrere Varianten (Foil, Showcase, …) im selben Set aber nur einen.
 
-Nachdrucke sind enthalten, ausgenommen ausgeschlossene Sets wie `plst` (The List).
+Nachdrucke sind enthalten, ausgenommen ausgeschlossene Sets: `plst` (The List),
+die Un-Sets `unk`, `ounk` und `punk` sowie die Art-Series-Sets `atrk` und
+`atrc` (siehe `EXCLUDED_SET_CODES` / `EXCLUDED_SETS` unter
+[Konfiguration](#konfiguration)). Bereits veröffentlichte Einträge bleiben, bis
+sie aus den 500 herausrotieren.
+
+Karten mit mehreren Gesichtern zeigen die Manakosten jedes Gesichts und je Gesicht
+ein Bild; das RSS-`enclosure` verweist immer auf die Vorderseite.
+
 RSS-GUIDs verwenden dieselbe Identität `(oracle_id, set)`. Einträge werden nach
 einem dauerhaft gespeicherten Entdeckungszeitpunkt sortiert, der auch als RSS-
 `pubDate` dient, nicht nach dem Veröffentlichungsdatum der Karte. Der Feed enthält
@@ -81,6 +98,10 @@ Zustandsänderungen werden auch ohne neue Feed-Einträge committed. Pushes nach
 geplante Läufe deployen nur bei geändertem Feed. Der optionale Boolean
 `force_commit` fordert den Commit/Push-Schritt auch ohne gemeldete Änderungen an;
 ein leerer Commit wird nicht erstellt. Regressionstests laufen vor jeder Erzeugung.
+Der Job bricht nach 15 Minuten ab und versucht den Push bis zu dreimal, jeweils
+nach einem Rebase, damit ein paralleler Lauf seine Arbeit nicht verliert. Pushover-
+Benachrichtigungen werden nur gesendet, wenn `PUSHOVER_USER` und `PUSHOVER_TOKEN`
+gesetzt sind; die Erfolgsmeldung nennt die Anzahl neuer Karten.
 
 ### 4. Feed URL ermitteln
 
@@ -97,8 +118,13 @@ definiert:
 
 | Konstante | Standard | Beschreibung |
 |---|---|---|
-| `MAX_FEED_ENTRIES` | `500` | Maximale Feed-Einträge und pro Lauf verarbeitete neue Print-IDs |
-| `EXCLUDED_SET_CODES` | `{"plst"}` | Set-Codes, deren Karten nie als "neu" gelten (z. B. "The List") |
+| `MAX_FEED_ENTRIES` | `500` | Maximale Anzahl Einträge im Feed |
+| `MAX_NEW_PRINTS_PER_RUN` | `500` | Maximale Anzahl pro Lauf aufgelöster neuer Prints; größere Rückstände verteilen sich auf mehrere Läufe |
+| `EXCLUDED_SET_CODES` | `{"plst", "unk", "ounk", "punk", "atrk", "atrc"}` | Set-Codes, deren Karten nie als "neu" gelten (The List, Un-Sets, Art Series) |
+
+Die optionale Umgebungsvariable `EXCLUDED_SETS` ersetzt diese Liste vollständig
+(kommagetrennt, z. B. `EXCLUDED_SETS=plst,unk`), ohne dass der Code geändert
+werden muss.
 
 Die optionale Umgebungsvariable `FEED_URL` legt die absolute RSS-Self-URL fest.
 GitHub Actions leitet sie aus der Pages-URL ab, einschließlich eigener Domains.
@@ -142,8 +168,11 @@ python -m unittest discover -s tests -v
 
 Die Tests verwenden temporäre Verzeichnisse und simulierte API-Antworten. Sie
 verändern den gespeicherten Feed nicht und rufen Scryfall nicht auf. Abgedeckt
-sind fehlende IDs, Bootstrap, Rückstände, Filter, GUIDs, HTML-Escaping,
-Entdeckungszeitpunkte, Migration, unveränderte Läufe, Schreibfehler,
+sind fehlende IDs, Bootstrap, Rückstände, Filter, Filterung und Deduplizierung
+vor der Hydration, konfigurierbare ausgeschlossene Sets, GUIDs, HTML-Escaping,
+Entdeckungszeitpunkte, Rendering mehrgesichtiger Karten, Enclosure-Typen,
+gekürzte Bild-URLs, kompakte Zustandsdateien, Rate-Limits, Migration,
+unveränderte Läufe, Schreibfehler, fehlgeschlagene Collection-Batches,
 Paginierung und Collection-Batches.
 
 Lokale Browser-Vorschau einschließlich Abruf des Feed-Zeitstempels:
@@ -166,7 +195,7 @@ Aufruf über `http://127.0.0.1:8000/` oder `http://127.0.0.1:8000/index.html`.
 ├── data/
 │   ├── known_cards.json        # Bekannte (oracle_id, set) Kombinationen (Duplikat-Schutz)
 │   ├── known_print_ids.json    # Baseline aller Scryfall Print-IDs (letzter Manifest-Stand)
-│   └── feed_items.json         # Zuletzt gerenderte Feed-Einträge (Basis für den nächsten Build)
+│   └── feed_items.json         # Zuletzt gerenderte Feed-Einträge mit gekürzten Bild-URLs
 ├── docs/                       # GitHub Pages Root
 │   ├── feed.xml                # Generierter RSS Feed
 │   └── index.html              # Info-Seite

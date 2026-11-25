@@ -26,6 +26,7 @@ concurrency:
 jobs:
   update-and-deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -59,8 +60,24 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add docs/feed.xml data/known_cards.json data/known_print_ids.json data/feed_items.json
-          git diff --staged --quiet || git commit -m "chore: update MTG spoiler feed [skip ci]"
-          git push
+          if git diff --staged --quiet; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          git commit -m "chore: update MTG spoiler feed [skip ci]"
+          pushed=false
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash && git push; then
+              pushed=true
+              break
+            fi
+            echo "Push attempt $attempt failed, retrying..."
+            sleep 10
+          done
+          if [ "$pushed" != true ]; then
+            echo "Push failed after 3 attempts." >&2
+            exit 1
+          fi
 
       - name: Upload Pages artifact
         if: steps.generate.outputs.feed_changed == 'true' || github.event_name != 'schedule' || inputs.force_commit
@@ -72,9 +89,9 @@ jobs:
         if: steps.generate.outputs.feed_changed == 'true' || github.event_name != 'schedule' || inputs.force_commit
         id: deployment
         uses: actions/deploy-pages@v4
-        
+
       - name: Send Pushover notification when feed changed
-        if: steps.generate.outputs.feed_changed == 'true' && success()
+        if: steps.generate.outputs.feed_changed == 'true' && success() && secrets.PUSHOVER_TOKEN != '' && secrets.PUSHOVER_USER != ''
         env:
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
           PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
@@ -83,13 +100,13 @@ jobs:
             -F "token=$PUSHOVER_TOKEN" \
             -F "user=$PUSHOVER_USER" \
             -F "title=New MTG spoilers available" \
-            -F "message=New cards have been added to the MTG Spoiler RSS Feed." \
+            -F "message=${{ steps.generate.outputs.new_card_count }} new card(s) added to the MTG Spoiler RSS Feed." \
             -F "url=${{ steps.pages.outputs.base_url }}/feed.xml" \
             -F "url_title=Open RSS Feed" \
             https://api.pushover.net/1/messages.json
-            
+
       - name: Send Pushover notification on failure
-        if: failure()
+        if: failure() && secrets.PUSHOVER_TOKEN != '' && secrets.PUSHOVER_USER != ''
         env:
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
           PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}

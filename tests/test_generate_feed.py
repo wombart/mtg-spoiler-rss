@@ -8,6 +8,7 @@ from html.parser import HTMLParser
 from pathlib import Path
 from unittest.mock import patch
 from xml.etree import ElementTree
+import urllib.error
 
 from scripts import generate_feed as feed
 
@@ -72,6 +73,31 @@ class FeedTests(unittest.TestCase):
         selected = feed.select_new_cards_for_feed(cards, {})
         self.assertEqual([card["id"] for card in selected], ["new"])
 
+    def test_excluded_sets_are_configurable(self):
+        self.assertFalse(feed.is_feed_eligible(make_card(set="unk")))
+        self.assertFalse(feed.is_feed_eligible(make_card(set="atrk")))
+        self.assertTrue(feed.is_feed_eligible(make_card(set="abc")))
+        with patch.dict(os.environ, {"EXCLUDED_SETS": " abcd , "}):
+            self.assertEqual(feed.excluded_set_codes(), {"abcd"})
+            self.assertTrue(feed.is_feed_eligible(make_card(set="unk")))
+
+    def test_excluded_and_duplicate_variants_are_not_hydrated(self):
+        feed.save_known_print_ids({"old"})
+        feed.save_known_cards({"oracle-known:abc": "2026-01-01T00:00:00+00:00"})
+        manifest = {
+            "old": {"id": "old", "oracle_id": "oracle-old", "set_code": "abc"},
+            "excluded": {"id": "excluded", "oracle_id": "oracle-ex", "set_code": "plst"},
+            "known-variant": {"id": "known-variant", "oracle_id": "oracle-known", "set_code": "abc"},
+            "new-first": {"id": "new-first", "oracle_id": "oracle-new", "set_code": "abc"},
+            "new-second": {"id": "new-second", "oracle_id": "oracle-new", "set_code": "abc"},
+        }
+        fetch = self.run_generator(manifest, [make_card(id="new-first", oracle_id="oracle-new")])
+        requested = [identifier["id"] for call in fetch.call_args_list for identifier in call.kwargs["body"]["identifiers"]]
+        self.assertEqual(requested, ["new-first"])
+        known_print_ids = feed.load_known_print_ids()
+        for identifier in ("excluded", "known-variant", "new-second", "new-first"):
+            self.assertIn(identifier, known_print_ids)
+
     def test_html_attributes_and_text_survive_xml_roundtrip(self):
         card = make_card(name='"Quoted" & <Example>', oracle_text="A < B & C\nNext line")
         item = ElementTree.fromstring(ElementTree.tostring(feed.build_rss_item(card)))
@@ -85,6 +111,42 @@ class FeedTests(unittest.TestCase):
     def test_pub_date_uses_discovery_time(self):
         card = make_card(discovered_at="2026-09-14T12:00:00+00:00")
         self.assertEqual(feed.build_rss_item(card).findtext("pubDate"), "Mon, 14 Sep 2026 12:00:00 +0000")
+
+    def test_multiface_card_shows_both_face_manacosts_and_images(self):
+        card = make_card(mana_cost="", image_uris=None, card_faces=[
+            {"name": "Front", "mana_cost": "{2}{U}", "oracle_text": "Front text", "image_uris": {"normal": "front.jpg"}},
+            {"name": "Back", "mana_cost": "{3}{U}", "oracle_text": "Back text", "image_uris": {"normal": "back.jpg"}},
+        ])
+        item = ElementTree.fromstring(ElementTree.tostring(feed.build_rss_item(card)))
+        description = item.findtext("description")
+        self.assertIn("Manakosten: {2}{U} // {3}{U}", description)
+        self.assertEqual(item.find("enclosure").get("url"), "front.jpg")
+        parser = ImageParser()
+        parser.feed(description)
+        self.assertEqual([image["src"] for image in parser.images], ["front.jpg", "back.jpg"])
+        self.assertEqual(parser.images[1]["alt"], "Example (Rückseite)")
+
+    def test_enclosure_type_matches_image_extension(self):
+        png = feed.build_rss_item(make_card(image_uris={"normal": "https://cards.scryfall.io/x.png?v=1"}))
+        self.assertEqual(png.find("enclosure").get("type"), "image/png")
+        jpeg = feed.build_rss_item(make_card(image_uris={"normal": "https://cards.scryfall.io/x.jpg?v=1"}))
+        self.assertEqual(jpeg.find("enclosure").get("type"), "image/jpeg")
+
+    def test_stored_cards_keep_only_used_image_urls(self):
+        card = make_card(image_uris={"small": "s.jpg", "normal": "n.jpg", "large": "l.jpg", "png": "p.png"})
+        trimmed = feed.trim_card_for_storage(card)
+        self.assertEqual(trimmed["image_uris"], {"normal": "n.jpg", "small": "s.jpg"})
+        self.assertEqual(feed.card_image_url(trimmed), "n.jpg")
+        face_card = make_card(card_faces=[
+            {"name": "Front", "mana_cost": "{1}", "image_uris": {"normal": "front.jpg", "large": "large.jpg"}},
+        ])
+        self.assertEqual(feed.trim_card_for_storage(face_card)["card_faces"][0]["image_uris"], {"normal": "front.jpg"})
+        self.assertEqual(feed.trim_image_uris({"png": "p.png"}), {"png": "p.png"})
+
+    def test_known_print_ids_are_stored_compactly(self):
+        self.assertTrue(feed.save_known_print_ids({"b", "a"}))
+        self.assertEqual(feed.KNOWN_PRINT_IDS_FILE.read_text(encoding="utf-8"), '["a","b"]')
+        self.assertEqual(feed.load_known_print_ids(), {"a", "b"})
 
     def test_missing_collection_card_is_retried_next_run(self):
         feed.save_known_print_ids({"old"})
@@ -105,7 +167,7 @@ class FeedTests(unittest.TestCase):
 
     def test_bootstrap_does_not_replay_catalog_but_retries_missing_seed(self):
         manifest = {identifier: {} for identifier in ("new", "missing", "historical")}
-        with patch.object(feed, "MAX_FEED_ENTRIES", 2):
+        with patch.object(feed, "MAX_NEW_PRINTS_PER_RUN", 2):
             self.run_generator(manifest, [make_card()], missing=["missing"])
         self.assertEqual(feed.load_known_print_ids(), {"new", "historical"})
         self.assertTrue(feed.OUTPUT_FILE.exists())
@@ -120,11 +182,11 @@ class FeedTests(unittest.TestCase):
         root = ElementTree.fromstring(feed.build_rss_feed([], datetime.now(timezone.utc)))
         self.assertIsNone(root.find("./channel/{http://www.w3.org/2005/Atom}link"))
 
-    def test_backlog_larger_than_feed_is_processed_over_multiple_runs(self):
+    def test_backlog_larger_than_run_limit_is_processed_over_multiple_runs(self):
         feed.save_known_print_ids({"old"})
         cards = {identifier: make_card(id=identifier, oracle_id=identifier) for identifier in ("first", "second", "third")}
         manifest = {identifier: {} for identifier in ("old", *cards)}
-        with patch.object(feed, "MAX_FEED_ENTRIES", 2):
+        with patch.object(feed, "MAX_NEW_PRINTS_PER_RUN", 2):
             fetch = self.run_generator(manifest, [cards["first"], cards["second"]])
             self.assertEqual(len(fetch.call_args.kwargs["body"]["identifiers"]), 2)
             self.assertNotIn("third", feed.load_known_print_ids())
@@ -140,8 +202,8 @@ class FeedTests(unittest.TestCase):
         self.run_generator({"old": {}, "new": {}}, [make_card(set="plst")])
         self.assertIn("new", feed.load_known_print_ids())
         self.assertEqual(feed.OUTPUT_FILE.read_bytes(), before)
-        self.assertEqual((self.root / "outputs").read_text().splitlines()[-3:], [
-            "new_cards=false", "feed_changed=false", "state_changed=true",
+        self.assertEqual((self.root / "outputs").read_text().splitlines()[-4:], [
+            "new_cards=false", "new_card_count=0", "feed_changed=false", "state_changed=true",
         ])
 
     def test_unchanged_run_preserves_dates_and_file_contents(self):
@@ -153,8 +215,8 @@ class FeedTests(unittest.TestCase):
         fetch = self.run_generator(manifest, [])
         fetch.assert_not_called()
         self.assertEqual(before, {path: (path.read_bytes(), path.stat().st_mtime_ns) for path in paths})
-        self.assertEqual((self.root / "outputs").read_text().splitlines()[-3:], [
-            "new_cards=false", "feed_changed=false", "state_changed=false",
+        self.assertEqual((self.root / "outputs").read_text().splitlines()[-4:], [
+            "new_cards=false", "new_card_count=0", "feed_changed=false", "state_changed=false",
         ])
 
     def test_rebuild_migrates_legacy_dates_and_deduplicates_without_network(self):
@@ -218,6 +280,28 @@ class FeedTests(unittest.TestCase):
             self.assertEqual(list(feed.fetch_manifest_entries()), ["first", "second"])
         self.assertEqual(fetch.call_args.args[0], pages[0]["next_page"])
         sleep.assert_called_once_with(feed.MANIFEST_MIN_INTERVAL)
+
+    def test_failed_collection_batch_keeps_ids_pending(self):
+        feed.save_known_print_ids({"old"})
+        pending = [f"card-{index}" for index in range(feed.COLLECTION_BATCH_SIZE)]
+        manifest = {"old": {}, **{identifier: {} for identifier in (*pending, "last")}}
+        bad_request = urllib.error.HTTPError("https://example.invalid", 400, "Bad Request", {}, None)
+        with patch.object(feed, "fetch_manifest_entries", return_value=manifest), \
+                patch.object(feed, "fetch_json", side_effect=[bad_request, {"data": [make_card(id="last", oracle_id="last")]}]), \
+                contextlib.redirect_stdout(io.StringIO()), contextlib.redirect_stderr(io.StringIO()):
+            self.assertEqual(feed.main(), 0)
+        known_print_ids = feed.load_known_print_ids()
+        self.assertIn("last", known_print_ids)
+        self.assertNotIn("card-0", known_print_ids)
+        self.assertEqual({card["id"] for card in feed.load_feed_items()}, {"last"})
+
+    def test_rate_limit_does_not_sleep_before_giving_up(self):
+        limited = urllib.error.HTTPError("https://example.invalid", 429, "Too Many Requests", {}, None)
+        with patch.object(feed.urllib.request, "urlopen", side_effect=limited), \
+                patch.object(feed.time, "sleep") as sleep, contextlib.redirect_stderr(io.StringIO()):
+            with self.assertRaises(urllib.error.HTTPError):
+                feed.fetch_json("https://example.invalid", max_retries=1)
+        sleep.assert_not_called()
 
     def test_atomic_write_failure_preserves_previous_file(self):
         target = self.root / "state.json"

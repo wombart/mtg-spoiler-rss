@@ -18,18 +18,34 @@ This is more robust than a date-based search, since nothing can get lost
 due to an expired time window or preview-date quirks – a card print counts
 as new as soon as its ID first appears in the catalog.
 
-IDs that cannot be resolved are retried on subsequent runs. Each run processes
-at most 500 new print IDs; larger backlogs are spread across runs so entries
-are not discarded before appearing in the feed. On the initial run without a
-baseline, only the first 500 prints in newest-release-first manifest order
-are considered for the seed feed; the rest become the historical baseline.
-Filtering and duplicate variants can make the initial feed smaller than 500.
+IDs that cannot be resolved are retried on subsequent runs; a failing batch of
+`/cards/collection` requests is skipped instead of aborting the run, so its IDs
+simply stay pending. Each run resolves at most `MAX_NEW_PRINTS_PER_RUN` (500) new
+print IDs; larger backlogs are spread across runs so entries are not discarded
+before appearing in the feed. On the initial run without a baseline, only the
+first 500 prints in newest-release-first manifest order are considered for the
+seed feed; the rest become the historical baseline. Filtering and duplicate
+variants can make the initial feed smaller than 500.
+
+Excluded sets and already-known `(oracle_id, set)` combinations are dropped
+while scanning the manifest, before any card is resolved. Manifest entries carry
+`set_code` and `oracle_id`, so only the first print of a genuinely new card costs
+a `/cards/collection` request. The skipped print IDs are recorded in the baseline
+and never reconsidered.
 
 Cards are tracked per `(oracle_id, set)` combination (`data/known_cards.json`):
 a reprint in a new set creates a new feed entry, but multiple variants
 (foil, showcase, …) within the same set only produce one.
 
-Reprints are included, except for excluded sets such as `plst` (The List).
+Reprints are included, except for excluded sets: `plst` (The List), the joke
+"Un-" sets `unk`, `ounk` and `punk`, and the Art Series sets `atrk` and `atrc`
+(see `EXCLUDED_SET_CODES` / `EXCLUDED_SETS` under
+[Configuration](#configuration)). Entries already published are kept until they
+rotate out of the retained 500.
+
+Multi-faced cards list the mana cost of every face and show one image per face;
+the RSS `enclosure` always points at the front image.
+
 RSS GUIDs use the same `(oracle_id, set)` identity. Entries are ordered by a
 persisted discovery timestamp, also used for RSS `pubDate`, rather than the
 card's release date. The feed retains the 500 most recently discovered entries.
@@ -47,11 +63,11 @@ flowchart TD
 	Trigger["Every 2 hours, push to master, or manual run"] --> Tests["Run regression tests"]
 	Tests --> Manifest["Fetch the full Scryfall manifest"]
 	Manifest --> Compare["Compare print IDs with the saved baseline"]
-	Compare --> Hydrate["Resolve up to 500 new IDs via cards/collection"]
+	Compare --> Filter["Skip excluded sets and already-known oracle_id + set"]
 	Compare -. "Excess IDs" .-> Pending["Keep IDs pending for the next run"]
-	Hydrate -. "Unresolved IDs" .-> Pending
-	Hydrate --> Filter["Exclude configured sets and deduplicate by oracle_id + set"]
-	Filter --> Feed["Merge with stored entries and retain the 500 latest discoveries"]
+	Filter --> Hydrate["Resolve up to 500 new IDs via cards/collection"]
+	Hydrate -. "Unresolved or failed IDs" .-> Pending
+	Hydrate --> Feed["Merge with stored entries and retain the 500 latest discoveries"]
 	Feed --> Save["Save the feed and processing state; commit changes"]
 	Save --> Deploy{"Feed changed, push, or manual run?"}
 	Deploy -->|Yes| Pages["Publish to GitHub Pages"]
@@ -98,7 +114,11 @@ State changes are committed even when no new feed entry is produced. Pushes to
 `master` and manual runs deploy the site independently of new cards; scheduled
 runs deploy only when the feed changes. The optional Boolean `force_commit`
 requests the commit/push step even when the generator reports no changes; an
-empty commit is not created. Regression tests run before each generation.
+empty commit is not created. Regression tests run before each generation. The
+job times out after 15 minutes, and the push is attempted up to three times, each
+attempt preceded by a rebase, so a concurrent run does not lose its work. Pushover
+notifications are skipped unless `PUSHOVER_USER` and `PUSHOVER_TOKEN` are both
+configured, and the success notification includes the number of new cards.
 
 ### 4. Determine the feed URL
 
@@ -115,8 +135,13 @@ All parameters are defined as constants at the top of the
 
 | Constant | Default | Description |
 |---|---|---|
-| `MAX_FEED_ENTRIES` | `500` | Maximum feed entries and new print IDs processed per run |
-| `EXCLUDED_SET_CODES` | `{"plst"}` | Set codes whose cards never count as "new" (e.g. "The List") |
+| `MAX_FEED_ENTRIES` | `500` | Maximum number of entries retained in the feed |
+| `MAX_NEW_PRINTS_PER_RUN` | `500` | Maximum number of new prints resolved per run; larger backlogs are spread across runs |
+| `EXCLUDED_SET_CODES` | `{"plst", "unk", "ounk", "punk", "atrk", "atrc"}` | Set codes whose cards never count as "new" (The List, Un-Sets, Art Series) |
+
+The optional environment variable `EXCLUDED_SETS` replaces the excluded set list
+entirely (comma separated, e.g. `EXCLUDED_SETS=plst,unk`) without editing the
+code.
 
 The optional environment variable `FEED_URL` sets the absolute RSS self URL.
 GitHub Actions derives it from the Pages deployment URL, including custom
@@ -159,8 +184,11 @@ python -m unittest discover -s tests -v
 
 Tests use temporary directories and mocked API responses. They do not change
 the tracked feed or call Scryfall. Coverage includes retries of unresolved IDs,
-bootstrap, backlogs, filtering, GUIDs, HTML escaping, discovery timestamps,
-migration, unchanged runs, write failures, pagination and collection batching.
+bootstrap, backlogs, filtering, pre-hydration filtering and deduplication,
+configurable excluded sets, GUIDs, HTML escaping, discovery timestamps,
+multi-faced rendering, enclosure types, trimmed image URLs, compact state files,
+rate limiting, migration, unchanged runs, write failures, failing collection
+batches, pagination and collection batching.
 
 For a local browser preview (including the build-time request):
 
@@ -182,7 +210,7 @@ Open `http://127.0.0.1:8000/` or `http://127.0.0.1:8000/index.html`.
 ├── data/
 │   ├── known_cards.json        # Known (oracle_id, set) combinations (duplicate protection)
 │   ├── known_print_ids.json    # Baseline of all Scryfall print IDs (last manifest state)
-│   └── feed_items.json         # Most recently rendered feed entries (base for the next build)
+│   └── feed_items.json         # Most recent feed entries with trimmed image URLs
 ├── docs/                       # GitHub Pages root
 │   ├── feed.xml                # Generated RSS feed
 │   └── index.html              # Info page
