@@ -132,11 +132,13 @@ fail, the step emits a warning instead of failing the run, so the publication re
 stays unchanged — such a notification is lost (best effort). When publishing itself
 fails, two messages are sent: the card summary and the failure alert.
 
-`upload-pages-artifact` is pinned to `v4`. Run #1242 failed with `Found 0 artifact(s)`
-when using `v5` (which bundles `upload-artifact@v7`), but run #1236 produced the same
-error with the classic `v4` chain, so the cause is a sporadic artifact metadata
-failure rather than the storage backend. The manual `pages-probe.yml` workflow
-reproduces the upload and deploy with the `v5` chain to settle the question.
+`upload-pages-artifact` runs on `v5`, which bundles `upload-artifact@v7` and therefore
+Node 24. Run #1242 failed with `Found 0 artifact(s)` when that chain was first used,
+but run #1236 produced the identical error with the classic `v4` chain, so the cause
+is a sporadic artifact metadata failure rather than the storage backend. The manual
+`pages-probe.yml` workflow reproduces the upload and deploy path; a successful probe
+run confirmed that `v5` works, and the deploy retry above covers a repeat of the
+sporadic failure.
 
 ### 4. Determine the feed URL
 

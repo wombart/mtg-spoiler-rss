@@ -117,12 +117,13 @@ das Veröffentlichungsergebnis bleibt also unverändert, die Nachricht ist dann
 verloren (best effort). Scheitert das Publishing selbst, kommen zwei Nachrichten:
 die Karten-Zusammenfassung und der Fehleralarm.
 
-`upload-pages-artifact` ist auf `v4` festgelegt. Lauf #1242 scheiterte mit
-`Found 0 artifact(s)` unter `v5` (enthält `upload-artifact@v7`), aber Lauf #1236
-zeigte denselben Fehler mit der klassischen `v4`-Kette — die Ursache ist also ein
-sporadischer Fehler der Artefakt-Metadaten und nicht das Speicher-Backend. Der
-manuelle Workflow `pages-probe.yml` wiederholt Upload und Deploy mit der
-`v5`-Kette, um die Frage zu klären.
+`upload-pages-artifact` läuft auf `v5`, das `upload-artifact@v7` und damit Node 24
+enthält. Lauf #1242 scheiterte mit `Found 0 artifact(s)` beim ersten Einsatz dieser
+Kette, aber Lauf #1236 zeigte denselben Fehler mit der klassischen `v4`-Kette — die
+Ursache ist also ein sporadischer Fehler der Artefakt-Metadaten und nicht das
+Speicher-Backend. Der manuelle Workflow `pages-probe.yml` wiederholt Upload und
+Deploy; ein erfolgreicher Probe-Lauf hat `v5` bestätigt, und der Deploy-Retry oben
+fängt ein erneutes Auftreten des sporadischen Fehlers ab.
 
 ### 4. Feed URL ermitteln
 

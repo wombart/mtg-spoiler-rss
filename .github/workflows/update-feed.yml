@@ -81,11 +81,11 @@ jobs:
 
       - name: Upload Pages artifact
         if: steps.generate.outputs.feed_changed == 'true' || github.event_name != 'schedule' || inputs.force_commit
-        # Pinned to v4: run #1242 with v5 (upload-artifact v7) ended in "Found 0 artifact(s)",
-        # but the same error also hit run #1236 with the classic upload-artifact v4, so the
-        # cause is a sporadic artifact metadata failure rather than the storage backend.
-        # Documented in the README; revisit when the probe run confirms otherwise.
-        uses: actions/upload-pages-artifact@v4
+        # v5 bundles upload-artifact@v7 (Node 24). Run #1242 failed with "Found 0 artifact(s)",
+        # but the pages-probe workflow reproduced the same upload/deploy path successfully, and
+        # run #1236 hit the identical error with the classic v4 chain, so the failure was a
+        # sporadic artifact metadata issue rather than the storage backend.
+        uses: actions/upload-pages-artifact@v5
         with:
           path: docs/
 
