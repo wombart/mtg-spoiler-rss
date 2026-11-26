@@ -14,6 +14,7 @@ from the manifest itself, so they never cost a /cards/collection request.
 """
 
 import argparse
+import gzip
 import json
 import os
 import sys
@@ -62,6 +63,7 @@ def fetch_json(url: str, *, method: str = "GET", body: dict | None = None, max_r
     headers = {
         "User-Agent": "mtg-spoiler-rss/1.0 (github-actions)",
         "Accept": "application/json",
+        "Accept-Encoding": "gzip",
     }
     if body is not None:
         data = json.dumps(body).encode("utf-8")
@@ -73,7 +75,10 @@ def fetch_json(url: str, *, method: str = "GET", body: dict | None = None, max_r
         req = urllib.request.Request(url, data=data, headers=headers, method=method)
         try:
             with urllib.request.urlopen(req, timeout=30) as resp:
-                return json.loads(resp.read().decode("utf-8"))
+                payload = resp.read()
+                if resp.headers.get("Content-Encoding") == "gzip":
+                    payload = gzip.decompress(payload)
+                return json.loads(payload.decode("utf-8"))
         except urllib.error.HTTPError as e:
             if e.code == 429:
                 if attempt >= max_retries:
@@ -104,11 +109,23 @@ def fetch_json(url: str, *, method: str = "GET", body: dict | None = None, max_r
             raise
 
 
-def load_known_cards() -> dict:
-    if DATA_FILE.exists():
-        with open(DATA_FILE, "r", encoding="utf-8") as f:
+def _load_json_file(path: Path, default):
+    """Load a JSON state file, returning *default* if it does not exist yet.
+
+    Raises with a clear message (instead of a bare traceback) when the file
+    exists but is not valid JSON, e.g. after a manual edit or merge conflict.
+    """
+    if not path.exists():
+        return default
+    try:
+        with open(path, "r", encoding="utf-8") as f:
             return json.load(f)
-    return {}
+    except json.JSONDecodeError as error:
+        raise SystemExit(f"Fatal: state file {path} is not valid JSON: {error}") from error
+
+
+def load_known_cards() -> dict:
+    return _load_json_file(DATA_FILE, {})
 
 
 def write_text_if_changed(path: Path, content: str) -> bool:
@@ -133,10 +150,10 @@ def save_known_cards(known: dict) -> bool:
 
 def load_known_print_ids() -> set[str] | None:
     """Returns None if no baseline exists yet (i.e. this is the first run)."""
-    if not KNOWN_PRINT_IDS_FILE.exists():
+    ids = _load_json_file(KNOWN_PRINT_IDS_FILE, None)
+    if ids is None:
         return None
-    with open(KNOWN_PRINT_IDS_FILE, "r", encoding="utf-8") as f:
-        return set(json.load(f))
+    return set(ids)
 
 
 def save_known_print_ids(ids: set[str]) -> bool:
@@ -144,10 +161,7 @@ def save_known_print_ids(ids: set[str]) -> bool:
 
 
 def load_feed_items() -> list[dict]:
-    if FEED_ITEMS_FILE.exists():
-        with open(FEED_ITEMS_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return []
+    return _load_json_file(FEED_ITEMS_FILE, [])
 
 
 def save_feed_items(items: list[dict]) -> bool:

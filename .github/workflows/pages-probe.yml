@@ -1,12 +1,9 @@
 name: Pages artifact probe
 
-# Diagnostic workflow: verifies whether the Pages deploy works with the v5 upload chain
-# (upload-artifact v7) as well as with the pinned v4 chain. Run #1242 failed with
-# "Found 0 artifact(s)" using v5, but run #1236 produced the same error with the classic
-# v4 chain, so the cause may be a sporadic artifact metadata failure instead.
-#
-# Uses the same artifact name and concurrency group as the feed workflow, uploads the
-# already published docs/ directory unchanged and never commits anything.
+# Diagnostic workflow: repeats the upload+deploy path in isolation to check for the
+# sporadic "Found 0 artifact(s)" artifact metadata failure. It uses the same artifact
+# name and concurrency group as the feed workflow, uploads the already published docs/
+# directory unchanged and never commits anything.
 
 on:
   workflow_dispatch:
@@ -26,7 +23,7 @@ jobs:
     timeout-minutes: 10
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url }}
 
     steps:
       - name: Checkout repository
@@ -43,4 +40,12 @@ jobs:
 
       - name: Deploy to GitHub Pages
         id: deployment
+        # continue-on-error so a failed first attempt does not mask a successful retry;
+        # the sporadic artifact metadata failure would otherwise make the probe flaky.
+        continue-on-error: true
+        uses: actions/deploy-pages@v5
+
+      - name: Retry Deploy to GitHub Pages
+        if: steps.deployment.outcome == 'failure'
+        id: deployment_retry
         uses: actions/deploy-pages@v5

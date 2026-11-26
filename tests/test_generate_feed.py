@@ -1,4 +1,5 @@
 import contextlib
+import gzip
 import io
 import os
 import tempfile
@@ -324,6 +325,13 @@ class FeedTests(unittest.TestCase):
                 feed.fetch_json("https://example.invalid", max_retries=1)
         sleep.assert_not_called()
 
+    def test_corrupt_state_file_fails_with_clear_message(self):
+        (self.root / "known_cards.json").write_text("{not valid json", encoding="utf-8")
+        with self.assertRaises(SystemExit) as caught:
+            feed.load_known_cards()
+        self.assertIn("known_cards.json", str(caught.exception))
+        self.assertIn("not valid JSON", str(caught.exception))
+
     def test_atomic_write_failure_preserves_previous_file(self):
         target = self.root / "state.json"
         feed.write_text_if_changed(target, "old")
@@ -347,6 +355,14 @@ class FeedTests(unittest.TestCase):
                         patch.object(feed.time, "sleep") as sleep, contextlib.redirect_stderr(io.StringIO()):
                     self.assertEqual(feed.fetch_json("https://example.invalid"), {"ok": True})
                 sleep.assert_called_once()
+
+    def test_fetch_json_decompresses_gzip_responses(self):
+        payload = gzip.compress(b'{"ok": true}')
+        response = MagicMock()
+        response.__enter__.return_value.read.return_value = payload
+        response.__enter__.return_value.headers = {"Content-Encoding": "gzip"}
+        with patch.object(feed.urllib.request, "urlopen", return_value=response):
+            self.assertEqual(feed.fetch_json("https://example.invalid"), {"ok": True})
 
     def test_client_errors_are_not_retried(self):
         with patch.object(feed.urllib.request, "urlopen", side_effect=http_error(400)), \
@@ -555,6 +571,15 @@ class WorkflowTests(unittest.TestCase):
         self.assertNotIn("continue-on-error", retry)
         text = self.workflow_text()
         self.assertIn("steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url", text)
+
+    def test_probe_workflow_mirrors_the_deploy_retry(self):
+        probe = (REPO_ROOT / ".github" / "workflows" / "pages-probe.yml").read_text(encoding="utf-8")
+        self.assertIn("id: deployment\n", probe)
+        self.assertIn("continue-on-error: true", probe)
+        self.assertIn("Retry Deploy to GitHub Pages", probe)
+        self.assertIn("if: steps.deployment.outcome == 'failure'", probe)
+        self.assertIn("steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url", probe)
+        self.assertNotIn("pinned v4 chain", probe)
 
 
 if __name__ == "__main__":
