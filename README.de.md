@@ -117,13 +117,19 @@ das Veröffentlichungsergebnis bleibt also unverändert, die Nachricht ist dann
 verloren (best effort). Scheitert das Publishing selbst, kommen zwei Nachrichten:
 die Karten-Zusammenfassung und der Fehleralarm.
 
-`upload-pages-artifact` läuft auf `v5`, das `upload-artifact@v7` und damit Node 24
-enthält. Lauf #1242 scheiterte mit `Found 0 artifact(s)` beim ersten Einsatz dieser
-Kette, aber Lauf #1236 zeigte denselben Fehler mit der klassischen `v4`-Kette — die
-Ursache ist also ein sporadischer Fehler der Artefakt-Metadaten und nicht das
-Speicher-Backend. Der manuelle Workflow `pages-probe.yml` wiederholt Upload und
-Deploy; ein erfolgreicher Probe-Lauf hat `v5` bestätigt, und der Deploy-Retry oben
-fängt ein erneutes Auftreten des sporadischen Fehlers ab.
+`upload-pages-artifact` ist auf `v4` festgelegt, die klassische `upload-artifact@v4`-Kette.
+`v5` enthält `upload-artifact@v7`, das in den Actions-Blob-Storage hochlädt, während
+`deploy-pages` Artefakte weiterhin über die klassische Metadaten-API auflöst. Mit `v5`
+scheiterten drei von vier Läufen an `Found 0 artifact(s)`, mit `v4` nur einer von etwa zehn
+— das neue Backend ist für den Deploy-Schritt schlicht nicht schnell genug sichtbar. Die
+verbleibende Node-20-Meldung ist kosmetisch, da der Runner ohnehin Node 24 erzwingt.
+
+Da die Metadaten-Abfrage weiterhin nachhinken kann, wird das Deployment bis zu dreimal
+versucht, mit 10 s und dann 20 s Pause vor den Wiederholungen. Ein sofortiger Retry
+scheitert typischerweise genauso (Läufe #1247 und #1249), während die Pause den Metadaten
+Zeit gibt. Die ersten beiden Versuche sind `continue-on-error`, damit ein später
+erfolgreicher Versuch den Lauf grün lässt; nur der letzte Versuch kann den Job scheitern
+lassen.
 
 ### 4. Feed URL ermitteln
 

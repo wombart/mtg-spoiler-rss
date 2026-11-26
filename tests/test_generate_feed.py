@@ -560,25 +560,63 @@ class WorkflowTests(unittest.TestCase):
         self.assertIn("sleep 10", run_block)
         self.assertIn("::warning::", run_block)
 
-    def test_deploy_is_retried_once(self):
+    def test_deploy_is_retried_with_pauses(self):
         blocks = self.step_blocks()
-        self.assertIn("uses: actions/deploy-pages@v5", blocks["Deploy to GitHub Pages"])
-        self.assertIn("continue-on-error: true", blocks["Deploy to GitHub Pages"])
-        self.assertIn("id: deployment\n", blocks["Deploy to GitHub Pages"])
+        deploy = blocks["Deploy to GitHub Pages"]
+        self.assertIn("uses: actions/deploy-pages@v5", deploy)
+        self.assertIn("continue-on-error: true", deploy)
+        self.assertIn("id: deployment\n", deploy)
+
+        wait = blocks["Wait before deploy retry"]
+        self.assertIn("if: steps.deployment.outcome == 'failure'", wait)
+        self.assertIn("sleep 10", wait)
+
         retry = blocks["Retry Deploy to GitHub Pages"]
         self.assertIn("uses: actions/deploy-pages@v5", retry)
         self.assertIn("if: steps.deployment.outcome == 'failure'", retry)
-        self.assertNotIn("continue-on-error", retry)
+        self.assertIn("continue-on-error: true", retry)
+        self.assertIn("id: deployment_retry_1\n", retry)
+
+        wait2 = blocks["Wait before final deploy retry"]
+        self.assertIn("if: steps.deployment_retry_1.outcome == 'failure'", wait2)
+        self.assertIn("sleep 20", wait2)
+
+        final = blocks["Final Retry Deploy to GitHub Pages"]
+        self.assertIn("uses: actions/deploy-pages@v5", final)
+        self.assertIn("if: steps.deployment_retry_1.outcome == 'failure'", final)
+        self.assertNotIn("continue-on-error", final)
+
         text = self.workflow_text()
-        self.assertIn("steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url", text)
+        self.assertIn(
+            "steps.deployment.outputs.page_url || steps.deployment_retry_1.outputs.page_url "
+            "|| steps.deployment_retry_2.outputs.page_url",
+            text,
+        )
+
+    def test_upload_pages_artifact_uses_the_classic_storage_chain(self):
+        # upload-artifact v7 (via upload-pages-artifact v5) made "Found 0 artifact(s)" far more
+        # frequent, so the workflow is pinned to the v4 chain.
+        text = self.workflow_text()
+        self.assertIn("uses: actions/upload-pages-artifact@v4", text)
+        self.assertNotIn("uses: actions/upload-pages-artifact@v5", text)
 
     def test_probe_workflow_mirrors_the_deploy_retry(self):
         probe = (REPO_ROOT / ".github" / "workflows" / "pages-probe.yml").read_text(encoding="utf-8")
+        self.assertIn("uses: actions/upload-pages-artifact@v4", probe)
+        self.assertIn("uses: actions/deploy-pages@v5", probe)
         self.assertIn("id: deployment\n", probe)
         self.assertIn("continue-on-error: true", probe)
-        self.assertIn("Retry Deploy to GitHub Pages", probe)
-        self.assertIn("if: steps.deployment.outcome == 'failure'", probe)
-        self.assertIn("steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url", probe)
+        self.assertIn("Wait before deploy retry", probe)
+        self.assertIn("sleep 10", probe)
+        self.assertIn("Wait before final deploy retry", probe)
+        self.assertIn("sleep 20", probe)
+        self.assertIn("Final Retry Deploy to GitHub Pages", probe)
+        self.assertIn("if: steps.deployment_retry_1.outcome == 'failure'", probe)
+        self.assertIn(
+            "steps.deployment.outputs.page_url || steps.deployment_retry_1.outputs.page_url "
+            "|| steps.deployment_retry_2.outputs.page_url",
+            probe,
+        )
         self.assertNotIn("pinned v4 chain", probe)
 
 

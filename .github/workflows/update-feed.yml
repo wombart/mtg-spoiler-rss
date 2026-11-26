@@ -29,7 +29,7 @@ jobs:
     timeout-minutes: 15
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment_retry_1.outputs.page_url || steps.deployment_retry_2.outputs.page_url }}
 
     steps:
       - name: Checkout repository
@@ -81,26 +81,42 @@ jobs:
 
       - name: Upload Pages artifact
         if: steps.generate.outputs.feed_changed == 'true' || github.event_name != 'schedule' || inputs.force_commit
-        # v5 bundles upload-artifact@v7 (Node 24). Run #1242 failed with "Found 0 artifact(s)",
-        # but the pages-probe workflow reproduced the same upload/deploy path successfully, and
-        # run #1236 hit the identical error with the classic v4 chain, so the failure was a
-        # sporadic artifact metadata issue rather than the storage backend.
-        uses: actions/upload-pages-artifact@v5
+        # Pinned to v4 (upload-artifact@v4). v5 bundles upload-artifact@v7, whose blob-storage
+        # uploads are not immediately visible to the classic artifact metadata API that
+        # deploy-pages uses: with v5 three of four runs hit "Found 0 artifact(s)", with v4 only
+        # one of about ten. The remaining Node 20 notice is cosmetic - the runner already forces
+        # Node 24. Revisit when deploy-pages can read the new storage backend.
+        uses: actions/upload-pages-artifact@v4
         with:
           path: docs/
 
       - name: Deploy to GitHub Pages
         if: steps.generate.outputs.feed_changed == 'true' || github.event_name != 'schedule' || inputs.force_commit
         id: deployment
-        # continue-on-error so a failed first attempt does not mark the run as failed when the
-        # retry below succeeds; a genuinely broken deployment still fails through the retry step.
+        # continue-on-error so a failed attempt does not mark the run as failed while a later
+        # attempt still succeeds; a genuinely broken deployment fails in the final attempt.
         continue-on-error: true
         uses: actions/deploy-pages@v5
 
-      - name: Retry Deploy to GitHub Pages
-        # The artifact metadata lookup fails sporadically ("Found 0 artifact(s)"), so give it one more try.
+      - name: Wait before deploy retry
+        # The artifact metadata lookup needs a moment to become consistent; an immediate retry
+        # tends to fail again (#1247, #1249), a pause makes the retry reliable.
         if: steps.deployment.outcome == 'failure'
-        id: deployment_retry
+        run: sleep 10
+
+      - name: Retry Deploy to GitHub Pages
+        if: steps.deployment.outcome == 'failure'
+        id: deployment_retry_1
+        continue-on-error: true
+        uses: actions/deploy-pages@v5
+
+      - name: Wait before final deploy retry
+        if: steps.deployment_retry_1.outcome == 'failure'
+        run: sleep 20
+
+      - name: Final Retry Deploy to GitHub Pages
+        if: steps.deployment_retry_1.outcome == 'failure'
+        id: deployment_retry_2
         uses: actions/deploy-pages@v5
 
       - name: Send Pushover notification when feed changed

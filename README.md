@@ -132,13 +132,18 @@ fail, the step emits a warning instead of failing the run, so the publication re
 stays unchanged — such a notification is lost (best effort). When publishing itself
 fails, two messages are sent: the card summary and the failure alert.
 
-`upload-pages-artifact` runs on `v5`, which bundles `upload-artifact@v7` and therefore
-Node 24. Run #1242 failed with `Found 0 artifact(s)` when that chain was first used,
-but run #1236 produced the identical error with the classic `v4` chain, so the cause
-is a sporadic artifact metadata failure rather than the storage backend. The manual
-`pages-probe.yml` workflow reproduces the upload and deploy path; a successful probe
-run confirmed that `v5` works, and the deploy retry above covers a repeat of the
-sporadic failure.
+`upload-pages-artifact` is pinned to `v4`, the classic `upload-artifact@v4` chain. `v5`
+bundles `upload-artifact@v7`, which uploads to Actions blob storage while `deploy-pages`
+still resolves artifacts through the classic metadata API. With `v5` three of four runs
+failed with `Found 0 artifact(s)`, with `v4` only one of about ten — the new backend is
+simply not visible to the deploy step quickly enough. The remaining Node 20 notice is
+cosmetic, since the runner already forces Node 24.
+
+Because the metadata lookup can still lag behind, the deployment is attempted up to three
+times with a 10 s and then a 20 s pause before the retries. An immediate retry tends to
+fail the same way (runs #1247 and #1249), while a pause gives the metadata time to become
+consistent. The first two attempts are `continue-on-error`, so a successful later attempt
+keeps the run green; only the final attempt can fail the job.
 
 ### 4. Determine the feed URL
 
