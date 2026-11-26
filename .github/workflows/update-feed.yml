@@ -29,7 +29,7 @@ jobs:
     timeout-minutes: 15
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url }}
 
     steps:
       - name: Checkout repository
@@ -81,8 +81,10 @@ jobs:
 
       - name: Upload Pages artifact
         if: steps.generate.outputs.feed_changed == 'true' || github.event_name != 'schedule' || inputs.force_commit
-        # v5 pulls in upload-artifact@v7, which uploads to Actions blob storage; deploy-pages@v5
-        # still lists artifacts through the classic API and finds none. Keep v4 (upload-artifact@v4).
+        # Pinned to v4: run #1242 with v5 (upload-artifact v7) ended in "Found 0 artifact(s)",
+        # but the same error also hit run #1236 with the classic upload-artifact v4, so the
+        # cause is a sporadic artifact metadata failure rather than the storage backend.
+        # Documented in the README; revisit when the probe run confirms otherwise.
         uses: actions/upload-pages-artifact@v4
         with:
           path: docs/
@@ -90,10 +92,23 @@ jobs:
       - name: Deploy to GitHub Pages
         if: steps.generate.outputs.feed_changed == 'true' || github.event_name != 'schedule' || inputs.force_commit
         id: deployment
+        # continue-on-error so a failed first attempt does not mark the run as failed when the
+        # retry below succeeds; a genuinely broken deployment still fails through the retry step.
+        continue-on-error: true
+        uses: actions/deploy-pages@v5
+
+      - name: Retry Deploy to GitHub Pages
+        # The artifact metadata lookup fails sporadically ("Found 0 artifact(s)"), so give it one more try.
+        if: steps.deployment.outcome == 'failure'
+        id: deployment_retry
         uses: actions/deploy-pages@v5
 
       - name: Send Pushover notification when feed changed
-        if: steps.generate.outputs.feed_changed == 'true' && success()
+        # !cancelled() instead of success(): the new cards are already committed, so a failing
+        # upload or deploy must not swallow their announcement. continue-on-error keeps the
+        # notification from affecting the publishing result.
+        if: steps.generate.outputs.feed_changed == 'true' && !cancelled()
+        continue-on-error: true
         env:
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
           PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
@@ -105,17 +120,30 @@ jobs:
             echo "Pushover secrets are not configured; skipping notification."
             exit 0
           fi
-          curl --fail --silent --show-error \
-            --form-string "token=$PUSHOVER_TOKEN" \
-            --form-string "user=$PUSHOVER_USER" \
-            --form-string "title=$PUSHOVER_TITLE" \
-            --form-string "message=$PUSHOVER_MESSAGE" \
-            --form-string "url=$FEED_LINK" \
-            --form-string "url_title=Open RSS Feed" \
-            https://api.pushover.net/1/messages.json
+          sent=""
+          for attempt in 1 2 3; do
+            if curl --fail --silent --show-error \
+                --form-string "token=$PUSHOVER_TOKEN" \
+                --form-string "user=$PUSHOVER_USER" \
+                --form-string "title=$PUSHOVER_TITLE" \
+                --form-string "message=$PUSHOVER_MESSAGE" \
+                --form-string "url=$FEED_LINK" \
+                --form-string "url_title=Open RSS Feed" \
+                https://api.pushover.net/1/messages.json; then
+              sent="yes"
+              break
+            fi
+            echo "Pushover delivery attempt $attempt failed." >&2
+            sleep 10
+          done
+          if [ -z "$sent" ]; then
+            echo "::warning::Pushover notification could not be delivered; the feed itself was updated."
+            exit 1
+          fi
 
       - name: Send Pushover notification on failure
         if: failure()
+        continue-on-error: true
         env:
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
           PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}

@@ -503,6 +503,13 @@ class WorkflowTests(unittest.TestCase):
     def workflow_text(self) -> str:
         return (REPO_ROOT / ".github" / "workflows" / "update-feed.yml").read_text(encoding="utf-8")
 
+    def step_blocks(self) -> dict[str, str]:
+        """Step name to its raw YAML block, split on the list item markers."""
+        blocks = {}
+        for piece in self.workflow_text().split("\n      - name: ")[1:]:
+            blocks[piece.split("\n", 1)[0].strip()] = piece
+        return blocks
+
     def test_step_conditions_avoid_the_secrets_context(self):
         text = self.workflow_text()
         conditions = [line.strip() for line in text.splitlines() if line.strip().startswith("if:")]
@@ -513,12 +520,41 @@ class WorkflowTests(unittest.TestCase):
         self.assertIn('[ -z "$PUSHOVER_USER" ]', text)
 
     def test_notification_step_uses_env_indirection(self):
-        blocks = self.workflow_text().split("\n      - name: ")
-        notification = next(block for block in blocks if block.startswith("Send Pushover notification when feed changed"))
+        notification = self.step_blocks()["Send Pushover notification when feed changed"]
         run_block = notification.split("run: |", 1)[1]
         self.assertNotIn("${{", run_block)
         self.assertIn('--form-string "message=$PUSHOVER_MESSAGE"', run_block)
         self.assertIn("PUSHOVER_MESSAGE: ${{ steps.generate.outputs.notification_message }}", notification)
+
+    def test_notification_is_not_gated_on_success(self):
+        notification = self.step_blocks()["Send Pushover notification when feed changed"]
+        condition = next(line.strip() for line in notification.splitlines() if line.strip().startswith("if:"))
+        self.assertNotIn("success()", condition)
+        self.assertIn("!cancelled()", condition)
+        self.assertIn("feed_changed == 'true'", condition)
+
+    def test_notification_cannot_change_the_run_result(self):
+        blocks = self.step_blocks()
+        for name in ("Send Pushover notification when feed changed", "Send Pushover notification on failure"):
+            self.assertIn("continue-on-error: true", blocks[name], name)
+
+    def test_notification_retries_delivery(self):
+        run_block = self.step_blocks()["Send Pushover notification when feed changed"].split("run: |", 1)[1]
+        self.assertIn("for attempt in 1 2 3;", run_block)
+        self.assertIn("sleep 10", run_block)
+        self.assertIn("::warning::", run_block)
+
+    def test_deploy_is_retried_once(self):
+        blocks = self.step_blocks()
+        self.assertIn("uses: actions/deploy-pages@v5", blocks["Deploy to GitHub Pages"])
+        self.assertIn("continue-on-error: true", blocks["Deploy to GitHub Pages"])
+        self.assertIn("id: deployment\n", blocks["Deploy to GitHub Pages"])
+        retry = blocks["Retry Deploy to GitHub Pages"]
+        self.assertIn("uses: actions/deploy-pages@v5", retry)
+        self.assertIn("if: steps.deployment.outcome == 'failure'", retry)
+        self.assertNotIn("continue-on-error", retry)
+        text = self.workflow_text()
+        self.assertIn("steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url", text)
 
 
 if __name__ == "__main__":

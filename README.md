@@ -116,12 +116,27 @@ runs deploy only when the feed changes. The optional Boolean `force_commit`
 requests the commit/push step even when the generator reports no changes; an
 empty commit is not created. Regression tests run before each generation. The
 job times out after 15 minutes, and the push is attempted up to three times, each
-attempt preceded by a rebase, so a concurrent run does not lose its work. Pushover
-notifications are skipped unless `PUSHOVER_USER` and `PUSHOVER_TOKEN` are both
-configured. The success notification names the total number of new cards and how
+attempt preceded by a rebase, so a concurrent run does not lose its work. The Pages
+deployment is retried once, because the artifact metadata lookup fails sporadically.
+
+Pushover notifications are skipped unless `PUSHOVER_USER` and `PUSHOVER_TOKEN` are
+both configured. The success notification names the total number of new cards and how
 they split across sets: the five largest sets are listed, the rest is summarised as
 `+N more sets (X cards)`. The text is built by the generator and kept within
 Pushover's 1024 character message limit.
+
+The notification is sent after the deployment and is gated on `!cancelled()` rather
+than `success()`, so a failed upload or deploy cannot swallow the announcement of
+cards that are already committed. Delivery is attempted three times; if all attempts
+fail, the step emits a warning instead of failing the run, so the publication result
+stays unchanged — such a notification is lost (best effort). When publishing itself
+fails, two messages are sent: the card summary and the failure alert.
+
+`upload-pages-artifact` is pinned to `v4`. Run #1242 failed with `Found 0 artifact(s)`
+when using `v5` (which bundles `upload-artifact@v7`), but run #1236 produced the same
+error with the classic `v4` chain, so the cause is a sporadic artifact metadata
+failure rather than the storage backend. The manual `pages-probe.yml` workflow
+reproduces the upload and deploy with the `v5` chain to settle the question.
 
 ### 4. Determine the feed URL
 
@@ -209,7 +224,8 @@ Open `http://127.0.0.1:8000/` or `http://127.0.0.1:8000/index.html`.
 .
 ├── .github/
 │   └── workflows/
-│       └── update-feed.yml     # GitHub Actions workflow
+│       ├── update-feed.yml     # GitHub Actions workflow
+│       └── pages-probe.yml     # Manual Pages upload/deploy probe (diagnostic)
 ├── data/
 │   ├── known_cards.json        # Known (oracle_id, set) combinations (duplicate protection)
 │   ├── known_print_ids.json    # Baseline of all Scryfall print IDs (last manifest state)

@@ -99,12 +99,30 @@ geplante Läufe deployen nur bei geändertem Feed. Der optionale Boolean
 `force_commit` fordert den Commit/Push-Schritt auch ohne gemeldete Änderungen an;
 ein leerer Commit wird nicht erstellt. Regressionstests laufen vor jeder Erzeugung.
 Der Job bricht nach 15 Minuten ab und versucht den Push bis zu dreimal, jeweils
-nach einem Rebase, damit ein paralleler Lauf seine Arbeit nicht verliert. Pushover-
-Benachrichtigungen werden nur gesendet, wenn `PUSHOVER_USER` und `PUSHOVER_TOKEN`
-gesetzt sind. Die Erfolgsmeldung nennt die Gesamtzahl neuer Karten und ihre
-Verteilung auf die Editionen: die fünf größten Editionen werden einzeln genannt,
-der Rest als `+N more sets (X cards)` zusammengefasst. Der Text wird vom Generator
-gebaut und bleibt innerhalb von Pushovers Limit von 1024 Zeichen.
+nach einem Rebase, damit ein paralleler Lauf seine Arbeit nicht verliert. Das
+Pages-Deployment wird einmal wiederholt, weil die Artefakt-Metadaten-Abfrage
+sporadisch fehlschlägt.
+
+Pushover-Benachrichtigungen werden nur gesendet, wenn `PUSHOVER_USER` und
+`PUSHOVER_TOKEN` gesetzt sind. Die Erfolgsmeldung nennt die Gesamtzahl neuer Karten
+und ihre Verteilung auf die Editionen: die fünf größten Editionen werden einzeln
+genannt, der Rest als `+N more sets (X cards)` zusammengefasst. Der Text wird vom
+Generator gebaut und bleibt innerhalb von Pushovers Limit von 1024 Zeichen.
+
+Gesendet wird nach dem Deployment, und die Bedingung lautet `!cancelled()` statt
+`success()`: ein fehlgeschlagener Upload oder Deploy darf die Meldung über bereits
+committete Karten nicht verschlucken. Der Versand wird dreimal versucht; scheitern
+alle Versuche, erzeugt der Step eine Warnung statt den Lauf fehlschlagen zu lassen —
+das Veröffentlichungsergebnis bleibt also unverändert, die Nachricht ist dann
+verloren (best effort). Scheitert das Publishing selbst, kommen zwei Nachrichten:
+die Karten-Zusammenfassung und der Fehleralarm.
+
+`upload-pages-artifact` ist auf `v4` festgelegt. Lauf #1242 scheiterte mit
+`Found 0 artifact(s)` unter `v5` (enthält `upload-artifact@v7`), aber Lauf #1236
+zeigte denselben Fehler mit der klassischen `v4`-Kette — die Ursache ist also ein
+sporadischer Fehler der Artefakt-Metadaten und nicht das Speicher-Backend. Der
+manuelle Workflow `pages-probe.yml` wiederholt Upload und Deploy mit der
+`v5`-Kette, um die Frage zu klären.
 
 ### 4. Feed URL ermitteln
 
@@ -194,7 +212,8 @@ Aufruf über `http://127.0.0.1:8000/` oder `http://127.0.0.1:8000/index.html`.
 .
 ├── .github/
 │   └── workflows/
-│       └── update-feed.yml     # GitHub Actions Workflow
+│       ├── update-feed.yml     # GitHub Actions Workflow
+│       └── pages-probe.yml     # Manueller Pages-Upload/Deploy-Test (Diagnose)
 ├── data/
 │   ├── known_cards.json        # Bekannte (oracle_id, set) Kombinationen (Duplikat-Schutz)
 │   ├── known_print_ids.json    # Baseline aller Scryfall Print-IDs (letzter Manifest-Stand)

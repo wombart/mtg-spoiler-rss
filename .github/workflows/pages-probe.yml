@@ -1,0 +1,46 @@
+name: Pages artifact probe
+
+# Diagnostic workflow: verifies whether the Pages deploy works with the v5 upload chain
+# (upload-artifact v7) as well as with the pinned v4 chain. Run #1242 failed with
+# "Found 0 artifact(s)" using v5, but run #1236 produced the same error with the classic
+# v4 chain, so the cause may be a sporadic artifact metadata failure instead.
+#
+# Uses the same artifact name and concurrency group as the feed workflow, uploads the
+# already published docs/ directory unchanged and never commits anything.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v6
+
+      - name: Upload Pages artifact (v5 chain)
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: docs/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
